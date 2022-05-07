@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202205071026
+! Version: 202205072251
 ! Title: oisd basic
-! Last modified: 7 May 2022 10:26 UTC
+! Last modified: 7 May 2022 22:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                 
@@ -26651,6 +26651,7 @@
 ||test-awem-com.s3-website-us-east-1.amazonaws.com^
 ||test-script.dotmetrics.net^
 ||test.coremetrics.com^
+||test.oisd.nl^
 ||test1productions.com^
 ||testamentfendsounding.com^
 ||testamentstrand.com^
