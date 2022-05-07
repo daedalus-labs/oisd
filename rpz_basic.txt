@@ -1,12 +1,12 @@
-; Version: 202205072251
+; Version: 202205072258
 ; Title: oisd basic
-; Last modified: 7 May 2022 22:51 UTC
+; Last modified: 7 May 2022 22:58 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1651963631 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1651964043 86400 3600 604800 30
  NS localhost.
 
 000.gaysexe.free.fr CNAME .
@@ -53299,8 +53299,6 @@ test-script.dotmetrics.net CNAME .
 *.test-script.dotmetrics.net CNAME .
 test.coremetrics.com CNAME .
 *.test.coremetrics.com CNAME .
-test.oisd.nl CNAME .
-*.test.oisd.nl CNAME .
 test1productions.com CNAME .
 *.test1productions.com CNAME .
 testamentfendsounding.com CNAME .

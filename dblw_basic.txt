@@ -1,6 +1,6 @@
-# Version: 202205072251
+# Version: 202205072258
 # Title: oisd basic
-# Last modified: 7 May 2022 22:51 UTC
+# Last modified: 7 May 2022 22:58 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                     
@@ -26653,7 +26653,6 @@
 *.test-awem-com.s3-website-us-east-1.amazonaws.com
 *.test-script.dotmetrics.net
 *.test.coremetrics.com
-*.test.oisd.nl
 *.test1productions.com
 *.testamentfendsounding.com
 *.testamentstrand.com
