@@ -1,6 +1,6 @@
-# Version: 202205080914
+# Version: 202205081645
 # Title: oisd basic
-# Last modified: 8 May 2022 09:14 UTC
+# Last modified: 8 May 2022 16:45 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                 
@@ -13313,7 +13313,6 @@ dressedincidentchildbirth.com
 dressuresl.top
 dreyeli.info
 drf8e429z5jzt.cloudfront.net
-drfdisvc.walmart.com
 driddleurease.com
 drious.com
 drippeddossers.casa

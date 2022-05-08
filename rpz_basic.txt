@@ -1,12 +1,12 @@
-; Version: 202205080914
+; Version: 202205081645
 ; Title: oisd basic
-; Last modified: 8 May 2022 09:14 UTC
+; Last modified: 8 May 2022 16:45 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652000223 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652028330 86400 3600 604800 30
  NS localhost.
 
 000.gaysexe.free.fr CNAME .
@@ -21709,8 +21709,6 @@ dreyeli.info CNAME .
 *.dreyeli.info CNAME .
 drf8e429z5jzt.cloudfront.net CNAME .
 *.drf8e429z5jzt.cloudfront.net CNAME .
-drfdisvc.walmart.com CNAME .
-*.drfdisvc.walmart.com CNAME .
 driddleurease.com CNAME .
 *.driddleurease.com CNAME .
 drious.com CNAME .

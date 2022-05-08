@@ -1,6 +1,6 @@
-# Version: 202205080914
+# Version: 202205081645
 # Title: oisd basic
-# Last modified: 8 May 2022 09:14 UTC
+# Last modified: 8 May 2022 16:45 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                 
@@ -10855,7 +10855,6 @@ address=/dressedincidentchildbirth.com/#
 address=/dressuresl.top/#
 address=/dreyeli.info/#
 address=/drf8e429z5jzt.cloudfront.net/#
-address=/drfdisvc.walmart.com/#
 address=/driddleurease.com/#
 address=/drious.com/#
 address=/drippeddossers.casa/#
