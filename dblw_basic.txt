@@ -1,6 +1,6 @@
-# Version: 202205072258
+# Version: 202205080914
 # Title: oisd basic
-# Last modified: 7 May 2022 22:58 UTC
+# Last modified: 8 May 2022 09:14 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                     
@@ -3587,6 +3587,7 @@
 *.aedqunriyswthc.com
 *.aeesy.com
 *.aehistory.112.2o7.net
+*.aehjtauekqjtvc.com
 *.aelick.com
 *.aellod.com
 *.aelphotog.pro
@@ -6603,6 +6604,7 @@
 *.blueadvertise.com
 *.bluecava.com
 *.bluedawning.com
+*.bluedcrwth.com
 *.bluehparking.com
 *.bluejayfacette.com
 *.bluejaysilene.com
@@ -8015,6 +8017,7 @@
 *.choupsee.com
 *.chpfgx.com
 *.chpok.pw
+*.chrif8kdstie.com
 *.chrigm.com
 *.christingera.site
 *.christmasaxehandyman.com
@@ -12010,6 +12013,7 @@
 *.eyeblaster.akadns.net
 *.eyebrowscrambledlater.com
 *.eyefuneve.com
+*.eyelidfallage.com
 *.eyeota.net
 *.eyere.com
 *.eyereturn.com
@@ -16113,6 +16117,7 @@
 *.kevypeta.com
 *.kewhexethe.com
 *.kewholypti.com
+*.kewhulawi.com
 *.keydawnawe.com
 *.keyguard.nimiq.com
 *.keyrunmodel.com
@@ -18704,6 +18709,7 @@
 *.mountries.xyz
 *.mousecatzilla.com
 *.mouseflow.com
+*.mouseryearlike.com
 *.mousheen.net
 *.mov-c.appli-info.com
 *.movad.de
@@ -19303,7 +19309,6 @@
 *.newreven.com
 *.news-back.org
 *.news-central.me
-*.news-easy.org
 *.news-headlines.co
 *.news-jupiter.com
 *.news-mars.com
@@ -19904,6 +19909,7 @@
 *.oebadu.com
 *.oegdmfjoqyyt.com
 *.oei1.gq
+*.oensil.com
 *.oetn.xyz
 *.ofdittor.com
 *.ofeetles.pro
@@ -22349,6 +22355,7 @@
 *.pvipgaj.com
 *.pvjscfhlt.com
 *.pvptwhhkfmog.com
+*.pwdxedmuutaok.com
 *.pweaatek.com
 *.pwmctl.com
 *.pwp.netcabo.pt
@@ -25200,6 +25207,7 @@
 *.someperceptionparade.com
 *.somethingglamourbeams.com
 *.somethingprecursorfairfax.com
+*.sometimesfaith.com
 *.somewhate.club
 *.son-in-lawmorbid.com
 *.sonar-iad.xx.fbcdn.net
@@ -25343,6 +25351,7 @@
 *.spiralstab.com
 *.spire.aarki.net
 *.spiritedirreparablemiscarriage.com
+*.spirliesalse.com
 *.spirub.com
 *.spittsprevi.club
 *.spitzerpfunde.com
@@ -25475,6 +25484,7 @@
 *.srcsmrtgs.com
 *.srcu.com
 *.srepdata.usatoday.com
+*.srfhtrjzvf.com
 *.srgev.com
 *.srigbxxv.com
 *.srmdata-us.com
@@ -29443,6 +29453,7 @@
 *.whechypheshu.com
 *.wheeptit.net
 *.wheeshoo.net
+*.wheeshtdooring.com
 *.wheglulyto.pro
 *.whegrads.com
 *.whehilru.com

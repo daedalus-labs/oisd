@@ -1,6 +1,6 @@
-# Version: 202205072258
+# Version: 202205080914
 # Title: oisd basic
-# Last modified: 7 May 2022 22:58 UTC
+# Last modified: 8 May 2022 09:14 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                   
@@ -4242,6 +4242,7 @@
 0.0.0.0 aedqunriyswthc.com
 0.0.0.0 aeesy.com
 0.0.0.0 aehistory.112.2o7.net
+0.0.0.0 aehjtauekqjtvc.com
 0.0.0.0 aelick.com
 0.0.0.0 aellod.com
 0.0.0.0 aelphotog.pro
@@ -7885,6 +7886,7 @@
 0.0.0.0 blueadvertise.com
 0.0.0.0 bluecava.com
 0.0.0.0 bluedawning.com
+0.0.0.0 bluedcrwth.com
 0.0.0.0 bluehparking.com
 0.0.0.0 bluejayfacette.com
 0.0.0.0 bluejaysilene.com
@@ -9817,6 +9819,7 @@
 0.0.0.0 choupsee.com
 0.0.0.0 chpfgx.com
 0.0.0.0 chpok.pw
+0.0.0.0 chrif8kdstie.com
 0.0.0.0 chrigm.com
 0.0.0.0 christingera.site
 0.0.0.0 christmasaxehandyman.com
@@ -14719,6 +14722,7 @@
 0.0.0.0 eyeblaster.akadns.net
 0.0.0.0 eyebrowscrambledlater.com
 0.0.0.0 eyefuneve.com
+0.0.0.0 eyelidfallage.com
 0.0.0.0 eyeota.net
 0.0.0.0 eyere.com
 0.0.0.0 eyereact.eyereturn.com
@@ -19705,6 +19709,7 @@
 0.0.0.0 kevypeta.com
 0.0.0.0 kewhexethe.com
 0.0.0.0 kewholypti.com
+0.0.0.0 kewhulawi.com
 0.0.0.0 keydawnawe.com
 0.0.0.0 keyguard.nimiq.com
 0.0.0.0 keymaker.go.sonobi.com
@@ -22725,6 +22730,7 @@
 0.0.0.0 mountries.xyz
 0.0.0.0 mousecatzilla.com
 0.0.0.0 mouseflow.com
+0.0.0.0 mouseryearlike.com
 0.0.0.0 mousheen.net
 0.0.0.0 mov-c.appli-info.com
 0.0.0.0 movad.de
@@ -23455,7 +23461,6 @@
 0.0.0.0 newreven.com
 0.0.0.0 news-back.org
 0.0.0.0 news-central.me
-0.0.0.0 news-easy.org
 0.0.0.0 news-headlines.co
 0.0.0.0 news-jupiter.com
 0.0.0.0 news-mars.com
@@ -24148,6 +24153,7 @@
 0.0.0.0 oebadu.com
 0.0.0.0 oegdmfjoqyyt.com
 0.0.0.0 oei1.gq
+0.0.0.0 oensil.com
 0.0.0.0 oetn.xyz
 0.0.0.0 of.inviziads.com
 0.0.0.0 ofdittor.com
@@ -27149,6 +27155,7 @@
 0.0.0.0 pvipgaj.com
 0.0.0.0 pvjscfhlt.com
 0.0.0.0 pvptwhhkfmog.com
+0.0.0.0 pwdxedmuutaok.com
 0.0.0.0 pweaatek.com
 0.0.0.0 pwinsider.us.intellitxt.com
 0.0.0.0 pwmctl.com
@@ -30715,6 +30722,7 @@
 0.0.0.0 someperceptionparade.com
 0.0.0.0 somethingglamourbeams.com
 0.0.0.0 somethingprecursorfairfax.com
+0.0.0.0 sometimesfaith.com
 0.0.0.0 somewhate.club
 0.0.0.0 son-in-lawmorbid.com
 0.0.0.0 sonar-iad.xx.fbcdn.net
@@ -30877,6 +30885,7 @@
 0.0.0.0 spiralstab.com
 0.0.0.0 spire.aarki.net
 0.0.0.0 spiritedirreparablemiscarriage.com
+0.0.0.0 spirliesalse.com
 0.0.0.0 spirub.com
 0.0.0.0 spittsprevi.club
 0.0.0.0 spitzerpfunde.com
@@ -31021,6 +31030,7 @@
 0.0.0.0 srcsmrtgs.com
 0.0.0.0 srcu.com
 0.0.0.0 srepdata.usatoday.com
+0.0.0.0 srfhtrjzvf.com
 0.0.0.0 srgev.com
 0.0.0.0 srigbxxv.com
 0.0.0.0 srmdata-us.com
@@ -36076,6 +36086,7 @@
 0.0.0.0 whechypheshu.com
 0.0.0.0 wheeptit.net
 0.0.0.0 wheeshoo.net
+0.0.0.0 wheeshtdooring.com
 0.0.0.0 wheglulyto.pro
 0.0.0.0 whegrads.com
 0.0.0.0 whehilru.com

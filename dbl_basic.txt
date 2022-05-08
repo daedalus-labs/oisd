@@ -1,6 +1,6 @@
-# Version: 202205072258
+# Version: 202205080914
 # Title: oisd basic
-# Last modified: 7 May 2022 22:58 UTC
+# Last modified: 8 May 2022 09:14 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                 
@@ -4242,6 +4242,7 @@ aeckcjy.com
 aedqunriyswthc.com
 aeesy.com
 aehistory.112.2o7.net
+aehjtauekqjtvc.com
 aelick.com
 aellod.com
 aelphotog.pro
@@ -7885,6 +7886,7 @@ blue.sexer.com
 blueadvertise.com
 bluecava.com
 bluedawning.com
+bluedcrwth.com
 bluehparking.com
 bluejayfacette.com
 bluejaysilene.com
@@ -9817,6 +9819,7 @@ chottsapocha.com
 choupsee.com
 chpfgx.com
 chpok.pw
+chrif8kdstie.com
 chrigm.com
 christingera.site
 christmasaxehandyman.com
@@ -14719,6 +14722,7 @@ exwotics6heomrthaoi4r.com
 eyeblaster.akadns.net
 eyebrowscrambledlater.com
 eyefuneve.com
+eyelidfallage.com
 eyeota.net
 eyere.com
 eyereact.eyereturn.com
@@ -19705,6 +19709,7 @@ kevabila.com
 kevypeta.com
 kewhexethe.com
 kewholypti.com
+kewhulawi.com
 keydawnawe.com
 keyguard.nimiq.com
 keymaker.go.sonobi.com
@@ -22725,6 +22730,7 @@ moundgrandmotherel.com
 mountries.xyz
 mousecatzilla.com
 mouseflow.com
+mouseryearlike.com
 mousheen.net
 mov-c.appli-info.com
 movad.de
@@ -23455,7 +23461,6 @@ newpush.support
 newreven.com
 news-back.org
 news-central.me
-news-easy.org
 news-headlines.co
 news-jupiter.com
 news-mars.com
@@ -24148,6 +24153,7 @@ odysseus-nua.com
 oebadu.com
 oegdmfjoqyyt.com
 oei1.gq
+oensil.com
 oetn.xyz
 of.inviziads.com
 ofdittor.com
@@ -27149,6 +27155,7 @@ pvclouds.com
 pvipgaj.com
 pvjscfhlt.com
 pvptwhhkfmog.com
+pwdxedmuutaok.com
 pweaatek.com
 pwinsider.us.intellitxt.com
 pwmctl.com
@@ -30715,6 +30722,7 @@ somemembersgesture.com
 someperceptionparade.com
 somethingglamourbeams.com
 somethingprecursorfairfax.com
+sometimesfaith.com
 somewhate.club
 son-in-lawmorbid.com
 sonar-iad.xx.fbcdn.net
@@ -30877,6 +30885,7 @@ spinbox.versiontracker.com
 spiralstab.com
 spire.aarki.net
 spiritedirreparablemiscarriage.com
+spirliesalse.com
 spirub.com
 spittsprevi.club
 spitzerpfunde.com
@@ -31021,6 +31030,7 @@ srcips.com
 srcsmrtgs.com
 srcu.com
 srepdata.usatoday.com
+srfhtrjzvf.com
 srgev.com
 srigbxxv.com
 srmdata-us.com
@@ -36076,6 +36086,7 @@ whdzxabhqsdnlc.com
 whechypheshu.com
 wheeptit.net
 wheeshoo.net
+wheeshtdooring.com
 wheglulyto.pro
 whegrads.com
 whehilru.com

@@ -1,12 +1,12 @@
-; Version: 202205072258
+; Version: 202205080914
 ; Title: oisd basic
-; Last modified: 7 May 2022 22:58 UTC
+; Last modified: 8 May 2022 09:14 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1651964043 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652000223 86400 3600 604800 30
  NS localhost.
 
 000.gaysexe.free.fr CNAME .
@@ -7167,6 +7167,8 @@ aeesy.com CNAME .
 *.aeesy.com CNAME .
 aehistory.112.2o7.net CNAME .
 *.aehistory.112.2o7.net CNAME .
+aehjtauekqjtvc.com CNAME .
+*.aehjtauekqjtvc.com CNAME .
 aelick.com CNAME .
 *.aelick.com CNAME .
 aellod.com CNAME .
@@ -13199,6 +13201,8 @@ bluecava.com CNAME .
 *.bluecava.com CNAME .
 bluedawning.com CNAME .
 *.bluedawning.com CNAME .
+bluedcrwth.com CNAME .
+*.bluedcrwth.com CNAME .
 bluehparking.com CNAME .
 *.bluehparking.com CNAME .
 bluejayfacette.com CNAME .
@@ -16023,6 +16027,8 @@ chpfgx.com CNAME .
 *.chpfgx.com CNAME .
 chpok.pw CNAME .
 *.chpok.pw CNAME .
+chrif8kdstie.com CNAME .
+*.chrif8kdstie.com CNAME .
 chrigm.com CNAME .
 *.chrigm.com CNAME .
 christingera.site CNAME .
@@ -24013,6 +24019,8 @@ eyebrowscrambledlater.com CNAME .
 *.eyebrowscrambledlater.com CNAME .
 eyefuneve.com CNAME .
 *.eyefuneve.com CNAME .
+eyelidfallage.com CNAME .
+*.eyelidfallage.com CNAME .
 eyeota.net CNAME .
 *.eyeota.net CNAME .
 eyere.com CNAME .
@@ -32219,6 +32227,8 @@ kewhexethe.com CNAME .
 *.kewhexethe.com CNAME .
 kewholypti.com CNAME .
 *.kewholypti.com CNAME .
+kewhulawi.com CNAME .
+*.kewhulawi.com CNAME .
 keydawnawe.com CNAME .
 *.keydawnawe.com CNAME .
 keyguard.nimiq.com CNAME .
@@ -37401,6 +37411,8 @@ mousecatzilla.com CNAME .
 *.mousecatzilla.com CNAME .
 mouseflow.com CNAME .
 *.mouseflow.com CNAME .
+mouseryearlike.com CNAME .
+*.mouseryearlike.com CNAME .
 mousheen.net CNAME .
 *.mousheen.net CNAME .
 mov-c.appli-info.com CNAME .
@@ -38599,8 +38611,6 @@ news-back.org CNAME .
 *.news-back.org CNAME .
 news-central.me CNAME .
 *.news-central.me CNAME .
-news-easy.org CNAME .
-*.news-easy.org CNAME .
 news-headlines.co CNAME .
 *.news-headlines.co CNAME .
 news-jupiter.com CNAME .
@@ -39801,6 +39811,8 @@ oegdmfjoqyyt.com CNAME .
 *.oegdmfjoqyyt.com CNAME .
 oei1.gq CNAME .
 *.oei1.gq CNAME .
+oensil.com CNAME .
+*.oensil.com CNAME .
 oetn.xyz CNAME .
 *.oetn.xyz CNAME .
 ofdittor.com CNAME .
@@ -44691,6 +44703,8 @@ pvjscfhlt.com CNAME .
 *.pvjscfhlt.com CNAME .
 pvptwhhkfmog.com CNAME .
 *.pvptwhhkfmog.com CNAME .
+pwdxedmuutaok.com CNAME .
+*.pwdxedmuutaok.com CNAME .
 pweaatek.com CNAME .
 *.pweaatek.com CNAME .
 pwmctl.com CNAME .
@@ -50393,6 +50407,8 @@ somethingglamourbeams.com CNAME .
 *.somethingglamourbeams.com CNAME .
 somethingprecursorfairfax.com CNAME .
 *.somethingprecursorfairfax.com CNAME .
+sometimesfaith.com CNAME .
+*.sometimesfaith.com CNAME .
 somewhate.club CNAME .
 *.somewhate.club CNAME .
 son-in-lawmorbid.com CNAME .
@@ -50679,6 +50695,8 @@ spire.aarki.net CNAME .
 *.spire.aarki.net CNAME .
 spiritedirreparablemiscarriage.com CNAME .
 *.spiritedirreparablemiscarriage.com CNAME .
+spirliesalse.com CNAME .
+*.spirliesalse.com CNAME .
 spirub.com CNAME .
 *.spirub.com CNAME .
 spittsprevi.club CNAME .
@@ -50943,6 +50961,8 @@ srcu.com CNAME .
 *.srcu.com CNAME .
 srepdata.usatoday.com CNAME .
 *.srepdata.usatoday.com CNAME .
+srfhtrjzvf.com CNAME .
+*.srfhtrjzvf.com CNAME .
 srgev.com CNAME .
 *.srgev.com CNAME .
 srigbxxv.com CNAME .
@@ -58879,6 +58899,8 @@ wheeptit.net CNAME .
 *.wheeptit.net CNAME .
 wheeshoo.net CNAME .
 *.wheeshoo.net CNAME .
+wheeshtdooring.com CNAME .
+*.wheeshtdooring.com CNAME .
 wheglulyto.pro CNAME .
 *.wheglulyto.pro CNAME .
 whegrads.com CNAME .
