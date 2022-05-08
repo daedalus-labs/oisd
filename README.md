@@ -1,5 +1,3 @@
-Report false positive: https://oisd.nl/report
+[ <a href="https://oisd.nl/report">Report false positive</a> ]
 
-More info: https://oisd.nl/
-
-<a href="https://oisd.nl/">oisd.nl</a>
+More info @ <a href="https://oisd.nl/">oisd.nl</a>
