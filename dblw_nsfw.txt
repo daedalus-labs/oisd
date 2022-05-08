@@ -1,6 +1,6 @@
-# Version: 202205072259
+# Version: 202205081807
 # Title: oisd nsfw
-# Last modified: 7 May 2022 22:59 UTC
+# Last modified: 8 May 2022 18:07 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                      
@@ -158198,6 +158198,7 @@
 *.temptationpanda.com
 *.temptationsdirect.co.uk
 *.temptationsexshop.cl
+*.temptest.oisd.nl
 *.temptingangels.org
 *.temucosexshop.cl
 *.temujehesexequ.rest
