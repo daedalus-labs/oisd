@@ -1,6 +1,6 @@
-# Version: 202205011034
+# Version: 202205081909
 # Title: oisd extra
-# Last modified: 1 May 2022 10:34 UTC
+# Last modified: 8 May 2022 19:09 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                   
@@ -8,9 +8,9 @@
 0.0.0.0 0emm.com
 0.0.0.0 0emn.com
 0.0.0.0 0fmm.com
+0.0.0.0 247-inc.net
 0.0.0.0 2cnt.net
 0.0.0.0 2o7.net
-0.0.0.0 247-inc.net
 0.0.0.0 a.klaviyo.com
 0.0.0.0 a.wishabi.com
 0.0.0.0 aan.amazon.com
@@ -48,6 +48,7 @@
 0.0.0.0 akstat.io
 0.0.0.0 alb.reddit.com
 0.0.0.0 alimama.com
+0.0.0.0 alitems.site
 0.0.0.0 alpari.ru
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 amdc.m.taobao.com
@@ -353,7 +354,6 @@
 0.0.0.0 moneroocean.stream
 0.0.0.0 moneyplatform.biz
 0.0.0.0 monitis.com
-0.0.0.0 monitor.azure.com
 0.0.0.0 mopinion.com
 0.0.0.0 movable-ink-397.com
 0.0.0.0 mparticle.com
@@ -369,6 +369,7 @@
 0.0.0.0 netcore.co.in
 0.0.0.0 netcoresmartech.com
 0.0.0.0 netupdater.info
+0.0.0.0 news-easy.org
 0.0.0.0 nicesearches.com
 0.0.0.0 nil.naver.com
 0.0.0.0 njih.net
@@ -485,6 +486,7 @@
 0.0.0.0 sessioncam.com
 0.0.0.0 siamzone.com
 0.0.0.0 siftscience.com
+0.0.0.0 simpliftsbefore.info
 0.0.0.0 siteplug.com
 0.0.0.0 sitetracker.com
 0.0.0.0 smartclip.net
@@ -528,6 +530,7 @@
 0.0.0.0 technical-service.net
 0.0.0.0 technoratimedia.com
 0.0.0.0 telemetry.soundcloud.com
+0.0.0.0 temptest.oisd.nl
 0.0.0.0 thebestoffersintheweb.com
 0.0.0.0 thebrighttag.com
 0.0.0.0 thewebanswers.com
@@ -591,13 +594,10 @@
 0.0.0.0 www.0emm.com
 0.0.0.0 www.0fmm.com
 0.0.0.0 www.2o7.net
+0.0.0.0 www.43711cffd26816e.com
+0.0.0.0 www.56fff.net
 0.0.0.0 www.5edeb195868e2195.com
 0.0.0.0 www.6esfc37938pur4.com
-0.0.0.0 www.9uys.co
-0.0.0.0 www.56fff.net
-0.0.0.0 www.258pcf.com
-0.0.0.0 www.36900pf.com
-0.0.0.0 www.43711cffd26816e.com
 0.0.0.0 www.810251.com
 0.0.0.0 www.ad-tool.com
 0.0.0.0 www.adcade.com
@@ -620,7 +620,6 @@
 0.0.0.0 www.adtrackers.net
 0.0.0.0 www.adtraction.com
 0.0.0.0 www.advertising.com
-0.0.0.0 www.advsmedia.com
 0.0.0.0 www.adzerk.net
 0.0.0.0 www.affex.org
 0.0.0.0 www.affiliatefuture.com
@@ -634,14 +633,12 @@
 0.0.0.0 www.apmebf.com
 0.0.0.0 www.aporasal.net
 0.0.0.0 www.appcast.io
-0.0.0.0 www.arkinhechershedt.info
 0.0.0.0 www.asadcdn.com
 0.0.0.0 www.assoc-amazon.ca
 0.0.0.0 www.assoc-amazon.com
 0.0.0.0 www.assoc-amazon.de
 0.0.0.0 www.assoc-amazon.fr
 0.0.0.0 www.assoc-amazon.jp
-0.0.0.0 www.asto-exo.com
 0.0.0.0 www.at-o.net
 0.0.0.0 www.attirerpage.com
 0.0.0.0 www.attracta.com
@@ -670,7 +667,6 @@
 0.0.0.0 www.bn5x.net
 0.0.0.0 www.bnbir.xyz
 0.0.0.0 www.branchr.com
-0.0.0.0 www.breeffnet.com
 0.0.0.0 www.bridgetrack.com
 0.0.0.0 www.brightedge.com
 0.0.0.0 www.bro3.biz
@@ -682,14 +678,12 @@
 0.0.0.0 www.cab-too-low.com
 0.0.0.0 www.campaignmonitor.com
 0.0.0.0 www.campxanh.info
-0.0.0.0 www.camtinolc.com
 0.0.0.0 www.cbba8228b1.com
 0.0.0.0 www.cdn-net.com
 0.0.0.0 www.cea9d3d4f74fb831.com
 0.0.0.0 www.cedexis.com
 0.0.0.0 www.chanelventure.club
 0.0.0.0 www.chordeez.net
-0.0.0.0 www.chukalapopi.com
 0.0.0.0 www.cjezgbjbltos.com
 0.0.0.0 www.cleverpush.com
 0.0.0.0 www.clickcease.com
@@ -729,16 +723,11 @@
 0.0.0.0 www.edrone.me
 0.0.0.0 www.eebcbdca7331314.com
 0.0.0.0 www.eeoylmkd.com
-0.0.0.0 www.egolina.com
 0.0.0.0 www.elastx.net
-0.0.0.0 www.elijahlio.com
 0.0.0.0 www.ensighten.com
-0.0.0.0 www.eropayper.com
 0.0.0.0 www.errtmotmw.pw
-0.0.0.0 www.esdesignewebnet.info
 0.0.0.0 www.etahub.com
 0.0.0.0 www.eulerian.net
-0.0.0.0 www.europerty.pro
 0.0.0.0 www.everesttech.net
 0.0.0.0 www.evergage.com
 0.0.0.0 www.exactag.com
@@ -754,7 +743,6 @@
 0.0.0.0 www.ff-member-gazeza.com
 0.0.0.0 www.ff-memnber-garena.com
 0.0.0.0 www.fireflyengagement.com
-0.0.0.0 www.fogbigcourt.com
 0.0.0.0 www.foreseeresults.com
 0.0.0.0 www.forestbrowser.com
 0.0.0.0 www.fortedrow.pro
@@ -763,7 +751,6 @@
 0.0.0.0 www.friendbuy.com
 0.0.0.0 www.fullstory.com
 0.0.0.0 www.funcionapage.com
-0.0.0.0 www.fungetbag.info
 0.0.0.0 www.gainclick.biz
 0.0.0.0 www.gemius.pl
 0.0.0.0 www.geoip-db.com
@@ -818,14 +805,11 @@
 0.0.0.0 www.isnssdk.com
 0.0.0.0 www.ist-track.com
 0.0.0.0 www.jdoqocy.com
-0.0.0.0 www.jeanclementcom.us
 0.0.0.0 www.jeeng.com
 0.0.0.0 www.jivox.com
 0.0.0.0 www.johays.co
-0.0.0.0 www.jorjodika.com
 0.0.0.0 www.jwvwak1a.com
 0.0.0.0 www.kampyle.com
-0.0.0.0 www.kenvam.online
 0.0.0.0 www.kira5.ru
 0.0.0.0 www.kissmetrics.com
 0.0.0.0 www.kpmmthnpqoc.xyz
@@ -837,13 +821,11 @@
 0.0.0.0 www.leanplum.com
 0.0.0.0 www.lfdydk.com
 0.0.0.0 www.lgsmartad.com
-0.0.0.0 www.lgsvywogylblv.com
 0.0.0.0 www.liftoff.io
 0.0.0.0 www.linkev.com
 0.0.0.0 www.linkwi.se
 0.0.0.0 www.lioil.club
 0.0.0.0 www.livetex.ru
-0.0.0.0 www.llladiez.org
 0.0.0.0 www.logentries.com
 0.0.0.0 www.loginhood.io
 0.0.0.0 www.logrocket.com
@@ -853,7 +835,6 @@
 0.0.0.0 www.luckyorange.com
 0.0.0.0 www.luckysearch123.com
 0.0.0.0 www.m2pub.com
-0.0.0.0 www.m3haw43xxuiai.win
 0.0.0.0 www.mabaya.com
 0.0.0.0 www.madcash.biz
 0.0.0.0 www.mairdumont.com
@@ -871,13 +852,11 @@
 0.0.0.0 www.mlstat.com
 0.0.0.0 www.mmtro.com
 0.0.0.0 www.mobisway.info
-0.0.0.0 www.mobred.net
 0.0.0.0 www.moengage.com
 0.0.0.0 www.moneroocean.stream
 0.0.0.0 www.moneyplatform.biz
 0.0.0.0 www.monitis.com
 0.0.0.0 www.mopinion.com
-0.0.0.0 www.mortcollect.com
 0.0.0.0 www.movable-ink-397.com
 0.0.0.0 www.mparticle.com
 0.0.0.0 www.multirek.ru
@@ -885,7 +864,6 @@
 0.0.0.0 www.mustang-browser.com
 0.0.0.0 www.mxpnl.com
 0.0.0.0 www.myvisualiq.net
-0.0.0.0 www.nameketathar.pro
 0.0.0.0 www.nanovisor.io
 0.0.0.0 www.naytev.com
 0.0.0.0 www.ndlobvsnyfk.xyz
@@ -902,13 +880,10 @@
 0.0.0.0 www.npush.site
 0.0.0.0 www.nr-data.net
 0.0.0.0 www.nxstx.top
-0.0.0.0 www.odbabo.info
 0.0.0.0 www.okkkk.com
 0.0.0.0 www.okt.to
-0.0.0.0 www.olxt.top
 0.0.0.0 www.omarsys.com
 0.0.0.0 www.onenetworkdirect.net
-0.0.0.0 www.onewastansepa.pro
 0.0.0.0 www.online-adnetwork.com
 0.0.0.0 www.ooxxsearch.com
 0.0.0.0 www.optinmonster.com
@@ -930,14 +905,12 @@
 0.0.0.0 www.polobook.club
 0.0.0.0 www.postclickmarketing.com
 0.0.0.0 www.ppcprotect.com
-0.0.0.0 www.presidery.info
 0.0.0.0 www.publicidees.com
 0.0.0.0 www.pubmatic.com
 0.0.0.0 www.purplegrasscolour.xyz
 0.0.0.0 www.pushwoosh.com
 0.0.0.0 www.pxf.io
 0.0.0.0 www.pzoifaum.info
-0.0.0.0 www.q-sht-zidjk.co
 0.0.0.0 www.qaykb.com
 0.0.0.0 www.qksrv.net
 0.0.0.0 www.quantserve.com
@@ -949,7 +922,6 @@
 0.0.0.0 www.recruitics.com
 0.0.0.0 www.refersion.com
 0.0.0.0 www.refpaumckl.top
-0.0.0.0 www.relapayssia.xyz
 0.0.0.0 www.relevant-digital.com
 0.0.0.0 www.returnpath.net
 0.0.0.0 www.revcontent.com
@@ -971,7 +943,6 @@
 0.0.0.0 www.servebbs.net
 0.0.0.0 www.serving-sys.com
 0.0.0.0 www.sessioncam.com
-0.0.0.0 www.sheenami.net
 0.0.0.0 www.shengyaxd.com
 0.0.0.0 www.shitiphu.com
 0.0.0.0 www.shiyaokejishanghai.com
@@ -986,7 +957,6 @@
 0.0.0.0 www.soperatory.xyz
 0.0.0.0 www.sphjtw.ru
 0.0.0.0 www.sphorical.site
-0.0.0.0 www.spidtest.org
 0.0.0.0 www.startpageing123.com
 0.0.0.0 www.stat24.com
 0.0.0.0 www.statcounter.com
@@ -1007,7 +977,6 @@
 0.0.0.0 www.thewebanswers.com
 0.0.0.0 www.thewebgemnetwork.com
 0.0.0.0 www.tidaltv.com
-0.0.0.0 www.tikodala.com
 0.0.0.0 www.tisagama.com
 0.0.0.0 www.tisarama.com
 0.0.0.0 www.todhamilton.pro
@@ -1038,8 +1007,6 @@
 0.0.0.0 www.vilynx.com
 0.0.0.0 www.virtl.xyz
 0.0.0.0 www.voodoo.com
-0.0.0.0 www.vupyjyyu.xyz
-0.0.0.0 www.vurobyde.xyz
 0.0.0.0 www.walasearch.com
 0.0.0.0 www.wantmimic.com
 0.0.0.0 www.waptraff.mobi
@@ -1057,7 +1024,6 @@
 0.0.0.0 www.wt-eu02.net
 0.0.0.0 www.wurfl.io
 0.0.0.0 www.wywy.com
-0.0.0.0 www.wz7a23kicq.online
 0.0.0.0 www.xawsnngjljanxof.su
 0.0.0.0 www.xmqju.xyz
 0.0.0.0 www.xn--xhq9mt12cf5v.shop
@@ -1065,7 +1031,6 @@
 0.0.0.0 www.xtxa.net
 0.0.0.0 www.xxe2.com
 0.0.0.0 www.xxf65z4o6a.club
-0.0.0.0 www.yesmaris.com
 0.0.0.0 www.yessearches.com
 0.0.0.0 www.yeswegays.com
 0.0.0.0 www.youndoo.com
@@ -1073,7 +1038,6 @@
 0.0.0.0 www.zaushegi.net
 0.0.0.0 www.zedinfo.info
 0.0.0.0 www.zenaps.com
-0.0.0.0 www.zepozipo.com
 0.0.0.0 www.zmnkduay.com
 0.0.0.0 www.zndaowjdnf.stream
 0.0.0.0 www.zudrurta.com

@@ -1,6 +1,6 @@
-# Version: 202205011034
+# Version: 202205081909
 # Title: oisd extra
-# Last modified: 1 May 2022 10:34 UTC
+# Last modified: 8 May 2022 19:09 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                 
@@ -8,9 +8,9 @@
 0emm.com
 0emn.com
 0fmm.com
+247-inc.net
 2cnt.net
 2o7.net
-247-inc.net
 a.klaviyo.com
 a.wishabi.com
 aan.amazon.com
@@ -48,6 +48,7 @@ aimatch.com
 akstat.io
 alb.reddit.com
 alimama.com
+alitems.site
 alpari.ru
 amazon-adsystem.com
 amdc.m.taobao.com
@@ -353,7 +354,6 @@ moengage.com
 moneroocean.stream
 moneyplatform.biz
 monitis.com
-monitor.azure.com
 mopinion.com
 movable-ink-397.com
 mparticle.com
@@ -369,6 +369,7 @@ net.kg
 netcore.co.in
 netcoresmartech.com
 netupdater.info
+news-easy.org
 nicesearches.com
 nil.naver.com
 njih.net
@@ -485,6 +486,7 @@ serving-sys.com
 sessioncam.com
 siamzone.com
 siftscience.com
+simpliftsbefore.info
 siteplug.com
 sitetracker.com
 smartclip.net
@@ -528,6 +530,7 @@ td563.com
 technical-service.net
 technoratimedia.com
 telemetry.soundcloud.com
+temptest.oisd.nl
 thebestoffersintheweb.com
 thebrighttag.com
 thewebanswers.com
@@ -591,13 +594,10 @@ wurfl.io
 www.0emm.com
 www.0fmm.com
 www.2o7.net
+www.43711cffd26816e.com
+www.56fff.net
 www.5edeb195868e2195.com
 www.6esfc37938pur4.com
-www.9uys.co
-www.56fff.net
-www.258pcf.com
-www.36900pf.com
-www.43711cffd26816e.com
 www.810251.com
 www.ad-tool.com
 www.adcade.com
@@ -620,7 +620,6 @@ www.adssyscom.com
 www.adtrackers.net
 www.adtraction.com
 www.advertising.com
-www.advsmedia.com
 www.adzerk.net
 www.affex.org
 www.affiliatefuture.com
@@ -634,14 +633,12 @@ www.apexstats.com
 www.apmebf.com
 www.aporasal.net
 www.appcast.io
-www.arkinhechershedt.info
 www.asadcdn.com
 www.assoc-amazon.ca
 www.assoc-amazon.com
 www.assoc-amazon.de
 www.assoc-amazon.fr
 www.assoc-amazon.jp
-www.asto-exo.com
 www.at-o.net
 www.attirerpage.com
 www.attracta.com
@@ -670,7 +667,6 @@ www.bm23.com
 www.bn5x.net
 www.bnbir.xyz
 www.branchr.com
-www.breeffnet.com
 www.bridgetrack.com
 www.brightedge.com
 www.bro3.biz
@@ -682,14 +678,12 @@ www.bunkirling.co
 www.cab-too-low.com
 www.campaignmonitor.com
 www.campxanh.info
-www.camtinolc.com
 www.cbba8228b1.com
 www.cdn-net.com
 www.cea9d3d4f74fb831.com
 www.cedexis.com
 www.chanelventure.club
 www.chordeez.net
-www.chukalapopi.com
 www.cjezgbjbltos.com
 www.cleverpush.com
 www.clickcease.com
@@ -729,16 +723,11 @@ www.ecadikenaz.com
 www.edrone.me
 www.eebcbdca7331314.com
 www.eeoylmkd.com
-www.egolina.com
 www.elastx.net
-www.elijahlio.com
 www.ensighten.com
-www.eropayper.com
 www.errtmotmw.pw
-www.esdesignewebnet.info
 www.etahub.com
 www.eulerian.net
-www.europerty.pro
 www.everesttech.net
 www.evergage.com
 www.exactag.com
@@ -754,7 +743,6 @@ www.featyn.com
 www.ff-member-gazeza.com
 www.ff-memnber-garena.com
 www.fireflyengagement.com
-www.fogbigcourt.com
 www.foreseeresults.com
 www.forestbrowser.com
 www.fortedrow.pro
@@ -763,7 +751,6 @@ www.freegeoip.app
 www.friendbuy.com
 www.fullstory.com
 www.funcionapage.com
-www.fungetbag.info
 www.gainclick.biz
 www.gemius.pl
 www.geoip-db.com
@@ -818,14 +805,11 @@ www.ironbeast.io
 www.isnssdk.com
 www.ist-track.com
 www.jdoqocy.com
-www.jeanclementcom.us
 www.jeeng.com
 www.jivox.com
 www.johays.co
-www.jorjodika.com
 www.jwvwak1a.com
 www.kampyle.com
-www.kenvam.online
 www.kira5.ru
 www.kissmetrics.com
 www.kpmmthnpqoc.xyz
@@ -837,13 +821,11 @@ www.leadpages.net
 www.leanplum.com
 www.lfdydk.com
 www.lgsmartad.com
-www.lgsvywogylblv.com
 www.liftoff.io
 www.linkev.com
 www.linkwi.se
 www.lioil.club
 www.livetex.ru
-www.llladiez.org
 www.logentries.com
 www.loginhood.io
 www.logrocket.com
@@ -853,7 +835,6 @@ www.loqara.info
 www.luckyorange.com
 www.luckysearch123.com
 www.m2pub.com
-www.m3haw43xxuiai.win
 www.mabaya.com
 www.madcash.biz
 www.mairdumont.com
@@ -871,13 +852,11 @@ www.mkt51.net
 www.mlstat.com
 www.mmtro.com
 www.mobisway.info
-www.mobred.net
 www.moengage.com
 www.moneroocean.stream
 www.moneyplatform.biz
 www.monitis.com
 www.mopinion.com
-www.mortcollect.com
 www.movable-ink-397.com
 www.mparticle.com
 www.multirek.ru
@@ -885,7 +864,6 @@ www.multiview.com
 www.mustang-browser.com
 www.mxpnl.com
 www.myvisualiq.net
-www.nameketathar.pro
 www.nanovisor.io
 www.naytev.com
 www.ndlobvsnyfk.xyz
@@ -902,13 +880,10 @@ www.nonstoppartner.net
 www.npush.site
 www.nr-data.net
 www.nxstx.top
-www.odbabo.info
 www.okkkk.com
 www.okt.to
-www.olxt.top
 www.omarsys.com
 www.onenetworkdirect.net
-www.onewastansepa.pro
 www.online-adnetwork.com
 www.ooxxsearch.com
 www.optinmonster.com
@@ -930,14 +905,12 @@ www.pofqm.xyz
 www.polobook.club
 www.postclickmarketing.com
 www.ppcprotect.com
-www.presidery.info
 www.publicidees.com
 www.pubmatic.com
 www.purplegrasscolour.xyz
 www.pushwoosh.com
 www.pxf.io
 www.pzoifaum.info
-www.q-sht-zidjk.co
 www.qaykb.com
 www.qksrv.net
 www.quantserve.com
@@ -949,7 +922,6 @@ www.reborko.com
 www.recruitics.com
 www.refersion.com
 www.refpaumckl.top
-www.relapayssia.xyz
 www.relevant-digital.com
 www.returnpath.net
 www.revcontent.com
@@ -971,7 +943,6 @@ www.sensic.net
 www.servebbs.net
 www.serving-sys.com
 www.sessioncam.com
-www.sheenami.net
 www.shengyaxd.com
 www.shitiphu.com
 www.shiyaokejishanghai.com
@@ -986,7 +957,6 @@ www.smrtbnr.net
 www.soperatory.xyz
 www.sphjtw.ru
 www.sphorical.site
-www.spidtest.org
 www.startpageing123.com
 www.stat24.com
 www.statcounter.com
@@ -1007,7 +977,6 @@ www.thebrighttag.com
 www.thewebanswers.com
 www.thewebgemnetwork.com
 www.tidaltv.com
-www.tikodala.com
 www.tisagama.com
 www.tisarama.com
 www.todhamilton.pro
@@ -1038,8 +1007,6 @@ www.viebitgreasy.email
 www.vilynx.com
 www.virtl.xyz
 www.voodoo.com
-www.vupyjyyu.xyz
-www.vurobyde.xyz
 www.walasearch.com
 www.wantmimic.com
 www.waptraff.mobi
@@ -1057,7 +1024,6 @@ www.wordgetboo.com
 www.wt-eu02.net
 www.wurfl.io
 www.wywy.com
-www.wz7a23kicq.online
 www.xawsnngjljanxof.su
 www.xmqju.xyz
 www.xn--xhq9mt12cf5v.shop
@@ -1065,7 +1031,6 @@ www.xpornoizlee.com
 www.xtxa.net
 www.xxe2.com
 www.xxf65z4o6a.club
-www.yesmaris.com
 www.yessearches.com
 www.yeswegays.com
 www.youndoo.com
@@ -1073,7 +1038,6 @@ www.youvisit.com
 www.zaushegi.net
 www.zedinfo.info
 www.zenaps.com
-www.zepozipo.com
 www.zmnkduay.com
 www.zndaowjdnf.stream
 www.zudrurta.com

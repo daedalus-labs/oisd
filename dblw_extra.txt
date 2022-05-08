@@ -1,6 +1,6 @@
-# Version: 202205011034
+# Version: 202205081909
 # Title: oisd extra
-# Last modified: 1 May 2022 10:34 UTC
+# Last modified: 8 May 2022 19:09 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                     
@@ -11,16 +11,13 @@
 *.0emm.com
 *.0emn.com
 *.0fmm.com
+*.247-inc.net
 *.2cnt.net
 *.2o7.net
+*.43711cffd26816e.com
+*.56fff.net
 *.5edeb195868e2195.com
 *.6esfc37938pur4.com
-*.9uys.co
-*.56fff.net
-*.247-inc.net
-*.258pcf.com
-*.36900pf.com
-*.43711cffd26816e.com
 *.810251.com
 *.a.klaviyo.com
 *.a.wishabi.com
@@ -54,7 +51,6 @@
 *.adtrackers.net
 *.adtraction.com
 *.advertising.com
-*.advsmedia.com
 *.adzerk.net
 *.affex.org
 *.affiliatefuture.com
@@ -64,6 +60,7 @@
 *.akstat.io
 *.alb.reddit.com
 *.alimama.com
+*.alitems.site
 *.alltizer.ru
 *.alpari.ru
 *.amazon-adsystem.com
@@ -91,7 +88,6 @@
 *.appcast.io
 *.applog.uc.cn
 *.appmetrica.yandex.com
-*.arkinhechershedt.info
 *.asadcdn.com
 *.assoc-amazon.ca
 *.assoc-amazon.co.uk
@@ -99,7 +95,6 @@
 *.assoc-amazon.de
 *.assoc-amazon.fr
 *.assoc-amazon.jp
-*.asto-exo.com
 *.at-o.net
 *.attirerpage.com
 *.attracta.com
@@ -133,7 +128,6 @@
 *.bnbir.xyz
 *.bp01.net
 *.branchr.com
-*.breeffnet.com
 *.bridgetrack.com
 *.brightedge.com
 *.bro3.biz
@@ -152,7 +146,6 @@
 *.cab-too-low.com
 *.campaignmonitor.com
 *.campxanh.info
-*.camtinolc.com
 *.cbba8228b1.com
 *.cc-dt.com
 *.cdn-net.com
@@ -160,7 +153,6 @@
 *.cedexis.com
 *.chanelventure.club
 *.chordeez.net
-*.chukalapopi.com
 *.cimage.adobe.com
 *.cintnetworks.com
 *.cjezgbjbltos.com
@@ -235,20 +227,15 @@
 *.edrone.me
 *.eebcbdca7331314.com
 *.eeoylmkd.com
-*.egolina.com
 *.elastx.net
-*.elijahlio.com
 *.ensighten.com
 *.er.search.naver.com
-*.eropayper.com
 *.errtmotmw.pw
-*.esdesignewebnet.info
 *.etahub.com
 *.eu.spgo.io
 *.eulerian.brandalley.fr
 *.eulerian.net
 *.eulerian.officiel-des-vacances.com
-*.europerty.pro
 *.event.impression-neo.naver.com
 *.eventgateway.soundcloud.com
 *.eventgw.twilio.com
@@ -279,7 +266,6 @@
 *.fireflyengagement.com
 *.flexlinkspro.com
 *.flx1.com
-*.fogbigcourt.com
 *.foreseeresults.com
 *.forestbrowser.com
 *.fortedrow.pro
@@ -291,7 +277,6 @@
 *.frontier.musical.ly
 *.fullstory.com
 *.funcionapage.com
-*.fungetbag.info
 *.gainclick.biz
 *.gc.zgo.at
 *.gecko-sg.byteoversea.com
@@ -366,17 +351,14 @@
 *.isnssdk.com
 *.ist-track.com
 *.jdoqocy.com
-*.jeanclementcom.us
 *.jeeng.com
 *.jivox.com
 *.johays.co
-*.jorjodika.com
 *.js-agent.newrelic.com
 *.jwpltx.com
 *.jwvwak1a.com
 *.kampyle.com
 *.kaxsdc.com
-*.kenvam.online
 *.kira5.ru
 *.kissmetrics.com
 *.kpmmthnpqoc.xyz
@@ -390,13 +372,11 @@
 *.leanplum.com
 *.lfdydk.com
 *.lgsmartad.com
-*.lgsvywogylblv.com
 *.liftoff.io
 *.linkev.com
 *.linkwi.se
 *.lioil.club
 *.livetex.ru
-*.llladiez.org
 *.log-tb.sgsnssdk.com
 *.log-upload-os.hoyoverse.com
 *.log-upload-os.mihoyo.com
@@ -413,7 +393,6 @@
 *.luckyorange.com
 *.luckysearch123.com
 *.m2pub.com
-*.m3haw43xxuiai.win
 *.mabaya.com
 *.madcash.biz
 *.magicplayer-api.torrentstream.org
@@ -443,14 +422,11 @@
 *.mmstat.com
 *.mmtro.com
 *.mobisway.info
-*.mobred.net
 *.moengage.com
 *.moneroocean.stream
 *.moneyplatform.biz
 *.monitis.com
-*.monitor.azure.com
 *.mopinion.com
-*.mortcollect.com
 *.movable-ink-397.com
 *.mparticle.com
 *.mplxtms.com
@@ -460,7 +436,6 @@
 *.mustang-browser.com
 *.mxpnl.com
 *.myvisualiq.net
-*.nameketathar.pro
 *.nanovisor.io
 *.naytev.com
 *.ndlobvsnyfk.xyz
@@ -470,6 +445,7 @@
 *.netcoresmartech.com
 *.netupdater.info
 *.newisnews.info
+*.news-easy.org
 *.newtizz.net
 *.nfiuerwtftasnuk.com
 *.nicesearches.com
@@ -481,14 +457,11 @@
 *.nr-data.net
 *.nxstx.top
 *.o2o.api.xiaomi.com
-*.odbabo.info
 *.okkkk.com
 *.okt.to
-*.olxt.top
 *.om.cbsi.com
 *.omarsys.com
 *.onenetworkdirect.net
-*.onewastansepa.pro
 *.online-adnetwork.com
 *.ooxxsearch.com
 *.open.oneplus.net
@@ -528,7 +501,6 @@
 *.postclickmarketing.com
 *.ppcprotect.com
 *.ppro.de
-*.presidery.info
 *.privacy-policy.truste.com
 *.promoted.soundcloud.com
 *.prvsz4pe.micpn.com
@@ -541,7 +513,6 @@
 *.px.spiceworks.com
 *.pxf.io
 *.pzoifaum.info
-*.q-sht-zidjk.co
 *.qaykb.com
 *.qksrv.net
 *.quantserve.com
@@ -565,7 +536,6 @@
 *.refersion.com
 *.refpaumckl.top
 *.register.xmpush.xiaomi.com
-*.relapayssia.xyz
 *.relevant-digital.com
 *.researchnow.co.uk
 *.resolver.msg.xiaomi.net
@@ -608,12 +578,12 @@
 *.services.zam.com
 *.serving-sys.com
 *.sessioncam.com
-*.sheenami.net
 *.shengyaxd.com
 *.shitiphu.com
 *.shiyaokejishanghai.com
 *.siamzone.com
 *.siftscience.com
+*.simpliftsbefore.info
 *.siteplug.com
 *.sitetracker.com
 *.sjgnskf.com
@@ -629,7 +599,6 @@
 *.spade.twitch.tv
 *.sphjtw.ru
 *.sphorical.site
-*.spidtest.org
 *.srvtrck.com
 *.sspapi-prd.samsungrs.com
 *.sstats.adobe.com
@@ -665,12 +634,12 @@
 *.technical-service.net
 *.technoratimedia.com
 *.telemetry.soundcloud.com
+*.temptest.oisd.nl
 *.thebestoffersintheweb.com
 *.thebrighttag.com
 *.thewebanswers.com
 *.thewebgemnetwork.com
 *.tidaltv.com
-*.tikodala.com
 *.tisagama.com
 *.tisarama.com
 *.tm.tradetracker.net
@@ -726,8 +695,6 @@
 *.voodoo.com
 *.vortex.data.microsoft.com
 *.vortex.hulu.com
-*.vupyjyyu.xyz
-*.vurobyde.xyz
 *.w88.espn.com
 *.walasearch.com
 *.wantmimic.com
@@ -750,7 +717,6 @@
 *.wt-eu02.net
 *.wurfl.io
 *.wywy.com
-*.wz7a23kicq.online
 *.wzrkt.com
 *.x3-policy-maker.goguardian.com
 *.x3-predictor.goguardian.com
@@ -763,7 +729,6 @@
 *.xtxa.net
 *.xxe2.com
 *.xxf65z4o6a.club
-*.yesmaris.com
 *.yessearches.com
 *.yeswegays.com
 *.youboranqs01.com
@@ -772,7 +737,6 @@
 *.zaushegi.net
 *.zedinfo.info
 *.zenaps.com
-*.zepozipo.com
 *.zmnkduay.com
 *.zndaowjdnf.stream
 *.zudrurta.com
