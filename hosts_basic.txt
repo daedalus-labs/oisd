@@ -1,6 +1,6 @@
-# Version: 202205081909
+# Version: 202205091140
 # Title: oisd basic
-# Last modified: 8 May 2022 19:09 UTC
+# Last modified: 9 May 2022 11:40 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                   
@@ -972,6 +972,7 @@
 0.0.0.0 3581a62b.api.splkmobile.com
 0.0.0.0 35caec29d1.com
 0.0.0.0 35kds.com
+0.0.0.0 360.anatic.net
 0.0.0.0 3606.api.swrve.com
 0.0.0.0 360640.com
 0.0.0.0 360ads.com
@@ -10227,6 +10228,7 @@
 0.0.0.0 benchtag2.co
 0.0.0.0 bendcauslesscauslessnotion.com
 0.0.0.0 bendibao.site
+0.0.0.0 bendycrumply.com
 0.0.0.0 beneficialbeef.com
 0.0.0.0 benelph.de
 0.0.0.0 benevolencegardener.com
@@ -15628,6 +15630,7 @@
 0.0.0.0 crm.agency
 0.0.0.0 crm.ants.vn
 0.0.0.0 crm.bizfly.vn
+0.0.0.0 crm.englishtown.edu.vn
 0.0.0.0 crm4d.com
 0.0.0.0 crmbizfly.todo.vn
 0.0.0.0 crmbuyer.us.intellitxt.com
@@ -15743,6 +15746,7 @@
 0.0.0.0 csjuq.com
 0.0.0.0 csjwawe.top
 0.0.0.0 csk.ru
+0.0.0.0 cskh.onlinecrm.vn
 0.0.0.0 cslgcomputer.club
 0.0.0.0 csm.as.criteo.net
 0.0.0.0 csm.cxpublic.com
@@ -17700,6 +17704,7 @@
 0.0.0.0 digg.analytics.live.com
 0.0.0.0 digger.cryptobara.com
 0.0.0.0 digi.beeppool.org
+0.0.0.0 digi.vinut.com.vn
 0.0.0.0 digiads.co.id
 0.0.0.0 digiadzone.com
 0.0.0.0 digianalytics.airtel.in
@@ -18269,6 +18274,7 @@
 0.0.0.0 dongsiping.xyz
 0.0.0.0 dongzhixia1688.com
 0.0.0.0 donkeyleaf.com
+0.0.0.0 donort.com
 0.0.0.0 donreach.com
 0.0.0.0 dontbeevils.de
 0.0.0.0 donttbeevils.de
@@ -18373,6 +18379,7 @@
 0.0.0.0 downcdn.top
 0.0.0.0 download-alert.com
 0.0.0.0 download-file.ml
+0.0.0.0 download-ready.net
 0.0.0.0 download-readynow.com
 0.0.0.0 download-stats.mozilla.org
 0.0.0.0 download.350.com
@@ -19485,6 +19492,7 @@
 0.0.0.0 elxont.com
 0.0.0.0 elya.beeppool.org
 0.0.0.0 elyconsisterj.club
+0.0.0.0 ema.hostvn.net
 0.0.0.0 email-match.com
 0.0.0.0 email-reflex.com
 0.0.0.0 emailretargeting.com
@@ -20719,7 +20727,6 @@
 0.0.0.0 fanwoyang.com
 0.0.0.0 fanyi100.com.cn
 0.0.0.0 fanzhuang.net.cn
-0.0.0.0 fapcat.com
 0.0.0.0 fapmeth.com
 0.0.0.0 faqrdrkwdhqgug.com
 0.0.0.0 faqts.us.intellitxt.com
@@ -26793,6 +26800,7 @@
 0.0.0.0 intxt.cn
 0.0.0.0 inurneddoggish.com
 0.0.0.0 inurra.com
+0.0.0.0 inuuhtznjglmm.com
 0.0.0.0 inuvo.com
 0.0.0.0 inuxu.biz
 0.0.0.0 inuxu.co.in
@@ -28375,6 +28383,7 @@
 0.0.0.0 kgua0o66bcw8.com
 0.0.0.0 kguke.com
 0.0.0.0 kgvjcsp.cn
+0.0.0.0 kh.suno.vn
 0.0.0.0 khaate.com
 0.0.0.0 khandragthresh.com
 0.0.0.0 khayatarai.com
@@ -30498,6 +30507,7 @@
 0.0.0.0 lpx.qantas.com
 0.0.0.0 lqcdn.com
 0.0.0.0 lqjince.com
+0.0.0.0 lqpbkobabvfqvil.com
 0.0.0.0 lqsw2.top
 0.0.0.0 lqsw3.top
 0.0.0.0 lqunionsoft.top
@@ -31147,6 +31157,7 @@
 0.0.0.0 marketing.criteo.com
 0.0.0.0 marketing.dable.io
 0.0.0.0 marketing.hub-js.com
+0.0.0.0 marketing.itgeek.vn
 0.0.0.0 marketing.modalife.com
 0.0.0.0 marketing.net.brillen.de
 0.0.0.0 marketingai.admicro.vn
@@ -31302,6 +31313,7 @@
 0.0.0.0 mautic.paa.vn
 0.0.0.0 mautic.serverhub.vn
 0.0.0.0 mautic.sts.vn
+0.0.0.0 mautic.teky.edu.vn
 0.0.0.0 mautic.thietkexaynhadep.vn
 0.0.0.0 mautic.vmax.vn
 0.0.0.0 mautic.yte-suckhoe.vn
@@ -32439,6 +32451,7 @@
 0.0.0.0 mkkliq.com
 0.0.0.0 mkkoifnukk.com
 0.0.0.0 mkoh.top
+0.0.0.0 mkt.hoanghamobile.com
 0.0.0.0 mkt10.122.2o7.net
 0.0.0.0 mkt3261.com
 0.0.0.0 mkt6333.com
@@ -33868,6 +33881,7 @@
 0.0.0.0 neofield.click
 0.0.0.0 neogaeakasher.com
 0.0.0.0 neon.today
+0.0.0.0 neonhempen.com
 0.0.0.0 neopho.com
 0.0.0.0 neopowerlab.com
 0.0.0.0 neosap.ru
@@ -46202,6 +46216,7 @@
 0.0.0.0 surfingegyptfifteen.com
 0.0.0.0 surfline.112.2o7.net
 0.0.0.0 surfmdia.com
+0.0.0.0 surftraditioncommonplace.com
 0.0.0.0 surge.systems
 0.0.0.0 surgeprice.com
 0.0.0.0 surgicalexpectingdecisive.com
@@ -46553,6 +46568,7 @@
 0.0.0.0 szwjzl.cn
 0.0.0.0 szwyyl.com
 0.0.0.0 szxhybj.com
+0.0.0.0 szxjygbabily.com
 0.0.0.0 szyuke.cn
 0.0.0.0 szzd.ltd
 0.0.0.0 t-ads.adap.tv
@@ -47037,11 +47053,13 @@
 0.0.0.0 tatpek.com
 0.0.0.0 tatsumi-sys.jp
 0.0.0.0 tattepush.com
+0.0.0.0 tattid.com
 0.0.0.0 tattle.api.osano.com
 0.0.0.0 tattomedia.com
 0.0.0.0 taumeln.com
 0.0.0.0 tauptoat.com
 0.0.0.0 taurus.iad.appboy.com
+0.0.0.0 tauvoojo.net
 0.0.0.0 tavelscape.com
 0.0.0.0 tawdryson.com
 0.0.0.0 taxel.jp
@@ -48987,6 +49005,7 @@
 0.0.0.0 tracking.trnox.com
 0.0.0.0 tracking.trovaprezzi.it
 0.0.0.0 tracking.tv.zing.vn
+0.0.0.0 tracking.tvet-vietnam.org
 0.0.0.0 tracking.ucreate.live
 0.0.0.0 tracking.ukwm.co.uk
 0.0.0.0 tracking.unrealengine.com
@@ -54882,6 +54901,7 @@
 0.0.0.0 ypmadserver.com
 0.0.0.0 ypmob.com
 0.0.0.0 ypnciu.com
+0.0.0.0 ypopaycisqh.com
 0.0.0.0 ypwpzgld.com
 0.0.0.0 yqeuu.com
 0.0.0.0 yqg0rv8p35.ru

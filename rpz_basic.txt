@@ -1,12 +1,12 @@
-; Version: 202205081926
+; Version: 202205091140
 ; Title: oisd basic
-; Last modified: 8 May 2022 19:26 UTC
+; Last modified: 9 May 2022 11:40 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652037751 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652094481 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -1649,6 +1649,8 @@ $TTL 30
 *.35caec29d1.com CNAME .
 35kds.com CNAME .
 *.35kds.com CNAME .
+360.anatic.net CNAME .
+*.360.anatic.net CNAME .
 360640.com CNAME .
 *.360640.com CNAME .
 360ads.com CNAME .
@@ -17573,6 +17575,8 @@ bendcauslesscauslessnotion.com CNAME .
 *.bendcauslesscauslessnotion.com CNAME .
 bendibao.site CNAME .
 *.bendibao.site CNAME .
+bendycrumply.com CNAME .
+*.bendycrumply.com CNAME .
 beneficialbeef.com CNAME .
 *.beneficialbeef.com CNAME .
 benelph.de CNAME .
@@ -26331,6 +26335,8 @@ crm.agency CNAME .
 *.crm.agency CNAME .
 crm.bizfly.vn CNAME .
 *.crm.bizfly.vn CNAME .
+crm.englishtown.edu.vn CNAME .
+*.crm.englishtown.edu.vn CNAME .
 crm4d.com CNAME .
 *.crm4d.com CNAME .
 crmbizfly.todo.vn CNAME .
@@ -26527,6 +26533,8 @@ csjwawe.top CNAME .
 *.csjwawe.top CNAME .
 csk.ru CNAME .
 *.csk.ru CNAME .
+cskh.onlinecrm.vn CNAME .
+*.cskh.onlinecrm.vn CNAME .
 cslgcomputer.club CNAME .
 *.cslgcomputer.club CNAME .
 csma95349.analytics.edgesuite.net CNAME .
@@ -29903,6 +29911,8 @@ digentu.de CNAME .
 *.digentu.de CNAME .
 digestiontub.com CNAME .
 *.digestiontub.com CNAME .
+digi.vinut.com.vn CNAME .
+*.digi.vinut.com.vn CNAME .
 digiads.co.id CNAME .
 *.digiads.co.id CNAME .
 digiadzone.com CNAME .
@@ -30915,6 +30925,8 @@ dongzhixia1688.com CNAME .
 *.dongzhixia1688.com CNAME .
 donkeyleaf.com CNAME .
 *.donkeyleaf.com CNAME .
+donort.com CNAME .
+*.donort.com CNAME .
 donreach.com CNAME .
 *.donreach.com CNAME .
 dontbeevils.de CNAME .
@@ -31105,6 +31117,8 @@ download-alert.com CNAME .
 *.download-alert.com CNAME .
 download-file.ml CNAME .
 *.download-file.ml CNAME .
+download-ready.net CNAME .
+*.download-ready.net CNAME .
 download-readynow.com CNAME .
 *.download-readynow.com CNAME .
 download-stats.mozilla.org CNAME .
@@ -33045,6 +33059,8 @@ elxont.com CNAME .
 *.elxont.com CNAME .
 elyconsisterj.club CNAME .
 *.elyconsisterj.club CNAME .
+ema.hostvn.net CNAME .
+*.ema.hostvn.net CNAME .
 email-match.com CNAME .
 *.email-match.com CNAME .
 email-reflex.com CNAME .
@@ -35163,8 +35179,6 @@ fanyi100.com.cn CNAME .
 *.fanyi100.com.cn CNAME .
 fanzhuang.net.cn CNAME .
 *.fanzhuang.net.cn CNAME .
-fapcat.com CNAME .
-*.fapcat.com CNAME .
 fapmeth.com CNAME .
 *.fapmeth.com CNAME .
 faqrdrkwdhqgug.com CNAME .
@@ -45801,6 +45815,8 @@ inurneddoggish.com CNAME .
 *.inurneddoggish.com CNAME .
 inurra.com CNAME .
 *.inurra.com CNAME .
+inuuhtznjglmm.com CNAME .
+*.inuuhtznjglmm.com CNAME .
 inuvo.com CNAME .
 *.inuvo.com CNAME .
 inuxu.biz CNAME .
@@ -48571,6 +48587,8 @@ kguke.com CNAME .
 *.kguke.com CNAME .
 kgvjcsp.cn CNAME .
 *.kgvjcsp.cn CNAME .
+kh.suno.vn CNAME .
+*.kh.suno.vn CNAME .
 khaate.com CNAME .
 *.khaate.com CNAME .
 khandragthresh.com CNAME .
@@ -52415,6 +52433,8 @@ lqcdn.com CNAME .
 *.lqcdn.com CNAME .
 lqjince.com CNAME .
 *.lqjince.com CNAME .
+lqpbkobabvfqvil.com CNAME .
+*.lqpbkobabvfqvil.com CNAME .
 lqsw2.top CNAME .
 *.lqsw2.top CNAME .
 lqsw3.top CNAME .
@@ -53543,6 +53563,8 @@ marketing.criteo.com CNAME .
 *.marketing.criteo.com CNAME .
 marketing.hub-js.com CNAME .
 *.marketing.hub-js.com CNAME .
+marketing.itgeek.vn CNAME .
+*.marketing.itgeek.vn CNAME .
 marketing.modalife.com CNAME .
 *.marketing.modalife.com CNAME .
 marketing.net.brillen.de CNAME .
@@ -53809,6 +53831,8 @@ mautic.serverhub.vn CNAME .
 *.mautic.serverhub.vn CNAME .
 mautic.sts.vn CNAME .
 *.mautic.sts.vn CNAME .
+mautic.teky.edu.vn CNAME .
+*.mautic.teky.edu.vn CNAME .
 mautic.thietkexaynhadep.vn CNAME .
 *.mautic.thietkexaynhadep.vn CNAME .
 mautic.vmax.vn CNAME .
@@ -55865,6 +55889,8 @@ mkkoifnukk.com CNAME .
 *.mkkoifnukk.com CNAME .
 mkoh.top CNAME .
 *.mkoh.top CNAME .
+mkt.hoanghamobile.com CNAME .
+*.mkt.hoanghamobile.com CNAME .
 mkt10.122.2o7.net CNAME .
 *.mkt10.122.2o7.net CNAME .
 mkt3261.com CNAME .
@@ -58391,6 +58417,8 @@ neogaeakasher.com CNAME .
 *.neogaeakasher.com CNAME .
 neon.today CNAME .
 *.neon.today CNAME .
+neonhempen.com CNAME .
+*.neonhempen.com CNAME .
 neopho.com CNAME .
 *.neopho.com CNAME .
 neopowerlab.com CNAME .
@@ -79293,6 +79321,8 @@ surfline.112.2o7.net CNAME .
 *.surfline.112.2o7.net CNAME .
 surfmdia.com CNAME .
 *.surfmdia.com CNAME .
+surftraditioncommonplace.com CNAME .
+*.surftraditioncommonplace.com CNAME .
 surge.systems CNAME .
 *.surge.systems CNAME .
 surgeprice.com CNAME .
@@ -79863,6 +79893,8 @@ szwyyl.com CNAME .
 *.szwyyl.com CNAME .
 szxhybj.com CNAME .
 *.szxhybj.com CNAME .
+szxjygbabily.com CNAME .
+*.szxjygbabily.com CNAME .
 szyuke.cn CNAME .
 *.szyuke.cn CNAME .
 szzd.ltd CNAME .
@@ -80583,6 +80615,8 @@ tatsumi-sys.jp CNAME .
 *.tatsumi-sys.jp CNAME .
 tattepush.com CNAME .
 *.tattepush.com CNAME .
+tattid.com CNAME .
+*.tattid.com CNAME .
 tattle.api.osano.com CNAME .
 *.tattle.api.osano.com CNAME .
 tattomedia.com CNAME .
@@ -80591,6 +80625,8 @@ taumeln.com CNAME .
 *.taumeln.com CNAME .
 tauptoat.com CNAME .
 *.tauptoat.com CNAME .
+tauvoojo.net CNAME .
+*.tauvoojo.net CNAME .
 tavelscape.com CNAME .
 *.tavelscape.com CNAME .
 tawdryson.com CNAME .
@@ -83965,6 +84001,8 @@ tracking.trovaprezzi.it CNAME .
 *.tracking.trovaprezzi.it CNAME .
 tracking.tv.zing.vn CNAME .
 *.tracking.tv.zing.vn CNAME .
+tracking.tvet-vietnam.org CNAME .
+*.tracking.tvet-vietnam.org CNAME .
 tracking.ucreate.live CNAME .
 *.tracking.ucreate.live CNAME .
 tracking.ukwm.co.uk CNAME .
@@ -93869,6 +93907,8 @@ ypmob.com CNAME .
 *.ypmob.com CNAME .
 ypnciu.com CNAME .
 *.ypnciu.com CNAME .
+ypopaycisqh.com CNAME .
+*.ypopaycisqh.com CNAME .
 ypwpzgld.com CNAME .
 *.ypwpzgld.com CNAME .
 yqeuu.com CNAME .

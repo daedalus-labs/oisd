@@ -1,6 +1,6 @@
-# Version: 202205081909
+# Version: 202205091140
 # Title: oisd basic
-# Last modified: 8 May 2022 19:09 UTC
+# Last modified: 9 May 2022 11:40 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                 
@@ -972,6 +972,7 @@
 3581a62b.api.splkmobile.com
 35caec29d1.com
 35kds.com
+360.anatic.net
 3606.api.swrve.com
 360640.com
 360ads.com
@@ -10227,6 +10228,7 @@ benchit.com
 benchtag2.co
 bendcauslesscauslessnotion.com
 bendibao.site
+bendycrumply.com
 beneficialbeef.com
 benelph.de
 benevolencegardener.com
@@ -15628,6 +15630,7 @@ crm-campaign.liga.net
 crm.agency
 crm.ants.vn
 crm.bizfly.vn
+crm.englishtown.edu.vn
 crm4d.com
 crmbizfly.todo.vn
 crmbuyer.us.intellitxt.com
@@ -15743,6 +15746,7 @@ csjs.ltd
 csjuq.com
 csjwawe.top
 csk.ru
+cskh.onlinecrm.vn
 cslgcomputer.club
 csm.as.criteo.net
 csm.cxpublic.com
@@ -17700,6 +17704,7 @@ digestiontub.com
 digg.analytics.live.com
 digger.cryptobara.com
 digi.beeppool.org
+digi.vinut.com.vn
 digiads.co.id
 digiadzone.com
 digianalytics.airtel.in
@@ -18269,6 +18274,7 @@ donglogs.com
 dongsiping.xyz
 dongzhixia1688.com
 donkeyleaf.com
+donort.com
 donreach.com
 dontbeevils.de
 donttbeevils.de
@@ -18373,6 +18379,7 @@ down3.feiyang163.com
 downcdn.top
 download-alert.com
 download-file.ml
+download-ready.net
 download-readynow.com
 download-stats.mozilla.org
 download.350.com
@@ -19485,6 +19492,7 @@ elxis-downloads.com
 elxont.com
 elya.beeppool.org
 elyconsisterj.club
+ema.hostvn.net
 email-match.com
 email-reflex.com
 emailretargeting.com
@@ -20719,7 +20727,6 @@ fanumi.com
 fanwoyang.com
 fanyi100.com.cn
 fanzhuang.net.cn
-fapcat.com
 fapmeth.com
 faqrdrkwdhqgug.com
 faqts.us.intellitxt.com
@@ -26793,6 +26800,7 @@ intuitinc.122.2o7.net
 intxt.cn
 inurneddoggish.com
 inurra.com
+inuuhtznjglmm.com
 inuvo.com
 inuxu.biz
 inuxu.co.in
@@ -28375,6 +28383,7 @@ kgq.ink
 kgua0o66bcw8.com
 kguke.com
 kgvjcsp.cn
+kh.suno.vn
 khaate.com
 khandragthresh.com
 khayatarai.com
@@ -30498,6 +30507,7 @@ lpwx.xyz
 lpx.qantas.com
 lqcdn.com
 lqjince.com
+lqpbkobabvfqvil.com
 lqsw2.top
 lqsw3.top
 lqunionsoft.top
@@ -31147,6 +31157,7 @@ marketing.888.com
 marketing.criteo.com
 marketing.dable.io
 marketing.hub-js.com
+marketing.itgeek.vn
 marketing.modalife.com
 marketing.net.brillen.de
 marketingai.admicro.vn
@@ -31302,6 +31313,7 @@ mautic.jagodo.vn
 mautic.paa.vn
 mautic.serverhub.vn
 mautic.sts.vn
+mautic.teky.edu.vn
 mautic.thietkexaynhadep.vn
 mautic.vmax.vn
 mautic.yte-suckhoe.vn
@@ -32439,6 +32451,7 @@ mkk.red
 mkkliq.com
 mkkoifnukk.com
 mkoh.top
+mkt.hoanghamobile.com
 mkt10.122.2o7.net
 mkt3261.com
 mkt6333.com
@@ -33868,6 +33881,7 @@ neoffic.com
 neofield.click
 neogaeakasher.com
 neon.today
+neonhempen.com
 neopho.com
 neopowerlab.com
 neosap.ru
@@ -46202,6 +46216,7 @@ surfertracker.com
 surfingegyptfifteen.com
 surfline.112.2o7.net
 surfmdia.com
+surftraditioncommonplace.com
 surge.systems
 surgeprice.com
 surgicalexpectingdecisive.com
@@ -46553,6 +46568,7 @@ szvxwqp.cn
 szwjzl.cn
 szwyyl.com
 szxhybj.com
+szxjygbabily.com
 szyuke.cn
 szzd.ltd
 t-ads.adap.tv
@@ -47037,11 +47053,13 @@ tatevowel.com
 tatpek.com
 tatsumi-sys.jp
 tattepush.com
+tattid.com
 tattle.api.osano.com
 tattomedia.com
 taumeln.com
 tauptoat.com
 taurus.iad.appboy.com
+tauvoojo.net
 tavelscape.com
 tawdryson.com
 taxel.jp
@@ -48987,6 +49005,7 @@ tracking.trafficjunky.net
 tracking.trnox.com
 tracking.trovaprezzi.it
 tracking.tv.zing.vn
+tracking.tvet-vietnam.org
 tracking.ucreate.live
 tracking.ukwm.co.uk
 tracking.unrealengine.com
@@ -54882,6 +54901,7 @@ ypjmvdfxqw.com
 ypmadserver.com
 ypmob.com
 ypnciu.com
+ypopaycisqh.com
 ypwpzgld.com
 yqeuu.com
 yqg0rv8p35.ru
