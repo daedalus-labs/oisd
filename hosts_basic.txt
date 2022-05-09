@@ -1,6 +1,6 @@
-# Version: 202205091140
+# Version: 202205092206
 # Title: oisd basic
-# Last modified: 9 May 2022 11:40 UTC
+# Last modified: 9 May 2022 22:06 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                   
@@ -1772,6 +1772,7 @@
 0.0.0.0 840df00e08.com
 0.0.0.0 8456.xyz
 0.0.0.0 8482194.fls.doubleclick.net
+0.0.0.0 8500.pro
 0.0.0.0 854.api.swrve.com
 0.0.0.0 8547459af5da02.com
 0.0.0.0 8563004.fls.doubleclick.net
@@ -1912,6 +1913,7 @@
 0.0.0.0 92291944cd.com
 0.0.0.0 924e60106cd9d0e.com
 0.0.0.0 925.lt
+0.0.0.0 9284swk.cn
 0.0.0.0 92lottery.com
 0.0.0.0 92mile.com
 0.0.0.0 92qj1u.cn
@@ -11038,6 +11040,7 @@
 0.0.0.0 boftogro.net
 0.0.0.0 bofyshaphi.com
 0.0.0.0 bogads.com
+0.0.0.0 bogcuoc.com
 0.0.0.0 bogginunstill.com
 0.0.0.0 bogrex.com
 0.0.0.0 bogrodius.com
@@ -19950,6 +19953,7 @@
 0.0.0.0 estoopsi.com
 0.0.0.0 estrack.net
 0.0.0.0 estrangefoolish.com
+0.0.0.0 estudiolak.com
 0.0.0.0 esure.wang
 0.0.0.0 esuzm.cn
 0.0.0.0 esyzdb.com
@@ -21949,6 +21953,7 @@
 0.0.0.0 fun-hits.com
 0.0.0.0 fun.lbn.ru
 0.0.0.0 fun1118.com
+0.0.0.0 fun705.com
 0.0.0.0 fun7778.com
 0.0.0.0 functionalclam.com
 0.0.0.0 functionalcrown.com
@@ -23268,6 +23273,7 @@
 0.0.0.0 goldoffer.online
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goldstats.com
+0.0.0.0 goldsurf24h.pl
 0.0.0.0 goldvertise.com
 0.0.0.0 golem.de.intellitxt.com
 0.0.0.0 goload.wecloud.io
@@ -23944,6 +23950,8 @@
 0.0.0.0 h.verticalscope.com
 0.0.0.0 h.zedo.com
 0.0.0.0 h04.xyz
+0.0.0.0 h06.xyz
+0.0.0.0 h08.xyz
 0.0.0.0 h0rnd0g.popunder.ru
 0.0.0.0 h1.kukuw.com
 0.0.0.0 h104.cc
@@ -27162,6 +27170,7 @@
 0.0.0.0 iwucoz.cn
 0.0.0.0 iwwl.vip
 0.0.0.0 iwxgdcnpshrdw.com
+0.0.0.0 iwyuaqs.cn
 0.0.0.0 ixcbqp.com
 0.0.0.0 ixcris.com
 0.0.0.0 ixiaa.com
@@ -27219,6 +27228,7 @@
 0.0.0.0 j93557g.com
 0.0.0.0 ja.revolvermaps.com
 0.0.0.0 ja2n2u30a6rgyd.com
+0.0.0.0 ja77.net
 0.0.0.0 ja9377.com
 0.0.0.0 jabu.popunder.ru
 0.0.0.0 jacied.com
@@ -27306,8 +27316,10 @@
 0.0.0.0 jb.dianshu119.com
 0.0.0.0 jb.ecar168.cn
 0.0.0.0 jb.revolvermaps.com
+0.0.0.0 jb777.net
 0.0.0.0 jb7hvcksstar.com
 0.0.0.0 jb7hvckszone.com
+0.0.0.0 jbbodds.com
 0.0.0.0 jbdmb1.ynztzh.com
 0.0.0.0 jbdz.shop
 0.0.0.0 jbo010.com
@@ -27918,6 +27930,7 @@
 0.0.0.0 jsqhh.cn
 0.0.0.0 jsretra.com
 0.0.0.0 jsrlfg.com
+0.0.0.0 jss77.net
 0.0.0.0 jssdk.beetv.net
 0.0.0.0 jssdk.rayjump.com
 0.0.0.0 jssdkcdn.mparticle.com
@@ -28143,6 +28156,7 @@
 0.0.0.0 k1.wanwenwan.cn
 0.0.0.0 k11designstore.club
 0.0.0.0 k1815.com
+0.0.0.0 k188casino.vip
 0.0.0.0 k1rsdhu.xyz
 0.0.0.0 k2215.cn
 0.0.0.0 k26fe9xhuzm.com
@@ -28435,7 +28449,13 @@
 0.0.0.0 kiltyyoginis.com
 0.0.0.0 kimdate2019.xyz
 0.0.0.0 kimia.es
+0.0.0.0 kimsa1116.com
 0.0.0.0 kimsa338.com
+0.0.0.0 kimsa598.com
+0.0.0.0 kimsa668.com
+0.0.0.0 kimsa88.com
+0.0.0.0 kimsa88.net
+0.0.0.0 kimsa98.com
 0.0.0.0 kinak.top
 0.0.0.0 kindeargrain.com
 0.0.0.0 kinderfinder.ru
@@ -28444,6 +28464,7 @@
 0.0.0.0 kindnessmarshalping.com
 0.0.0.0 king-contenido-prod.secure2.footprint.net
 0.0.0.0 king3rsc7ol9e3ge.com
+0.0.0.0 king96.net
 0.0.0.0 kingads.mobi
 0.0.0.0 kingbet86.com
 0.0.0.0 kingbet86.info
@@ -28565,6 +28586,7 @@
 0.0.0.0 kma.biz
 0.0.0.0 kmacon.com
 0.0.0.0 kmindex.ru
+0.0.0.0 kmisa68.com
 0.0.0.0 kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 kmovuj.com
 0.0.0.0 kmpxq.cn
@@ -28763,6 +28785,7 @@
 0.0.0.0 kubet.life
 0.0.0.0 kubet368.com
 0.0.0.0 kubet77.win
+0.0.0.0 kubet79.bet
 0.0.0.0 kubet79.me
 0.0.0.0 kubet8.us
 0.0.0.0 kubet86.com
@@ -31201,6 +31224,7 @@
 0.0.0.0 marx-brothers.mhwang.com
 0.0.0.0 mas.nth.ch
 0.0.0.0 mas.protecmedia.com
+0.0.0.0 masakeku.com
 0.0.0.0 masalatalk.us.intellitxt.com
 0.0.0.0 masari.crypto-webminer.com
 0.0.0.0 masdk.3g.qq.com
@@ -32478,6 +32502,7 @@
 0.0.0.0 mlgrtn.com
 0.0.0.0 mlgsoji.cn
 0.0.0.0 mlib.browsermine.com
+0.0.0.0 mlimgmxn.com
 0.0.0.0 mlion.cn
 0.0.0.0 mlmixpqwivsxftw.xyz
 0.0.0.0 mlnadvertising.com
@@ -34599,6 +34624,7 @@
 0.0.0.0 nrich.ai
 0.0.0.0 nrnma.com
 0.0.0.0 nrqqjb.com
+0.0.0.0 nrvkwqaatl.com
 0.0.0.0 nrxduw5.com
 0.0.0.0 nryb.com
 0.0.0.0 nryceuula.com
@@ -36472,6 +36498,7 @@
 0.0.0.0 pbox.photobox.de
 0.0.0.0 pbprof.com
 0.0.0.0 pbs.publishers.tremorhub.com
+0.0.0.0 pbsdutufp.com
 0.0.0.0 pbstck.com
 0.0.0.0 pbterra.com
 0.0.0.0 pbtxt.win
@@ -39236,6 +39263,7 @@
 0.0.0.0 qinmon.xyz
 0.0.0.0 qinongyouxuan.cn
 0.0.0.0 qinqiaotrade.com
+0.0.0.0 qintian.ink
 0.0.0.0 qintingapp.com
 0.0.0.0 qinvaris.com
 0.0.0.0 qinzhihao.com
@@ -43920,6 +43948,7 @@
 0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 smetrics.yellowbook.com
 0.0.0.0 smetrics1.experian.com
+0.0.0.0 smfierf.xyz
 0.0.0.0 smfjfgie.xyz
 0.0.0.0 smgjupy.cn
 0.0.0.0 smh.ink
@@ -44288,6 +44317,7 @@
 0.0.0.0 soska.us
 0.0.0.0 soski.popunder.ru
 0.0.0.0 soso.ws
+0.0.0.0 sosodo.xyz
 0.0.0.0 sotchoft.net
 0.0.0.0 sotetahe.pro
 0.0.0.0 sotuktraffic.com
@@ -47959,6 +47989,7 @@
 0.0.0.0 tj-yyy.cn
 0.0.0.0 tj3rql9siwef.www.freecodecamp.org
 0.0.0.0 tjb11.net
+0.0.0.0 tjb15.net
 0.0.0.0 tjb22.net
 0.0.0.0 tjcghyy.cn
 0.0.0.0 tjekscores.dk
@@ -49804,6 +49835,7 @@
 0.0.0.0 txdwc.cn
 0.0.0.0 txgg2022bisheng.com
 0.0.0.0 txmsw.mobi
+0.0.0.0 txscn.cn
 0.0.0.0 txt.eu
 0.0.0.0 txt2017.com
 0.0.0.0 txt2019.cc
@@ -51568,6 +51600,7 @@
 0.0.0.0 vn88.biz
 0.0.0.0 vn88.com
 0.0.0.0 vn88hn.live
+0.0.0.0 vn88ok.live
 0.0.0.0 vn88vui.live
 0.0.0.0 vnacdnryl.com
 0.0.0.0 vnadssb.com
@@ -52107,6 +52140,7 @@
 0.0.0.0 waytogrow.eu
 0.0.0.0 wazensee.net
 0.0.0.0 wb.interpolls.com
+0.0.0.0 wb77.net
 0.0.0.0 wbads.vo.llnwd.net
 0.0.0.0 wbapp.mobile.sina.cn
 0.0.0.0 wbdds.com
@@ -52204,6 +52238,7 @@
 0.0.0.0 web1.51.la
 0.0.0.0 web1.affiliatelounge.com
 0.0.0.0 web100kz.com
+0.0.0.0 web1s.com
 0.0.0.0 web20-traffic-system.de
 0.0.0.0 web3000.co.uk
 0.0.0.0 webads.co.nz
@@ -54269,6 +54304,7 @@
 0.0.0.0 xue.zbyw.cn
 0.0.0.0 xuehelei.com
 0.0.0.0 xuenengyoujiaoyu.com
+0.0.0.0 xuetao.site
 0.0.0.0 xuexi.hydcd.com
 0.0.0.0 xuexi.wiki
 0.0.0.0 xueyanshan.com
@@ -54450,6 +54486,7 @@
 0.0.0.0 yantairuide.com
 0.0.0.0 yantrasbarges.com
 0.0.0.0 yanyanbiji.com
+0.0.0.0 yaodaipeishi.cn
 0.0.0.0 yaofaweb.xyz
 0.0.0.0 yaohq.com
 0.0.0.0 yaokuan01.cn
@@ -54886,6 +54923,7 @@
 0.0.0.0 youweiprint.com
 0.0.0.0 youwenzhi.xyz
 0.0.0.0 youxingtx.xyz
+0.0.0.0 youyouluming.xyz
 0.0.0.0 youyoumw.com
 0.0.0.0 youzhizi.com
 0.0.0.0 youzonggw.com

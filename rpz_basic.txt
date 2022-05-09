@@ -1,12 +1,12 @@
-; Version: 202205091140
+; Version: 202205092206
 ; Title: oisd basic
-; Last modified: 9 May 2022 11:40 UTC
+; Last modified: 9 May 2022 22:06 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                    
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652094481 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652133601 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -3075,6 +3075,8 @@ $TTL 30
 *.840df00e08.com CNAME .
 8456.xyz CNAME .
 *.8456.xyz CNAME .
+8500.pro CNAME .
+*.8500.pro CNAME .
 8547459af5da02.com CNAME .
 *.8547459af5da02.com CNAME .
 8563p.cn CNAME .
@@ -3333,6 +3335,8 @@ $TTL 30
 *.924e60106cd9d0e.com CNAME .
 925.lt CNAME .
 *.925.lt CNAME .
+9284swk.cn CNAME .
+*.9284swk.cn CNAME .
 92lottery.com CNAME .
 *.92lottery.com CNAME .
 92mile.com CNAME .
@@ -19057,6 +19061,8 @@ bofyshaphi.com CNAME .
 *.bofyshaphi.com CNAME .
 bogads.com CNAME .
 *.bogads.com CNAME .
+bogcuoc.com CNAME .
+*.bogcuoc.com CNAME .
 bogginunstill.com CNAME .
 *.bogginunstill.com CNAME .
 bogrex.com CNAME .
@@ -33851,6 +33857,8 @@ estrack.net CNAME .
 *.estrack.net CNAME .
 estrangefoolish.com CNAME .
 *.estrangefoolish.com CNAME .
+estudiolak.com CNAME .
+*.estudiolak.com CNAME .
 esure.wang CNAME .
 *.esure.wang CNAME .
 esuzm.cn CNAME .
@@ -37373,6 +37381,8 @@ fun.lbn.ru CNAME .
 *.fun.lbn.ru CNAME .
 fun1118.com CNAME .
 *.fun1118.com CNAME .
+fun705.com CNAME .
+*.fun705.com CNAME .
 fun7778.com CNAME .
 *.fun7778.com CNAME .
 functionalclam.com CNAME .
@@ -39639,6 +39649,8 @@ goldspotmedia.com CNAME .
 *.goldspotmedia.com CNAME .
 goldstats.com CNAME .
 *.goldstats.com CNAME .
+goldsurf24h.pl CNAME .
+*.goldsurf24h.pl CNAME .
 goldvertise.com CNAME .
 *.goldvertise.com CNAME .
 goload.wecloud.io CNAME .
@@ -40859,6 +40871,10 @@ h.spill.com CNAME .
 *.h.spill.com CNAME .
 h04.xyz CNAME .
 *.h04.xyz CNAME .
+h06.xyz CNAME .
+*.h06.xyz CNAME .
+h08.xyz CNAME .
+*.h08.xyz CNAME .
 h1.kukuw.com CNAME .
 *.h1.kukuw.com CNAME .
 h104.cc CNAME .
@@ -46449,6 +46465,8 @@ iwwl.vip CNAME .
 *.iwwl.vip CNAME .
 iwxgdcnpshrdw.com CNAME .
 *.iwxgdcnpshrdw.com CNAME .
+iwyuaqs.cn CNAME .
+*.iwyuaqs.cn CNAME .
 ixcbqp.com CNAME .
 *.ixcbqp.com CNAME .
 ixcris.com CNAME .
@@ -46545,6 +46563,8 @@ j93557g.com CNAME .
 *.j93557g.com CNAME .
 ja2n2u30a6rgyd.com CNAME .
 *.ja2n2u30a6rgyd.com CNAME .
+ja77.net CNAME .
+*.ja77.net CNAME .
 ja9377.com CNAME .
 *.ja9377.com CNAME .
 jacied.com CNAME .
@@ -46699,10 +46719,14 @@ jb.dianshu119.com CNAME .
 *.jb.dianshu119.com CNAME .
 jb.ecar168.cn CNAME .
 *.jb.ecar168.cn CNAME .
+jb777.net CNAME .
+*.jb777.net CNAME .
 jb7hvcksstar.com CNAME .
 *.jb7hvcksstar.com CNAME .
 jb7hvckszone.com CNAME .
 *.jb7hvckszone.com CNAME .
+jbbodds.com CNAME .
+*.jbbodds.com CNAME .
 jbdmb1.ynztzh.com CNAME .
 *.jbdmb1.ynztzh.com CNAME .
 jbdz.shop CNAME .
@@ -47715,6 +47739,8 @@ jsretra.com CNAME .
 *.jsretra.com CNAME .
 jsrlfg.com CNAME .
 *.jsrlfg.com CNAME .
+jss77.net CNAME .
+*.jss77.net CNAME .
 jssdk.beetv.net CNAME .
 *.jssdk.beetv.net CNAME .
 jssdkcdn.mparticle.com CNAME .
@@ -48137,6 +48163,8 @@ k11designstore.club CNAME .
 *.k11designstore.club CNAME .
 k1815.com CNAME .
 *.k1815.com CNAME .
+k188casino.vip CNAME .
+*.k188casino.vip CNAME .
 k1rsdhu.xyz CNAME .
 *.k1rsdhu.xyz CNAME .
 k2215.cn CNAME .
@@ -48685,8 +48713,20 @@ kimdate2019.xyz CNAME .
 *.kimdate2019.xyz CNAME .
 kimia.es CNAME .
 *.kimia.es CNAME .
+kimsa1116.com CNAME .
+*.kimsa1116.com CNAME .
 kimsa338.com CNAME .
 *.kimsa338.com CNAME .
+kimsa598.com CNAME .
+*.kimsa598.com CNAME .
+kimsa668.com CNAME .
+*.kimsa668.com CNAME .
+kimsa88.com CNAME .
+*.kimsa88.com CNAME .
+kimsa88.net CNAME .
+*.kimsa88.net CNAME .
+kimsa98.com CNAME .
+*.kimsa98.com CNAME .
 kinak.top CNAME .
 *.kinak.top CNAME .
 kindeargrain.com CNAME .
@@ -48703,6 +48743,8 @@ king-contenido-prod.secure2.footprint.net CNAME .
 *.king-contenido-prod.secure2.footprint.net CNAME .
 king3rsc7ol9e3ge.com CNAME .
 *.king3rsc7ol9e3ge.com CNAME .
+king96.net CNAME .
+*.king96.net CNAME .
 kingads.mobi CNAME .
 *.kingads.mobi CNAME .
 kingbet86.com CNAME .
@@ -48937,6 +48979,8 @@ kmacon.com CNAME .
 *.kmacon.com CNAME .
 kmindex.ru CNAME .
 *.kmindex.ru CNAME .
+kmisa68.com CNAME .
+*.kmisa68.com CNAME .
 kmmgoogle.oss-ap-southeast-1.aliyuncs.com CNAME .
 *.kmmgoogle.oss-ap-southeast-1.aliyuncs.com CNAME .
 kmovuj.com CNAME .
@@ -49309,6 +49353,8 @@ kubet368.com CNAME .
 *.kubet368.com CNAME .
 kubet77.win CNAME .
 *.kubet77.win CNAME .
+kubet79.bet CNAME .
+*.kubet79.bet CNAME .
 kubet79.me CNAME .
 *.kubet79.me CNAME .
 kubet8.us CNAME .
@@ -53649,6 +53695,8 @@ mas.nth.ch CNAME .
 *.mas.nth.ch CNAME .
 mas.protecmedia.com CNAME .
 *.mas.protecmedia.com CNAME .
+masakeku.com CNAME .
+*.masakeku.com CNAME .
 masdk.3g.qq.com CNAME .
 *.masdk.3g.qq.com CNAME .
 masdpanalytics.azureedge.net CNAME .
@@ -55939,6 +55987,8 @@ mlgrtn.com CNAME .
 *.mlgrtn.com CNAME .
 mlgsoji.cn CNAME .
 *.mlgsoji.cn CNAME .
+mlimgmxn.com CNAME .
+*.mlimgmxn.com CNAME .
 mlion.cn CNAME .
 *.mlion.cn CNAME .
 mlmixpqwivsxftw.xyz CNAME .
@@ -59707,6 +59757,8 @@ nrnma.com CNAME .
 *.nrnma.com CNAME .
 nrqqjb.com CNAME .
 *.nrqqjb.com CNAME .
+nrvkwqaatl.com CNAME .
+*.nrvkwqaatl.com CNAME .
 nrxduw5.com CNAME .
 *.nrxduw5.com CNAME .
 nryb.com CNAME .
@@ -63029,6 +63081,8 @@ pbox.photobox.de CNAME .
 *.pbox.photobox.de CNAME .
 pbprof.com CNAME .
 *.pbprof.com CNAME .
+pbsdutufp.com CNAME .
+*.pbsdutufp.com CNAME .
 pbstck.com CNAME .
 *.pbstck.com CNAME .
 pbterra.com CNAME .
@@ -67669,6 +67723,8 @@ qinongyouxuan.cn CNAME .
 *.qinongyouxuan.cn CNAME .
 qinqiaotrade.com CNAME .
 *.qinqiaotrade.com CNAME .
+qintian.ink CNAME .
+*.qintian.ink CNAME .
 qintingapp.com CNAME .
 *.qintingapp.com CNAME .
 qinvaris.com CNAME .
@@ -75567,6 +75623,8 @@ smetrics.yellowbook.com CNAME .
 *.smetrics.yellowbook.com CNAME .
 smetrics1.experian.com CNAME .
 *.smetrics1.experian.com CNAME .
+smfierf.xyz CNAME .
+*.smfierf.xyz CNAME .
 smfjfgie.xyz CNAME .
 *.smfjfgie.xyz CNAME .
 smgjupy.cn CNAME .
@@ -76225,6 +76283,8 @@ soska.us CNAME .
 *.soska.us CNAME .
 soso.ws CNAME .
 *.soso.ws CNAME .
+sosodo.xyz CNAME .
+*.sosodo.xyz CNAME .
 sotchoft.net CNAME .
 *.sotchoft.net CNAME .
 sotetahe.pro CNAME .
@@ -82207,6 +82267,8 @@ tj3rql9siwef.www.freecodecamp.org CNAME .
 *.tj3rql9siwef.www.freecodecamp.org CNAME .
 tjb11.net CNAME .
 *.tjb11.net CNAME .
+tjb15.net CNAME .
+*.tjb15.net CNAME .
 tjb22.net CNAME .
 *.tjb22.net CNAME .
 tjcghyy.cn CNAME .
@@ -85471,6 +85533,8 @@ txgg2022bisheng.com CNAME .
 *.txgg2022bisheng.com CNAME .
 txmsw.mobi CNAME .
 *.txmsw.mobi CNAME .
+txscn.cn CNAME .
+*.txscn.cn CNAME .
 txt.eu CNAME .
 *.txt.eu CNAME .
 txt2017.com CNAME .
@@ -88469,6 +88533,8 @@ vn88.com CNAME .
 *.vn88.com CNAME .
 vn88hn.live CNAME .
 *.vn88hn.live CNAME .
+vn88ok.live CNAME .
+*.vn88ok.live CNAME .
 vn88vui.live CNAME .
 *.vn88vui.live CNAME .
 vnacdnryl.com CNAME .
@@ -89443,6 +89509,8 @@ waytogrow.eu CNAME .
 *.waytogrow.eu CNAME .
 wazensee.net CNAME .
 *.wazensee.net CNAME .
+wb77.net CNAME .
+*.wb77.net CNAME .
 wbads.vo.llnwd.net CNAME .
 *.wbads.vo.llnwd.net CNAME .
 wbapp.mobile.sina.cn CNAME .
@@ -89591,6 +89659,8 @@ web1.51.la CNAME .
 *.web1.51.la CNAME .
 web100kz.com CNAME .
 *.web100kz.com CNAME .
+web1s.com CNAME .
+*.web1s.com CNAME .
 web20-traffic-system.de CNAME .
 *.web20-traffic-system.de CNAME .
 web3000.co.uk CNAME .
@@ -92703,6 +92773,8 @@ xuehelei.com CNAME .
 *.xuehelei.com CNAME .
 xuenengyoujiaoyu.com CNAME .
 *.xuenengyoujiaoyu.com CNAME .
+xuetao.site CNAME .
+*.xuetao.site CNAME .
 xuexi.hydcd.com CNAME .
 *.xuexi.hydcd.com CNAME .
 xuexi.wiki CNAME .
@@ -93039,6 +93111,8 @@ yantrasbarges.com CNAME .
 *.yantrasbarges.com CNAME .
 yanyanbiji.com CNAME .
 *.yanyanbiji.com CNAME .
+yaodaipeishi.cn CNAME .
+*.yaodaipeishi.cn CNAME .
 yaofaweb.xyz CNAME .
 *.yaofaweb.xyz CNAME .
 yaohq.com CNAME .
@@ -93877,6 +93951,8 @@ youwenzhi.xyz CNAME .
 *.youwenzhi.xyz CNAME .
 youxingtx.xyz CNAME .
 *.youxingtx.xyz CNAME .
+youyouluming.xyz CNAME .
+*.youyouluming.xyz CNAME .
 youyoumw.com CNAME .
 *.youyoumw.com CNAME .
 youzhizi.com CNAME .

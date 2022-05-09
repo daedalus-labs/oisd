@@ -1,6 +1,6 @@
-# Version: 202205091140
+# Version: 202205092206
 # Title: oisd basic
-# Last modified: 9 May 2022 11:40 UTC
+# Last modified: 9 May 2022 22:06 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                 
@@ -1772,6 +1772,7 @@
 840df00e08.com
 8456.xyz
 8482194.fls.doubleclick.net
+8500.pro
 854.api.swrve.com
 8547459af5da02.com
 8563004.fls.doubleclick.net
@@ -1912,6 +1913,7 @@
 92291944cd.com
 924e60106cd9d0e.com
 925.lt
+9284swk.cn
 92lottery.com
 92mile.com
 92qj1u.cn
@@ -11038,6 +11040,7 @@ boffoadsfeeds.com
 boftogro.net
 bofyshaphi.com
 bogads.com
+bogcuoc.com
 bogginunstill.com
 bogrex.com
 bogrodius.com
@@ -19950,6 +19953,7 @@ estiques.com
 estoopsi.com
 estrack.net
 estrangefoolish.com
+estudiolak.com
 esure.wang
 esuzm.cn
 esyzdb.com
@@ -21949,6 +21953,7 @@ fumblingselection.com
 fun-hits.com
 fun.lbn.ru
 fun1118.com
+fun705.com
 fun7778.com
 functionalclam.com
 functionalcrown.com
@@ -23268,6 +23273,7 @@ goldnova.crypto.csgocpu.com
 goldoffer.online
 goldspotmedia.com
 goldstats.com
+goldsurf24h.pl
 goldvertise.com
 golem.de.intellitxt.com
 goload.wecloud.io
@@ -23944,6 +23950,8 @@ h.spill.com
 h.verticalscope.com
 h.zedo.com
 h04.xyz
+h06.xyz
+h08.xyz
 h0rnd0g.popunder.ru
 h1.kukuw.com
 h104.cc
@@ -27162,6 +27170,7 @@ iwtserve.com
 iwucoz.cn
 iwwl.vip
 iwxgdcnpshrdw.com
+iwyuaqs.cn
 ixcbqp.com
 ixcris.com
 ixiaa.com
@@ -27219,6 +27228,7 @@ j84nvmd.cn
 j93557g.com
 ja.revolvermaps.com
 ja2n2u30a6rgyd.com
+ja77.net
 ja9377.com
 jabu.popunder.ru
 jacied.com
@@ -27306,8 +27316,10 @@ jazojucy.xyz
 jb.dianshu119.com
 jb.ecar168.cn
 jb.revolvermaps.com
+jb777.net
 jb7hvcksstar.com
 jb7hvckszone.com
+jbbodds.com
 jbdmb1.ynztzh.com
 jbdz.shop
 jbo010.com
@@ -27918,6 +27930,7 @@ jsp2.clickzzs.nl
 jsqhh.cn
 jsretra.com
 jsrlfg.com
+jss77.net
 jssdk.beetv.net
 jssdk.rayjump.com
 jssdkcdn.mparticle.com
@@ -28143,6 +28156,7 @@ k1.dancihu.com
 k1.wanwenwan.cn
 k11designstore.club
 k1815.com
+k188casino.vip
 k1rsdhu.xyz
 k2215.cn
 k26fe9xhuzm.com
@@ -28435,7 +28449,13 @@ kilorama.com
 kiltyyoginis.com
 kimdate2019.xyz
 kimia.es
+kimsa1116.com
 kimsa338.com
+kimsa598.com
+kimsa668.com
+kimsa88.com
+kimsa88.net
+kimsa98.com
 kinak.top
 kindeargrain.com
 kinderfinder.ru
@@ -28444,6 +28464,7 @@ kindlyfeebleremembered.com
 kindnessmarshalping.com
 king-contenido-prod.secure2.footprint.net
 king3rsc7ol9e3ge.com
+king96.net
 kingads.mobi
 kingbet86.com
 kingbet86.info
@@ -28565,6 +28586,7 @@ km1.muhoujiemi.com
 kma.biz
 kmacon.com
 kmindex.ru
+kmisa68.com
 kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 kmovuj.com
 kmpxq.cn
@@ -28763,6 +28785,7 @@ kubet.gg
 kubet.life
 kubet368.com
 kubet77.win
+kubet79.bet
 kubet79.me
 kubet8.us
 kubet86.com
@@ -31201,6 +31224,7 @@ marvellouspeaches.com
 marx-brothers.mhwang.com
 mas.nth.ch
 mas.protecmedia.com
+masakeku.com
 masalatalk.us.intellitxt.com
 masari.crypto-webminer.com
 masdk.3g.qq.com
@@ -32478,6 +32502,7 @@ mlgp.xyz
 mlgrtn.com
 mlgsoji.cn
 mlib.browsermine.com
+mlimgmxn.com
 mlion.cn
 mlmixpqwivsxftw.xyz
 mlnadvertising.com
@@ -34599,6 +34624,7 @@ nrgat.com
 nrich.ai
 nrnma.com
 nrqqjb.com
+nrvkwqaatl.com
 nrxduw5.com
 nryb.com
 nryceuula.com
@@ -36472,6 +36498,7 @@ pbnet.ru
 pbox.photobox.de
 pbprof.com
 pbs.publishers.tremorhub.com
+pbsdutufp.com
 pbstck.com
 pbterra.com
 pbtxt.win
@@ -39236,6 +39263,7 @@ qingzhencai.net
 qinmon.xyz
 qinongyouxuan.cn
 qinqiaotrade.com
+qintian.ink
 qintingapp.com
 qinvaris.com
 qinzhihao.com
@@ -43920,6 +43948,7 @@ smetrics.walgreens.com
 smetrics.washingtonpost.com
 smetrics.yellowbook.com
 smetrics1.experian.com
+smfierf.xyz
 smfjfgie.xyz
 smgjupy.cn
 smh.ink
@@ -44288,6 +44317,7 @@ sosjyx.com
 soska.us
 soski.popunder.ru
 soso.ws
+sosodo.xyz
 sotchoft.net
 sotetahe.pro
 sotuktraffic.com
@@ -47959,6 +47989,7 @@ tj-yijiajing.com
 tj-yyy.cn
 tj3rql9siwef.www.freecodecamp.org
 tjb11.net
+tjb15.net
 tjb22.net
 tjcghyy.cn
 tjekscores.dk
@@ -49804,6 +49835,7 @@ txcmjo.com
 txdwc.cn
 txgg2022bisheng.com
 txmsw.mobi
+txscn.cn
 txt.eu
 txt2017.com
 txt2019.cc
@@ -51568,6 +51600,7 @@ vn88.bet
 vn88.biz
 vn88.com
 vn88hn.live
+vn88ok.live
 vn88vui.live
 vnacdnryl.com
 vnadssb.com
@@ -52107,6 +52140,7 @@ waynagmay.com
 waytogrow.eu
 wazensee.net
 wb.interpolls.com
+wb77.net
 wbads.vo.llnwd.net
 wbapp.mobile.sina.cn
 wbdds.com
@@ -52204,6 +52238,7 @@ web0513.com
 web1.51.la
 web1.affiliatelounge.com
 web100kz.com
+web1s.com
 web20-traffic-system.de
 web3000.co.uk
 webads.co.nz
@@ -54269,6 +54304,7 @@ xudawhuwa.com
 xue.zbyw.cn
 xuehelei.com
 xuenengyoujiaoyu.com
+xuetao.site
 xuexi.hydcd.com
 xuexi.wiki
 xueyanshan.com
@@ -54450,6 +54486,7 @@ yanomami.cn
 yantairuide.com
 yantrasbarges.com
 yanyanbiji.com
+yaodaipeishi.cn
 yaofaweb.xyz
 yaohq.com
 yaokuan01.cn
@@ -54886,6 +54923,7 @@ youtuhe.com
 youweiprint.com
 youwenzhi.xyz
 youxingtx.xyz
+youyouluming.xyz
 youyoumw.com
 youzhizi.com
 youzonggw.com
