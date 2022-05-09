@@ -1,6 +1,6 @@
-# Version: 202205081909
+# Version: 202205092207
 # Title: oisd extra
-# Last modified: 8 May 2022 19:09 UTC
+# Last modified: 9 May 2022 22:07 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                 
@@ -146,6 +146,7 @@ address=/campxanh.info/#
 address=/cbba8228b1.com/#
 address=/cc-dt.com/#
 address=/cdn-net.com/#
+address=/cdn2.cache.vn/#
 address=/cea9d3d4f74fb831.com/#
 address=/cedexis.com/#
 address=/chanelventure.club/#

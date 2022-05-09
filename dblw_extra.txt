@@ -1,6 +1,6 @@
-# Version: 202205081909
+# Version: 202205092207
 # Title: oisd extra
-# Last modified: 8 May 2022 19:09 UTC
+# Last modified: 9 May 2022 22:07 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                     
@@ -149,6 +149,7 @@
 *.cbba8228b1.com
 *.cc-dt.com
 *.cdn-net.com
+*.cdn2.cache.vn
 *.cea9d3d4f74fb831.com
 *.cedexis.com
 *.chanelventure.club
