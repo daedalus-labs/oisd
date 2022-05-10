@@ -1,9 +1,9 @@
-# Version: 202205092207
+# Version: 202205102234
 # Title: oisd extra
-# Last modified: 9 May 2022 22:07 UTC
+# Last modified: 10 May 2022 22:34 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
-# Syntax: Domains                                                 
+# Syntax: Domains                                                
 
 0emm.com
 0emn.com
@@ -595,10 +595,7 @@ wurfl.io
 www.0emm.com
 www.0fmm.com
 www.2o7.net
-www.43711cffd26816e.com
 www.56fff.net
-www.5edeb195868e2195.com
-www.6esfc37938pur4.com
 www.810251.com
 www.ad-tool.com
 www.adcade.com
@@ -666,7 +663,6 @@ www.bluestreak.com
 www.bluetoad.com
 www.bm23.com
 www.bn5x.net
-www.bnbir.xyz
 www.branchr.com
 www.bridgetrack.com
 www.brightedge.com
@@ -710,7 +706,6 @@ www.datacaciques.com
 www.decknetwork.net
 www.demandbase.com
 www.demdex.net
-www.dflfnrmi.xyz
 www.dicoah.com
 www.digitaladvisor.dk
 www.dotomi.com
@@ -720,13 +715,10 @@ www.ds4sw9va5hc.com
 www.dzizsih.ru
 www.easycounter.com
 www.easysol.net
-www.ecadikenaz.com
 www.edrone.me
-www.eebcbdca7331314.com
 www.eeoylmkd.com
 www.elastx.net
 www.ensighten.com
-www.errtmotmw.pw
 www.etahub.com
 www.eulerian.net
 www.everesttech.net
@@ -736,7 +728,6 @@ www.exacttarget.com
 www.exitjunction.com
 www.exponea.com
 www.extole.io
-www.ezpush.me
 www.faktor.io
 www.farehitchlower.icu
 www.feature.fm
@@ -746,13 +737,11 @@ www.ff-memnber-garena.com
 www.fireflyengagement.com
 www.foreseeresults.com
 www.forestbrowser.com
-www.fortedrow.pro
 www.forter.com
 www.freegeoip.app
 www.friendbuy.com
 www.fullstory.com
 www.funcionapage.com
-www.gainclick.biz
 www.gemius.pl
 www.geoip-db.com
 www.geojs.io
@@ -769,7 +758,6 @@ www.gomsa.ru
 www.googleadservices.com
 www.gopjn.com
 www.gosquared.com
-www.grouteg.com
 www.growingio.com
 www.hicuojdauo.com
 www.hiddencounter.de
@@ -785,7 +773,6 @@ www.ibryte.com
 www.igg.biz
 www.impactradius.com
 www.incentaclick.com
-www.indcoest.com
 www.indiads.com
 www.inside-graph.com
 www.insightexpress.com
@@ -794,7 +781,6 @@ www.inspectlet.com
 www.instant.page
 www.intelliad.de
 www.intendalinetang.com
-www.inti24.com
 www.investingchannel.com
 www.investmeny.org
 www.invoca.net
@@ -809,7 +795,6 @@ www.jdoqocy.com
 www.jeeng.com
 www.jivox.com
 www.johays.co
-www.jwvwak1a.com
 www.kampyle.com
 www.kira5.ru
 www.kissmetrics.com
@@ -825,19 +810,16 @@ www.lgsmartad.com
 www.liftoff.io
 www.linkev.com
 www.linkwi.se
-www.lioil.club
 www.livetex.ru
 www.logentries.com
 www.loginhood.io
 www.logrocket.com
 www.logsobtainedprediction.com
 www.lomadee.com
-www.loqara.info
 www.luckyorange.com
 www.luckysearch123.com
 www.m2pub.com
 www.mabaya.com
-www.madcash.biz
 www.mairdumont.com
 www.marketingautomation.services
 www.marketo.com
@@ -852,7 +834,6 @@ www.mindtake.com
 www.mkt51.net
 www.mlstat.com
 www.mmtro.com
-www.mobisway.info
 www.moengage.com
 www.moneroocean.stream
 www.moneyplatform.biz
@@ -872,13 +853,10 @@ www.neemu.com
 www.net.kg
 www.netcoresmartech.com
 www.netupdater.info
-www.newisnews.info
-www.newtizz.net
 www.nfiuerwtftasnuk.com
 www.nicesearches.com
 www.njih.net
 www.nonstoppartner.net
-www.npush.site
 www.nr-data.net
 www.nxstx.top
 www.okkkk.com
@@ -922,7 +900,6 @@ www.rdowulajr.xyz
 www.reborko.com
 www.recruitics.com
 www.refersion.com
-www.refpaumckl.top
 www.relevant-digital.com
 www.returnpath.net
 www.revcontent.com

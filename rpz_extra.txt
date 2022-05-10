@@ -1,12 +1,12 @@
-; Version: 202205092207
+; Version: 202205102234
 ; Title: oisd extra
-; Last modified: 9 May 2022 22:07 UTC
+; Last modified: 10 May 2022 22:34 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
-; Syntax: Response Policy Zone                                    
+; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652133601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652220001 86400 3600 604800 30
  NS localhost.
 
 0emm.com CNAME .
@@ -21,14 +21,8 @@ $TTL 30
 *.2cnt.net CNAME .
 2o7.net CNAME .
 *.2o7.net CNAME .
-43711cffd26816e.com CNAME .
-*.43711cffd26816e.com CNAME .
 56fff.net CNAME .
 *.56fff.net CNAME .
-5edeb195868e2195.com CNAME .
-*.5edeb195868e2195.com CNAME .
-6esfc37938pur4.com CNAME .
-*.6esfc37938pur4.com CNAME .
 810251.com CNAME .
 *.810251.com CNAME .
 a.klaviyo.com CNAME .
@@ -243,8 +237,6 @@ bm23.com CNAME .
 *.bm23.com CNAME .
 bn5x.net CNAME .
 *.bn5x.net CNAME .
-bnbir.xyz CNAME .
-*.bnbir.xyz CNAME .
 bp01.net CNAME .
 *.bp01.net CNAME .
 branchr.com CNAME .
@@ -411,8 +403,6 @@ detectvid.com CNAME .
 *.detectvid.com CNAME .
 dev.appboy.com CNAME .
 *.dev.appboy.com CNAME .
-dflfnrmi.xyz CNAME .
-*.dflfnrmi.xyz CNAME .
 dicoah.com CNAME .
 *.dicoah.com CNAME .
 digitaladvisor.dk CNAME .
@@ -441,12 +431,8 @@ easycounter.com CNAME .
 *.easycounter.com CNAME .
 easysol.net CNAME .
 *.easysol.net CNAME .
-ecadikenaz.com CNAME .
-*.ecadikenaz.com CNAME .
 edrone.me CNAME .
 *.edrone.me CNAME .
-eebcbdca7331314.com CNAME .
-*.eebcbdca7331314.com CNAME .
 eeoylmkd.com CNAME .
 *.eeoylmkd.com CNAME .
 elastx.net CNAME .
@@ -455,8 +441,6 @@ ensighten.com CNAME .
 *.ensighten.com CNAME .
 er.search.naver.com CNAME .
 *.er.search.naver.com CNAME .
-errtmotmw.pw CNAME .
-*.errtmotmw.pw CNAME .
 etahub.com CNAME .
 *.etahub.com CNAME .
 eu.spgo.io CNAME .
@@ -505,8 +489,6 @@ ext.goguardian.com CNAME .
 *.ext.goguardian.com CNAME .
 extole.io CNAME .
 *.extole.io CNAME .
-ezpush.me CNAME .
-*.ezpush.me CNAME .
 f-log-at.grammarly.io CNAME .
 *.f-log-at.grammarly.io CNAME .
 faktor.io CNAME .
@@ -531,8 +513,6 @@ foreseeresults.com CNAME .
 *.foreseeresults.com CNAME .
 forestbrowser.com CNAME .
 *.forestbrowser.com CNAME .
-fortedrow.pro CNAME .
-*.fortedrow.pro CNAME .
 forter.com CNAME .
 *.forter.com CNAME .
 fourier.taobao.com CNAME .
@@ -549,8 +529,6 @@ fullstory.com CNAME .
 *.fullstory.com CNAME .
 funcionapage.com CNAME .
 *.funcionapage.com CNAME .
-gainclick.biz CNAME .
-*.gainclick.biz CNAME .
 gc.zgo.at CNAME .
 *.gc.zgo.at CNAME .
 gecko-sg.byteoversea.com CNAME .
@@ -597,8 +575,6 @@ gosquared.com CNAME .
 *.gosquared.com CNAME .
 graph.facebook.com CNAME .
 *.graph.facebook.com CNAME .
-grouteg.com CNAME .
-*.grouteg.com CNAME .
 growingio.com CNAME .
 *.growingio.com CNAME .
 gvt2.com CNAME .
@@ -647,8 +623,6 @@ incentaclick.com CNAME .
 *.incentaclick.com CNAME .
 includecheck.oisd.nl CNAME .
 *.includecheck.oisd.nl CNAME .
-indcoest.com CNAME .
-*.indcoest.com CNAME .
 indexww.com CNAME .
 *.indexww.com CNAME .
 indiads.com CNAME .
@@ -671,8 +645,6 @@ intelliad.de CNAME .
 *.intelliad.de CNAME .
 intendalinetang.com CNAME .
 *.intendalinetang.com CNAME .
-inti24.com CNAME .
-*.inti24.com CNAME .
 investingchannel.com CNAME .
 *.investingchannel.com CNAME .
 investmeny.org CNAME .
@@ -707,8 +679,6 @@ js-agent.newrelic.com CNAME .
 *.js-agent.newrelic.com CNAME .
 jwpltx.com CNAME .
 *.jwpltx.com CNAME .
-jwvwak1a.com CNAME .
-*.jwvwak1a.com CNAME .
 kampyle.com CNAME .
 *.kampyle.com CNAME .
 kaxsdc.com CNAME .
@@ -745,8 +715,6 @@ linkev.com CNAME .
 *.linkev.com CNAME .
 linkwi.se CNAME .
 *.linkwi.se CNAME .
-lioil.club CNAME .
-*.lioil.club CNAME .
 livetex.ru CNAME .
 *.livetex.ru CNAME .
 log-tb.sgsnssdk.com CNAME .
@@ -773,8 +741,6 @@ logsobtainedprediction.com CNAME .
 *.logsobtainedprediction.com CNAME .
 lomadee.com CNAME .
 *.lomadee.com CNAME .
-loqara.info CNAME .
-*.loqara.info CNAME .
 luckyorange.com CNAME .
 *.luckyorange.com CNAME .
 luckysearch123.com CNAME .
@@ -783,8 +749,6 @@ m2pub.com CNAME .
 *.m2pub.com CNAME .
 mabaya.com CNAME .
 *.mabaya.com CNAME .
-madcash.biz CNAME .
-*.madcash.biz CNAME .
 magicplayer-api.torrentstream.org CNAME .
 *.magicplayer-api.torrentstream.org CNAME .
 magicplayer-s.acestream.net CNAME .
@@ -837,8 +801,6 @@ mmstat.com CNAME .
 *.mmstat.com CNAME .
 mmtro.com CNAME .
 *.mmtro.com CNAME .
-mobisway.info CNAME .
-*.mobisway.info CNAME .
 moengage.com CNAME .
 *.moengage.com CNAME .
 moneroocean.stream CNAME .
@@ -883,12 +845,8 @@ netcoresmartech.com CNAME .
 *.netcoresmartech.com CNAME .
 netupdater.info CNAME .
 *.netupdater.info CNAME .
-newisnews.info CNAME .
-*.newisnews.info CNAME .
 news-easy.org CNAME .
 *.news-easy.org CNAME .
-newtizz.net CNAME .
-*.newtizz.net CNAME .
 nfiuerwtftasnuk.com CNAME .
 *.nfiuerwtftasnuk.com CNAME .
 nicesearches.com CNAME .
@@ -901,8 +859,6 @@ nmetrics.samsung.com CNAME .
 *.nmetrics.samsung.com CNAME .
 nonstoppartner.net CNAME .
 *.nonstoppartner.net CNAME .
-npush.site CNAME .
-*.npush.site CNAME .
 nr-data.net CNAME .
 *.nr-data.net CNAME .
 nxstx.top CNAME .
@@ -1063,8 +1019,6 @@ referrer.disqus.com CNAME .
 *.referrer.disqus.com CNAME .
 refersion.com CNAME .
 *.refersion.com CNAME .
-refpaumckl.top CNAME .
-*.refpaumckl.top CNAME .
 register.xmpush.xiaomi.com CNAME .
 *.register.xmpush.xiaomi.com CNAME .
 relevant-digital.com CNAME .

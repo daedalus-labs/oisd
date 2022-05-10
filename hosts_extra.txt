@@ -1,9 +1,9 @@
-# Version: 202205092207
+# Version: 202205102234
 # Title: oisd extra
-# Last modified: 9 May 2022 22:07 UTC
+# Last modified: 10 May 2022 22:34 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
-# Syntax: Hosts                                                   
+# Syntax: Hosts                                                  
 
 0.0.0.0 0emm.com
 0.0.0.0 0emn.com
@@ -595,10 +595,7 @@
 0.0.0.0 www.0emm.com
 0.0.0.0 www.0fmm.com
 0.0.0.0 www.2o7.net
-0.0.0.0 www.43711cffd26816e.com
 0.0.0.0 www.56fff.net
-0.0.0.0 www.5edeb195868e2195.com
-0.0.0.0 www.6esfc37938pur4.com
 0.0.0.0 www.810251.com
 0.0.0.0 www.ad-tool.com
 0.0.0.0 www.adcade.com
@@ -666,7 +663,6 @@
 0.0.0.0 www.bluetoad.com
 0.0.0.0 www.bm23.com
 0.0.0.0 www.bn5x.net
-0.0.0.0 www.bnbir.xyz
 0.0.0.0 www.branchr.com
 0.0.0.0 www.bridgetrack.com
 0.0.0.0 www.brightedge.com
@@ -710,7 +706,6 @@
 0.0.0.0 www.decknetwork.net
 0.0.0.0 www.demandbase.com
 0.0.0.0 www.demdex.net
-0.0.0.0 www.dflfnrmi.xyz
 0.0.0.0 www.dicoah.com
 0.0.0.0 www.digitaladvisor.dk
 0.0.0.0 www.dotomi.com
@@ -720,13 +715,10 @@
 0.0.0.0 www.dzizsih.ru
 0.0.0.0 www.easycounter.com
 0.0.0.0 www.easysol.net
-0.0.0.0 www.ecadikenaz.com
 0.0.0.0 www.edrone.me
-0.0.0.0 www.eebcbdca7331314.com
 0.0.0.0 www.eeoylmkd.com
 0.0.0.0 www.elastx.net
 0.0.0.0 www.ensighten.com
-0.0.0.0 www.errtmotmw.pw
 0.0.0.0 www.etahub.com
 0.0.0.0 www.eulerian.net
 0.0.0.0 www.everesttech.net
@@ -736,7 +728,6 @@
 0.0.0.0 www.exitjunction.com
 0.0.0.0 www.exponea.com
 0.0.0.0 www.extole.io
-0.0.0.0 www.ezpush.me
 0.0.0.0 www.faktor.io
 0.0.0.0 www.farehitchlower.icu
 0.0.0.0 www.feature.fm
@@ -746,13 +737,11 @@
 0.0.0.0 www.fireflyengagement.com
 0.0.0.0 www.foreseeresults.com
 0.0.0.0 www.forestbrowser.com
-0.0.0.0 www.fortedrow.pro
 0.0.0.0 www.forter.com
 0.0.0.0 www.freegeoip.app
 0.0.0.0 www.friendbuy.com
 0.0.0.0 www.fullstory.com
 0.0.0.0 www.funcionapage.com
-0.0.0.0 www.gainclick.biz
 0.0.0.0 www.gemius.pl
 0.0.0.0 www.geoip-db.com
 0.0.0.0 www.geojs.io
@@ -769,7 +758,6 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.gopjn.com
 0.0.0.0 www.gosquared.com
-0.0.0.0 www.grouteg.com
 0.0.0.0 www.growingio.com
 0.0.0.0 www.hicuojdauo.com
 0.0.0.0 www.hiddencounter.de
@@ -785,7 +773,6 @@
 0.0.0.0 www.igg.biz
 0.0.0.0 www.impactradius.com
 0.0.0.0 www.incentaclick.com
-0.0.0.0 www.indcoest.com
 0.0.0.0 www.indiads.com
 0.0.0.0 www.inside-graph.com
 0.0.0.0 www.insightexpress.com
@@ -794,7 +781,6 @@
 0.0.0.0 www.instant.page
 0.0.0.0 www.intelliad.de
 0.0.0.0 www.intendalinetang.com
-0.0.0.0 www.inti24.com
 0.0.0.0 www.investingchannel.com
 0.0.0.0 www.investmeny.org
 0.0.0.0 www.invoca.net
@@ -809,7 +795,6 @@
 0.0.0.0 www.jeeng.com
 0.0.0.0 www.jivox.com
 0.0.0.0 www.johays.co
-0.0.0.0 www.jwvwak1a.com
 0.0.0.0 www.kampyle.com
 0.0.0.0 www.kira5.ru
 0.0.0.0 www.kissmetrics.com
@@ -825,19 +810,16 @@
 0.0.0.0 www.liftoff.io
 0.0.0.0 www.linkev.com
 0.0.0.0 www.linkwi.se
-0.0.0.0 www.lioil.club
 0.0.0.0 www.livetex.ru
 0.0.0.0 www.logentries.com
 0.0.0.0 www.loginhood.io
 0.0.0.0 www.logrocket.com
 0.0.0.0 www.logsobtainedprediction.com
 0.0.0.0 www.lomadee.com
-0.0.0.0 www.loqara.info
 0.0.0.0 www.luckyorange.com
 0.0.0.0 www.luckysearch123.com
 0.0.0.0 www.m2pub.com
 0.0.0.0 www.mabaya.com
-0.0.0.0 www.madcash.biz
 0.0.0.0 www.mairdumont.com
 0.0.0.0 www.marketingautomation.services
 0.0.0.0 www.marketo.com
@@ -852,7 +834,6 @@
 0.0.0.0 www.mkt51.net
 0.0.0.0 www.mlstat.com
 0.0.0.0 www.mmtro.com
-0.0.0.0 www.mobisway.info
 0.0.0.0 www.moengage.com
 0.0.0.0 www.moneroocean.stream
 0.0.0.0 www.moneyplatform.biz
@@ -872,13 +853,10 @@
 0.0.0.0 www.net.kg
 0.0.0.0 www.netcoresmartech.com
 0.0.0.0 www.netupdater.info
-0.0.0.0 www.newisnews.info
-0.0.0.0 www.newtizz.net
 0.0.0.0 www.nfiuerwtftasnuk.com
 0.0.0.0 www.nicesearches.com
 0.0.0.0 www.njih.net
 0.0.0.0 www.nonstoppartner.net
-0.0.0.0 www.npush.site
 0.0.0.0 www.nr-data.net
 0.0.0.0 www.nxstx.top
 0.0.0.0 www.okkkk.com
@@ -922,7 +900,6 @@
 0.0.0.0 www.reborko.com
 0.0.0.0 www.recruitics.com
 0.0.0.0 www.refersion.com
-0.0.0.0 www.refpaumckl.top
 0.0.0.0 www.relevant-digital.com
 0.0.0.0 www.returnpath.net
 0.0.0.0 www.revcontent.com

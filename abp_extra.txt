@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202205092207
+! Version: 202205102234
 ! Title: oisd extra
-! Last modified: 9 May 2022 22:07 UTC
+! Last modified: 10 May 2022 22:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
-! Syntax: Adblock Plus Filter List                 
+! Syntax: Adblock Plus Filter List                
 
 ||0emm.com^
 ||0emn.com^
@@ -12,10 +12,7 @@
 ||247-inc.net^
 ||2cnt.net^
 ||2o7.net^
-||43711cffd26816e.com^
 ||56fff.net^
-||5edeb195868e2195.com^
-||6esfc37938pur4.com^
 ||810251.com^
 ||a.klaviyo.com^
 ||a.wishabi.com^
@@ -123,7 +120,6 @@
 ||bluetoad.com^
 ||bm23.com^
 ||bn5x.net^
-||bnbir.xyz^
 ||bp01.net^
 ||branchr.com^
 ||bridgetrack.com^
@@ -207,7 +203,6 @@
 ||demdex.net^
 ||detectvid.com^
 ||dev.appboy.com^
-||dflfnrmi.xyz^
 ||dicoah.com^
 ||digitaladvisor.dk^
 ||djtflbt20bdde.cloudfront.net^
@@ -222,14 +217,11 @@
 ||dzizsih.ru^
 ||easycounter.com^
 ||easysol.net^
-||ecadikenaz.com^
 ||edrone.me^
-||eebcbdca7331314.com^
 ||eeoylmkd.com^
 ||elastx.net^
 ||ensighten.com^
 ||er.search.naver.com^
-||errtmotmw.pw^
 ||etahub.com^
 ||eu.spgo.io^
 ||eulerian.brandalley.fr^
@@ -254,7 +246,6 @@
 ||exponea.com^
 ||ext.goguardian.com^
 ||extole.io^
-||ezpush.me^
 ||f-log-at.grammarly.io^
 ||faktor.io^
 ||farehitchlower.icu^
@@ -267,7 +258,6 @@
 ||flx1.com^
 ||foreseeresults.com^
 ||forestbrowser.com^
-||fortedrow.pro^
 ||forter.com^
 ||fourier.taobao.com^
 ||freegeoip.app^
@@ -276,7 +266,6 @@
 ||frontier.musical.ly^
 ||fullstory.com^
 ||funcionapage.com^
-||gainclick.biz^
 ||gc.zgo.at^
 ||gecko-sg.byteoversea.com^
 ||gekko.spiceworks.com^
@@ -300,7 +289,6 @@
 ||gopjn.com^
 ||gosquared.com^
 ||graph.facebook.com^
-||grouteg.com^
 ||growingio.com^
 ||gvt2.com^
 ||hicuojdauo.com^
@@ -325,7 +313,6 @@
 ||impactradius.com^
 ||incentaclick.com^
 ||includecheck.oisd.nl^
-||indcoest.com^
 ||indexww.com^
 ||indiads.com^
 ||informer.yandex.ru^
@@ -337,7 +324,6 @@
 ||instant.page^
 ||intelliad.de^
 ||intendalinetang.com^
-||inti24.com^
 ||investingchannel.com^
 ||investmeny.org^
 ||invoca.net^
@@ -355,7 +341,6 @@
 ||johays.co^
 ||js-agent.newrelic.com^
 ||jwpltx.com^
-||jwvwak1a.com^
 ||kampyle.com^
 ||kaxsdc.com^
 ||kira5.ru^
@@ -374,7 +359,6 @@
 ||liftoff.io^
 ||linkev.com^
 ||linkwi.se^
-||lioil.club^
 ||livetex.ru^
 ||log-tb.sgsnssdk.com^
 ||log-upload-os.hoyoverse.com^
@@ -388,12 +372,10 @@
 ||logs.datadoghq.eu^
 ||logsobtainedprediction.com^
 ||lomadee.com^
-||loqara.info^
 ||luckyorange.com^
 ||luckysearch123.com^
 ||m2pub.com^
 ||mabaya.com^
-||madcash.biz^
 ||magicplayer-api.torrentstream.org^
 ||magicplayer-s.acestream.net^
 ||magicplayer-s.torrentstream.org^
@@ -420,7 +402,6 @@
 ||mlstat.com^
 ||mmstat.com^
 ||mmtro.com^
-||mobisway.info^
 ||moengage.com^
 ||moneroocean.stream^
 ||moneyplatform.biz^
@@ -443,16 +424,13 @@
 ||netcore.co.in^
 ||netcoresmartech.com^
 ||netupdater.info^
-||newisnews.info^
 ||news-easy.org^
-||newtizz.net^
 ||nfiuerwtftasnuk.com^
 ||nicesearches.com^
 ||nil.naver.com^
 ||njih.net^
 ||nmetrics.samsung.com^
 ||nonstoppartner.net^
-||npush.site^
 ||nr-data.net^
 ||nxstx.top^
 ||o2o.api.xiaomi.com^
@@ -533,7 +511,6 @@
 ||refer.wordpress.com^
 ||referrer.disqus.com^
 ||refersion.com^
-||refpaumckl.top^
 ||register.xmpush.xiaomi.com^
 ||relevant-digital.com^
 ||researchnow.co.uk^
