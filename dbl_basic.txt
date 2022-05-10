@@ -1,9 +1,9 @@
-# Version: 202205092206
+# Version: 202205101647
 # Title: oisd basic
-# Last modified: 9 May 2022 22:06 UTC
+# Last modified: 10 May 2022 16:47 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
-# Syntax: Domains                                                 
+# Syntax: Domains                                                
 
 0.r.msn.com
 00-gov.cn
@@ -52289,7 +52289,6 @@ webgozar.ir
 webgringo.ru
 webhit.snd.no
 webhits.de
-webhook.logentries.com
 webhostingcounter.com
 webid.ad.daum.net
 webiklan.com

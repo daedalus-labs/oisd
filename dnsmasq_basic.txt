@@ -1,9 +1,9 @@
-# Version: 202205092206
+# Version: 202205101647
 # Title: oisd basic
-# Last modified: 9 May 2022 22:06 UTC
+# Last modified: 10 May 2022 16:47 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
-# Syntax: DNSMasq                                                 
+# Syntax: DNSMasq                                                
 
 address=/00-gov.cn/#
 address=/000.gaysexe.free.fr/#
@@ -44876,7 +44876,6 @@ address=/webgozar.ir/#
 address=/webgringo.ru/#
 address=/webhit.snd.no/#
 address=/webhits.de/#
-address=/webhook.logentries.com/#
 address=/webhostingcounter.com/#
 address=/webiklan.com/#
 address=/webinstats.com/#
