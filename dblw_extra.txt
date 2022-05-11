@@ -1,6 +1,6 @@
-# Version: 202205102234
+# Version: 202205112148
 # Title: oisd extra
-# Last modified: 10 May 2022 22:34 UTC
+# Last modified: 11 May 2022 21:48 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -372,6 +372,7 @@
 *.logrocket.com
 *.logs.amap.com
 *.logs.datadoghq.eu
+*.logs.eu-west-1.amazonaws.com
 *.logsobtainedprediction.com
 *.lomadee.com
 *.luckyorange.com

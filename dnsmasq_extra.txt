@@ -1,6 +1,6 @@
-# Version: 202205102234
+# Version: 202205112148
 # Title: oisd extra
-# Last modified: 10 May 2022 22:34 UTC
+# Last modified: 11 May 2022 21:48 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -369,6 +369,7 @@ address=/loginhood.io/#
 address=/logrocket.com/#
 address=/logs.amap.com/#
 address=/logs.datadoghq.eu/#
+address=/logs.eu-west-1.amazonaws.com/#
 address=/logsobtainedprediction.com/#
 address=/lomadee.com/#
 address=/luckyorange.com/#
