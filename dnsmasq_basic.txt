@@ -1,6 +1,6 @@
-# Version: 202205102233
+# Version: 202205111802
 # Title: oisd basic
-# Last modified: 10 May 2022 22:33 UTC
+# Last modified: 11 May 2022 18:02 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -26033,7 +26033,6 @@ address=/logs.51cto.com/#
 address=/logs.81plug.com/#
 address=/logs.docnhanh.com.vn/#
 address=/logs.eresmas.com/#
-address=/logs.eu-west-1.amazonaws.com/#
 address=/logs.gaaana.com/#
 address=/logs.gaana.com/#
 address=/logs.giaoducthoidai.vn/#

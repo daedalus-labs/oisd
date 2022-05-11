@@ -1,6 +1,6 @@
-# Version: 202205102233
+# Version: 202205111802
 # Title: oisd basic
-# Last modified: 10 May 2022 22:33 UTC
+# Last modified: 11 May 2022 18:02 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -26036,7 +26036,6 @@
 *.logs.81plug.com
 *.logs.docnhanh.com.vn
 *.logs.eresmas.com
-*.logs.eu-west-1.amazonaws.com
 *.logs.gaaana.com
 *.logs.gaana.com
 *.logs.giaoducthoidai.vn
