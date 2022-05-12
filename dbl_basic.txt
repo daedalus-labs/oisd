@@ -1,6 +1,6 @@
-# Version: 202205120812
+# Version: 202205121027
 # Title: oisd basic
-# Last modified: 12 May 2022 08:12 UTC
+# Last modified: 12 May 2022 10:27 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                
@@ -27089,7 +27089,6 @@ isletachoisya.cam
 ism2trk.com
 ismatlab.com
 ismlks.com
-isnwkcxe.com
 iso100.ru
 isohits.com
 isolationmildred.com
@@ -28681,7 +28680,6 @@ knja123.top
 knk95.cn
 knkqjmjyxzev.info
 knkyeterla.cc
-knneqqbgxeot.top
 knorex.com
 knotkettle.com
 knottysticks.com
@@ -40979,7 +40977,6 @@ rnldustal.com
 rnmd.net
 rnnuw.com
 rnotraff.com
-rnovhhli.com
 rnwbrm.com
 ro-gmtdmp.mookie1.com
 ro.search.etargetnet.com
@@ -56000,4 +55997,3 @@ zzxxli.club
 zzyonghao.com
 zzyytt.top
 zzznews.ru
-

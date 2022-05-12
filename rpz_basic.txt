@@ -1,12 +1,12 @@
-; Version: 202205120812
+; Version: 202205121027
 ; Title: oisd basic
-; Last modified: 12 May 2022 08:12 UTC
+; Last modified: 12 May 2022 10:27 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652343176 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652351036 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -24569,6 +24569,10 @@ collector-hpn.ghostery.net CNAME .
 *.collector-hpn.ghostery.net CNAME .
 collector-px8fcgygk4.px-cloud.net CNAME .
 *.collector-px8fcgygk4.px-cloud.net CNAME .
+collector-pxel3l4xih.perimeterx.net CNAME .
+*.collector-pxel3l4xih.perimeterx.net CNAME .
+collector-pxuarm9b04.perimeterx.net CNAME .
+*.collector-pxuarm9b04.perimeterx.net CNAME .
 collector.appconsent.io CNAME .
 *.collector.appconsent.io CNAME .
 collector.automote.co.nz CNAME .
@@ -46335,8 +46339,6 @@ ismatlab.com CNAME .
 *.ismatlab.com CNAME .
 ismlks.com CNAME .
 *.ismlks.com CNAME .
-isnwkcxe.com CNAME .
-*.isnwkcxe.com CNAME .
 iso100.ru CNAME .
 *.iso100.ru CNAME .
 isohits.com CNAME .
@@ -49165,8 +49167,6 @@ knkqjmjyxzev.info CNAME .
 *.knkqjmjyxzev.info CNAME .
 knkyeterla.cc CNAME .
 *.knkyeterla.cc CNAME .
-knneqqbgxeot.top CNAME .
-*.knneqqbgxeot.top CNAME .
 knorex.com CNAME .
 *.knorex.com CNAME .
 knotkettle.com CNAME .
@@ -67499,6 +67499,8 @@ pwrlkyotm.com CNAME .
 *.pwrlkyotm.com CNAME .
 pwwghcyzsn.info CNAME .
 *.pwwghcyzsn.info CNAME .
+px-conf.perimeterx.net CNAME .
+*.px-conf.perimeterx.net CNAME .
 px.dmp.zaloapp.com CNAME .
 *.px.dmp.zaloapp.com CNAME .
 px.dynamicyield.com CNAME .
@@ -70879,8 +70881,6 @@ rnnuw.com CNAME .
 *.rnnuw.com CNAME .
 rnotraff.com CNAME .
 *.rnotraff.com CNAME .
-rnovhhli.com CNAME .
-*.rnovhhli.com CNAME .
 rnwbrm.com CNAME .
 *.rnwbrm.com CNAME .
 ro2.biz CNAME .
@@ -96009,6 +96009,3 @@ zzyytt.top CNAME .
 *.zzyytt.top CNAME .
 zzznews.ru CNAME .
 *.zzznews.ru CNAME .
-
-
-

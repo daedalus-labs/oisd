@@ -1,6 +1,6 @@
-# Version: 202205120812
+# Version: 202205121027
 # Title: oisd basic
-# Last modified: 12 May 2022 08:12 UTC
+# Last modified: 12 May 2022 10:27 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -12285,6 +12285,8 @@ address=/collector-dev.cdp-dev.cnn.com/#
 address=/collector-hpn.cliqz.com/#
 address=/collector-hpn.ghostery.net/#
 address=/collector-px8fcgygk4.px-cloud.net/#
+address=/collector-pxel3l4xih.perimeterx.net/#
+address=/collector-pxuarm9b04.perimeterx.net/#
 address=/collector.appconsent.io/#
 address=/collector.automote.co.nz/#
 address=/collector.brandify.com/#
@@ -23168,7 +23170,6 @@ address=/isletachoisya.cam/#
 address=/ism2trk.com/#
 address=/ismatlab.com/#
 address=/ismlks.com/#
-address=/isnwkcxe.com/#
 address=/iso100.ru/#
 address=/isohits.com/#
 address=/isolationmildred.com/#
@@ -24583,7 +24584,6 @@ address=/knja123.top/#
 address=/knk95.cn/#
 address=/knkqjmjyxzev.info/#
 address=/knkyeterla.cc/#
-address=/knneqqbgxeot.top/#
 address=/knorex.com/#
 address=/knotkettle.com/#
 address=/knottysticks.com/#
@@ -33750,6 +33750,7 @@ address=/pwrads.net/#
 address=/pwrfcia.com/#
 address=/pwrlkyotm.com/#
 address=/pwwghcyzsn.info/#
+address=/px-conf.perimeterx.net/#
 address=/px.dmp.zaloapp.com/#
 address=/px.dynamicyield.com/#
 address=/px.effirst.com/#
@@ -35440,7 +35441,6 @@ address=/rnldustal.com/#
 address=/rnmd.net/#
 address=/rnnuw.com/#
 address=/rnotraff.com/#
-address=/rnovhhli.com/#
 address=/rnwbrm.com/#
 address=/ro2.biz/#
 address=/ro7s8wo57qnb.com/#
@@ -48005,4 +48005,3 @@ address=/zzxxli.club/#
 address=/zzyonghao.com/#
 address=/zzyytt.top/#
 address=/zzznews.ru/#
-
