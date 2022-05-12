@@ -1,6 +1,6 @@
-# Version: 202205112342
+# Version: 202205120812
 # Title: oisd basic
-# Last modified: 11 May 2022 23:42 UTC
+# Last modified: 12 May 2022 08:12 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                
@@ -36821,7 +36821,6 @@ perienfcefot.top
 perigshfnon.com
 periljuicywary.com
 perilouslimb.com
-perimeterx.net
 perinstallcash.com
 periodicpocket.com
 periodsalter.com
@@ -43484,7 +43483,6 @@ sieukeo.live
 sieveinterposed.com
 sifomedia.se
 sift-campaign-creatives.sift.co
-sift.com
 siftshortagepopped.com
 sighash.info
 sightjutfar.com
@@ -56002,3 +56000,4 @@ zzxxli.club
 zzyonghao.com
 zzyytt.top
 zzznews.ru
+

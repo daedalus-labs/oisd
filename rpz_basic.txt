@@ -1,12 +1,12 @@
-; Version: 202205112342
+; Version: 202205120812
 ; Title: oisd basic
-; Last modified: 11 May 2022 23:42 UTC
+; Last modified: 12 May 2022 08:12 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652310481 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652343176 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -63655,8 +63655,6 @@ periljuicywary.com CNAME .
 *.periljuicywary.com CNAME .
 perilouslimb.com CNAME .
 *.perilouslimb.com CNAME .
-perimeterx.net CNAME .
-*.perimeterx.net CNAME .
 perinstallcash.com CNAME .
 *.perinstallcash.com CNAME .
 periodicpocket.com CNAME .
@@ -74789,8 +74787,6 @@ sifomedia.se CNAME .
 *.sifomedia.se CNAME .
 sift-campaign-creatives.sift.co CNAME .
 *.sift-campaign-creatives.sift.co CNAME .
-sift.com CNAME .
-*.sift.com CNAME .
 siftshortagepopped.com CNAME .
 *.siftshortagepopped.com CNAME .
 sighash.info CNAME .
@@ -96013,3 +96009,6 @@ zzyytt.top CNAME .
 *.zzyytt.top CNAME .
 zzznews.ru CNAME .
 *.zzznews.ru CNAME .
+
+
+
