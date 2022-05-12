@@ -1,6 +1,6 @@
-# Version: 202205112148
+# Version: 202205121028
 # Title: oisd extra
-# Last modified: 11 May 2022 21:48 UTC
+# Last modified: 12 May 2022 10:28 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -461,6 +461,7 @@
 *.pepperjamnetwork.com
 *.perfalytics.com
 *.perfdrive.com
+*.perimeterx.net
 *.perr.h-cdn.com
 *.pf.intuit.com
 *.pidorg.ru
@@ -561,6 +562,7 @@
 *.shitiphu.com
 *.shiyaokejishanghai.com
 *.siamzone.com
+*.sift.com
 *.siftscience.com
 *.simpliftsbefore.info
 *.siteplug.com

@@ -1,6 +1,6 @@
-# Version: 202205112148
+# Version: 202205121028
 # Title: oisd extra
-# Last modified: 11 May 2022 21:48 UTC
+# Last modified: 12 May 2022 10:28 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -401,6 +401,7 @@
 0.0.0.0 pepperjamnetwork.com
 0.0.0.0 perfalytics.com
 0.0.0.0 perfdrive.com
+0.0.0.0 perimeterx.net
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 pf.intuit.com
 0.0.0.0 pidorg.ru
@@ -487,6 +488,7 @@
 0.0.0.0 serving-sys.com
 0.0.0.0 sessioncam.com
 0.0.0.0 siamzone.com
+0.0.0.0 sift.com
 0.0.0.0 siftscience.com
 0.0.0.0 simpliftsbefore.info
 0.0.0.0 siteplug.com
@@ -875,6 +877,7 @@
 0.0.0.0 www.partypoker.com
 0.0.0.0 www.peerius.com
 0.0.0.0 www.pepperjamnetwork.com
+0.0.0.0 www.perimeterx.net
 0.0.0.0 www.piwik.org
 0.0.0.0 www.pjatr.com
 0.0.0.0 www.pjtra.com
@@ -926,6 +929,7 @@
 0.0.0.0 www.shitiphu.com
 0.0.0.0 www.shiyaokejishanghai.com
 0.0.0.0 www.siamzone.com
+0.0.0.0 www.sift.com
 0.0.0.0 www.siftscience.com
 0.0.0.0 www.siteplug.com
 0.0.0.0 www.sitetracker.com

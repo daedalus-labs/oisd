@@ -1,6 +1,6 @@
-# Version: 202205112148
+# Version: 202205121028
 # Title: oisd extra
-# Last modified: 11 May 2022 21:48 UTC
+# Last modified: 12 May 2022 10:28 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -458,6 +458,7 @@ address=/peerius.com/#
 address=/pepperjamnetwork.com/#
 address=/perfalytics.com/#
 address=/perfdrive.com/#
+address=/perimeterx.net/#
 address=/perr.h-cdn.com/#
 address=/pf.intuit.com/#
 address=/pidorg.ru/#
@@ -558,6 +559,7 @@ address=/shengyaxd.com/#
 address=/shitiphu.com/#
 address=/shiyaokejishanghai.com/#
 address=/siamzone.com/#
+address=/sift.com/#
 address=/siftscience.com/#
 address=/simpliftsbefore.info/#
 address=/siteplug.com/#
