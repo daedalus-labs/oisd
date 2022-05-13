@@ -1,6 +1,6 @@
-# Version: 202205121028
+# Version: 202205131144
 # Title: oisd extra
-# Last modified: 12 May 2022 10:28 UTC
+# Last modified: 13 May 2022 11:44 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -432,7 +432,6 @@ address=/njih.net/#
 address=/nmetrics.samsung.com/#
 address=/nonstoppartner.net/#
 address=/nr-data.net/#
-address=/nxstx.top/#
 address=/o2o.api.xiaomi.com/#
 address=/okkkk.com/#
 address=/okt.to/#
@@ -474,7 +473,6 @@ address=/player-feedback-v1.glomex.com/#
 address=/pntra.com/#
 address=/pntrac.com/#
 address=/pntrs.com/#
-address=/pofqm.xyz/#
 address=/polobook.club/#
 address=/postclickmarketing.com/#
 address=/ppcprotect.com/#
@@ -484,7 +482,6 @@ address=/promoted.soundcloud.com/#
 address=/prvsz4pe.micpn.com/#
 address=/publicidees.com/#
 address=/pubmatic.com/#
-address=/purplegrasscolour.xyz/#
 address=/pushwelcome.com/#
 address=/pushwoosh.com/#
 address=/pv.sohu.com/#
@@ -505,7 +502,6 @@ address=/ramp.purch.com/#
 address=/rat.rakuten.co.jp/#
 address=/rdowulajr.xyz/#
 address=/realsrv.com/#
-address=/reborko.com/#
 address=/recruitics.com/#
 address=/recs.richrelevance.com/#
 address=/redirect-ads.com/#
@@ -542,7 +538,6 @@ address=/seal.digicert.com/#
 address=/seal.godaddy.com/#
 address=/seal.networksolutions.com/#
 address=/search2000s.com/#
-address=/seavideo22.com/#
 address=/securitymetrics.com/#
 address=/sedoparking.com/#
 address=/seed.bitcoin.sipa.be/#
@@ -595,7 +590,6 @@ address=/streambeam.io/#
 address=/sts.eccmp.com/#
 address=/sumo.com/#
 address=/sundaysky.com/#
-address=/sxtut.org/#
 address=/t.appsflyer.com/#
 address=/t.indeed.com/#
 address=/t.wayfair.com/#
@@ -619,7 +613,6 @@ address=/thewebanswers.com/#
 address=/thewebgemnetwork.com/#
 address=/tidaltv.com/#
 address=/tisagama.com/#
-address=/tisarama.com/#
 address=/tm.tradetracker.net/#
 address=/tms-st.cdn.ngenix.net/#
 address=/todhamilton.pro/#
@@ -643,13 +636,11 @@ address=/trbo.com/#
 address=/treehousei.com/#
 address=/trk.pinterest.com/#
 address=/trotux.com/#
-address=/tubogomifo.com/#
 address=/tvbpusyqohxu.com/#
 address=/twopointo.io/#
 address=/ud831d4.com/#
 address=/ue.flipboard.com/#
 address=/uid.mavencoalition.io/#
-address=/ulenr.top/#
 address=/universalsearches.com/#
 address=/unmord.com/#
 address=/uriuridfg.com/#

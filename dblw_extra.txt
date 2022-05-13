@@ -1,6 +1,6 @@
-# Version: 202205121028
+# Version: 202205131144
 # Title: oisd extra
-# Last modified: 12 May 2022 10:28 UTC
+# Last modified: 13 May 2022 11:44 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -435,7 +435,6 @@
 *.nmetrics.samsung.com
 *.nonstoppartner.net
 *.nr-data.net
-*.nxstx.top
 *.o2o.api.xiaomi.com
 *.okkkk.com
 *.okt.to
@@ -477,7 +476,6 @@
 *.pntra.com
 *.pntrac.com
 *.pntrs.com
-*.pofqm.xyz
 *.polobook.club
 *.postclickmarketing.com
 *.ppcprotect.com
@@ -487,7 +485,6 @@
 *.prvsz4pe.micpn.com
 *.publicidees.com
 *.pubmatic.com
-*.purplegrasscolour.xyz
 *.pushwelcome.com
 *.pushwoosh.com
 *.pv.sohu.com
@@ -508,7 +505,6 @@
 *.rat.rakuten.co.jp
 *.rdowulajr.xyz
 *.realsrv.com
-*.reborko.com
 *.recruitics.com
 *.recs.richrelevance.com
 *.redirect-ads.com
@@ -545,7 +541,6 @@
 *.seal.godaddy.com
 *.seal.networksolutions.com
 *.search2000s.com
-*.seavideo22.com
 *.securitymetrics.com
 *.sedoparking.com
 *.seed.bitcoin.sipa.be
@@ -598,7 +593,6 @@
 *.sts.eccmp.com
 *.sumo.com
 *.sundaysky.com
-*.sxtut.org
 *.t.appsflyer.com
 *.t.indeed.com
 *.t.wayfair.com
@@ -622,7 +616,6 @@
 *.thewebgemnetwork.com
 *.tidaltv.com
 *.tisagama.com
-*.tisarama.com
 *.tm.tradetracker.net
 *.tms-st.cdn.ngenix.net
 *.todhamilton.pro
@@ -646,13 +639,11 @@
 *.treehousei.com
 *.trk.pinterest.com
 *.trotux.com
-*.tubogomifo.com
 *.tvbpusyqohxu.com
 *.twopointo.io
 *.ud831d4.com
 *.ue.flipboard.com
 *.uid.mavencoalition.io
-*.ulenr.top
 *.universalsearches.com
 *.unmord.com
 *.uriuridfg.com

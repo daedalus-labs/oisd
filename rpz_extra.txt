@@ -1,12 +1,12 @@
-; Version: 202205121028
+; Version: 202205131144
 ; Title: oisd extra
-; Last modified: 12 May 2022 10:28 UTC
+; Last modified: 13 May 2022 11:44 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652351036 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652440081 86400 3600 604800 30
  NS localhost.
 
 0emm.com CNAME .
@@ -863,8 +863,6 @@ nonstoppartner.net CNAME .
 *.nonstoppartner.net CNAME .
 nr-data.net CNAME .
 *.nr-data.net CNAME .
-nxstx.top CNAME .
-*.nxstx.top CNAME .
 o2o.api.xiaomi.com CNAME .
 *.o2o.api.xiaomi.com CNAME .
 okkkk.com CNAME .
@@ -947,8 +945,6 @@ pntrac.com CNAME .
 *.pntrac.com CNAME .
 pntrs.com CNAME .
 *.pntrs.com CNAME .
-pofqm.xyz CNAME .
-*.pofqm.xyz CNAME .
 polobook.club CNAME .
 *.polobook.club CNAME .
 postclickmarketing.com CNAME .
@@ -967,8 +963,6 @@ publicidees.com CNAME .
 *.publicidees.com CNAME .
 pubmatic.com CNAME .
 *.pubmatic.com CNAME .
-purplegrasscolour.xyz CNAME .
-*.purplegrasscolour.xyz CNAME .
 pushwelcome.com CNAME .
 *.pushwelcome.com CNAME .
 pushwoosh.com CNAME .
@@ -1009,8 +1003,6 @@ rdowulajr.xyz CNAME .
 *.rdowulajr.xyz CNAME .
 realsrv.com CNAME .
 *.realsrv.com CNAME .
-reborko.com CNAME .
-*.reborko.com CNAME .
 recruitics.com CNAME .
 *.recruitics.com CNAME .
 recs.richrelevance.com CNAME .
@@ -1083,8 +1075,6 @@ seal.networksolutions.com CNAME .
 *.seal.networksolutions.com CNAME .
 search2000s.com CNAME .
 *.search2000s.com CNAME .
-seavideo22.com CNAME .
-*.seavideo22.com CNAME .
 securitymetrics.com CNAME .
 *.securitymetrics.com CNAME .
 sedoparking.com CNAME .
@@ -1189,8 +1179,6 @@ sumo.com CNAME .
 *.sumo.com CNAME .
 sundaysky.com CNAME .
 *.sundaysky.com CNAME .
-sxtut.org CNAME .
-*.sxtut.org CNAME .
 t.appsflyer.com CNAME .
 *.t.appsflyer.com CNAME .
 t.indeed.com CNAME .
@@ -1237,8 +1225,6 @@ tidaltv.com CNAME .
 *.tidaltv.com CNAME .
 tisagama.com CNAME .
 *.tisagama.com CNAME .
-tisarama.com CNAME .
-*.tisarama.com CNAME .
 tm.tradetracker.net CNAME .
 *.tm.tradetracker.net CNAME .
 tms-st.cdn.ngenix.net CNAME .
@@ -1285,8 +1271,6 @@ trk.pinterest.com CNAME .
 *.trk.pinterest.com CNAME .
 trotux.com CNAME .
 *.trotux.com CNAME .
-tubogomifo.com CNAME .
-*.tubogomifo.com CNAME .
 tvbpusyqohxu.com CNAME .
 *.tvbpusyqohxu.com CNAME .
 twopointo.io CNAME .
@@ -1297,8 +1281,6 @@ ue.flipboard.com CNAME .
 *.ue.flipboard.com CNAME .
 uid.mavencoalition.io CNAME .
 *.uid.mavencoalition.io CNAME .
-ulenr.top CNAME .
-*.ulenr.top CNAME .
 universalsearches.com CNAME .
 *.universalsearches.com CNAME .
 unmord.com CNAME .

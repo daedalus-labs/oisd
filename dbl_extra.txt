@@ -1,6 +1,6 @@
-# Version: 202205121028
+# Version: 202205131144
 # Title: oisd extra
-# Last modified: 12 May 2022 10:28 UTC
+# Last modified: 13 May 2022 11:44 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                
@@ -861,7 +861,6 @@ www.nicesearches.com
 www.njih.net
 www.nonstoppartner.net
 www.nr-data.net
-www.nxstx.top
 www.okkkk.com
 www.okt.to
 www.omarsys.com
@@ -884,13 +883,11 @@ www.pjtra.com
 www.pntra.com
 www.pntrac.com
 www.pntrs.com
-www.pofqm.xyz
 www.polobook.club
 www.postclickmarketing.com
 www.ppcprotect.com
 www.publicidees.com
 www.pubmatic.com
-www.purplegrasscolour.xyz
 www.pushwoosh.com
 www.pxf.io
 www.pzoifaum.info
@@ -901,7 +898,6 @@ www.quantummetric.com
 www.quartic.pl
 www.qwpetywdh.com
 www.rdowulajr.xyz
-www.reborko.com
 www.recruitics.com
 www.refersion.com
 www.relevant-digital.com
@@ -916,7 +912,6 @@ www.salemove.com
 www.salesmanago.pl
 www.sare25.com
 www.search2000s.com
-www.seavideo22.com
 www.securitymetrics.com
 www.sedoparking.com
 www.segment.com
@@ -947,7 +942,6 @@ www.streamate.com
 www.streambeam.io
 www.sumo.com
 www.sundaysky.com
-www.sxtut.org
 www.taboola.com
 www.tagcommander.com
 www.tapad.com
@@ -961,7 +955,6 @@ www.thewebanswers.com
 www.thewebgemnetwork.com
 www.tidaltv.com
 www.tisagama.com
-www.tisarama.com
 www.todhamilton.pro
 www.tonnection.xyz
 www.trackjs.com
@@ -972,11 +965,9 @@ www.trbas.com
 www.trbo.com
 www.treehousei.com
 www.trotux.com
-www.tubogomifo.com
 www.tvbpusyqohxu.com
 www.twopointo.io
 www.ud831d4.com
-www.ulenr.top
 www.universalsearches.com
 www.unmord.com
 www.uriuridfg.com
