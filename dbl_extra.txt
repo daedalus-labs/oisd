@@ -1,6 +1,6 @@
-# Version: 202205131144
+# Version: 202205131823
 # Title: oisd extra
-# Last modified: 13 May 2022 11:44 UTC
+# Last modified: 13 May 2022 18:23 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                
@@ -17,6 +17,7 @@ aan.amazon.com
 accesstrade.co.id
 ace.naver.com
 ad-ettoday.cdn.hinet.net
+ad.doubleclick.net
 adash.man.aliyuncs.com
 adcell.com
 adcolo.com
@@ -31,9 +32,12 @@ adpushup.com
 adregain.com
 adrelayer.com
 ads.eorezo.com
+ads.google.com
+ads.reddit.com
 adsafeprotected.com
 adsafety.net
 adserver.snapads.com
+adservice.google.com
 adservicemedia.dk
 adssyscom.com
 adtrackers.net
@@ -171,6 +175,7 @@ dash.tmearn.com
 data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
+data.mistat.xiaomi.com
 datacaciques.com
 deals.macupdate.com
 decibelinsight.net
@@ -475,6 +480,7 @@ seal.digicert.com
 seal.godaddy.com
 seal.networksolutions.com
 search2000s.com
+securemetrics.apple.com
 securitymetrics.com
 sedoparking.com
 seed.bitcoin.sipa.be
@@ -534,7 +540,6 @@ td563.com
 technical-service.net
 technoratimedia.com
 telemetry.soundcloud.com
-temptest.oisd.nl
 thebestoffersintheweb.com
 thebrighttag.com
 thewebanswers.com

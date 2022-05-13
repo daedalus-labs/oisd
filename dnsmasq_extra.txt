@@ -1,6 +1,6 @@
-# Version: 202205131144
+# Version: 202205131823
 # Title: oisd extra
-# Last modified: 13 May 2022 11:44 UTC
+# Last modified: 13 May 2022 18:23 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -36,9 +36,12 @@ address=/adpushup.com/#
 address=/adregain.com/#
 address=/adrelayer.com/#
 address=/ads.eorezo.com/#
+address=/ads.google.com/#
+address=/ads.reddit.com/#
 address=/adsafeprotected.com/#
 address=/adsafety.net/#
 address=/adserver.snapads.com/#
+address=/adservice.google.com/#
 address=/adservicemedia.dk/#
 address=/adsglow.net/#
 address=/adssyscom.com/#
@@ -194,6 +197,7 @@ address=/dash.tmearn.com/#
 address=/data.mistat.india.xiaomi.com/#
 address=/data.mistat.intl.xiaomi.com/#
 address=/data.mistat.rus.xiaomi.com/#
+address=/data.mistat.xiaomi.com/#
 address=/datacaciques.com/#
 address=/deals.macupdate.com/#
 address=/decibelinsight.net/#
@@ -538,6 +542,7 @@ address=/seal.digicert.com/#
 address=/seal.godaddy.com/#
 address=/seal.networksolutions.com/#
 address=/search2000s.com/#
+address=/securemetrics.apple.com/#
 address=/securitymetrics.com/#
 address=/sedoparking.com/#
 address=/seed.bitcoin.sipa.be/#
@@ -606,7 +611,6 @@ address=/td563.com/#
 address=/technical-service.net/#
 address=/technoratimedia.com/#
 address=/telemetry.soundcloud.com/#
-address=/temptest.oisd.nl/#
 address=/thebestoffersintheweb.com/#
 address=/thebrighttag.com/#
 address=/thewebanswers.com/#

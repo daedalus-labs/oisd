@@ -1,12 +1,12 @@
-; Version: 202205131144
+; Version: 202205131823
 ; Title: oisd extra
-; Last modified: 13 May 2022 11:44 UTC
+; Last modified: 13 May 2022 18:23 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652440081 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652465972 86400 3600 604800 30
  NS localhost.
 
 0emm.com CNAME .
@@ -71,12 +71,18 @@ adrelayer.com CNAME .
 *.adrelayer.com CNAME .
 ads.eorezo.com CNAME .
 *.ads.eorezo.com CNAME .
+ads.google.com CNAME .
+*.ads.google.com CNAME .
+ads.reddit.com CNAME .
+*.ads.reddit.com CNAME .
 adsafeprotected.com CNAME .
 *.adsafeprotected.com CNAME .
 adsafety.net CNAME .
 *.adsafety.net CNAME .
 adserver.snapads.com CNAME .
 *.adserver.snapads.com CNAME .
+adservice.google.com CNAME .
+*.adservice.google.com CNAME .
 adservicemedia.dk CNAME .
 *.adservicemedia.dk CNAME .
 adsglow.net CNAME .
@@ -387,6 +393,8 @@ data.mistat.intl.xiaomi.com CNAME .
 *.data.mistat.intl.xiaomi.com CNAME .
 data.mistat.rus.xiaomi.com CNAME .
 *.data.mistat.rus.xiaomi.com CNAME .
+data.mistat.xiaomi.com CNAME .
+*.data.mistat.xiaomi.com CNAME .
 datacaciques.com CNAME .
 *.datacaciques.com CNAME .
 deals.macupdate.com CNAME .
@@ -1075,6 +1083,8 @@ seal.networksolutions.com CNAME .
 *.seal.networksolutions.com CNAME .
 search2000s.com CNAME .
 *.search2000s.com CNAME .
+securemetrics.apple.com CNAME .
+*.securemetrics.apple.com CNAME .
 securitymetrics.com CNAME .
 *.securitymetrics.com CNAME .
 sedoparking.com CNAME .
@@ -1211,8 +1221,6 @@ technoratimedia.com CNAME .
 *.technoratimedia.com CNAME .
 telemetry.soundcloud.com CNAME .
 *.telemetry.soundcloud.com CNAME .
-temptest.oisd.nl CNAME .
-*.temptest.oisd.nl CNAME .
 thebestoffersintheweb.com CNAME .
 *.thebestoffersintheweb.com CNAME .
 thebrighttag.com CNAME .
