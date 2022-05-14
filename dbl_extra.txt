@@ -1,6 +1,6 @@
-# Version: 202205141932
+# Version: 202205141944
 # Title: oisd extra
-# Last modified: 14 May 2022 19:32 UTC
+# Last modified: 14 May 2022 19:44 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                
@@ -682,6 +682,7 @@ www.betrad.com
 www.betrustkelping.com
 www.bfast.com
 www.bfhxivpij.com
+www.biquter.xyz
 www.bitads.io
 www.bizrate.com
 www.bkrtx.com
@@ -820,6 +821,7 @@ www.giqepofa.com
 www.glathycapto.com
 www.go2jump.org
 www.goatcounter.com
+www.godvwcft.com
 www.goldbach.com
 www.gomsa.ru
 www.goo4anywhere.com

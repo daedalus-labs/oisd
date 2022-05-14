@@ -1,6 +1,6 @@
-# Version: 202205141932
+# Version: 202205141944
 # Title: oisd extra
-# Last modified: 14 May 2022 19:32 UTC
+# Last modified: 14 May 2022 19:44 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -134,6 +134,7 @@ address=/betrustkelping.com/#
 address=/bfast.com/#
 address=/bfhxivpij.com/#
 address=/bi.medscape.com/#
+address=/biquter.xyz/#
 address=/bitads.io/#
 address=/bizrate.com/#
 address=/bkrtx.com/#
@@ -347,6 +348,7 @@ address=/gnar.grammarly.com/#
 address=/go-mpulse.net/#
 address=/go2jump.org/#
 address=/goatcounter.com/#
+address=/godvwcft.com/#
 address=/goldbach.com/#
 address=/gomsa.ru/#
 address=/goo4anywhere.com/#

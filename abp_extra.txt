@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202205141932
+! Version: 202205141944
 ! Title: oisd extra
-! Last modified: 14 May 2022 19:32 UTC
+! Last modified: 14 May 2022 19:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                
@@ -135,6 +135,7 @@
 ||bfast.com^
 ||bfhxivpij.com^
 ||bi.medscape.com^
+||biquter.xyz^
 ||bitads.io^
 ||bizrate.com^
 ||bkrtx.com^
@@ -348,6 +349,7 @@
 ||go-mpulse.net^
 ||go2jump.org^
 ||goatcounter.com^
+||godvwcft.com^
 ||goldbach.com^
 ||gomsa.ru^
 ||goo4anywhere.com^
