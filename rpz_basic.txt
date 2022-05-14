@@ -1,12 +1,12 @@
-; Version: 202205131143
+; Version: 202205140956
 ; Title: oisd basic
-; Last modified: 13 May 2022 11:43 UTC
+; Last modified: 14 May 2022 09:56 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652440081 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652521937 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -37149,8 +37149,6 @@ freehitscounter.org CNAME .
 *.freehitscounter.org CNAME .
 freehitwebcounters.com CNAME .
 *.freehitwebcounters.com CNAME .
-freehornygirls.com CNAME .
-*.freehornygirls.com CNAME .
 freehostservers.com CNAME .
 *.freehostservers.com CNAME .
 freeimghost.trafflow.com CNAME .
@@ -39241,8 +39239,6 @@ glassmilheart.com CNAME .
 *.glassmilheart.com CNAME .
 glasswoollen.com CNAME .
 *.glasswoollen.com CNAME .
-glathycapto.com CNAME .
-*.glathycapto.com CNAME .
 glattepush.com CNAME .
 *.glattepush.com CNAME .
 glaurtas.com CNAME .
@@ -43643,8 +43639,6 @@ huzhu.group CNAME .
 *.huzhu.group CNAME .
 hvato.info CNAME .
 *.hvato.info CNAME .
-hvcbkr.com CNAME .
-*.hvcbkr.com CNAME .
 hvd-store.com CNAME .
 *.hvd-store.com CNAME .
 hvmtpxijchli.com CNAME .
@@ -47369,8 +47363,6 @@ jisukuaisong.cn CNAME .
 *.jisukuaisong.cn CNAME .
 jisuoping.com CNAME .
 *.jisuoping.com CNAME .
-jisyzysy.com CNAME .
-*.jisyzysy.com CNAME .
 jitdknclhdpfzyvkio.bid CNAME .
 *.jitdknclhdpfzyvkio.bid CNAME .
 jituangongsi.cn CNAME .
@@ -51251,8 +51243,6 @@ littlecutedogs.com CNAME .
 *.littlecutedogs.com CNAME .
 littlecutelions.com CNAME .
 *.littlecutelions.com CNAME .
-liuchengming.com CNAME .
-*.liuchengming.com CNAME .
 liuhemei.com.cn CNAME .
 *.liuhemei.com.cn CNAME .
 liujiaqi.top CNAME .
@@ -55037,8 +55027,6 @@ metalyzer.com CNAME .
 *.metalyzer.com CNAME .
 metamx.com CNAME .
 *.metamx.com CNAME .
-metaprofit.net CNAME .
-*.metaprofit.net CNAME .
 metatestruck.com CNAME .
 *.metatestruck.com CNAME .
 metavertising.com CNAME .
@@ -59481,8 +59469,6 @@ nlog.nethru.io CNAME .
 *.nlog.nethru.io CNAME .
 nlop.xyz CNAME .
 *.nlop.xyz CNAME .
-nlqznsleo.com CNAME .
-*.nlqznsleo.com CNAME .
 nlrpfpq.cn CNAME .
 *.nlrpfpq.cn CNAME .
 nlserver.xyz CNAME .
@@ -60247,8 +60233,6 @@ nuoqingck.cn CNAME .
 *.nuoqingck.cn CNAME .
 nupcn.com CNAME .
 *.nupcn.com CNAME .
-nupoot.com CNAME .
-*.nupoot.com CNAME .
 nupyzegy.com CNAME .
 *.nupyzegy.com CNAME .
 nuqwe.com CNAME .
@@ -61735,8 +61719,6 @@ opinionsurprise.com CNAME .
 *.opinionsurprise.com CNAME .
 opiwb.com CNAME .
 *.opiwb.com CNAME .
-opkkrbqyrqtkmty.com CNAME .
-*.opkkrbqyrqtkmty.com CNAME .
 oplo.org CNAME .
 *.oplo.org CNAME .
 opoew.top CNAME .
@@ -71229,8 +71211,6 @@ roulettebot-plus.com CNAME .
 *.roulettebot-plus.com CNAME .
 roundrobin-log.agoop.net CNAME .
 *.roundrobin-log.agoop.net CNAME .
-rousedmilk.com CNAME .
-*.rousedmilk.com CNAME .
 roustarlyan.com CNAME .
 *.roustarlyan.com CNAME .
 routeit.one CNAME .
@@ -91629,8 +91609,6 @@ wpxn.com CNAME .
 *.wpxn.com CNAME .
 wqdwork.com CNAME .
 *.wqdwork.com CNAME .
-wqlkp.com CNAME .
-*.wqlkp.com CNAME .
 wqyipmakwh.com CNAME .
 *.wqyipmakwh.com CNAME .
 wr.yiyouliao.com CNAME .
@@ -93739,8 +93717,6 @@ ygyl.xyz CNAME .
 *.ygyl.xyz CNAME .
 ygzkedoxwhqlzp.com CNAME .
 *.ygzkedoxwhqlzp.com CNAME .
-yhaizy.cn CNAME .
-*.yhaizy.cn CNAME .
 yhdichan.com CNAME .
 *.yhdichan.com CNAME .
 yhdtns.com CNAME .

@@ -1,6 +1,6 @@
-# Version: 202205131143
+# Version: 202205140956
 # Title: oisd basic
-# Last modified: 13 May 2022 11:43 UTC
+# Last modified: 14 May 2022 09:56 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -21825,7 +21825,6 @@
 0.0.0.0 freehanbam.net
 0.0.0.0 freehitscounter.org
 0.0.0.0 freehitwebcounters.com
-0.0.0.0 freehornygirls.com
 0.0.0.0 freehostservers.com
 0.0.0.0 freeimghost.trafflow.com
 0.0.0.0 freeindiangals.com
@@ -23019,7 +23018,6 @@
 0.0.0.0 glasselderly.com
 0.0.0.0 glassmilheart.com
 0.0.0.0 glasswoollen.com
-0.0.0.0 glathycapto.com
 0.0.0.0 glattepush.com
 0.0.0.0 glaurtas.com
 0.0.0.0 glauvoob.com
@@ -25442,7 +25440,6 @@
 0.0.0.0 hv.adingo.jp
 0.0.0.0 hv3.webstat.com
 0.0.0.0 hvato.info
-0.0.0.0 hvcbkr.com
 0.0.0.0 hvd-store.com
 0.0.0.0 hvmtpxijchli.com
 0.0.0.0 hvooyieoei.com
@@ -27651,7 +27648,6 @@
 0.0.0.0 jisufeifei.com
 0.0.0.0 jisukuaisong.cn
 0.0.0.0 jisuoping.com
-0.0.0.0 jisyzysy.com
 0.0.0.0 jitdknclhdpfzyvkio.bid
 0.0.0.0 jituangongsi.cn
 0.0.0.0 jiu9.shop
@@ -29831,7 +29827,6 @@
 0.0.0.0 littlecutecats.com
 0.0.0.0 littlecutedogs.com
 0.0.0.0 littlecutelions.com
-0.0.0.0 liuchengming.com
 0.0.0.0 liuhemei.com.cn
 0.0.0.0 liujiaqi.top
 0.0.0.0 liulanliang.cn
@@ -31989,7 +31984,6 @@
 0.0.0.0 metagmae.org
 0.0.0.0 metalyzer.com
 0.0.0.0 metamx.com
-0.0.0.0 metaprofit.net
 0.0.0.0 metatestruck.com
 0.0.0.0 metavertising.com
 0.0.0.0 metavertizer.com
@@ -34455,7 +34449,6 @@
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 nlog.nethru.io
 0.0.0.0 nlop.xyz
-0.0.0.0 nlqznsleo.com
 0.0.0.0 nlrpfpq.cn
 0.0.0.0 nlserver.xyz
 0.0.0.0 nlwy0.com
@@ -34880,7 +34873,6 @@
 0.0.0.0 nuonuo1.icu
 0.0.0.0 nuoqingck.cn
 0.0.0.0 nupcn.com
-0.0.0.0 nupoot.com
 0.0.0.0 nupyzegy.com
 0.0.0.0 nuqwe.com
 0.0.0.0 nur.gratis
@@ -35691,7 +35683,6 @@
 0.0.0.0 opingexamplyt.info
 0.0.0.0 opinionsurprise.com
 0.0.0.0 opiwb.com
-0.0.0.0 opkkrbqyrqtkmty.com
 0.0.0.0 oplo.org
 0.0.0.0 opoew.top
 0.0.0.0 opolicycrea.xyz
@@ -41165,7 +41156,6 @@
 0.0.0.0 roulediana.com
 0.0.0.0 roulettebot-plus.com
 0.0.0.0 roundrobin-log.agoop.net
-0.0.0.0 rousedmilk.com
 0.0.0.0 roustarlyan.com
 0.0.0.0 route.carambo.la
 0.0.0.0 routeit.one
@@ -53345,7 +53335,6 @@
 0.0.0.0 wpush.org
 0.0.0.0 wpxn.com
 0.0.0.0 wqdwork.com
-0.0.0.0 wqlkp.com
 0.0.0.0 wqyipmakwh.com
 0.0.0.0 wr.yiyouliao.com
 0.0.0.0 wrap.tradedoubler.com
@@ -54804,7 +54793,6 @@
 0.0.0.0 yguuoibdsscki.com
 0.0.0.0 ygyl.xyz
 0.0.0.0 ygzkedoxwhqlzp.com
-0.0.0.0 yhaizy.cn
 0.0.0.0 yhdichan.com
 0.0.0.0 yhdtns.com
 0.0.0.0 yhhbtavgpuo.com

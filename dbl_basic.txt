@@ -1,6 +1,6 @@
-# Version: 202205131143
+# Version: 202205140956
 # Title: oisd basic
-# Last modified: 13 May 2022 11:43 UTC
+# Last modified: 14 May 2022 09:56 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                
@@ -21825,7 +21825,6 @@ freegroupvideo.popunder.ru
 freehanbam.net
 freehitscounter.org
 freehitwebcounters.com
-freehornygirls.com
 freehostservers.com
 freeimghost.trafflow.com
 freeindiangals.com
@@ -23019,7 +23018,6 @@ glassboxdigital.io
 glasselderly.com
 glassmilheart.com
 glasswoollen.com
-glathycapto.com
 glattepush.com
 glaurtas.com
 glauvoob.com
@@ -25442,7 +25440,6 @@ huzhu.group
 hv.adingo.jp
 hv3.webstat.com
 hvato.info
-hvcbkr.com
 hvd-store.com
 hvmtpxijchli.com
 hvooyieoei.com
@@ -27651,7 +27648,6 @@ jistvotestabl.space
 jisufeifei.com
 jisukuaisong.cn
 jisuoping.com
-jisyzysy.com
 jitdknclhdpfzyvkio.bid
 jituangongsi.cn
 jiu9.shop
@@ -29831,7 +29827,6 @@ little-help.com
 littlecutecats.com
 littlecutedogs.com
 littlecutelions.com
-liuchengming.com
 liuhemei.com.cn
 liujiaqi.top
 liulanliang.cn
@@ -31989,7 +31984,6 @@ metacount.com
 metagmae.org
 metalyzer.com
 metamx.com
-metaprofit.net
 metatestruck.com
 metavertising.com
 metavertizer.com
@@ -34455,7 +34449,6 @@ nloader.xyz
 nlog.droid4x.cn
 nlog.nethru.io
 nlop.xyz
-nlqznsleo.com
 nlrpfpq.cn
 nlserver.xyz
 nlwy0.com
@@ -34880,7 +34873,6 @@ nuninz.com
 nuonuo1.icu
 nuoqingck.cn
 nupcn.com
-nupoot.com
 nupyzegy.com
 nuqwe.com
 nur.gratis
@@ -35691,7 +35683,6 @@ ophan.theguardian.com
 opingexamplyt.info
 opinionsurprise.com
 opiwb.com
-opkkrbqyrqtkmty.com
 oplo.org
 opoew.top
 opolicycrea.xyz
@@ -41165,7 +41156,6 @@ roujonoa.net
 roulediana.com
 roulettebot-plus.com
 roundrobin-log.agoop.net
-rousedmilk.com
 roustarlyan.com
 route.carambo.la
 routeit.one
@@ -53345,7 +53335,6 @@ wpunativesh.com
 wpush.org
 wpxn.com
 wqdwork.com
-wqlkp.com
 wqyipmakwh.com
 wr.yiyouliao.com
 wrap.tradedoubler.com
@@ -54804,7 +54793,6 @@ ygtx.mobi
 yguuoibdsscki.com
 ygyl.xyz
 ygzkedoxwhqlzp.com
-yhaizy.cn
 yhdichan.com
 yhdtns.com
 yhhbtavgpuo.com
