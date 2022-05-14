@@ -1,6 +1,6 @@
-# Version: 202205141017
+# Version: 202205141024
 # Title: oisd extra
-# Last modified: 14 May 2022 10:17 UTC
+# Last modified: 14 May 2022 10:24 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -14,6 +14,7 @@
 *.247-inc.net
 *.2cnt.net
 *.2o7.net
+*.4tdbbs.cn
 *.56fff.net
 *.810251.com
 *.a.klaviyo.com
@@ -381,6 +382,7 @@
 *.jmvxdkguyv.com
 *.johays.co
 *.js-agent.newrelic.com
+*.juvbzle.cn
 *.jwpltx.com
 *.kampyle.com
 *.kaxsdc.com
@@ -619,6 +621,7 @@
 *.serving-sys.com
 *.sessioncam.com
 *.setbackrelishdivine.com
+*.shauthou.net
 *.shengyaxd.com
 *.shitiphu.com
 *.shiyaokejishanghai.com
@@ -664,6 +667,7 @@
 *.stugorezu.com
 *.sumo.com
 *.sundaysky.com
+*.szxjygbabily.com
 *.t.appsflyer.com
 *.t.indeed.com
 *.t.wayfair.com
@@ -785,6 +789,7 @@
 *.xtxa.net
 *.xxe2.com
 *.xxf65z4o6a.club
+*.yese161.com
 *.yessearches.com
 *.yeswegays.com
 *.yhaizy.cn

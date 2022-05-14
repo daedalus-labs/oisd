@@ -1,6 +1,6 @@
-# Version: 202205141017
+# Version: 202205141024
 # Title: oisd extra
-# Last modified: 14 May 2022 10:17 UTC
+# Last modified: 14 May 2022 10:24 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -11,6 +11,7 @@ address=/0fmm.com/#
 address=/247-inc.net/#
 address=/2cnt.net/#
 address=/2o7.net/#
+address=/4tdbbs.cn/#
 address=/56fff.net/#
 address=/810251.com/#
 address=/a.klaviyo.com/#
@@ -378,6 +379,7 @@ address=/jivox.com/#
 address=/jmvxdkguyv.com/#
 address=/johays.co/#
 address=/js-agent.newrelic.com/#
+address=/juvbzle.cn/#
 address=/jwpltx.com/#
 address=/kampyle.com/#
 address=/kaxsdc.com/#
@@ -616,6 +618,7 @@ address=/services.zam.com/#
 address=/serving-sys.com/#
 address=/sessioncam.com/#
 address=/setbackrelishdivine.com/#
+address=/shauthou.net/#
 address=/shengyaxd.com/#
 address=/shitiphu.com/#
 address=/shiyaokejishanghai.com/#
@@ -661,6 +664,7 @@ address=/sts.eccmp.com/#
 address=/stugorezu.com/#
 address=/sumo.com/#
 address=/sundaysky.com/#
+address=/szxjygbabily.com/#
 address=/t.appsflyer.com/#
 address=/t.indeed.com/#
 address=/t.wayfair.com/#
@@ -782,6 +786,7 @@ address=/xpornoizlee.com/#
 address=/xtxa.net/#
 address=/xxe2.com/#
 address=/xxf65z4o6a.club/#
+address=/yese161.com/#
 address=/yessearches.com/#
 address=/yeswegays.com/#
 address=/yhaizy.cn/#
