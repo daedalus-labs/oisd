@@ -1,6 +1,6 @@
-# Version: 202205141018
+# Version: 202205141924
 # Title: oisd nsfw
-# Last modified: 14 May 2022 10:18 UTC
+# Last modified: 14 May 2022 19:24 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                     
@@ -188,6 +188,7 @@
 *.1-800-900whip.com
 *.1-800-anal-sex.com
 *.1-800-analsex.com
+*.1-800-bigtits.com
 *.1-800-free-sex.com
 *.1-800-freesex.com
 *.1-800-fuckgirls.com
@@ -6009,7 +6010,9 @@
 *.aerocitycallgirls.com
 *.aerocityescorts.com
 *.aerocityescorts.services
+*.aerocityescortservice.company.site
 *.aerocityescortservice.in
+*.aerocityescortsservice.in
 *.aerocitygurgaon.com
 *.aerocityincall.com
 *.aeroporn.fr
@@ -11934,6 +11937,7 @@
 *.aristoshemales.com
 *.arita400.com
 *.aritohmaghettogaggers.com
+*.arizona-golf-vacations.com
 *.arizonafetishsociety.com
 *.arizonafetishsociety.devious-minds.com
 *.arizonagayhistoricalsociety.org
@@ -19888,6 +19892,7 @@
 *.beyonddelay.org
 *.beyondkinky.com
 *.beyondsextantra.com
+*.beyondsexyhippies.com
 *.beyondsexylingerie.com
 *.beyondthegaybourhood.com
 *.beyondxxx.com
@@ -20818,6 +20823,7 @@
 *.bignudeboobs.com
 *.bignudeboobs.net
 *.bignudeboobs.tumblr.com
+*.bignudetits.com
 *.bigobang.biz
 *.bigojav.com
 *.bigolderwoman.com
@@ -21090,6 +21096,7 @@
 *.bigtitsmgp.com
 *.bigtitsmilf.net
 *.bigtitsmilf.tube
+*.bigtitsmilfs.com
 *.bigtitsmilfs.xyz
 *.bigtitsmix.com
 *.bigtitsmodelsdirectory.com
@@ -22815,6 +22822,7 @@
 *.blendedz0nes.tumblr.com
 *.blendporn.com
 *.bleshporn.com
+*.blessicab.com
 *.bletporn.com
 *.blezd.tk
 *.bliean.com
@@ -23553,6 +23561,7 @@
 *.bokepbig.icu
 *.bokepcina234.com
 *.bokepdonlod.men
+*.bokepfilm.com
 *.bokepfree.icu
 *.bokepfull.top
 *.bokepgede.icu
@@ -23672,6 +23681,7 @@
 *.bombasspussy.com
 *.bombasstube.com
 *.bombaybang.com
+*.bombayescortsgirls.com
 *.bombaysexyescorts.com
 *.bombbooty.com
 *.bombchelle.tumblr.com
@@ -23825,7 +23835,6 @@
 *.bondagechat.org
 *.bondagechatcams.com
 *.bondagechatcity.com
-*.bondagechatrooms.co.uk
 *.bondagechick.com
 *.bondagechronicles.com
 *.bondageclub.ca
@@ -26534,7 +26543,6 @@
 *.bumboobs.xyz
 *.bumbumnude.com
 *.bumcams.com
-*.bumfetish.co.uk
 *.bumfuck.com
 *.bumkiss.com
 *.bumporn.biz
@@ -28712,6 +28720,7 @@
 *.camsite.org
 *.camsitecash.com
 *.camsitegirls.com
+*.camsites.site
 *.camsitesdirectory.com
 *.camsjapanese.com
 *.camsjob.com
@@ -29347,6 +29356,7 @@
 *.carole.info
 *.caroleelise.over-blog.net
 *.carolfoxxx.com
+*.carolina-aurora.com
 *.carolinafriends.com
 *.caroline19.free.fr
 *.carolinecrossfacialabuse.com
@@ -38729,6 +38739,7 @@
 *.desipapasex.pro
 *.desiporn.cc
 *.desiporn.com.es
+*.desiporn.fun
 *.desiporn.info
 *.desiporn.link
 *.desiporn.love
@@ -40189,6 +40200,7 @@
 *.dirtymilfexposed.com
 *.dirtymindprettylittlehead.tumblr.com
 *.dirtyminds.info
+*.dirtymomporn.com
 *.dirtymomsexpics.com
 *.dirtymomtube.pro
 *.dirtymovie.com
@@ -40584,6 +40596,7 @@
 *.dlclingerie.com
 *.dlesbienne83.free.fr
 *.dlevelandoh.buzz
+*.dlfgurgaonescorts.com
 *.dlhqporn.com
 *.dlisbuk.com
 *.dlist.com
@@ -41231,6 +41244,7 @@
 *.donnematurenude.net
 *.donnematurepelose.top
 *.donnematurepics.com
+*.donnematuresex.top
 *.donnematurevideo.com
 *.donnematurevideo.net
 *.donnematurexxx.top
@@ -42220,6 +42234,7 @@
 *.dylpickledick.tumblr.com
 *.dymanie.pl
 *.dynamayeda.com
+*.dynamiceventsdenver.com
 *.dynamitemail.com
 *.dynamiteprive.nl
 *.dynamitexxx.com
@@ -47952,6 +47967,7 @@
 *.faanweb.eu
 *.faapy.com
 *.faapyhd.com
+*.faastroad.com
 *.fabbe86.free.fr
 *.fabestiality.com
 *.fabfreesites.com
@@ -52782,6 +52798,8 @@
 *.finexxxvideos.com
 *.fineyoungsex.com
 *.finfetishfashion.com
+*.fingerbate.com
+*.fingerbating.com
 *.fingerfrigging.com
 *.fingerfucking.net
 *.fingerfuckingfrenzy.tumblr.com
@@ -52794,6 +52812,7 @@
 *.finishhim.com
 *.finlandporn.net
 *.finlandsexdoll.top
+*.finneganswakefilms.com
 *.finnishbukkake.fi
 *.finnov-fp7.eu
 *.finporn.online
@@ -53820,7 +53839,6 @@
 *.fooys.com
 *.fopgirls.xyz
 *.for-adult.com
-*.for-gays.gaysex-pla.net
 *.for-mi-ca-tion.tumblr.com
 *.for-xxx.com
 *.for18xxx.com
@@ -60071,6 +60089,7 @@
 *.futanaribigtits.com
 *.futanaribox.com
 *.futanaricartoon.com
+*.futanaricartoonporn.com
 *.futanaricartoons.com
 *.futanaricartoons.org
 *.futanaricollection.com
@@ -65598,6 +65617,7 @@
 *.girls91porn.com
 *.girlsabusegirls.com
 *.girlsabuseguys.com
+*.girlsagency.co.in
 *.girlsandcorpses.com
 *.girlsandcurves.tumblr.com
 *.girlsandfeet.com
@@ -65694,6 +65714,7 @@
 *.girlsformen.com
 *.girlsforoldmen.com
 *.girlsfromczech.com
+*.girlsfromyourdreams.com
 *.girlsfuck-tube.com
 *.girlsfuckboys.com
 *.girlsfuckgirls.com
@@ -66405,6 +66426,7 @@
 *.goairaniescorts.com
 *.goal6969.net
 *.goalne.org
+*.goamodelescort.co.in
 *.goamodelescorts.in
 *.goandw.com
 *.goanonym.se
@@ -67073,6 +67095,7 @@
 *.gostories.com
 *.gostosanovinha.com
 *.gostosaseamadoras.com
+*.gostosaspelada.com
 *.gostosaspornosafadas.com
 *.gostosastube.net
 *.gosurfs.com
@@ -73467,6 +73490,7 @@
 *.hindibfclips.com
 *.hindibhabhi.com
 *.hindibluefilm.net
+*.hindichudaivideos.com
 *.hindicouple.com
 *.hindicouplesex.com
 *.hindidesiporn.com
@@ -80520,7 +80544,6 @@
 *.influencerxxx.com
 *.info-english.ru
 *.info.dorrancepublishing.com
-*.info.kinkysexnow.net
 *.info1688.com
 *.infocelebrities.com
 *.infocusgirl.com
@@ -87220,6 +87243,7 @@
 *.kinkysexdating.nl
 *.kinkysexfetish.com
 *.kinkysexnow.com
+*.kinkysexnow.net
 *.kinkysexshop.cl
 *.kinkysexshop.net
 *.kinkysexstuff.com
@@ -96550,6 +96574,7 @@
 *.magmasex.com
 *.magnetpip.com
 *.magnisia609.tumblr.com
+*.magnumgulfmedical.com
 *.magnumknights.com
 *.magnumopusfinancial.com
 *.magnumszauna.hu
@@ -97389,6 +97414,7 @@
 *.mandycam.com
 *.mandyflores.com
 *.mandyfoxxx.com
+*.mandygirls.com
 *.mandyiskinky.com
 *.mandyleaked.com
 *.mandymajestic.com
@@ -102661,6 +102687,8 @@
 *.missmili.com
 *.missmiseryxxx.com
 *.missmumbaiescorts.com
+*.missnargiskhan.company.site
+*.missnargiskhan.ohari.eu
 *.missnudeusa.com
 *.missnudist.eu
 *.missogyny.com
@@ -102670,6 +102698,7 @@
 *.missourisexchat.com
 *.missourisexdating.com
 *.misspalak.com
+*.misspari.in
 *.misspaula-xx.tumblr.com
 *.misspegging.com
 *.misspersuassion.tumblr.com
@@ -104918,7 +104947,6 @@
 *.mrdjian.tumblr.com
 *.mrfreaktoyou.tumblr.com
 *.mrfreeporn.com
-*.mrfreeporn.tonude.com
 *.mrfreepornvideos.xyz
 *.mrfuck.net
 *.mrgay.xxx
@@ -105536,6 +105564,7 @@
 *.muttersohnpornoxxx.com
 *.muttersohnsex.com
 *.muttersohnsexxxx.com
+*.mutterundsohn.com
 *.mutterundsohnporno.com
 *.mutterundtochter.tv
 *.mutterxxx.de
@@ -110674,6 +110703,7 @@
 *.noblackdots.com
 *.nobodyknowsimlesbian.tumblr.com
 *.nobodyshero36.tumblr.com
+*.noboobsaboutit.com
 *.noboobsnymphos.tumblr.com
 *.nobordersporn.com
 *.noboring.com
@@ -111020,6 +111050,7 @@
 *.novoxxx.com
 *.novyinternetovyobchod.cz
 *.novyvu78.pixnet.net
+*.now-girls.com
 *.nowayamigay.com
 *.nowayoutpunishment.net
 *.nowayoutspanking.com
@@ -113164,6 +113195,7 @@
 *.ohmature.pro
 *.ohmibod.cam
 *.ohmibod.top
+*.ohmibod18.com
 *.ohmibodfun.com
 *.ohmibodmodels.com
 *.ohmibodsex.com
@@ -113695,6 +113727,7 @@
 *.oldxv.com
 *.oldxxx.com
 *.oldxxx.free.fr
+*.oldxxx.name
 *.oldxxxcul.free.fr
 *.oldxxxgratuite.free.fr
 *.oldxxxtube.com
@@ -114522,6 +114555,7 @@
 *.onlyfans.win
 *.onlyfansapp.org
 *.onlyfansfull.com
+*.onlyfansgo.com
 *.onlyfansheaven.com
 *.onlyfansleaks.fun
 *.onlyfansmega.com
@@ -126478,6 +126512,7 @@
 *.pornompegs.com
 *.pornomult.org
 *.pornomult.xyz
+*.pornomuttersohn.com
 *.pornomutti.com
 *.pornomuycerdas.com
 *.pornomuyzorras.com
@@ -149432,6 +149467,7 @@
 *.sinparty.com
 *.sinphonie.eu
 *.sinporno.net
+*.sinquest.nl
 *.sinsation.co.za
 *.sinsations.ca
 *.sinsations.com
@@ -167900,6 +167936,7 @@
 *.ukescortreview.com
 *.ukescorts.directory
 *.ukescortsdirectory.co.uk
+*.ukescortservice.com
 *.ukescortslondon.co.uk
 *.ukexhibitionistwives.com
 *.ukfetish.info
@@ -170784,6 +170821,7 @@
 *.videoxxtubex.xyz
 *.videoxxx.cc
 *.videoxxx.cz
+*.videoxxx.in
 *.videoxxx.mobi
 *.videoxxx.net
 *.videoxxx.pw
@@ -174019,6 +174057,7 @@
 *.webcamsporno.net
 *.webcamsporno.org
 *.webcamspornoxxx.com
+*.webcamspot.com
 *.webcamsprivadas.com
 *.webcamsrating.com
 *.webcamsrecord.com
@@ -174341,6 +174380,7 @@
 *.welcometofree.com
 *.welcomix.com
 *.welcum2pornlife.com
+*.weldioo.com
 *.weleaked.com
 *.welikeitblack.com
 *.welikeitintheass.com
