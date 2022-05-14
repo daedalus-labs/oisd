@@ -1,6 +1,6 @@
-# Version: 202205141033
+# Version: 202205141754
 # Title: oisd extra
-# Last modified: 14 May 2022 10:33 UTC
+# Last modified: 14 May 2022 17:54 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -673,6 +673,7 @@
 0.0.0.0 www.bfast.com
 0.0.0.0 www.bfhxivpij.com
 0.0.0.0 www.bizrate.com
+0.0.0.0 www.bjhmdy.vip
 0.0.0.0 www.bkrtx.com
 0.0.0.0 www.blueconic.net
 0.0.0.0 www.bluecore.com
@@ -744,6 +745,7 @@
 0.0.0.0 www.eetseemp.net
 0.0.0.0 www.elastx.net
 0.0.0.0 www.ensighten.com
+0.0.0.0 www.entiregraterfurs.com
 0.0.0.0 www.etahub.com
 0.0.0.0 www.eulerian.net
 0.0.0.0 www.everesttech.net
@@ -823,6 +825,7 @@
 0.0.0.0 www.instant.page
 0.0.0.0 www.intelliad.de
 0.0.0.0 www.intendalinetang.com
+0.0.0.0 www.inuuhtznjglmm.com
 0.0.0.0 www.investingchannel.com
 0.0.0.0 www.investmeny.org
 0.0.0.0 www.invoca.net
@@ -974,12 +977,14 @@
 0.0.0.0 www.riqu2015.com
 0.0.0.0 www.rlcdn.com
 0.0.0.0 www.rousedmilk.com
+0.0.0.0 www.rrrsnxzkhbwwrs.com
 0.0.0.0 www.rutrk.org
 0.0.0.0 www.salemove.com
 0.0.0.0 www.salesmanago.pl
 0.0.0.0 www.sare25.com
 0.0.0.0 www.scw0.com
 0.0.0.0 www.search2000s.com
+0.0.0.0 www.secrr.cn
 0.0.0.0 www.securitain.com
 0.0.0.0 www.securitymetrics.com
 0.0.0.0 www.sedoparking.com
@@ -1035,6 +1040,7 @@
 0.0.0.0 www.thistocapsy.com
 0.0.0.0 www.thophuthushe.com
 0.0.0.0 www.tidaltv.com
+0.0.0.0 www.timbercooling.com
 0.0.0.0 www.tisagama.com
 0.0.0.0 www.todhamilton.pro
 0.0.0.0 www.tonnection.xyz
@@ -1063,14 +1069,12 @@
 0.0.0.0 www.videc10.com
 0.0.0.0 www.viebitgreasy.email
 0.0.0.0 www.vilynx.com
-0.0.0.0 www.virtl.xyz
 0.0.0.0 www.voaroawo.net
 0.0.0.0 www.voodoo.com
 0.0.0.0 www.vrqsvrnjrhdmek.com
 0.0.0.0 www.vyphytovu.pro
 0.0.0.0 www.walasearch.com
 0.0.0.0 www.wantmimic.com
-0.0.0.0 www.waptraff.mobi
 0.0.0.0 www.waptrick.com
 0.0.0.0 www.waugeboa.net
 0.0.0.0 www.we-stats.com
@@ -1078,10 +1082,8 @@
 0.0.0.0 www.webhop.net
 0.0.0.0 www.webmasterplan.com
 0.0.0.0 www.webpower.eu
-0.0.0.0 www.win-window.win
 0.0.0.0 www.woopra.com
 0.0.0.0 www.wootric.com
-0.0.0.0 www.wordgetboo.com
 0.0.0.0 www.wqlkp.com
 0.0.0.0 www.wretchedchapterdozen.com
 0.0.0.0 www.wt-eu02.net
@@ -1090,12 +1092,10 @@
 0.0.0.0 www.wywy.com
 0.0.0.0 www.x-adservice.com
 0.0.0.0 www.xawsnngjljanxof.su
-0.0.0.0 www.xmqju.xyz
 0.0.0.0 www.xn--xhq9mt12cf5v.shop
 0.0.0.0 www.xpornoizlee.com
 0.0.0.0 www.xtxa.net
 0.0.0.0 www.xxe2.com
-0.0.0.0 www.xxf65z4o6a.club
 0.0.0.0 www.xxladu.com
 0.0.0.0 www.yese161.com
 0.0.0.0 www.yessearches.com
@@ -1105,13 +1105,11 @@
 0.0.0.0 www.youvisit.com
 0.0.0.0 www.yueyuelao.cn
 0.0.0.0 www.zaushegi.net
-0.0.0.0 www.zedinfo.info
 0.0.0.0 www.zenaps.com
 0.0.0.0 www.zmnkduay.com
 0.0.0.0 www.zndaowjdnf.stream
 0.0.0.0 www.zogleshewi.com
 0.0.0.0 www.zudrurta.com
-0.0.0.0 www.zxrtn.com
 0.0.0.0 wywy.com
 0.0.0.0 wzrkt.com
 0.0.0.0 x3-policy-maker.goguardian.com

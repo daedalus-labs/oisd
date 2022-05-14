@@ -1,12 +1,12 @@
-; Version: 202205141033
+; Version: 202205141754
 ; Title: oisd extra
-; Last modified: 14 May 2022 10:33 UTC
+; Last modified: 14 May 2022 17:54 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652524201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652550633 86400 3600 604800 30
  NS localhost.
 
 0emm.com CNAME .
@@ -247,6 +247,8 @@ bi.medscape.com CNAME .
 *.bi.medscape.com CNAME .
 bizrate.com CNAME .
 *.bizrate.com CNAME .
+bjhmdy.vip CNAME .
+*.bjhmdy.vip CNAME .
 bkrtx.com CNAME .
 *.bkrtx.com CNAME .
 blueconic.net CNAME .
@@ -483,6 +485,8 @@ elastx.net CNAME .
 *.elastx.net CNAME .
 ensighten.com CNAME .
 *.ensighten.com CNAME .
+entiregraterfurs.com CNAME .
+*.entiregraterfurs.com CNAME .
 er.search.naver.com CNAME .
 *.er.search.naver.com CNAME .
 etahub.com CNAME .
@@ -723,6 +727,8 @@ intelliad.de CNAME .
 *.intelliad.de CNAME .
 intendalinetang.com CNAME .
 *.intendalinetang.com CNAME .
+inuuhtznjglmm.com CNAME .
+*.inuuhtznjglmm.com CNAME .
 investingchannel.com CNAME .
 *.investingchannel.com CNAME .
 investmeny.org CNAME .
@@ -1175,6 +1181,8 @@ rousedmilk.com CNAME .
 *.rousedmilk.com CNAME .
 rpts.org CNAME .
 *.rpts.org CNAME .
+rrrsnxzkhbwwrs.com CNAME .
+*.rrrsnxzkhbwwrs.com CNAME .
 rubicon.wellsfargo.com CNAME .
 *.rubicon.wellsfargo.com CNAME .
 rutrk.org CNAME .
@@ -1211,6 +1219,8 @@ seal.networksolutions.com CNAME .
 *.seal.networksolutions.com CNAME .
 search2000s.com CNAME .
 *.search2000s.com CNAME .
+secrr.cn CNAME .
+*.secrr.cn CNAME .
 securemetrics.apple.com CNAME .
 *.securemetrics.apple.com CNAME .
 securitain.com CNAME .
@@ -1385,6 +1395,8 @@ thophuthushe.com CNAME .
 *.thophuthushe.com CNAME .
 tidaltv.com CNAME .
 *.tidaltv.com CNAME .
+timbercooling.com CNAME .
+*.timbercooling.com CNAME .
 tisagama.com CNAME .
 *.tisagama.com CNAME .
 tm.tradetracker.net CNAME .
@@ -1487,8 +1499,6 @@ viebitgreasy.email CNAME .
 *.viebitgreasy.email CNAME .
 vilynx.com CNAME .
 *.vilynx.com CNAME .
-virtl.xyz CNAME .
-*.virtl.xyz CNAME .
 voaroawo.net CNAME .
 *.voaroawo.net CNAME .
 voodoo.com CNAME .
@@ -1507,8 +1517,6 @@ walasearch.com CNAME .
 *.walasearch.com CNAME .
 wantmimic.com CNAME .
 *.wantmimic.com CNAME .
-waptraff.mobi CNAME .
-*.waptraff.mobi CNAME .
 waptrick.com CNAME .
 *.waptrick.com CNAME .
 waugeboa.net CNAME .
@@ -1529,14 +1537,10 @@ websecurity.norton.com CNAME .
 *.websecurity.norton.com CNAME .
 widget.trustpilot.com CNAME .
 *.widget.trustpilot.com CNAME .
-win-window.win CNAME .
-*.win-window.win CNAME .
 woopra.com CNAME .
 *.woopra.com CNAME .
 wootric.com CNAME .
 *.wootric.com CNAME .
-wordgetboo.com CNAME .
-*.wordgetboo.com CNAME .
 wqlkp.com CNAME .
 *.wqlkp.com CNAME .
 wretchedchapterdozen.com CNAME .
@@ -1565,8 +1569,6 @@ xawsnngjljanxof.su CNAME .
 *.xawsnngjljanxof.su CNAME .
 xlog-va.musical.ly CNAME .
 *.xlog-va.musical.ly CNAME .
-xmqju.xyz CNAME .
-*.xmqju.xyz CNAME .
 xn--xhq9mt12cf5v.shop CNAME .
 *.xn--xhq9mt12cf5v.shop CNAME .
 xpornoizlee.com CNAME .
@@ -1575,8 +1577,6 @@ xtxa.net CNAME .
 *.xtxa.net CNAME .
 xxe2.com CNAME .
 *.xxe2.com CNAME .
-xxf65z4o6a.club CNAME .
-*.xxf65z4o6a.club CNAME .
 xxladu.com CNAME .
 *.xxladu.com CNAME .
 yese161.com CNAME .
@@ -1597,8 +1597,6 @@ yueyuelao.cn CNAME .
 *.yueyuelao.cn CNAME .
 zaushegi.net CNAME .
 *.zaushegi.net CNAME .
-zedinfo.info CNAME .
-*.zedinfo.info CNAME .
 zenaps.com CNAME .
 *.zenaps.com CNAME .
 zmnkduay.com CNAME .
@@ -1611,5 +1609,3 @@ zudrurta.com CNAME .
 *.zudrurta.com CNAME .
 zugo.com CNAME .
 *.zugo.com CNAME .
-zxrtn.com CNAME .
-*.zxrtn.com CNAME .

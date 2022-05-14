@@ -1,6 +1,6 @@
-# Version: 202205141033
+# Version: 202205141754
 # Title: oisd extra
-# Last modified: 14 May 2022 10:33 UTC
+# Last modified: 14 May 2022 17:54 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                
@@ -673,6 +673,7 @@ www.betrustkelping.com
 www.bfast.com
 www.bfhxivpij.com
 www.bizrate.com
+www.bjhmdy.vip
 www.bkrtx.com
 www.blueconic.net
 www.bluecore.com
@@ -744,6 +745,7 @@ www.eeoylmkd.com
 www.eetseemp.net
 www.elastx.net
 www.ensighten.com
+www.entiregraterfurs.com
 www.etahub.com
 www.eulerian.net
 www.everesttech.net
@@ -823,6 +825,7 @@ www.inspectlet.com
 www.instant.page
 www.intelliad.de
 www.intendalinetang.com
+www.inuuhtznjglmm.com
 www.investingchannel.com
 www.investmeny.org
 www.invoca.net
@@ -974,12 +977,14 @@ www.riastats.com
 www.riqu2015.com
 www.rlcdn.com
 www.rousedmilk.com
+www.rrrsnxzkhbwwrs.com
 www.rutrk.org
 www.salemove.com
 www.salesmanago.pl
 www.sare25.com
 www.scw0.com
 www.search2000s.com
+www.secrr.cn
 www.securitain.com
 www.securitymetrics.com
 www.sedoparking.com
@@ -1035,6 +1040,7 @@ www.thewebgemnetwork.com
 www.thistocapsy.com
 www.thophuthushe.com
 www.tidaltv.com
+www.timbercooling.com
 www.tisagama.com
 www.todhamilton.pro
 www.tonnection.xyz
@@ -1063,14 +1069,12 @@ www.velaro.com
 www.videc10.com
 www.viebitgreasy.email
 www.vilynx.com
-www.virtl.xyz
 www.voaroawo.net
 www.voodoo.com
 www.vrqsvrnjrhdmek.com
 www.vyphytovu.pro
 www.walasearch.com
 www.wantmimic.com
-www.waptraff.mobi
 www.waptrick.com
 www.waugeboa.net
 www.we-stats.com
@@ -1078,10 +1082,8 @@ www.webgains.com
 www.webhop.net
 www.webmasterplan.com
 www.webpower.eu
-www.win-window.win
 www.woopra.com
 www.wootric.com
-www.wordgetboo.com
 www.wqlkp.com
 www.wretchedchapterdozen.com
 www.wt-eu02.net
@@ -1090,12 +1092,10 @@ www.wurfl.io
 www.wywy.com
 www.x-adservice.com
 www.xawsnngjljanxof.su
-www.xmqju.xyz
 www.xn--xhq9mt12cf5v.shop
 www.xpornoizlee.com
 www.xtxa.net
 www.xxe2.com
-www.xxf65z4o6a.club
 www.xxladu.com
 www.yese161.com
 www.yessearches.com
@@ -1105,13 +1105,11 @@ www.youndoo.com
 www.youvisit.com
 www.yueyuelao.cn
 www.zaushegi.net
-www.zedinfo.info
 www.zenaps.com
 www.zmnkduay.com
 www.zndaowjdnf.stream
 www.zogleshewi.com
 www.zudrurta.com
-www.zxrtn.com
 wywy.com
 wzrkt.com
 x3-policy-maker.goguardian.com

@@ -1,6 +1,6 @@
-# Version: 202205141033
+# Version: 202205141754
 # Title: oisd extra
-# Last modified: 14 May 2022 10:33 UTC
+# Last modified: 14 May 2022 17:54 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -127,6 +127,7 @@
 *.bfhxivpij.com
 *.bi.medscape.com
 *.bizrate.com
+*.bjhmdy.vip
 *.bkrtx.com
 *.blueconic.net
 *.bluecore.com
@@ -245,6 +246,7 @@
 *.eetseemp.net
 *.elastx.net
 *.ensighten.com
+*.entiregraterfurs.com
 *.er.search.naver.com
 *.etahub.com
 *.eu.spgo.io
@@ -365,6 +367,7 @@
 *.instant.page
 *.intelliad.de
 *.intendalinetang.com
+*.inuuhtznjglmm.com
 *.investingchannel.com
 *.investmeny.org
 *.invoca.net
@@ -591,6 +594,7 @@
 *.rockstorageplace.com
 *.rousedmilk.com
 *.rpts.org
+*.rrrsnxzkhbwwrs.com
 *.rubicon.wellsfargo.com
 *.rutrk.org
 *.sa.bbc.co.uk
@@ -609,6 +613,7 @@
 *.seal.godaddy.com
 *.seal.networksolutions.com
 *.search2000s.com
+*.secrr.cn
 *.securemetrics.apple.com
 *.securitain.com
 *.securitymetrics.com
@@ -696,6 +701,7 @@
 *.thistocapsy.com
 *.thophuthushe.com
 *.tidaltv.com
+*.timbercooling.com
 *.tisagama.com
 *.tm.tradetracker.net
 *.tms-st.cdn.ngenix.net
@@ -747,7 +753,6 @@
 *.videc10.com
 *.viebitgreasy.email
 *.vilynx.com
-*.virtl.xyz
 *.voaroawo.net
 *.voodoo.com
 *.vortex.data.microsoft.com
@@ -757,7 +762,6 @@
 *.w88.espn.com
 *.walasearch.com
 *.wantmimic.com
-*.waptraff.mobi
 *.waptrick.com
 *.waugeboa.net
 *.we-stats.com
@@ -768,10 +772,8 @@
 *.webpower.eu
 *.websecurity.norton.com
 *.widget.trustpilot.com
-*.win-window.win
 *.woopra.com
 *.wootric.com
-*.wordgetboo.com
 *.wqlkp.com
 *.wretchedchapterdozen.com
 *.wsapi-global.master.live
@@ -786,12 +788,10 @@
 *.xapi.ozon.ru
 *.xawsnngjljanxof.su
 *.xlog-va.musical.ly
-*.xmqju.xyz
 *.xn--xhq9mt12cf5v.shop
 *.xpornoizlee.com
 *.xtxa.net
 *.xxe2.com
-*.xxf65z4o6a.club
 *.xxladu.com
 *.yese161.com
 *.yessearches.com
@@ -802,11 +802,9 @@
 *.youvisit.com
 *.yueyuelao.cn
 *.zaushegi.net
-*.zedinfo.info
 *.zenaps.com
 *.zmnkduay.com
 *.zndaowjdnf.stream
 *.zogleshewi.com
 *.zudrurta.com
 *.zugo.com
-*.zxrtn.com
