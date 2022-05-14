@@ -1,6 +1,6 @@
-# Version: 202205141932
+# Version: 202205141944
 # Title: oisd basic
-# Last modified: 14 May 2022 19:32 UTC
+# Last modified: 14 May 2022 19:44 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -10641,7 +10641,6 @@
 0.0.0.0 bioxtubes.com
 0.0.0.0 bip.beeppool.org
 0.0.0.0 bip.presage.io
-0.0.0.0 biquter.xyz
 0.0.0.0 birdshome.top
 0.0.0.0 birkiesdipyre.com
 0.0.0.0 birlerskababs.com
@@ -23222,7 +23221,6 @@
 0.0.0.0 godsadvice.com
 0.0.0.0 godspeaks.net
 0.0.0.0 godudsqvnlgey.com
-0.0.0.0 godvwcft.com
 0.0.0.0 goember.com
 0.0.0.0 goepxwacxhtkix.com
 0.0.0.0 goercoshes.com
@@ -45741,7 +45739,6 @@
 0.0.0.0 stewclove.com
 0.0.0.0 stewhustysti.com
 0.0.0.0 stewlinedull.com
-0.0.0.0 stezuzeje.com
 0.0.0.0 stg-data-collector.playbuzz.com
 0.0.0.0 stg.anymind360.com
 0.0.0.0 stgowan.com
@@ -55234,7 +55231,6 @@
 0.0.0.0 zemanta.com
 0.0.0.0 zen-tw.beeppool.org
 0.0.0.0 zenback.jp
-0.0.0.0 zencu.com.cn
 0.0.0.0 zendplace.pro
 0.0.0.0 zenkreka.com
 0.0.0.0 zenoviaexchange.com

@@ -1,12 +1,12 @@
-; Version: 202205141932
+; Version: 202205141944
 ; Title: oisd basic
-; Last modified: 14 May 2022 19:32 UTC
+; Last modified: 14 May 2022 19:44 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652556534 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652557227 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -18319,8 +18319,6 @@ biosda.com CNAME .
 *.biosda.com CNAME .
 bioxtubes.com CNAME .
 *.bioxtubes.com CNAME .
-biquter.xyz CNAME .
-*.biquter.xyz CNAME .
 birdshome.top CNAME .
 *.birdshome.top CNAME .
 birkiesdipyre.com CNAME .
@@ -39557,8 +39555,6 @@ godspeaks.net CNAME .
 *.godspeaks.net CNAME .
 godudsqvnlgey.com CNAME .
 *.godudsqvnlgey.com CNAME .
-godvwcft.com CNAME .
-*.godvwcft.com CNAME .
 goember.com CNAME .
 *.goember.com CNAME .
 goepxwacxhtkix.com CNAME .
@@ -78531,8 +78527,6 @@ stewhustysti.com CNAME .
 *.stewhustysti.com CNAME .
 stewlinedull.com CNAME .
 *.stewlinedull.com CNAME .
-stezuzeje.com CNAME .
-*.stezuzeje.com CNAME .
 stg-data-collector.playbuzz.com CNAME .
 *.stg-data-collector.playbuzz.com CNAME .
 stgowan.com CNAME .
@@ -94531,8 +94525,6 @@ zemanta.com CNAME .
 *.zemanta.com CNAME .
 zenback.jp CNAME .
 *.zenback.jp CNAME .
-zencu.com.cn CNAME .
-*.zencu.com.cn CNAME .
 zendplace.pro CNAME .
 *.zendplace.pro CNAME .
 zenkreka.com CNAME .

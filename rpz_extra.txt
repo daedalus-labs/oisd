@@ -1,12 +1,12 @@
-; Version: 202205141923
+; Version: 202205141932
 ; Title: oisd extra
-; Last modified: 14 May 2022 19:23 UTC
+; Last modified: 14 May 2022 19:32 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652555964 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652556534 86400 3600 604800 30
  NS localhost.
 
 0emm.com CNAME .
@@ -1603,8 +1603,6 @@ ud831d4.com CNAME .
 *.ud831d4.com CNAME .
 ue.flipboard.com CNAME .
 *.ue.flipboard.com CNAME .
-uebadu.com CNAME .
-*.uebadu.com CNAME .
 uid.mavencoalition.io CNAME .
 *.uid.mavencoalition.io CNAME .
 universalsearches.com CNAME .

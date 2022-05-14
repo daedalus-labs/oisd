@@ -1,6 +1,6 @@
-# Version: 202205141923
+# Version: 202205141932
 # Title: oisd extra
-# Last modified: 14 May 2022 19:23 UTC
+# Last modified: 14 May 2022 19:32 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -1129,7 +1129,6 @@
 0.0.0.0 www.tysicyse.com
 0.0.0.0 www.tyxo.bg
 0.0.0.0 www.ud831d4.com
-0.0.0.0 www.uebadu.com
 0.0.0.0 www.universalsearches.com
 0.0.0.0 www.unmord.com
 0.0.0.0 www.uqsgsfhd.com

@@ -1,6 +1,6 @@
-# Version: 202205141932
+# Version: 202205141944
 # Title: oisd basic
-# Last modified: 14 May 2022 19:32 UTC
+# Last modified: 14 May 2022 19:44 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -9160,7 +9160,6 @@ address=/bionicclick.com/#
 address=/bionicskamsins.com/#
 address=/biosda.com/#
 address=/bioxtubes.com/#
-address=/biquter.xyz/#
 address=/birdshome.top/#
 address=/birkiesdipyre.com/#
 address=/birlerskababs.com/#
@@ -19779,7 +19778,6 @@ address=/godrix.com/#
 address=/godsadvice.com/#
 address=/godspeaks.net/#
 address=/godudsqvnlgey.com/#
-address=/godvwcft.com/#
 address=/goember.com/#
 address=/goepxwacxhtkix.com/#
 address=/goercoshes.com/#
@@ -39266,7 +39264,6 @@ address=/stevoglutu.com/#
 address=/stewclove.com/#
 address=/stewhustysti.com/#
 address=/stewlinedull.com/#
-address=/stezuzeje.com/#
 address=/stg-data-collector.playbuzz.com/#
 address=/stgowan.com/#
 address=/stheconc.club/#
@@ -47266,7 +47263,6 @@ address=/zelrasty.net/#
 address=/zem.outbrainimg.com/#
 address=/zemanta.com/#
 address=/zenback.jp/#
-address=/zencu.com.cn/#
 address=/zendplace.pro/#
 address=/zenkreka.com/#
 address=/zenoviaexchange.com/#

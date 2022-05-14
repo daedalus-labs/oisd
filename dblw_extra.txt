@@ -1,6 +1,6 @@
-# Version: 202205141923
+# Version: 202205141932
 # Title: oisd extra
-# Last modified: 14 May 2022 19:23 UTC
+# Last modified: 14 May 2022 19:32 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -805,7 +805,6 @@
 *.tyxo.bg
 *.ud831d4.com
 *.ue.flipboard.com
-*.uebadu.com
 *.uid.mavencoalition.io
 *.universalsearches.com
 *.unmord.com

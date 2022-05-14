@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202205141932
+! Version: 202205141944
 ! Title: oisd basic
-! Last modified: 14 May 2022 19:32 UTC
+! Last modified: 14 May 2022 19:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                
@@ -9161,7 +9161,6 @@
 ||bionicskamsins.com^
 ||biosda.com^
 ||bioxtubes.com^
-||biquter.xyz^
 ||birdshome.top^
 ||birkiesdipyre.com^
 ||birlerskababs.com^
@@ -19780,7 +19779,6 @@
 ||godsadvice.com^
 ||godspeaks.net^
 ||godudsqvnlgey.com^
-||godvwcft.com^
 ||goember.com^
 ||goepxwacxhtkix.com^
 ||goercoshes.com^
@@ -39267,7 +39265,6 @@
 ||stewclove.com^
 ||stewhustysti.com^
 ||stewlinedull.com^
-||stezuzeje.com^
 ||stg-data-collector.playbuzz.com^
 ||stgowan.com^
 ||stheconc.club^
@@ -47267,7 +47264,6 @@
 ||zem.outbrainimg.com^
 ||zemanta.com^
 ||zenback.jp^
-||zencu.com.cn^
 ||zendplace.pro^
 ||zenkreka.com^
 ||zenoviaexchange.com^
