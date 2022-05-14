@@ -1,6 +1,6 @@
-# Version: 202205131823
+# Version: 202205140956
 # Title: oisd extra
-# Last modified: 13 May 2022 18:23 UTC
+# Last modified: 14 May 2022 09:56 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -161,7 +161,6 @@ address=/cloudflareinsights.com/#
 address=/cmcintra.net/#
 address=/cmp-cdn.ghostery.com/#
 address=/cnzz.com/#
-address=/code-lienquan-vn.com/#
 address=/cohesionapps.com/#
 address=/collect.media.jio.com/#
 address=/commander1.com/#
@@ -282,6 +281,7 @@ address=/getblueshift.com/#
 address=/getpublica.com/#
 address=/ghosthis.review/#
 address=/giqepofa.com/#
+address=/glathycapto.com/#
 address=/gnar.grammarly.com/#
 address=/go-mpulse.net/#
 address=/go2jump.org/#
@@ -305,6 +305,7 @@ address=/hs-scripts.com/#
 address=/hsoub.com/#
 address=/humanpresence.app/#
 address=/hurom365.cn/#
+address=/hvcbkr.com/#
 address=/hypestat.com/#
 address=/i.viafoura.co/#
 address=/iam-agof-app.irquest.com/#
@@ -340,6 +341,7 @@ address=/isnssdk.com/#
 address=/ist-track.com/#
 address=/jdoqocy.com/#
 address=/jeeng.com/#
+address=/jisyzysy.com/#
 address=/jivox.com/#
 address=/johays.co/#
 address=/js-agent.newrelic.com/#
@@ -362,6 +364,7 @@ address=/lgsmartad.com/#
 address=/liftoff.io/#
 address=/linkev.com/#
 address=/linkwi.se/#
+address=/liuchengming.com/#
 address=/livetex.ru/#
 address=/log-tb.sgsnssdk.com/#
 address=/log-upload-os.hoyoverse.com/#
@@ -395,6 +398,7 @@ address=/media01.eu/#
 address=/mediaplex.com/#
 address=/meehaina.net/#
 address=/metaffiliation.com/#
+address=/metaprofit.net/#
 address=/metok.sys.miui.com/#
 address=/metric.gstatic.com/#
 address=/metrics.brightcove.com/#
@@ -433,9 +437,11 @@ address=/nfiuerwtftasnuk.com/#
 address=/nicesearches.com/#
 address=/nil.naver.com/#
 address=/njih.net/#
+address=/nlqznsleo.com/#
 address=/nmetrics.samsung.com/#
 address=/nonstoppartner.net/#
 address=/nr-data.net/#
+address=/nupoot.com/#
 address=/o2o.api.xiaomi.com/#
 address=/okkkk.com/#
 address=/okt.to/#
@@ -524,6 +530,7 @@ address=/riastats.com/#
 address=/riqu2015.com/#
 address=/rlcdn.com/#
 address=/rockstorageplace.com/#
+address=/rousedmilk.com/#
 address=/rpts.org/#
 address=/rubicon.wellsfargo.com/#
 address=/rutrk.org/#
@@ -686,6 +693,7 @@ address=/win-window.win/#
 address=/woopra.com/#
 address=/wootric.com/#
 address=/wordgetboo.com/#
+address=/wqlkp.com/#
 address=/wsapi-global.master.live/#
 address=/wt-eu02.net/#
 address=/wurfl.io/#
@@ -704,6 +712,7 @@ address=/xxe2.com/#
 address=/xxf65z4o6a.club/#
 address=/yessearches.com/#
 address=/yeswegays.com/#
+address=/yhaizy.cn/#
 address=/youboranqs01.com/#
 address=/youndoo.com/#
 address=/youvisit.com/#

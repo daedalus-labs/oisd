@@ -1,12 +1,12 @@
-; Version: 202205131823
+; Version: 202205140956
 ; Title: oisd extra
-; Last modified: 13 May 2022 18:23 UTC
+; Last modified: 14 May 2022 09:56 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652465972 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652521937 86400 3600 604800 30
  NS localhost.
 
 0emm.com CNAME .
@@ -321,8 +321,6 @@ cmp-cdn.ghostery.com CNAME .
 *.cmp-cdn.ghostery.com CNAME .
 cnzz.com CNAME .
 *.cnzz.com CNAME .
-code-lienquan-vn.com CNAME .
-*.code-lienquan-vn.com CNAME .
 cohesionapps.com CNAME .
 *.cohesionapps.com CNAME .
 collect.media.jio.com CNAME .
@@ -563,6 +561,8 @@ ghosthis.review CNAME .
 *.ghosthis.review CNAME .
 giqepofa.com CNAME .
 *.giqepofa.com CNAME .
+glathycapto.com CNAME .
+*.glathycapto.com CNAME .
 gnar.grammarly.com CNAME .
 *.gnar.grammarly.com CNAME .
 go-mpulse.net CNAME .
@@ -609,6 +609,8 @@ humanpresence.app CNAME .
 *.humanpresence.app CNAME .
 hurom365.cn CNAME .
 *.hurom365.cn CNAME .
+hvcbkr.com CNAME .
+*.hvcbkr.com CNAME .
 hypestat.com CNAME .
 *.hypestat.com CNAME .
 i.viafoura.co CNAME .
@@ -679,6 +681,8 @@ jdoqocy.com CNAME .
 *.jdoqocy.com CNAME .
 jeeng.com CNAME .
 *.jeeng.com CNAME .
+jisyzysy.com CNAME .
+*.jisyzysy.com CNAME .
 jivox.com CNAME .
 *.jivox.com CNAME .
 johays.co CNAME .
@@ -723,6 +727,8 @@ linkev.com CNAME .
 *.linkev.com CNAME .
 linkwi.se CNAME .
 *.linkwi.se CNAME .
+liuchengming.com CNAME .
+*.liuchengming.com CNAME .
 livetex.ru CNAME .
 *.livetex.ru CNAME .
 log-tb.sgsnssdk.com CNAME .
@@ -789,6 +795,8 @@ meehaina.net CNAME .
 *.meehaina.net CNAME .
 metaffiliation.com CNAME .
 *.metaffiliation.com CNAME .
+metaprofit.net CNAME .
+*.metaprofit.net CNAME .
 metok.sys.miui.com CNAME .
 *.metok.sys.miui.com CNAME .
 metric.gstatic.com CNAME .
@@ -865,12 +873,16 @@ nil.naver.com CNAME .
 *.nil.naver.com CNAME .
 njih.net CNAME .
 *.njih.net CNAME .
+nlqznsleo.com CNAME .
+*.nlqznsleo.com CNAME .
 nmetrics.samsung.com CNAME .
 *.nmetrics.samsung.com CNAME .
 nonstoppartner.net CNAME .
 *.nonstoppartner.net CNAME .
 nr-data.net CNAME .
 *.nr-data.net CNAME .
+nupoot.com CNAME .
+*.nupoot.com CNAME .
 o2o.api.xiaomi.com CNAME .
 *.o2o.api.xiaomi.com CNAME .
 okkkk.com CNAME .
@@ -1047,6 +1059,8 @@ rlcdn.com CNAME .
 *.rlcdn.com CNAME .
 rockstorageplace.com CNAME .
 *.rockstorageplace.com CNAME .
+rousedmilk.com CNAME .
+*.rousedmilk.com CNAME .
 rpts.org CNAME .
 *.rpts.org CNAME .
 rubicon.wellsfargo.com CNAME .
@@ -1371,6 +1385,8 @@ wootric.com CNAME .
 *.wootric.com CNAME .
 wordgetboo.com CNAME .
 *.wordgetboo.com CNAME .
+wqlkp.com CNAME .
+*.wqlkp.com CNAME .
 wsapi-global.master.live CNAME .
 *.wsapi-global.master.live CNAME .
 wt-eu02.net CNAME .
@@ -1407,6 +1423,8 @@ yessearches.com CNAME .
 *.yessearches.com CNAME .
 yeswegays.com CNAME .
 *.yeswegays.com CNAME .
+yhaizy.cn CNAME .
+*.yhaizy.cn CNAME .
 youboranqs01.com CNAME .
 *.youboranqs01.com CNAME .
 youndoo.com CNAME .

@@ -1,6 +1,6 @@
-# Version: 202205131823
+# Version: 202205140956
 # Title: oisd extra
-# Last modified: 13 May 2022 18:23 UTC
+# Last modified: 14 May 2022 09:56 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                
@@ -697,7 +697,6 @@ www.clicktale.net
 www.cloudflareinsights.com
 www.cmcintra.net
 www.cnzz.com
-www.code-lienquan-vn.com
 www.commander1.com
 www.commission-junction.com
 www.conduit-services.com
@@ -759,6 +758,7 @@ www.getblueshift.com
 www.getpublica.com
 www.ghosthis.review
 www.giqepofa.com
+www.glathycapto.com
 www.go2jump.org
 www.goatcounter.com
 www.goldbach.com
@@ -776,6 +776,7 @@ www.hs-scripts.com
 www.hsoub.com
 www.humanpresence.app
 www.hurom365.cn
+www.hvcbkr.com
 www.hypestat.com
 www.ibryte.com
 www.igg.biz
@@ -801,6 +802,7 @@ www.isnssdk.com
 www.ist-track.com
 www.jdoqocy.com
 www.jeeng.com
+www.jisyzysy.com
 www.jivox.com
 www.johays.co
 www.kampyle.com
@@ -818,6 +820,7 @@ www.lgsmartad.com
 www.liftoff.io
 www.linkev.com
 www.linkwi.se
+www.liuchengming.com
 www.livetex.ru
 www.logentries.com
 www.loginhood.io
@@ -837,6 +840,7 @@ www.media01.eu
 www.mediaplex.com
 www.meehaina.net
 www.metaffiliation.com
+www.metaprofit.net
 www.mgzjin.cn
 www.mindtake.com
 www.mkt51.net
@@ -864,8 +868,10 @@ www.netupdater.info
 www.nfiuerwtftasnuk.com
 www.nicesearches.com
 www.njih.net
+www.nlqznsleo.com
 www.nonstoppartner.net
 www.nr-data.net
+www.nupoot.com
 www.okkkk.com
 www.okt.to
 www.omarsys.com
@@ -912,6 +918,7 @@ www.reviabiliseriez.site
 www.riastats.com
 www.riqu2015.com
 www.rlcdn.com
+www.rousedmilk.com
 www.rutrk.org
 www.salemove.com
 www.salesmanago.pl
@@ -1000,6 +1007,7 @@ www.win-window.win
 www.woopra.com
 www.wootric.com
 www.wordgetboo.com
+www.wqlkp.com
 www.wt-eu02.net
 www.wurfl.io
 www.wywy.com
@@ -1012,6 +1020,7 @@ www.xxe2.com
 www.xxf65z4o6a.club
 www.yessearches.com
 www.yeswegays.com
+www.yhaizy.cn
 www.youndoo.com
 www.youvisit.com
 www.zaushegi.net

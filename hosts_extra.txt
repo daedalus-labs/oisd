@@ -1,6 +1,6 @@
-# Version: 202205131823
+# Version: 202205140956
 # Title: oisd extra
-# Last modified: 13 May 2022 18:23 UTC
+# Last modified: 14 May 2022 09:56 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -697,7 +697,6 @@
 0.0.0.0 www.cloudflareinsights.com
 0.0.0.0 www.cmcintra.net
 0.0.0.0 www.cnzz.com
-0.0.0.0 www.code-lienquan-vn.com
 0.0.0.0 www.commander1.com
 0.0.0.0 www.commission-junction.com
 0.0.0.0 www.conduit-services.com
@@ -759,6 +758,7 @@
 0.0.0.0 www.getpublica.com
 0.0.0.0 www.ghosthis.review
 0.0.0.0 www.giqepofa.com
+0.0.0.0 www.glathycapto.com
 0.0.0.0 www.go2jump.org
 0.0.0.0 www.goatcounter.com
 0.0.0.0 www.goldbach.com
@@ -776,6 +776,7 @@
 0.0.0.0 www.hsoub.com
 0.0.0.0 www.humanpresence.app
 0.0.0.0 www.hurom365.cn
+0.0.0.0 www.hvcbkr.com
 0.0.0.0 www.hypestat.com
 0.0.0.0 www.ibryte.com
 0.0.0.0 www.igg.biz
@@ -801,6 +802,7 @@
 0.0.0.0 www.ist-track.com
 0.0.0.0 www.jdoqocy.com
 0.0.0.0 www.jeeng.com
+0.0.0.0 www.jisyzysy.com
 0.0.0.0 www.jivox.com
 0.0.0.0 www.johays.co
 0.0.0.0 www.kampyle.com
@@ -818,6 +820,7 @@
 0.0.0.0 www.liftoff.io
 0.0.0.0 www.linkev.com
 0.0.0.0 www.linkwi.se
+0.0.0.0 www.liuchengming.com
 0.0.0.0 www.livetex.ru
 0.0.0.0 www.logentries.com
 0.0.0.0 www.loginhood.io
@@ -837,6 +840,7 @@
 0.0.0.0 www.mediaplex.com
 0.0.0.0 www.meehaina.net
 0.0.0.0 www.metaffiliation.com
+0.0.0.0 www.metaprofit.net
 0.0.0.0 www.mgzjin.cn
 0.0.0.0 www.mindtake.com
 0.0.0.0 www.mkt51.net
@@ -864,8 +868,10 @@
 0.0.0.0 www.nfiuerwtftasnuk.com
 0.0.0.0 www.nicesearches.com
 0.0.0.0 www.njih.net
+0.0.0.0 www.nlqznsleo.com
 0.0.0.0 www.nonstoppartner.net
 0.0.0.0 www.nr-data.net
+0.0.0.0 www.nupoot.com
 0.0.0.0 www.okkkk.com
 0.0.0.0 www.okt.to
 0.0.0.0 www.omarsys.com
@@ -912,6 +918,7 @@
 0.0.0.0 www.riastats.com
 0.0.0.0 www.riqu2015.com
 0.0.0.0 www.rlcdn.com
+0.0.0.0 www.rousedmilk.com
 0.0.0.0 www.rutrk.org
 0.0.0.0 www.salemove.com
 0.0.0.0 www.salesmanago.pl
@@ -1000,6 +1007,7 @@
 0.0.0.0 www.woopra.com
 0.0.0.0 www.wootric.com
 0.0.0.0 www.wordgetboo.com
+0.0.0.0 www.wqlkp.com
 0.0.0.0 www.wt-eu02.net
 0.0.0.0 www.wurfl.io
 0.0.0.0 www.wywy.com
@@ -1012,6 +1020,7 @@
 0.0.0.0 www.xxf65z4o6a.club
 0.0.0.0 www.yessearches.com
 0.0.0.0 www.yeswegays.com
+0.0.0.0 www.yhaizy.cn
 0.0.0.0 www.youndoo.com
 0.0.0.0 www.youvisit.com
 0.0.0.0 www.zaushegi.net

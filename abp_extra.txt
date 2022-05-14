@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202205131823
+! Version: 202205140956
 ! Title: oisd extra
-! Last modified: 13 May 2022 18:23 UTC
+! Last modified: 14 May 2022 09:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                
@@ -162,7 +162,6 @@
 ||cmcintra.net^
 ||cmp-cdn.ghostery.com^
 ||cnzz.com^
-||code-lienquan-vn.com^
 ||cohesionapps.com^
 ||collect.media.jio.com^
 ||commander1.com^
@@ -283,6 +282,7 @@
 ||getpublica.com^
 ||ghosthis.review^
 ||giqepofa.com^
+||glathycapto.com^
 ||gnar.grammarly.com^
 ||go-mpulse.net^
 ||go2jump.org^
@@ -306,6 +306,7 @@
 ||hsoub.com^
 ||humanpresence.app^
 ||hurom365.cn^
+||hvcbkr.com^
 ||hypestat.com^
 ||i.viafoura.co^
 ||iam-agof-app.irquest.com^
@@ -341,6 +342,7 @@
 ||ist-track.com^
 ||jdoqocy.com^
 ||jeeng.com^
+||jisyzysy.com^
 ||jivox.com^
 ||johays.co^
 ||js-agent.newrelic.com^
@@ -363,6 +365,7 @@
 ||liftoff.io^
 ||linkev.com^
 ||linkwi.se^
+||liuchengming.com^
 ||livetex.ru^
 ||log-tb.sgsnssdk.com^
 ||log-upload-os.hoyoverse.com^
@@ -396,6 +399,7 @@
 ||mediaplex.com^
 ||meehaina.net^
 ||metaffiliation.com^
+||metaprofit.net^
 ||metok.sys.miui.com^
 ||metric.gstatic.com^
 ||metrics.brightcove.com^
@@ -434,9 +438,11 @@
 ||nicesearches.com^
 ||nil.naver.com^
 ||njih.net^
+||nlqznsleo.com^
 ||nmetrics.samsung.com^
 ||nonstoppartner.net^
 ||nr-data.net^
+||nupoot.com^
 ||o2o.api.xiaomi.com^
 ||okkkk.com^
 ||okt.to^
@@ -525,6 +531,7 @@
 ||riqu2015.com^
 ||rlcdn.com^
 ||rockstorageplace.com^
+||rousedmilk.com^
 ||rpts.org^
 ||rubicon.wellsfargo.com^
 ||rutrk.org^
@@ -687,6 +694,7 @@
 ||woopra.com^
 ||wootric.com^
 ||wordgetboo.com^
+||wqlkp.com^
 ||wsapi-global.master.live^
 ||wt-eu02.net^
 ||wurfl.io^
@@ -705,6 +713,7 @@
 ||xxf65z4o6a.club^
 ||yessearches.com^
 ||yeswegays.com^
+||yhaizy.cn^
 ||youboranqs01.com^
 ||youndoo.com^
 ||youvisit.com^
