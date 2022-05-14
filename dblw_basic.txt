@@ -1,6 +1,6 @@
-# Version: 202205141922
+# Version: 202205141932
 # Title: oisd basic
-# Last modified: 14 May 2022 19:22 UTC
+# Last modified: 14 May 2022 19:32 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -29116,7 +29116,6 @@
 *.nbhotpo.com
 *.nbhxgjz.com
 *.nblczw.com
-*.nboc.xyz
 *.nbpyfog.cn
 *.nbrtrack.com
 *.nbsave.xyz

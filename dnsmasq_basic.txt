@@ -1,6 +1,6 @@
-# Version: 202205141922
+# Version: 202205141932
 # Title: oisd basic
-# Last modified: 14 May 2022 19:22 UTC
+# Last modified: 14 May 2022 19:32 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -29113,7 +29113,6 @@ address=/nbheopi.cn/#
 address=/nbhotpo.com/#
 address=/nbhxgjz.com/#
 address=/nblczw.com/#
-address=/nboc.xyz/#
 address=/nbpyfog.cn/#
 address=/nbrtrack.com/#
 address=/nbsave.xyz/#
