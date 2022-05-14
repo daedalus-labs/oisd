@@ -1,6 +1,6 @@
-# Version: 202205141016
+# Version: 202205141023
 # Title: oisd basic
-# Last modified: 14 May 2022 10:16 UTC
+# Last modified: 14 May 2022 10:23 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -1266,7 +1266,6 @@
 0.0.0.0 4strokemedia.com
 0.0.0.0 4takaixi.xyz
 0.0.0.0 4takt-oel.de
-0.0.0.0 4tdbbs.cn
 0.0.0.0 4th3d48.com
 0.0.0.0 4thegame.uk.intellitxt.com
 0.0.0.0 4tnui5r06j62.com
@@ -18290,7 +18289,6 @@
 0.0.0.0 domparce.pro
 0.0.0.0 domslc.com
 0.0.0.0 don.beeppool.org
-0.0.0.0 donate.cpufan.club
 0.0.0.0 donate.crypto-webminer.com
 0.0.0.0 donecooler.com
 0.0.0.0 donemillio.com
@@ -28097,7 +28095,6 @@
 0.0.0.0 jutwrench.com
 0.0.0.0 jutyledu.pro
 0.0.0.0 juuhe.com
-0.0.0.0 juvbzle.cn
 0.0.0.0 juvenilebind.com
 0.0.0.0 juwymapy.xyz
 0.0.0.0 jux9ms4vc7.ru
@@ -43197,7 +43194,6 @@
 0.0.0.0 sharpycurvet.com
 0.0.0.0 shaujoxu.net
 0.0.0.0 shaursar.net
-0.0.0.0 shauthou.net
 0.0.0.0 shawlyni.name
 0.0.0.0 shawnewspapers.112.2o7.net
 0.0.0.0 shawuh2a8nyam09.com
@@ -46410,7 +46406,6 @@
 0.0.0.0 swbclcq.cn
 0.0.0.0 swbdds.com
 0.0.0.0 swcs.jp
-0.0.0.0 swdlxrsm.com
 0.0.0.0 sweaterwarmly.com
 0.0.0.0 sweatywakelack.com
 0.0.0.0 sweb.ulta.com
@@ -46666,7 +46661,6 @@
 0.0.0.0 szwjzl.cn
 0.0.0.0 szwyyl.com
 0.0.0.0 szxhybj.com
-0.0.0.0 szxjygbabily.com
 0.0.0.0 szyuke.cn
 0.0.0.0 szzd.ltd
 0.0.0.0 t-ads.adap.tv
@@ -47213,7 +47207,6 @@
 0.0.0.0 tcmsp.cn
 0.0.0.0 tcnmf.com
 0.0.0.0 tcoekdwnuveaisk.com
-0.0.0.0 tcp.push.mob.com
 0.0.0.0 tcppu.com
 0.0.0.0 tcr.tynt.com
 0.0.0.0 tcrybv.com
@@ -54672,7 +54665,6 @@
 0.0.0.0 yesadvertising.com
 0.0.0.0 yescomition.club
 0.0.0.0 yese115.com
-0.0.0.0 yese161.com
 0.0.0.0 yese236.com
 0.0.0.0 yesmessenger.com
 0.0.0.0 yesnexus.com

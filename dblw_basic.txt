@@ -1,6 +1,6 @@
-# Version: 202205141016
+# Version: 202205141023
 # Title: oisd basic
-# Last modified: 14 May 2022 10:16 UTC
+# Last modified: 14 May 2022 10:23 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -1075,7 +1075,6 @@
 *.4strokemedia.com
 *.4takaixi.xyz
 *.4takt-oel.de
-*.4tdbbs.cn
 *.4th3d48.com
 *.4tnui5r06j62.com
 *.4u69.com
@@ -24032,7 +24031,6 @@
 *.jutwrench.com
 *.jutyledu.pro
 *.juuhe.com
-*.juvbzle.cn
 *.juvenilebind.com
 *.juwymapy.xyz
 *.jux9ms4vc7.ru
@@ -24122,6 +24120,7 @@
 *.jzwp.fun
 *.k-analytix.com
 *.k.streamrail.com
+*.k.tcp.push.mob.com
 *.k0r2eokjm6.ru
 *.k1.dancihu.com
 *.k1.wanwenwan.cn
@@ -24850,6 +24849,7 @@
 *.l.sharethis.com
 *.l.socialsexnetwork.net
 *.l.tamaliver.jp
+*.l.tcp.push.mob.com
 *.l.tenkomori.tv
 *.l.ti-da.net
 *.l.typesquare.com
@@ -37131,7 +37131,6 @@
 *.sharpycurvet.com
 *.shaujoxu.net
 *.shaursar.net
-*.shauthou.net
 *.shawlyni.name
 *.shawnewspapers.112.2o7.net
 *.shawuh2a8nyam09.com
@@ -39856,7 +39855,6 @@
 *.swbclcq.cn
 *.swbdds.com
 *.swcs.jp
-*.swdlxrsm.com
 *.sweaterwarmly.com
 *.sweatywakelack.com
 *.sweb.ulta.com
@@ -40053,7 +40051,6 @@
 *.szwjzl.cn
 *.szwyyl.com
 *.szxhybj.com
-*.szxjygbabily.com
 *.szyuke.cn
 *.szzd.ltd
 *.t-ak.hulu.com
@@ -40471,7 +40468,6 @@
 *.tcmsp.cn
 *.tcnmf.com
 *.tcoekdwnuveaisk.com
-*.tcp.push.mob.com
 *.tcppu.com
 *.tcrybv.com
 *.tcs-asp.net
@@ -46743,7 +46739,6 @@
 *.yesadvertising.com
 *.yescomition.club
 *.yese115.com
-*.yese161.com
 *.yese236.com
 *.yesmessenger.com
 *.yesnexus.com

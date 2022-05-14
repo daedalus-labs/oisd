@@ -1,6 +1,6 @@
-# Version: 202205141016
+# Version: 202205141023
 # Title: oisd basic
-# Last modified: 14 May 2022 10:16 UTC
+# Last modified: 14 May 2022 10:23 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -1072,7 +1072,6 @@ address=/4stats.de/#
 address=/4strokemedia.com/#
 address=/4takaixi.xyz/#
 address=/4takt-oel.de/#
-address=/4tdbbs.cn/#
 address=/4th3d48.com/#
 address=/4tnui5r06j62.com/#
 address=/4u69.com/#
@@ -24029,7 +24028,6 @@ address=/jutou5.com/#
 address=/jutwrench.com/#
 address=/jutyledu.pro/#
 address=/juuhe.com/#
-address=/juvbzle.cn/#
 address=/juvenilebind.com/#
 address=/juwymapy.xyz/#
 address=/jux9ms4vc7.ru/#
@@ -24119,6 +24117,7 @@ address=/jzuyfp8.cn/#
 address=/jzwp.fun/#
 address=/k-analytix.com/#
 address=/k.streamrail.com/#
+address=/k.tcp.push.mob.com/#
 address=/k0r2eokjm6.ru/#
 address=/k1.dancihu.com/#
 address=/k1.wanwenwan.cn/#
@@ -24847,6 +24846,7 @@ address=/l.sagafan.jp/#
 address=/l.sharethis.com/#
 address=/l.socialsexnetwork.net/#
 address=/l.tamaliver.jp/#
+address=/l.tcp.push.mob.com/#
 address=/l.tenkomori.tv/#
 address=/l.ti-da.net/#
 address=/l.typesquare.com/#
@@ -37128,7 +37128,6 @@ address=/sharpspring.com/#
 address=/sharpycurvet.com/#
 address=/shaujoxu.net/#
 address=/shaursar.net/#
-address=/shauthou.net/#
 address=/shawlyni.name/#
 address=/shawnewspapers.112.2o7.net/#
 address=/shawuh2a8nyam09.com/#
@@ -39853,7 +39852,6 @@ address=/swaylieutenant.com/#
 address=/swbclcq.cn/#
 address=/swbdds.com/#
 address=/swcs.jp/#
-address=/swdlxrsm.com/#
 address=/sweaterwarmly.com/#
 address=/sweatywakelack.com/#
 address=/sweb.ulta.com/#
@@ -40050,7 +40048,6 @@ address=/szvxwqp.cn/#
 address=/szwjzl.cn/#
 address=/szwyyl.com/#
 address=/szxhybj.com/#
-address=/szxjygbabily.com/#
 address=/szyuke.cn/#
 address=/szzd.ltd/#
 address=/t-ak.hulu.com/#
@@ -40468,7 +40465,6 @@ address=/tcmdz.com/#
 address=/tcmsp.cn/#
 address=/tcnmf.com/#
 address=/tcoekdwnuveaisk.com/#
-address=/tcp.push.mob.com/#
 address=/tcppu.com/#
 address=/tcrybv.com/#
 address=/tcs-asp.net/#
@@ -46740,7 +46736,6 @@ address=/yesadsrv.com/#
 address=/yesadvertising.com/#
 address=/yescomition.club/#
 address=/yese115.com/#
-address=/yese161.com/#
 address=/yese236.com/#
 address=/yesmessenger.com/#
 address=/yesnexus.com/#

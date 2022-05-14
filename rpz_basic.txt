@@ -1,12 +1,12 @@
-; Version: 202205141016
+; Version: 202205141023
 ; Title: oisd basic
-; Last modified: 14 May 2022 10:16 UTC
+; Last modified: 14 May 2022 10:23 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652523194 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652523601 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -2143,8 +2143,6 @@ $TTL 30
 *.4takaixi.xyz CNAME .
 4takt-oel.de CNAME .
 *.4takt-oel.de CNAME .
-4tdbbs.cn CNAME .
-*.4tdbbs.cn CNAME .
 4th3d48.com CNAME .
 *.4th3d48.com CNAME .
 4tnui5r06j62.com CNAME .
@@ -48057,8 +48055,6 @@ jutyledu.pro CNAME .
 *.jutyledu.pro CNAME .
 juuhe.com CNAME .
 *.juuhe.com CNAME .
-juvbzle.cn CNAME .
-*.juvbzle.cn CNAME .
 juvenilebind.com CNAME .
 *.juvenilebind.com CNAME .
 juwymapy.xyz CNAME .
@@ -48237,6 +48233,8 @@ k-analytix.com CNAME .
 *.k-analytix.com CNAME .
 k.streamrail.com CNAME .
 *.k.streamrail.com CNAME .
+k.tcp.push.mob.com CNAME .
+*.k.tcp.push.mob.com CNAME .
 k0r2eokjm6.ru CNAME .
 *.k0r2eokjm6.ru CNAME .
 k1.dancihu.com CNAME .
@@ -49693,6 +49691,8 @@ l.socialsexnetwork.net CNAME .
 *.l.socialsexnetwork.net CNAME .
 l.tamaliver.jp CNAME .
 *.l.tamaliver.jp CNAME .
+l.tcp.push.mob.com CNAME .
+*.l.tcp.push.mob.com CNAME .
 l.tenkomori.tv CNAME .
 *.l.tenkomori.tv CNAME .
 l.ti-da.net CNAME .
@@ -74255,8 +74255,6 @@ shaujoxu.net CNAME .
 *.shaujoxu.net CNAME .
 shaursar.net CNAME .
 *.shaursar.net CNAME .
-shauthou.net CNAME .
-*.shauthou.net CNAME .
 shawlyni.name CNAME .
 *.shawlyni.name CNAME .
 shawnewspapers.112.2o7.net CNAME .
@@ -79705,8 +79703,6 @@ swbdds.com CNAME .
 *.swbdds.com CNAME .
 swcs.jp CNAME .
 *.swcs.jp CNAME .
-swdlxrsm.com CNAME .
-*.swdlxrsm.com CNAME .
 sweaterwarmly.com CNAME .
 *.sweaterwarmly.com CNAME .
 sweatywakelack.com CNAME .
@@ -80099,8 +80095,6 @@ szwyyl.com CNAME .
 *.szwyyl.com CNAME .
 szxhybj.com CNAME .
 *.szxhybj.com CNAME .
-szxjygbabily.com CNAME .
-*.szxjygbabily.com CNAME .
 szyuke.cn CNAME .
 *.szyuke.cn CNAME .
 szzd.ltd CNAME .
@@ -80935,8 +80929,6 @@ tcnmf.com CNAME .
 *.tcnmf.com CNAME .
 tcoekdwnuveaisk.com CNAME .
 *.tcoekdwnuveaisk.com CNAME .
-tcp.push.mob.com CNAME .
-*.tcp.push.mob.com CNAME .
 tcppu.com CNAME .
 *.tcppu.com CNAME .
 tcrybv.com CNAME .
@@ -93479,8 +93471,6 @@ yescomition.club CNAME .
 *.yescomition.club CNAME .
 yese115.com CNAME .
 *.yese115.com CNAME .
-yese161.com CNAME .
-*.yese161.com CNAME .
 yese236.com CNAME .
 *.yese236.com CNAME .
 yesmessenger.com CNAME .

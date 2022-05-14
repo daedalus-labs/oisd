@@ -1,6 +1,6 @@
-# Version: 202205141016
+# Version: 202205141023
 # Title: oisd basic
-# Last modified: 14 May 2022 10:16 UTC
+# Last modified: 14 May 2022 10:23 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                
@@ -1266,7 +1266,6 @@
 4strokemedia.com
 4takaixi.xyz
 4takt-oel.de
-4tdbbs.cn
 4th3d48.com
 4thegame.uk.intellitxt.com
 4tnui5r06j62.com
@@ -18290,7 +18289,6 @@ domodomain.com
 domparce.pro
 domslc.com
 don.beeppool.org
-donate.cpufan.club
 donate.crypto-webminer.com
 donecooler.com
 donemillio.com
@@ -28097,7 +28095,6 @@ jutou5.com
 jutwrench.com
 jutyledu.pro
 juuhe.com
-juvbzle.cn
 juvenilebind.com
 juwymapy.xyz
 jux9ms4vc7.ru
@@ -43197,7 +43194,6 @@ sharpspring.com
 sharpycurvet.com
 shaujoxu.net
 shaursar.net
-shauthou.net
 shawlyni.name
 shawnewspapers.112.2o7.net
 shawuh2a8nyam09.com
@@ -46410,7 +46406,6 @@ swaylieutenant.com
 swbclcq.cn
 swbdds.com
 swcs.jp
-swdlxrsm.com
 sweaterwarmly.com
 sweatywakelack.com
 sweb.ulta.com
@@ -46666,7 +46661,6 @@ szvxwqp.cn
 szwjzl.cn
 szwyyl.com
 szxhybj.com
-szxjygbabily.com
 szyuke.cn
 szzd.ltd
 t-ads.adap.tv
@@ -47213,7 +47207,6 @@ tcmdz.com
 tcmsp.cn
 tcnmf.com
 tcoekdwnuveaisk.com
-tcp.push.mob.com
 tcppu.com
 tcr.tynt.com
 tcrybv.com
@@ -54672,7 +54665,6 @@ yesadsrv.com
 yesadvertising.com
 yescomition.club
 yese115.com
-yese161.com
 yese236.com
 yesmessenger.com
 yesnexus.com
