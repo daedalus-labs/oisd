@@ -1,6 +1,6 @@
-# Version: 202205141024
+# Version: 202205141033
 # Title: oisd extra
-# Last modified: 14 May 2022 10:24 UTC
+# Last modified: 14 May 2022 10:33 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -628,6 +628,7 @@
 0.0.0.0 www.adtrackers.net
 0.0.0.0 www.adtraction.com
 0.0.0.0 www.advertising.com
+0.0.0.0 www.adxbid.me
 0.0.0.0 www.adzerk.net
 0.0.0.0 www.adzyou.com
 0.0.0.0 www.affex.org
@@ -670,6 +671,7 @@
 0.0.0.0 www.betrad.com
 0.0.0.0 www.betrustkelping.com
 0.0.0.0 www.bfast.com
+0.0.0.0 www.bfhxivpij.com
 0.0.0.0 www.bizrate.com
 0.0.0.0 www.bkrtx.com
 0.0.0.0 www.blueconic.net
@@ -944,6 +946,7 @@
 0.0.0.0 www.pntra.com
 0.0.0.0 www.pntrac.com
 0.0.0.0 www.pntrs.com
+0.0.0.0 www.poignantpersonnel.com
 0.0.0.0 www.polobook.club
 0.0.0.0 www.postclickmarketing.com
 0.0.0.0 www.ppcprotect.com
@@ -991,6 +994,7 @@
 0.0.0.0 www.shengyaxd.com
 0.0.0.0 www.shitiphu.com
 0.0.0.0 www.shiyaokejishanghai.com
+0.0.0.0 www.shustuxyxe.com
 0.0.0.0 www.siamzone.com
 0.0.0.0 www.sift.com
 0.0.0.0 www.siftscience.com
@@ -1075,7 +1079,6 @@
 0.0.0.0 www.webmasterplan.com
 0.0.0.0 www.webpower.eu
 0.0.0.0 www.win-window.win
-0.0.0.0 www.wnmalshuld.com
 0.0.0.0 www.woopra.com
 0.0.0.0 www.wootric.com
 0.0.0.0 www.wordgetboo.com
@@ -1093,6 +1096,7 @@
 0.0.0.0 www.xtxa.net
 0.0.0.0 www.xxe2.com
 0.0.0.0 www.xxf65z4o6a.club
+0.0.0.0 www.xxladu.com
 0.0.0.0 www.yese161.com
 0.0.0.0 www.yessearches.com
 0.0.0.0 www.yeswegays.com

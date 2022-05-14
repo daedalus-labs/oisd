@@ -1,6 +1,6 @@
-# Version: 202205141024
+# Version: 202205141033
 # Title: oisd extra
-# Last modified: 14 May 2022 10:24 UTC
+# Last modified: 14 May 2022 10:33 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                    
@@ -53,6 +53,7 @@
 *.adtrackers.net
 *.adtraction.com
 *.advertising.com
+*.adxbid.me
 *.adzerk.net
 *.adzyou.com
 *.affex.org
@@ -123,6 +124,7 @@
 *.betrad.com
 *.betrustkelping.com
 *.bfast.com
+*.bfhxivpij.com
 *.bi.medscape.com
 *.bizrate.com
 *.bkrtx.com
@@ -537,6 +539,7 @@
 *.pntra.com
 *.pntrac.com
 *.pntrs.com
+*.poignantpersonnel.com
 *.polobook.club
 *.postclickmarketing.com
 *.ppcprotect.com
@@ -625,6 +628,7 @@
 *.shengyaxd.com
 *.shitiphu.com
 *.shiyaokejishanghai.com
+*.shustuxyxe.com
 *.siamzone.com
 *.sift.com
 *.siftscience.com
@@ -765,7 +769,6 @@
 *.websecurity.norton.com
 *.widget.trustpilot.com
 *.win-window.win
-*.wnmalshuld.com
 *.woopra.com
 *.wootric.com
 *.wordgetboo.com
@@ -789,6 +792,7 @@
 *.xtxa.net
 *.xxe2.com
 *.xxf65z4o6a.club
+*.xxladu.com
 *.yese161.com
 *.yessearches.com
 *.yeswegays.com

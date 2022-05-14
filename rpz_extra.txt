@@ -1,12 +1,12 @@
-; Version: 202205141024
+; Version: 202205141033
 ; Title: oisd extra
-; Last modified: 14 May 2022 10:24 UTC
+; Last modified: 14 May 2022 10:33 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652523601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652524201 86400 3600 604800 30
  NS localhost.
 
 0emm.com CNAME .
@@ -99,6 +99,8 @@ adtraction.com CNAME .
 *.adtraction.com CNAME .
 advertising.com CNAME .
 *.advertising.com CNAME .
+adxbid.me CNAME .
+*.adxbid.me CNAME .
 adzerk.net CNAME .
 *.adzerk.net CNAME .
 adzyou.com CNAME .
@@ -239,6 +241,8 @@ betrustkelping.com CNAME .
 *.betrustkelping.com CNAME .
 bfast.com CNAME .
 *.bfast.com CNAME .
+bfhxivpij.com CNAME .
+*.bfhxivpij.com CNAME .
 bi.medscape.com CNAME .
 *.bi.medscape.com CNAME .
 bizrate.com CNAME .
@@ -1067,6 +1071,8 @@ pntrac.com CNAME .
 *.pntrac.com CNAME .
 pntrs.com CNAME .
 *.pntrs.com CNAME .
+poignantpersonnel.com CNAME .
+*.poignantpersonnel.com CNAME .
 polobook.club CNAME .
 *.polobook.club CNAME .
 postclickmarketing.com CNAME .
@@ -1243,6 +1249,8 @@ shitiphu.com CNAME .
 *.shitiphu.com CNAME .
 shiyaokejishanghai.com CNAME .
 *.shiyaokejishanghai.com CNAME .
+shustuxyxe.com CNAME .
+*.shustuxyxe.com CNAME .
 siamzone.com CNAME .
 *.siamzone.com CNAME .
 sift.com CNAME .
@@ -1523,8 +1531,6 @@ widget.trustpilot.com CNAME .
 *.widget.trustpilot.com CNAME .
 win-window.win CNAME .
 *.win-window.win CNAME .
-wnmalshuld.com CNAME .
-*.wnmalshuld.com CNAME .
 woopra.com CNAME .
 *.woopra.com CNAME .
 wootric.com CNAME .
@@ -1571,6 +1577,8 @@ xxe2.com CNAME .
 *.xxe2.com CNAME .
 xxf65z4o6a.club CNAME .
 *.xxf65z4o6a.club CNAME .
+xxladu.com CNAME .
+*.xxladu.com CNAME .
 yese161.com CNAME .
 *.yese161.com CNAME .
 yessearches.com CNAME .

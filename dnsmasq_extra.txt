@@ -1,6 +1,6 @@
-# Version: 202205141024
+# Version: 202205141033
 # Title: oisd extra
-# Last modified: 14 May 2022 10:24 UTC
+# Last modified: 14 May 2022 10:33 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -50,6 +50,7 @@ address=/adssyscom.com/#
 address=/adtrackers.net/#
 address=/adtraction.com/#
 address=/advertising.com/#
+address=/adxbid.me/#
 address=/adzerk.net/#
 address=/adzyou.com/#
 address=/affex.org/#
@@ -120,6 +121,7 @@ address=/berateveng.ru/#
 address=/betrad.com/#
 address=/betrustkelping.com/#
 address=/bfast.com/#
+address=/bfhxivpij.com/#
 address=/bi.medscape.com/#
 address=/bizrate.com/#
 address=/bkrtx.com/#
@@ -534,6 +536,7 @@ address=/player-feedback-v1.glomex.com/#
 address=/pntra.com/#
 address=/pntrac.com/#
 address=/pntrs.com/#
+address=/poignantpersonnel.com/#
 address=/polobook.club/#
 address=/postclickmarketing.com/#
 address=/ppcprotect.com/#
@@ -622,6 +625,7 @@ address=/shauthou.net/#
 address=/shengyaxd.com/#
 address=/shitiphu.com/#
 address=/shiyaokejishanghai.com/#
+address=/shustuxyxe.com/#
 address=/siamzone.com/#
 address=/sift.com/#
 address=/siftscience.com/#
@@ -762,7 +766,6 @@ address=/webpower.eu/#
 address=/websecurity.norton.com/#
 address=/widget.trustpilot.com/#
 address=/win-window.win/#
-address=/wnmalshuld.com/#
 address=/woopra.com/#
 address=/wootric.com/#
 address=/wordgetboo.com/#
@@ -786,6 +789,7 @@ address=/xpornoizlee.com/#
 address=/xtxa.net/#
 address=/xxe2.com/#
 address=/xxf65z4o6a.club/#
+address=/xxladu.com/#
 address=/yese161.com/#
 address=/yessearches.com/#
 address=/yeswegays.com/#

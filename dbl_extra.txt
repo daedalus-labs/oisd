@@ -1,6 +1,6 @@
-# Version: 202205141024
+# Version: 202205141033
 # Title: oisd extra
-# Last modified: 14 May 2022 10:24 UTC
+# Last modified: 14 May 2022 10:33 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                
@@ -628,6 +628,7 @@ www.adssyscom.com
 www.adtrackers.net
 www.adtraction.com
 www.advertising.com
+www.adxbid.me
 www.adzerk.net
 www.adzyou.com
 www.affex.org
@@ -670,6 +671,7 @@ www.berateveng.ru
 www.betrad.com
 www.betrustkelping.com
 www.bfast.com
+www.bfhxivpij.com
 www.bizrate.com
 www.bkrtx.com
 www.blueconic.net
@@ -944,6 +946,7 @@ www.pjtra.com
 www.pntra.com
 www.pntrac.com
 www.pntrs.com
+www.poignantpersonnel.com
 www.polobook.club
 www.postclickmarketing.com
 www.ppcprotect.com
@@ -991,6 +994,7 @@ www.shauthou.net
 www.shengyaxd.com
 www.shitiphu.com
 www.shiyaokejishanghai.com
+www.shustuxyxe.com
 www.siamzone.com
 www.sift.com
 www.siftscience.com
@@ -1075,7 +1079,6 @@ www.webhop.net
 www.webmasterplan.com
 www.webpower.eu
 www.win-window.win
-www.wnmalshuld.com
 www.woopra.com
 www.wootric.com
 www.wordgetboo.com
@@ -1093,6 +1096,7 @@ www.xpornoizlee.com
 www.xtxa.net
 www.xxe2.com
 www.xxf65z4o6a.club
+www.xxladu.com
 www.yese161.com
 www.yessearches.com
 www.yeswegays.com
