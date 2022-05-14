@@ -1,6 +1,6 @@
-# Version: 202205141033
+# Version: 202205141753
 # Title: oisd basic
-# Last modified: 14 May 2022 10:33 UTC
+# Last modified: 14 May 2022 17:53 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                
@@ -1415,6 +1415,7 @@
 5advertise.com
 5b008e.r.axf8.net
 5b1d.com
+5b20a42861.com
 5b5a93686577c13.com
 5bde1.v.fwmrm.net
 5c577fc74618431b.com
@@ -3384,6 +3385,7 @@ adbottw.net
 adbox.inbox-online.com
 adbox.lv
 adbox.sina.com.cn
+adbp.online
 adbrau.com
 adbrawl.com
 adbreak.ch
@@ -6799,6 +6801,7 @@ an.yandex.ru
 ana.masky.biddingx.com
 ana.mediable.info
 ana2.tatsumi-sys.jp
+anabcd.xyz
 anal-acrobats.com
 anal-et-sodomie.com
 anal-pictures.biz
@@ -10744,7 +10747,6 @@ bjeai.com
 bjfesdk.douyucdn.cn
 bjgtsh.com
 bjhengdiao.com
-bjhmdy.vip
 bjhuhangjy.com
 bjhyn.vip
 bjjabc.com
@@ -11885,6 +11887,7 @@ c03.adsummos.net
 c04.adsummos.net
 c0594.com
 c09.xyz
+c0c.biz
 c0c.xyz
 c0z.xyz
 c1.adform.net
@@ -13888,7 +13891,6 @@ clicki.cn
 clickinc.com
 clickintext.com
 clickintext.net
-clickiocdn.com
 clickkingdom.net
 clickmagick.com
 clickmanage.com
@@ -16053,6 +16055,7 @@ cyhtr.com
 cyih0e43aty7.com
 cyjaruvndimgaa.com
 cykynethe.com
+cyl3h68.cn
 cylize.com
 cylwwyy.xyz
 cymaisefacsim.com
@@ -16440,6 +16443,7 @@ d2ho1n52p59mwv.cloudfront.net
 d2hvwfg7vv4mhf.cloudfront.net
 d2i4wzwe8j1np9.cloudfront.net
 d2i55s0cnk529c.cloudfront.net
+d2i5pngfrazn5t.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2ieqaiwehnqqp.cloudfront.net
 d2ip7iv1l4ergv.cloudfront.net
@@ -17389,6 +17393,7 @@ deltadna.net
 deltago.com
 deltoidviragin.com
 deludebalk.com
+deludereflexunderwater.com
 delusionrather.com
 deluxe.onetag.io.edgekey.net
 delvechoir.com
@@ -18519,6 +18524,7 @@ drivenetwork.online
 drivenetwork.ru
 driverequest.com
 driverguide.us.intellitxt.com
+driverpack.io
 drivingdirt.com
 drivotracker.com
 drjgjngf.com
@@ -19740,7 +19746,6 @@ enthusiastgaming.net
 enthusiasticdad.com
 enthusiasticring.com
 enticelabs.com
-entiregraterfurs.com
 entitlements.jwplayer.com
 entitlements.kochava.com
 entk.net
@@ -20322,6 +20327,7 @@ ewedivotsfop.com
 eweek.us.intellitxt.com
 ewerhodub.com
 ewetwitter.com
+ewicap.com
 ewithjam.club
 ewooe6df.com
 ewr-rtb1.rfihub.com
@@ -20747,6 +20753,7 @@ fanplayr.com
 fanserv.us-east-1.stinger-ad.bidr.io
 fanserv.us-west-2.stinger-ad.bidr.io
 fansign.streamray.com
+fanst.club
 fantasticsmash.com
 fanumi.com
 fanwoyang.com
@@ -21110,7 +21117,6 @@ fhlong2000.xyz
 fhm.uk.intellitxt.com
 fhmonline.us.intellitxt.com
 fhnmzqw.cn
-fhnsjshsirs.com
 fhserve.com
 fhsmtrnsfnt.com
 fhthkz.cn
@@ -21234,6 +21240,7 @@ firm.bidtizadd.ru
 firmware.center
 firon.xyz
 firsstudtog.cam
+first-hufu.oss-cn-shanghai.aliyuncs.com
 first-rate.com
 first.iovation.com
 first11.cn
@@ -22952,6 +22959,7 @@ gklfs-x8k98.ads.tremorhub.com
 gkzba.com
 gl-cash.com
 gl1117wh13.com
+glacah.com
 gladcrumple.com
 gladiol9us10.com
 glaimtug.com
@@ -23915,6 +23923,7 @@ gxqrjjcsyh.com
 gxtytj.com
 gxxcbj.com
 gxymlqcnu.com
+gxzxiww.com
 gybyxsy1588.com
 gyccdnydir.com
 gycy2.com
@@ -26840,7 +26849,6 @@ intxt.cn
 inunctsignate.com
 inurneddoggish.com
 inurra.com
-inuuhtznjglmm.com
 inuvo.com
 inuxu.biz
 inuxu.co.in
@@ -27458,6 +27466,7 @@ jewhouca.net
 jewishcontentnetwork.com
 jf.revolvermaps.com
 jf71qh5v14.com
+jfcqucxvvpwgp.com
 jfduv7.com
 jfhoq.com
 jfjsp.com
@@ -27574,6 +27583,7 @@ jink.de
 jinkege.com
 jinks.top
 jinlianchengwhcm.cn
+jinlijzbd.com
 jinrongwang.net
 jinrui.online
 jinrungroup.cn
@@ -32777,6 +32787,7 @@ mobpowertech.com
 mobpushup.com
 mobrand.net
 mobreach.com
+mobrkbb.com
 mobshark.net
 mobstrks.com
 mobtop.az
@@ -33142,6 +33153,7 @@ mpzls.cn
 mqjcdno.com
 mqqad.html5.qq.com
 mqs.ioam.de
+mqthslhcj.com
 mr-rank.de
 mr2cnjuh34jb.com
 mr5aqoqlegsp.com
@@ -33190,6 +33202,7 @@ mscom.demdex.net
 msdk-files.webengage.com
 msdk.rqmob.com
 msecure108.com
+msetup.pro
 mseupwinxpfam.112.2o7.net
 msfn.us.intellitxt.com
 msg-2.me
@@ -36847,6 +36860,7 @@ pfaltzgraf.com
 pfcdnc.com
 pfcuay.o-f.com
 pffw8mgd.com
+pfiparts.com
 pfizer.122.2o7.net
 pfklopud.xyz
 pflexads.com
@@ -37539,6 +37553,7 @@ pleagaietyparalysis.com
 pleasantlyilliterate.com
 pleasantpump.com
 pleasedbeginparish.com
+pleasedpicklewinning.com
 pleasemeright.com
 pleastindustress.xyz
 pleasuremeshended.com
@@ -39257,6 +39272,7 @@ qgjapp.com
 qgnlbjkxrzb.com
 qgnqsebea.com
 qgogogox.com
+qgpfxtemxppud.com
 qgqxzs.net
 qgss8.com
 qguwoq.cn
@@ -41136,7 +41152,6 @@ rrgapzw.cn
 rrimpl.com
 rrogfhs.cn
 rrpartners.122.2o7.net
-rrrsnxzkhbwwrs.com
 rrss.abc.es
 rrsubway.com
 rs-context.ru
@@ -41518,6 +41533,7 @@ s.beop.io
 s.c.appier.net
 s.cir.io
 s.clickability.com
+s.clickiocdn.com
 s.clicktex.ru
 s.cntqk.com
 s.cntqk.vn
@@ -42094,6 +42110,7 @@ scenepass.com
 sceno.ru
 sceptruline.xyz
 scfatao.com
+scgrzlketpica.com
 sch.line.me
 schaeffers.112.2o7.net
 schemas.adflex.vn
@@ -42491,7 +42508,6 @@ secretivecub.com
 secretmedia.com
 secretspiders.com
 secretturtle.com
-secrr.cn
 sectsenior.com
 secumine.net
 secure-12.com
@@ -44636,6 +44652,7 @@ spideraf.com
 spiderbait.com
 spidersboats.com
 spidersmerithenceforward.com
+spidersprimary.com
 spiffymachine.com
 spigotsmetonym.cam
 spike669.popunder.ru
@@ -46173,6 +46190,7 @@ sumlessbelat.com
 summaryflamen.com
 summerhamster.com
 summerobject.com
+summerxzp.xyz
 summitbusinessmedia.112.2o7.net
 sumo.cpufan.club
 sumo.cryptonoter.com
@@ -46979,6 +46997,7 @@ taiiwin.club
 taiiwinclub.cc
 taijiwhi.com
 taikangshenyuan.com
+tailapsi.com
 tailsweep.com
 tailtarget.com
 taimacau.club
@@ -47400,6 +47419,7 @@ temptationnecklace.com
 tempttalk.com
 tenant-content.apm.appfolio-analytics.com
 tenantattackedoctober.com
+tenbowed.com
 tencent.xn--io0a7i
 tend-new.com
 tend.io
@@ -47921,7 +47941,6 @@ tillertag-a.akamaihd.net
 tilltucked.com
 tiltgardenheadlight.com
 tim.nextinpact.com
-timbercooling.com
 timbol.iad-03.braze.com
 time4news.net
 timecom.112.2o7.net
@@ -50508,6 +50527,7 @@ uqbmzwv.cn
 uqd.io
 uqfot.com
 uqjflmw.cn
+uqsgsfhd.com
 uqystk.com
 uramog.com
 urbanproxy.eu
@@ -52018,6 +52038,7 @@ wa.and.co.uk
 wa.appsflyer.com
 wa.eonline.com
 wa.essent.nl
+wa.gmx.net
 wa.kuwo.cn
 wa.ui-portal.de
 wa.web.de
@@ -53052,7 +53073,6 @@ wms-na.amazon-adsystem.com
 wms-tools.com
 wmserver.net
 wmspw.com
-wmwyq.xyz
 wmzona.com
 wndlkj.com
 wneia.iaskhot.com
@@ -53073,6 +53093,7 @@ woazowup.net
 wocysuwo.com
 wodenongtian.com
 wodeshougong.com
+wodycaha.com
 wofjhs.com
 wojv.club
 wokawot.com
@@ -54394,7 +54415,6 @@ xvika.com
 xvika.net
 xviperonec.com
 xvlcbwlgpy.com
-xvqaz.com
 xvqdfwy.cn
 xvwebllndr.com
 xvyljkr.com
@@ -54419,6 +54439,7 @@ xxia.xyz
 xxjuefi.cn
 xxlargepop.com
 xxltr.com
+xxqeihao.com
 xxslu.space
 xxssyndic.com
 xxuhter.ru
@@ -54529,6 +54550,7 @@ yancy.fun
 yandexadexchange.net
 yandexbrowser2019.ru
 yanend.com
+yangchunblog.club
 yanghuaer.mobi
 yanglangkk.cn
 yangll.xin
@@ -54671,7 +54693,6 @@ yeyajipp.com
 yezkon.com
 yf898.com
 yfetyg.com
-yfkha.xyz
 yfot.com.cn
 yfycy.com
 yfygs.cn
@@ -54684,6 +54705,7 @@ ygsm.com
 ygtnn.cn
 ygtt.mobi
 ygtx.mobi
+yguo.xyz
 yguuoibdsscki.com
 ygyl.xyz
 ygzkedoxwhqlzp.com
@@ -54905,6 +54927,7 @@ yootui19999.com
 yoptaejrj2kkf8nj09.com
 yoqpnkhl.com
 yoredi.com
+yoretxpczr.com
 yoshatia.com
 yosjob.cn
 yotta.scrolller.com
@@ -55851,6 +55874,7 @@ zxhstudy.online
 zxjjzx.com
 zxlmnet.com
 zxopen.tech
+zxse43.com
 zxsmxt.com
 zxucii.com
 zxvvcvd.cn
