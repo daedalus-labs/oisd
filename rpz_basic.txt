@@ -1,12 +1,12 @@
-; Version: 202205141023
+; Version: 202205141033
 ; Title: oisd basic
-; Last modified: 14 May 2022 10:23 UTC
+; Last modified: 14 May 2022 10:33 UTC
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                   
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652523601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1652524201 86400 3600 604800 30
  NS localhost.
 
 00-gov.cn CNAME .
@@ -9851,8 +9851,6 @@ adxat.com CNAME .
 *.adxat.com CNAME .
 adxbid.info CNAME .
 *.adxbid.info CNAME .
-adxbid.me CNAME .
-*.adxbid.me CNAME .
 adxcallback.batmobi.net CNAME .
 *.adxcallback.batmobi.net CNAME .
 adxcel-ec2.com CNAME .
@@ -17999,8 +17997,6 @@ bfgg365.com CNAME .
 *.bfgg365.com CNAME .
 bfgvqx.com CNAME .
 *.bfgvqx.com CNAME .
-bfhxivpij.com CNAME .
-*.bfhxivpij.com CNAME .
 bfjl.ink CNAME .
 *.bfjl.ink CNAME .
 bfmio.com CNAME .
@@ -48611,8 +48607,6 @@ ketoo.com CNAME .
 *.ketoo.com CNAME .
 ketquaxosotoancau.org CNAME .
 *.ketquaxosotoancau.org CNAME .
-kettinggiantry.com CNAME .
-*.kettinggiantry.com CNAME .
 kevabila.com CNAME .
 *.kevabila.com CNAME .
 kevinhewu.com CNAME .
@@ -65035,8 +65029,6 @@ pofooz.cn CNAME .
 *.pofooz.cn CNAME .
 poidup.com CNAME .
 *.poidup.com CNAME .
-poignantpersonnel.com CNAME .
-*.poignantpersonnel.com CNAME .
 pointclicktrack.com CNAME .
 *.pointclicktrack.com CNAME .
 pointeretards.com CNAME .
@@ -74635,8 +74627,6 @@ shuptiwywhu.com CNAME .
 *.shuptiwywhu.com CNAME .
 shusacem.net CNAME .
 *.shusacem.net CNAME .
-shustuxyxe.com CNAME .
-*.shustuxyxe.com CNAME .
 shutseashore.com CNAME .
 *.shutseashore.com CNAME .
 shvhse.com CNAME .
@@ -93023,8 +93013,6 @@ xxia.xyz CNAME .
 *.xxia.xyz CNAME .
 xxjuefi.cn CNAME .
 *.xxjuefi.cn CNAME .
-xxladu.com CNAME .
-*.xxladu.com CNAME .
 xxlargepop.com CNAME .
 *.xxlargepop.com CNAME .
 xxltr.com CNAME .

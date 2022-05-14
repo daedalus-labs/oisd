@@ -1,6 +1,6 @@
-# Version: 202205141023
+# Version: 202205141033
 # Title: oisd basic
-# Last modified: 14 May 2022 10:23 UTC
+# Last modified: 14 May 2022 10:33 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                                
@@ -5722,7 +5722,6 @@ adxadserv.com
 adxadtracker.com
 adxat.com
 adxbid.info
-adxbid.me
 adxcallback.batmobi.net
 adxcel-ec2.com
 adxchg.com
@@ -10451,7 +10450,6 @@ bfe4e6d364be199.com
 bff6b409f7.com
 bfgg365.com
 bfgvqx.com
-bfhxivpij.com
 bfjl.ink
 bfmio.com
 bfoleyinteractive.com
@@ -28390,7 +28388,6 @@ ketchupscreech.com
 ketianguanye.com
 ketoo.com
 ketquaxosotoancau.org
-kettinggiantry.com
 kevabila.com
 kevinhewu.com
 kevypeta.com
@@ -37684,7 +37681,6 @@ poewage.top
 pofang.com
 pofooz.cn
 poidup.com
-poignantpersonnel.com
 pointclicktrack.com
 pointeretards.com
 pointillist.com
@@ -43396,7 +43392,6 @@ shunshiwlkj.com
 shunxinyuancaiwu.cn
 shuptiwywhu.com
 shusacem.net
-shustuxyxe.com
 shutseashore.com
 shvhse.com
 shweflix.com
@@ -54422,7 +54417,6 @@ xxgslt.com
 xxhrd.com
 xxia.xyz
 xxjuefi.cn
-xxladu.com
 xxlargepop.com
 xxltr.com
 xxslu.space

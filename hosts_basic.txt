@@ -1,6 +1,6 @@
-# Version: 202205141023
+# Version: 202205141033
 # Title: oisd basic
-# Last modified: 14 May 2022 10:23 UTC
+# Last modified: 14 May 2022 10:33 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                                  
@@ -5722,7 +5722,6 @@
 0.0.0.0 adxadtracker.com
 0.0.0.0 adxat.com
 0.0.0.0 adxbid.info
-0.0.0.0 adxbid.me
 0.0.0.0 adxcallback.batmobi.net
 0.0.0.0 adxcel-ec2.com
 0.0.0.0 adxchg.com
@@ -10451,7 +10450,6 @@
 0.0.0.0 bff6b409f7.com
 0.0.0.0 bfgg365.com
 0.0.0.0 bfgvqx.com
-0.0.0.0 bfhxivpij.com
 0.0.0.0 bfjl.ink
 0.0.0.0 bfmio.com
 0.0.0.0 bfoleyinteractive.com
@@ -28390,7 +28388,6 @@
 0.0.0.0 ketianguanye.com
 0.0.0.0 ketoo.com
 0.0.0.0 ketquaxosotoancau.org
-0.0.0.0 kettinggiantry.com
 0.0.0.0 kevabila.com
 0.0.0.0 kevinhewu.com
 0.0.0.0 kevypeta.com
@@ -37684,7 +37681,6 @@
 0.0.0.0 pofang.com
 0.0.0.0 pofooz.cn
 0.0.0.0 poidup.com
-0.0.0.0 poignantpersonnel.com
 0.0.0.0 pointclicktrack.com
 0.0.0.0 pointeretards.com
 0.0.0.0 pointillist.com
@@ -43396,7 +43392,6 @@
 0.0.0.0 shunxinyuancaiwu.cn
 0.0.0.0 shuptiwywhu.com
 0.0.0.0 shusacem.net
-0.0.0.0 shustuxyxe.com
 0.0.0.0 shutseashore.com
 0.0.0.0 shvhse.com
 0.0.0.0 shweflix.com
@@ -54422,7 +54417,6 @@
 0.0.0.0 xxhrd.com
 0.0.0.0 xxia.xyz
 0.0.0.0 xxjuefi.cn
-0.0.0.0 xxladu.com
 0.0.0.0 xxlargepop.com
 0.0.0.0 xxltr.com
 0.0.0.0 xxslu.space

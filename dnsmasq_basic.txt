@@ -1,6 +1,6 @@
-# Version: 202205141023
+# Version: 202205141033
 # Title: oisd basic
-# Last modified: 14 May 2022 10:23 UTC
+# Last modified: 14 May 2022 10:33 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq                                                
@@ -4926,7 +4926,6 @@ address=/adxadserv.com/#
 address=/adxadtracker.com/#
 address=/adxat.com/#
 address=/adxbid.info/#
-address=/adxbid.me/#
 address=/adxcallback.batmobi.net/#
 address=/adxcel-ec2.com/#
 address=/adxchg.com/#
@@ -9000,7 +8999,6 @@ address=/bfe4e6d364be199.com/#
 address=/bff6b409f7.com/#
 address=/bfgg365.com/#
 address=/bfgvqx.com/#
-address=/bfhxivpij.com/#
 address=/bfjl.ink/#
 address=/bfmio.com/#
 address=/bfoleyinteractive.com/#
@@ -24306,7 +24304,6 @@ address=/ketchupscreech.com/#
 address=/ketianguanye.com/#
 address=/ketoo.com/#
 address=/ketquaxosotoancau.org/#
-address=/kettinggiantry.com/#
 address=/kevabila.com/#
 address=/kevinhewu.com/#
 address=/kevypeta.com/#
@@ -32518,7 +32515,6 @@ address=/poewage.top/#
 address=/pofang.com/#
 address=/pofooz.cn/#
 address=/poidup.com/#
-address=/poignantpersonnel.com/#
 address=/pointclicktrack.com/#
 address=/pointeretards.com/#
 address=/pointillist.com/#
@@ -37318,7 +37314,6 @@ address=/shunshiwlkj.com/#
 address=/shunxinyuancaiwu.cn/#
 address=/shuptiwywhu.com/#
 address=/shusacem.net/#
-address=/shustuxyxe.com/#
 address=/shutseashore.com/#
 address=/shvhse.com/#
 address=/shweflix.com/#
@@ -46512,7 +46507,6 @@ address=/xxgslt.com/#
 address=/xxhrd.com/#
 address=/xxia.xyz/#
 address=/xxjuefi.cn/#
-address=/xxladu.com/#
 address=/xxlargepop.com/#
 address=/xxltr.com/#
 address=/xxslu.space/#
