@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202205140956
+! Version: 202205141017
 ! Title: oisd extra
-! Last modified: 14 May 2022 09:56 UTC
+! Last modified: 14 May 2022 10:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                
@@ -17,6 +17,7 @@
 ||a.klaviyo.com^
 ||a.wishabi.com^
 ||aan.amazon.com^
+||abpikwhnom.com^
 ||accesstrade.co.id^
 ||ace.naver.com^
 ||ad-ettoday.cdn.hinet.net^
@@ -50,10 +51,12 @@
 ||adtraction.com^
 ||advertising.com^
 ||adzerk.net^
+||adzyou.com^
 ||affex.org^
 ||affiliatefuture.com^
 ||agacelebir.com^
 ||agkn.com^
+||ahwqsczvsi.com^
 ||aimatch.com^
 ||akstat.io^
 ||alb.reddit.com^
@@ -70,6 +73,7 @@
 ||android.bugly.qq.com^
 ||androidtvwatsonfe-pa.googleapis.com^
 ||apexstats.com^
+||aphidsclee.com^
 ||api.branch.io^
 ||api.brs.intl.miui.com^
 ||api.miui.security.xiaomi.com^
@@ -94,6 +98,7 @@
 ||assoc-amazon.fr^
 ||assoc-amazon.jp^
 ||at-o.net^
+||atovub.com^
 ||attirerpage.com^
 ||attracta.com^
 ||auditude.com^
@@ -102,6 +107,7 @@
 ||awin1.com^
 ||axbet20.com^
 ||azadify.com^
+||baileyadopted.com^
 ||bam-x.com^
 ||bannertrack.net^
 ||baremetrics.com^
@@ -112,6 +118,7 @@
 ||bentonow.com^
 ||berateveng.ru^
 ||betrad.com^
+||betrustkelping.com^
 ||bfast.com^
 ||bi.medscape.com^
 ||bizrate.com^
@@ -150,7 +157,9 @@
 ||cea9d3d4f74fb831.com^
 ||cedexis.com^
 ||chanelventure.club^
+||chitaglipti.pro^
 ||chordeez.net^
+||cihakawkngiamu.com^
 ||cimage.adobe.com^
 ||cintnetworks.com^
 ||cjezgbjbltos.com^
@@ -169,6 +178,7 @@
 ||conduit-services.com^
 ||config.uca.cloud.unity3d.com^
 ||consent-manager-events.ogury.io^
+||contexttoaster.com^
 ||conversions.appsflyer.com^
 ||convertexperiments.com^
 ||converti.se^
@@ -193,6 +203,7 @@
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d31qbv1cthcecs.cloudfront.net^
+||dadjia.com^
 ||dash.tmearn.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
@@ -200,6 +211,7 @@
 ||data.mistat.xiaomi.com^
 ||datacaciques.com^
 ||deals.macupdate.com^
+||debysale.com^
 ||decibelinsight.net^
 ||decknetwork.net^
 ||demandbase.com^
@@ -207,21 +219,25 @@
 ||detectvid.com^
 ||dev.appboy.com^
 ||dicoah.com^
+||didpuprat.com^
 ||digitaladvisor.dk^
 ||djtflbt20bdde.cloudfront.net^
 ||dnsseed.bitcoin.dashjr.org^
 ||dnsseed.bluematt.me^
 ||dolphincdn.xyz^
+||dominionprotectioncandle.com^
 ||dotomi.com^
 ||doubleclick.net^
 ||dpyaareaqv.xyz^
 ||ds4sw9va5hc.com^
 ||dspultra.com^
+||dynamitedepressionweapons.com^
 ||dzizsih.ru^
 ||easycounter.com^
 ||easysol.net^
 ||edrone.me^
 ||eeoylmkd.com^
+||eetseemp.net^
 ||elastx.net^
 ||ensighten.com^
 ||er.search.naver.com^
@@ -241,7 +257,9 @@
 ||events.split.io^
 ||everesttech.net^
 ||evergage.com^
+||evokeseverextremity.com^
 ||evt.mxplay.com^
+||evzimlox.cn^
 ||exactag.com^
 ||exacttarget.com^
 ||exitjunction.com^
@@ -252,11 +270,14 @@
 ||f-log-at.grammarly.io^
 ||faktor.io^
 ||farehitchlower.icu^
+||fcunq.com^
 ||feature.fm^
 ||featyn.com^
 ||ff-member-gazeza.com^
 ||ff-memnber-garena.com^
+||fhnhkt.cn^
 ||fireflyengagement.com^
+||flatcapspriggy.cam^
 ||flexlinkspro.com^
 ||flx1.com^
 ||foreseeresults.com^
@@ -267,12 +288,16 @@
 ||freewheel-mtgx-tv.akamaized.net^
 ||friendbuy.com^
 ||frontier.musical.ly^
+||fs0523.com^
 ||fullstory.com^
 ||funcionapage.com^
+||fyhishushe.com^
+||fzglqyy.com^
 ||gc.zgo.at^
 ||gecko-sg.byteoversea.com^
 ||gekko.spiceworks.com^
 ||gemius.pl^
+||genuinesubqueries.com^
 ||geoip-db.com^
 ||geoip.nekudo.com^
 ||geojs.io^
@@ -293,12 +318,16 @@
 ||gopjn.com^
 ||gosquared.com^
 ||graph.facebook.com^
+||grenatorkovsh.site^
 ||growingio.com^
 ||gvt2.com^
+||hadskiz.com^
 ||hicuojdauo.com^
 ||hiddencounter.de^
 ||hit.interia.pl^
 ||hitmarkerjobs.com^
+||hjl0618.cn^
+||hofofici.com^
 ||hohosearch.com^
 ||hostip.info^
 ||hotelscombined.com.au^
@@ -315,6 +344,7 @@
 ||ichnaea-web.netflix.com^
 ||ichnaea.netflix.com^
 ||igg.biz^
+||imimtord.net^
 ||impactradius.com^
 ||incentaclick.com^
 ||includecheck.oisd.nl^
@@ -322,6 +352,7 @@
 ||indiads.com^
 ||informer.yandex.ru^
 ||inquisition.goguardian.com^
+||insanestudiedrick.com^
 ||inside-graph.com^
 ||insightexpress.com^
 ||insightexpressai.com^
@@ -340,17 +371,22 @@
 ||ironbeast.io^
 ||isnssdk.com^
 ||ist-track.com^
+||it7645-blockchain-news.club^
 ||jdoqocy.com^
 ||jeeng.com^
 ||jisyzysy.com^
 ||jivox.com^
+||jmvxdkguyv.com^
 ||johays.co^
 ||js-agent.newrelic.com^
 ||jwpltx.com^
 ||kampyle.com^
 ||kaxsdc.com^
+||kicasipto.com^
+||killerparadehay.com^
 ||kira5.ru^
 ||kissmetrics.com^
+||konverta.ru^
 ||kpmmthnpqoc.xyz^
 ||krnhplalugndkkf.com^
 ||krxd.net^
@@ -360,13 +396,17 @@
 ||leadboltads.net^
 ||leadpages.net^
 ||leanplum.com^
+||leztc.com^
 ||lfdydk.com^
 ||lgsmartad.com^
+||lhcqbim.cn^
 ||liftoff.io^
+||limbloyal.com^
 ||linkev.com^
 ||linkwi.se^
 ||liuchengming.com^
 ||livetex.ru^
+||ljwbrgipuqqnpe.com^
 ||log-tb.sgsnssdk.com^
 ||log-upload-os.hoyoverse.com^
 ||log-upload-os.mihoyo.com^
@@ -397,6 +437,7 @@
 ||measure.ic.tver.jp^
 ||media01.eu^
 ||mediaplex.com^
+||mediarich.us^
 ||meehaina.net^
 ||metaffiliation.com^
 ||metaprofit.net^
@@ -408,6 +449,7 @@
 ||mgzjin.cn^
 ||mindtake.com^
 ||mkt51.net^
+||ml0z14azlflr.com^
 ||mlstat.com^
 ||mmstat.com^
 ||mmtro.com^
@@ -433,6 +475,7 @@
 ||netcore.co.in^
 ||netcoresmartech.com^
 ||netupdater.info^
+||newmarads.com^
 ||news-easy.org^
 ||nfiuerwtftasnuk.com^
 ||nicesearches.com^
@@ -442,19 +485,25 @@
 ||nmetrics.samsung.com^
 ||nonstoppartner.net^
 ||nr-data.net^
+||nuoqingck.cn^
 ||nupoot.com^
 ||o2o.api.xiaomi.com^
+||oibljobzmmv.com^
 ||okkkk.com^
 ||okt.to^
 ||om.cbsi.com^
 ||omarsys.com^
+||onderlea.info^
 ||onenetworkdirect.net^
 ||online-adnetwork.com^
 ||ooxxsearch.com^
 ||open.oneplus.net^
 ||optinmonster.com^
+||otlmdnazmac.com^
 ||ouzoadru.net^
 ||overture.com^
+||owohvnpbno.com^
+||owwhftwhukqgo.com^
 ||p.typekit.net^
 ||p.yotpo.com^
 ||pagefair.com^
@@ -498,6 +547,7 @@
 ||pv.sohu.com^
 ||px.spiceworks.com^
 ||pxf.io^
+||pyzwwzzooq.com^
 ||pzoifaum.info^
 ||qaykb.com^
 ||qksrv.net^
@@ -512,6 +562,7 @@
 ||ramp.purch.com^
 ||rat.rakuten.co.jp^
 ||rdowulajr.xyz^
+||readingreflect.com^
 ||realsrv.com^
 ||recruitics.com^
 ||recs.richrelevance.com^
@@ -545,12 +596,14 @@
 ||sc-static.net^
 ||sci.intuit.com^
 ||screenshots.goguardian.com^
+||scw0.com^
 ||seadform.net^
 ||seal.digicert.com^
 ||seal.godaddy.com^
 ||seal.networksolutions.com^
 ||search2000s.com^
 ||securemetrics.apple.com^
+||securitain.com^
 ||securitymetrics.com^
 ||sedoparking.com^
 ||seed.bitcoin.sipa.be^
@@ -563,6 +616,7 @@
 ||services.zam.com^
 ||serving-sys.com^
 ||sessioncam.com^
+||setbackrelishdivine.com^
 ||shengyaxd.com^
 ||shitiphu.com^
 ||shiyaokejishanghai.com^
@@ -577,14 +631,18 @@
 ||smartlook.com^
 ||smetrics.aem.playstation.com^
 ||smetrics.discover.com^
+||smjdkmvhar.com^
 ||smljmp.com^
 ||smrtbnr.net^
 ||snat.goguardian.com^
 ||soperatory.xyz^
+||soza6rsz3ezi.com^
 ||sp.naver.com^
 ||spade.twitch.tv^
+||spareddepressing.com^
 ||sphjtw.ru^
 ||sphorical.site^
+||spleniafallows.com^
 ||srvtrck.com^
 ||sspapi-prd.samsungrs.com^
 ||sstats.adobe.com^
@@ -601,6 +659,7 @@
 ||streamate.com^
 ||streambeam.io^
 ||sts.eccmp.com^
+||stugorezu.com^
 ||sumo.com^
 ||sundaysky.com^
 ||t.appsflyer.com^
@@ -619,10 +678,13 @@
 ||technical-service.net^
 ||technoratimedia.com^
 ||telemetry.soundcloud.com^
+||tgvbwjbnxz.com^
 ||thebestoffersintheweb.com^
 ||thebrighttag.com^
 ||thewebanswers.com^
 ||thewebgemnetwork.com^
+||thistocapsy.com^
+||thophuthushe.com^
 ||tidaltv.com^
 ||tisagama.com^
 ||tm.tradetracker.net^
@@ -650,6 +712,7 @@
 ||trotux.com^
 ||tvbpusyqohxu.com^
 ||twopointo.io^
+||tyxo.bg^
 ||ud831d4.com^
 ||ue.flipboard.com^
 ||uid.mavencoalition.io^
@@ -662,6 +725,7 @@
 ||useinsider.com^
 ||userreplay.net^
 ||utirev.com^
+||utteroccupied.com^
 ||v.shopify.com^
 ||valuedopinions.co.uk^
 ||vbanm.com^
@@ -670,12 +734,16 @@
 ||verify.authorize.net^
 ||veta.naver.com^
 ||vi-serve.com^
+||videc10.com^
 ||viebitgreasy.email^
 ||vilynx.com^
 ||virtl.xyz^
+||voaroawo.net^
 ||voodoo.com^
 ||vortex.data.microsoft.com^
 ||vortex.hulu.com^
+||vrqsvrnjrhdmek.com^
+||vyphytovu.pro^
 ||w88.espn.com^
 ||walasearch.com^
 ||wantmimic.com^
@@ -691,15 +759,19 @@
 ||websecurity.norton.com^
 ||widget.trustpilot.com^
 ||win-window.win^
+||wnmalshuld.com^
 ||woopra.com^
 ||wootric.com^
 ||wordgetboo.com^
 ||wqlkp.com^
+||wretchedchapterdozen.com^
 ||wsapi-global.master.live^
 ||wt-eu02.net^
+||wteicogfeyhjk.com^
 ||wurfl.io^
 ||wywy.com^
 ||wzrkt.com^
+||x-adservice.com^
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
 ||xapi.ozon.ru^
@@ -717,11 +789,13 @@
 ||youboranqs01.com^
 ||youndoo.com^
 ||youvisit.com^
+||yueyuelao.cn^
 ||zaushegi.net^
 ||zedinfo.info^
 ||zenaps.com^
 ||zmnkduay.com^
 ||zndaowjdnf.stream^
+||zogleshewi.com^
 ||zudrurta.com^
 ||zugo.com^
 ||zxrtn.com^

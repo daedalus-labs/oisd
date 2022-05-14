@@ -1,6 +1,6 @@
-# Version: 202205131825
+# Version: 202205141018
 # Title: oisd nsfw
-# Last modified: 13 May 2022 18:25 UTC
+# Last modified: 14 May 2022 10:18 UTC
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                     
@@ -56411,7 +56411,6 @@
 *.freeporn.style
 *.freeporn.su
 *.freeporn.team
-*.freeporn.teen-sex-cams.com
 *.freeporn.today
 *.freeporn.us
 *.freeporn.vin
@@ -173488,7 +173487,6 @@
 *.webcam.ovh
 *.webcam.particuliers.free.fr
 *.webcam.quest
-*.webcam.sexxximo.com
 *.webcam.startbewijs.nl
 *.webcam.startkwartier.nl
 *.webcam.startmee.nl
