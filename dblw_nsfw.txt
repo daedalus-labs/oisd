@@ -1,6 +1,6 @@
-# Version: 202301220840
+# Version: 202301221910
 # Title: oisd nsfw
-# Last modified: 2023-01-22T08:40:26+0000
+# Last modified: 2023-01-22T19:10:57+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                  
@@ -90214,6 +90214,7 @@
 *.jjrs02.xyz
 *.jjrs03.xyz
 *.jjsporn.com
+*.jjsq1.buzz
 *.jjupdates.com
 *.jjvids.com
 *.jk-porn.com
@@ -170999,6 +171000,7 @@
 *.sneakyasses.com
 *.sneakygay.com
 *.sneakyindianporn.com
+*.sneakypee.com
 *.sneakysex.com
 *.sneakysex.me
 *.sneakysexvids.com
