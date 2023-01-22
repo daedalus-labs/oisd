@@ -1,6 +1,6 @@
-# Version: 202301220408
+# Version: 202301222054
 # Title: oisd extra
-# Last modified: 2023-01-22T04:08:12+0000
+# Last modified: 2023-01-22T20:54:21+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -326,10 +326,8 @@
 0.0.0.0 l.qq.com
 0.0.0.0 l3.evidon.com
 0.0.0.0 launches.appsflyer.com
-0.0.0.0 leanplum.com
 0.0.0.0 lgsmartad.com
 0.0.0.0 libs.coremetrics.com
-0.0.0.0 lightboxcdn.com
 0.0.0.0 livejasmin.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 logging.api.intuit.com
@@ -374,7 +372,6 @@
 0.0.0.0 nbcume.sc.omtrdc.net
 0.0.0.0 network.bazaarvoice.com
 0.0.0.0 newre-conversions.clickmeter.com
-0.0.0.0 newsbreak.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 0.0.0.0 novastarled.com
@@ -388,7 +385,6 @@
 0.0.0.0 p.placed.com
 0.0.0.0 pandoramedia-mkt-prod1-t.campaign.adobe.com
 0.0.0.0 pangle.io.edgekey.net
-0.0.0.0 papy.co.jp
 0.0.0.0 pcmatic.com
 0.0.0.0 permutive.com
 0.0.0.0 perr.h-cdn.com
@@ -399,7 +395,6 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 placed.com
 0.0.0.0 planning-analytics.ibmcloud.com
-0.0.0.0 plarium.com
 0.0.0.0 play.aniview.com
 0.0.0.0 pnapi.invoca.net
 0.0.0.0 prd.jwpltx.com
@@ -515,7 +510,6 @@
 0.0.0.0 tags.adsafety.net
 0.0.0.0 tags.bluekai.com.edgekey.net
 0.0.0.0 tags.tiqcdn.com
-0.0.0.0 tapresearch.com
 0.0.0.0 tie.247-inc.net
 0.0.0.0 tp-emea.exactag.com
 0.0.0.0 track.adform.net
@@ -595,8 +589,6 @@
 0.0.0.0 www.adups.com
 0.0.0.0 www.advertising.com
 0.0.0.0 www.adzerk.net
-0.0.0.0 www.aerreravasi.com
-0.0.0.0 www.af-mark.jp
 0.0.0.0 www.agkn.com
 0.0.0.0 www.amplitude.com
 0.0.0.0 www.anal-videos-photos.com
@@ -628,7 +620,6 @@
 0.0.0.0 www.coremetrics.com
 0.0.0.0 www.crashlytics.com
 0.0.0.0 www.crittercism.com
-0.0.0.0 www.cyber-ad01.cc
 0.0.0.0 www.d2cmedia.ca
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.demdex.net
@@ -649,12 +640,10 @@
 0.0.0.0 www.exacttargetapis.com
 0.0.0.0 www.extreme-ip-lookup.com
 0.0.0.0 www.fastclick.net
-0.0.0.0 www.fiduciariobajio.com.mx
 0.0.0.0 www.fmcurling.org
 0.0.0.0 www.fullrss.net
 0.0.0.0 www.fwmrm.net
 0.0.0.0 www.gaja79.com
-0.0.0.0 www.galileounaluna.com
 0.0.0.0 www.gameanalytics.com
 0.0.0.0 www.gamefeat.net
 0.0.0.0 www.gamesfly.com
@@ -664,7 +653,6 @@
 0.0.0.0 www.gocarrot.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
-0.0.0.0 www.googletagservices.com
 0.0.0.0 www.gotoip55.com
 0.0.0.0 www.grabify.link
 0.0.0.0 www.hitgraph.jp
@@ -679,14 +667,11 @@
 0.0.0.0 www.iteratehq.com
 0.0.0.0 www.kampyle.com
 0.0.0.0 www.kejet.net
-0.0.0.0 www.leanplum.com
 0.0.0.0 www.lgsmartad.com
-0.0.0.0 www.lightboxcdn.com
 0.0.0.0 www.livejasmin.com
 0.0.0.0 www.logly.co.jp
 0.0.0.0 www.macromill.com
 0.0.0.0 www.marfeel.com
-0.0.0.0 www.mczbf.com
 0.0.0.0 www.measurementapi.com
 0.0.0.0 www.medialytics.com
 0.0.0.0 www.mediaplayercodecpack.com
@@ -704,7 +689,6 @@
 0.0.0.0 www.myvisualiq.net
 0.0.0.0 www.naiadsystems.com
 0.0.0.0 www.netmng.com
-0.0.0.0 www.newsbreak.com
 0.0.0.0 www.novastarled.com
 0.0.0.0 www.npttech.com
 0.0.0.0 www.omtrdc.net
@@ -712,7 +696,6 @@
 0.0.0.0 www.onthe.io
 0.0.0.0 www.optaim.com
 0.0.0.0 www.outbrain.com
-0.0.0.0 www.papy.co.jp
 0.0.0.0 www.pcmatic.com
 0.0.0.0 www.permutive.com
 0.0.0.0 www.placed.com
@@ -723,7 +706,6 @@
 0.0.0.0 www.quantcast.com
 0.0.0.0 www.quantserve.com
 0.0.0.0 www.r-ad.ne.jp
-0.0.0.0 www.rentracks.jp
 0.0.0.0 www.researchnow.com
 0.0.0.0 www.rfihub.com
 0.0.0.0 www.rlcdn.com
@@ -742,16 +724,10 @@
 0.0.0.0 www.spotx.tv
 0.0.0.0 www.spotxchange.com
 0.0.0.0 www.springserve.com
-0.0.0.0 www.srmdata-us.com
-0.0.0.0 www.srmdata.com
 0.0.0.0 www.subiz-cdn.com
-0.0.0.0 www.summerhamster.com
 0.0.0.0 www.sunonsunday.com
 0.0.0.0 www.taboola.com
-0.0.0.0 www.tapresearch.com
 0.0.0.0 www.tcs-asp.net
-0.0.0.0 www.thebigoutdoors.co.uk
-0.0.0.0 www.tkdami.net
 0.0.0.0 www.trackjs.com
 0.0.0.0 www.tradedoubler.com
 0.0.0.0 www.trafficgate.net
@@ -760,7 +736,6 @@
 0.0.0.0 www.umtrack.com
 0.0.0.0 www.userreport.com
 0.0.0.0 www.vindicosuite.com
-0.0.0.0 www.vinyljazzrecords.com
 0.0.0.0 www.vnet.cn
 0.0.0.0 www.wwwmyetherwallet.com
 0.0.0.0 www.xn--myetherwallt-cfb.com

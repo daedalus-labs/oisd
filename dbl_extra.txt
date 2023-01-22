@@ -1,6 +1,6 @@
-# Version: 202301220408
+# Version: 202301222054
 # Title: oisd extra
-# Last modified: 2023-01-22T04:08:12+0000
+# Last modified: 2023-01-22T20:54:21+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -326,10 +326,8 @@ l.betrad.com
 l.qq.com
 l3.evidon.com
 launches.appsflyer.com
-leanplum.com
 lgsmartad.com
 libs.coremetrics.com
-lightboxcdn.com
 livejasmin.com
 log.mmstat.com
 logging.api.intuit.com
@@ -374,7 +372,6 @@ nbcume.hb.omtrdc.net
 nbcume.sc.omtrdc.net
 network.bazaarvoice.com
 newre-conversions.clickmeter.com
-newsbreak.com
 nexus.ensighten.com
 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 novastarled.com
@@ -388,7 +385,6 @@ p.brid.tv
 p.placed.com
 pandoramedia-mkt-prod1-t.campaign.adobe.com
 pangle.io.edgekey.net
-papy.co.jp
 pcmatic.com
 permutive.com
 perr.h-cdn.com
@@ -399,7 +395,6 @@ pings.conviva.com
 pixel.adsafeprotected.com
 placed.com
 planning-analytics.ibmcloud.com
-plarium.com
 play.aniview.com
 pnapi.invoca.net
 prd.jwpltx.com
@@ -515,7 +510,6 @@ tagger.opecloud.com
 tags.adsafety.net
 tags.bluekai.com.edgekey.net
 tags.tiqcdn.com
-tapresearch.com
 tie.247-inc.net
 tp-emea.exactag.com
 track.adform.net
@@ -595,8 +589,6 @@ www.adtdp.com
 www.adups.com
 www.advertising.com
 www.adzerk.net
-www.aerreravasi.com
-www.af-mark.jp
 www.agkn.com
 www.amplitude.com
 www.anal-videos-photos.com
@@ -628,7 +620,6 @@ www.conviva.com
 www.coremetrics.com
 www.crashlytics.com
 www.crittercism.com
-www.cyber-ad01.cc
 www.d2cmedia.ca
 www.datadoghq-browser-agent.com
 www.demdex.net
@@ -649,12 +640,10 @@ www.evidon.com
 www.exacttargetapis.com
 www.extreme-ip-lookup.com
 www.fastclick.net
-www.fiduciariobajio.com.mx
 www.fmcurling.org
 www.fullrss.net
 www.fwmrm.net
 www.gaja79.com
-www.galileounaluna.com
 www.gameanalytics.com
 www.gamefeat.net
 www.gamesfly.com
@@ -664,7 +653,6 @@ www.gigazine.asia
 www.gocarrot.com
 www.google-analytics.com
 www.googleadservices.com
-www.googletagservices.com
 www.gotoip55.com
 www.grabify.link
 www.hitgraph.jp
@@ -679,14 +667,11 @@ www.irs01.com
 www.iteratehq.com
 www.kampyle.com
 www.kejet.net
-www.leanplum.com
 www.lgsmartad.com
-www.lightboxcdn.com
 www.livejasmin.com
 www.logly.co.jp
 www.macromill.com
 www.marfeel.com
-www.mczbf.com
 www.measurementapi.com
 www.medialytics.com
 www.mediaplayercodecpack.com
@@ -704,7 +689,6 @@ www.mytotalsearch.com
 www.myvisualiq.net
 www.naiadsystems.com
 www.netmng.com
-www.newsbreak.com
 www.novastarled.com
 www.npttech.com
 www.omtrdc.net
@@ -712,7 +696,6 @@ www.online.sh.cn
 www.onthe.io
 www.optaim.com
 www.outbrain.com
-www.papy.co.jp
 www.pcmatic.com
 www.permutive.com
 www.placed.com
@@ -723,7 +706,6 @@ www.proadscdn.com
 www.quantcast.com
 www.quantserve.com
 www.r-ad.ne.jp
-www.rentracks.jp
 www.researchnow.com
 www.rfihub.com
 www.rlcdn.com
@@ -742,16 +724,10 @@ www.smartclip.net
 www.spotx.tv
 www.spotxchange.com
 www.springserve.com
-www.srmdata-us.com
-www.srmdata.com
 www.subiz-cdn.com
-www.summerhamster.com
 www.sunonsunday.com
 www.taboola.com
-www.tapresearch.com
 www.tcs-asp.net
-www.thebigoutdoors.co.uk
-www.tkdami.net
 www.trackjs.com
 www.tradedoubler.com
 www.trafficgate.net
@@ -760,7 +736,6 @@ www.umengcloud.com
 www.umtrack.com
 www.userreport.com
 www.vindicosuite.com
-www.vinyljazzrecords.com
 www.vnet.cn
 www.wwwmyetherwallet.com
 www.xn--myetherwallt-cfb.com

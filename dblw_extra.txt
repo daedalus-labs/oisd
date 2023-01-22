@@ -1,6 +1,6 @@
-# Version: 202301220408
+# Version: 202301222054
 # Title: oisd extra
-# Last modified: 2023-01-22T04:08:15+0000
+# Last modified: 2023-01-22T20:54:25+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -66,8 +66,6 @@
 *.adups.com
 *.advertising.com
 *.adzerk.net
-*.aerreravasi.com
-*.af-mark.jp
 *.agkn.com
 *.aimatch.com
 *.ak.sail-horizon.com
@@ -87,6 +85,7 @@
 *.api.engager.ecbsn.com
 *.api.immomo.com
 *.api.ipstack.com
+*.api.leanplum.com
 *.api.parsely.com
 *.api.segment.io
 *.api.uca.cloud.unity3d.com
@@ -195,7 +194,6 @@
 *.csi.gstatic.com
 *.ct.pinterest.com
 *.customtraffic.impactradius.com
-*.cyber-ad01.cc
 *.d.la1-c2-iad.salesforceliveagent.com
 *.d1z2jf7jlzjs58.cloudfront.net
 *.d2cmedia.ca
@@ -240,7 +238,6 @@
 *.fast.appcues.com
 *.fastclick.net
 *.ffconf.ecbsn.com
-*.fiduciariobajio.com.mx
 *.fls-eu.amazon-adsystem.com
 *.fls-fe.amazon-adsystem.com
 *.fls-na.amazon-adsystem.com
@@ -250,7 +247,6 @@
 *.fullrss.net
 *.fwmrm.net
 *.gaja79.com
-*.galileounaluna.com
 *.gameanalytics.com
 *.gamefeat.net
 *.gamesfly.com
@@ -266,7 +262,6 @@
 *.gocarrot.com
 *.google-analytics.com
 *.googleadservices.com
-*.googletagservices.com
 *.gotoip55.com
 *.grabify.link
 *.hit.stat24.com
@@ -308,9 +303,7 @@
 *.komachi.yomiuri.co.jp
 *.l.betrad.com
 *.l.qq.com
-*.leanplum.com
 *.lgsmartad.com
-*.lightboxcdn.com
 *.livejasmin.com
 *.logging.api.intuit.com
 *.logly.co.jp
@@ -324,7 +317,6 @@
 *.marinsm.com
 *.mb-cdn.stocard.de
 *.mc.yandex.ru
-*.mczbf.com
 *.measurementapi.com
 *.media.richrelevance.com
 *.medialytics.com
@@ -357,7 +349,6 @@
 *.netmng.com
 *.network.bazaarvoice.com
 *.newre-conversions.clickmeter.com
-*.newsbreak.com
 *.nova-collector-1192479543.us-east-1.elb.amazonaws.com
 *.novastarled.com
 *.npttech.com
@@ -370,7 +361,6 @@
 *.outbrain.com
 *.p.brid.tv
 *.pangle.io.edgekey.net
-*.papy.co.jp
 *.pcmatic.com
 *.permutive.com
 *.perr.h-cdn.com
@@ -397,7 +387,6 @@
 *.recommender.scarabresearch.com
 *.redirect.appmetrica.yandex.ru
 *.referrer.disqus.com
-*.rentracks.jp
 *.researchnow.com
 *.rest.locuslabs.com
 *.rfihub.com
@@ -450,8 +439,6 @@
 *.spotx.tv
 *.spotxchange.com
 *.springserve.com
-*.srmdata-us.com
-*.srmdata.com
 *.startup.mobile.yandex.net
 *.static.addtoany.com
 *.static.cdn.responsys.net
@@ -468,7 +455,6 @@
 *.stocks-analytics-events.apple.com
 *.stocks-analytics-events.news.apple-dns.net
 *.subiz-cdn.com
-*.summerhamster.com
 *.sunonsunday.com
 *.sw88.go.com
 *.sy.ameblo.jp
@@ -481,11 +467,8 @@
 *.tags.adsafety.net
 *.tags.bluekai.com.edgekey.net
 *.tags.tiqcdn.com
-*.tapresearch.com
 *.tcs-asp.net
-*.thebigoutdoors.co.uk
 *.tie.247-inc.net
-*.tkdami.net
 *.tp-emea.exactag.com
 *.track.adform.net
 *.track.adtraction.com
@@ -508,7 +491,6 @@
 *.userreport.com
 *.vid.connatix.com
 *.vindicosuite.com
-*.vinyljazzrecords.com
 *.vis.vi-serve.com
 *.vms.bluebillywig.com
 *.vnet.cn
