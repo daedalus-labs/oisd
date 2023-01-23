@@ -1,12 +1,12 @@
-; Version: 202301230055
+; Version: 202301230407
 ; Title: oisd basic
-; Last modified: 2023-01-23T00:55:56+0000
+; Last modified: 2023-01-23T04:07:08+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674432003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674446402 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -2273,8 +2273,6 @@ $TTL 30
 *.47e224be59415ec068b94bca857581bd7dde7fb6.cws.conviva.com CNAME .
 47f9b1fbc5.com CNAME .
 *.47f9b1fbc5.com CNAME .
-48da4009ba.com CNAME .
-*.48da4009ba.com CNAME .
 493b0eda03.com CNAME .
 *.493b0eda03.com CNAME .
 493b98cce8bc1a2dd.com CNAME .
@@ -9383,8 +9381,6 @@ ads.cashsurfers.com CNAME .
 *.ads.cashsurfers.com CNAME .
 ads.casinocity.com CNAME .
 *.ads.casinocity.com CNAME .
-ads.casumoaffiliates.com CNAME .
-*.ads.casumoaffiliates.com CNAME .
 ads.catholic.org CNAME .
 *.ads.catholic.org CNAME .
 ads.cavello.com CNAME .
@@ -12853,8 +12849,6 @@ aem-collector-22ylcwym.kgslb.com CNAME .
 *.aem-collector-22ylcwym.kgslb.com CNAME .
 aem-collector.daumkakao.io CNAME .
 *.aem-collector.daumkakao.io CNAME .
-aemuinwlvssyg.com CNAME .
-*.aemuinwlvssyg.com CNAME .
 aene.com.ec CNAME .
 *.aene.com.ec CNAME .
 aeoliancorojo.com CNAME .
@@ -22627,8 +22621,6 @@ axill.com CNAME .
 *.axill.com CNAME .
 axillovely.com CNAME .
 *.axillovely.com CNAME .
-axingectal.com CNAME .
-*.axingectal.com CNAME .
 axioiptv.com CNAME .
 *.axioiptv.com CNAME .
 axiomaticalley.com CNAME .
@@ -27547,8 +27539,6 @@ blazetcn.com CNAME .
 *.blazetcn.com CNAME .
 blazingswatstated.com CNAME .
 *.blazingswatstated.com CNAME .
-blbjfuowx.com CNAME .
-*.blbjfuowx.com CNAME .
 bleachbit.com CNAME .
 *.bleachbit.com CNAME .
 bleachfamouszinc.com CNAME .
@@ -32263,6 +32253,8 @@ casualproof.com CNAME .
 *.casualproof.com CNAME .
 casualstat.com CNAME .
 *.casualstat.com CNAME .
+casumoaffiliates.com CNAME .
+*.casumoaffiliates.com CNAME .
 cat.acesandaros.org CNAME .
 *.cat.acesandaros.org CNAME .
 cat.beunitedinchrist.com CNAME .
@@ -44069,8 +44061,6 @@ davarello.com CNAME .
 *.davarello.com CNAME .
 davash.com.ng CNAME .
 *.davash.com.ng CNAME .
-daveexpose.com CNAME .
-*.daveexpose.com CNAME .
 davehunterphoto.com CNAME .
 *.davehunterphoto.com CNAME .
 davesappliances.co.za CNAME .
@@ -48693,8 +48683,6 @@ dreamteaser.ru CNAME .
 *.dreamteaser.ru CNAME .
 dreamworksbiz.com CNAME .
 *.dreamworksbiz.com CNAME .
-dreanrh.cn CNAME .
-*.dreanrh.cn CNAME .
 dreaty.com CNAME .
 *.dreaty.com CNAME .
 drebz4f.shop CNAME .
@@ -50283,8 +50271,6 @@ eazzup.com CNAME .
 *.eazzup.com CNAME .
 eb.prout.be CNAME .
 *.eb.prout.be CNAME .
-eb1a6329bb.com CNAME .
-*.eb1a6329bb.com CNAME .
 eba-amadeus.netdna-ssl.com CNAME .
 *.eba-amadeus.netdna-ssl.com CNAME .
 ebay1.112.2o7.net CNAME .
@@ -84709,8 +84695,6 @@ luzynka.ru CNAME .
 *.luzynka.ru CNAME .
 lv-xin.cn CNAME .
 *.lv-xin.cn CNAME .
-lvaocaogtjlidk.com CNAME .
-*.lvaocaogtjlidk.com CNAME .
 lvecygampj.com CNAME .
 *.lvecygampj.com CNAME .
 lviana.com.br CNAME .
@@ -87741,8 +87725,6 @@ media.aso.altapress.ru CNAME .
 *.media.aso.altapress.ru CNAME .
 media.bonnint.net CNAME .
 *.media.bonnint.net CNAME .
-media.casumoaffiliates.com CNAME .
-*.media.casumoaffiliates.com CNAME .
 media.charter.com CNAME .
 *.media.charter.com CNAME .
 media.dabong247.com CNAME .
@@ -89211,8 +89193,6 @@ mgmyxwxoea.top CNAME .
 *.mgmyxwxoea.top CNAME .
 mgowec.xyz CNAME .
 *.mgowec.xyz CNAME .
-mgqggtduodvntf.com CNAME .
-*.mgqggtduodvntf.com CNAME .
 mgrattedropenrigh.xyz CNAME .
 *.mgrattedropenrigh.xyz CNAME .
 mgs123.com CNAME .
@@ -91319,8 +91299,6 @@ moonicorn.network CNAME .
 *.moonicorn.network CNAME .
 moonprocessed.com CNAME .
 *.moonprocessed.com CNAME .
-moons.cyou CNAME .
-*.moons.cyou CNAME .
 moonshinestorebd.com CNAME .
 *.moonshinestorebd.com CNAME .
 moontuftboy.com CNAME .
@@ -110003,8 +109981,6 @@ qfthyjr.pro CNAME .
 *.qfthyjr.pro CNAME .
 qfybrigdgftsxko.top CNAME .
 *.qfybrigdgftsxko.top CNAME .
-qgazysq.cn CNAME .
-*.qgazysq.cn CNAME .
 qgcbht.xyz CNAME .
 *.qgcbht.xyz CNAME .
 qgermm.xyz CNAME .
@@ -115133,8 +115109,6 @@ roosteem.net CNAME .
 *.roosteem.net CNAME .
 roosterfirework.com CNAME .
 *.roosterfirework.com CNAME .
-roostkalekah.com CNAME .
-*.roostkalekah.com CNAME .
 root--servers.org CNAME .
 *.root--servers.org CNAME .
 rootbuzz.com CNAME .
@@ -115497,8 +115471,6 @@ rpsrv.com CNAME .
 *.rpsrv.com CNAME .
 rptjx.xyz CNAME .
 *.rptjx.xyz CNAME .
-rpuyenybqtvs.xyz CNAME .
-*.rpuyenybqtvs.xyz CNAME .
 rqeyxceoyojbcc.xyz CNAME .
 *.rqeyxceoyojbcc.xyz CNAME .
 rqhere.com CNAME .
@@ -132867,8 +132839,6 @@ tfcwears.com CNAME .
 *.tfcwears.com CNAME .
 tffkroute.com CNAME .
 *.tffkroute.com CNAME .
-tfgjsfrrpsreppt.com CNAME .
-*.tfgjsfrrpsreppt.com CNAME .
 tfic0klf.xyz CNAME .
 *.tfic0klf.xyz CNAME .
 tfinnovations.com CNAME .
@@ -144475,8 +144445,6 @@ vlxx.host CNAME .
 *.vlxx.host CNAME .
 vlyby.com CNAME .
 *.vlyby.com CNAME .
-vlyqhdfbrgn.com CNAME .
-*.vlyqhdfbrgn.com CNAME .
 vm5apis.com CNAME .
 *.vm5apis.com CNAME .
 vmay.com CNAME .
@@ -148109,8 +148077,6 @@ wohuamanhua.com CNAME .
 *.wohuamanhua.com CNAME .
 woiloop.com CNAME .
 *.woiloop.com CNAME .
-wojgvibx.xyz CNAME .
-*.wojgvibx.xyz CNAME .
 wok-keletikonyha.hu CNAME .
 *.wok-keletikonyha.hu CNAME .
 wokekk.com CNAME .
@@ -150825,8 +150791,6 @@ ycadenevery.xyz CNAME .
 *.ycadenevery.xyz CNAME .
 yccdn.com CNAME .
 *.yccdn.com CNAME .
-ycdlqmlrf.xyz CNAME .
-*.ycdlqmlrf.xyz CNAME .
 yceml.net CNAME .
 *.yceml.net CNAME .
 ychml.com CNAME .

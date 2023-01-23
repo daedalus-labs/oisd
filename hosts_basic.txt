@@ -1,6 +1,6 @@
-# Version: 202301230055
+# Version: 202301230407
 # Title: oisd basic
-# Last modified: 2023-01-23T00:55:51+0000
+# Last modified: 2023-01-23T04:07:04+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -1851,7 +1851,6 @@
 0.0.0.0 4888136.notify6.com
 0.0.0.0 489a19fa-d831-4954-858d-46436d5cdb20.event.collector.scopely.io
 0.0.0.0 489a19fa-d831-4954-858d-46436d5cdb20.register.collector.scopely.io
-0.0.0.0 48da4009ba.com
 0.0.0.0 493b0eda03.com
 0.0.0.0 493b98cce8bc1a2dd.com
 0.0.0.0 49468220.com
@@ -8209,7 +8208,6 @@
 0.0.0.0 aelcindia.in
 0.0.0.0 aem-collector-22ylcwym.kgslb.com
 0.0.0.0 aem-collector.daumkakao.io
-0.0.0.0 aemuinwlvssyg.com
 0.0.0.0 aene.com.ec
 0.0.0.0 aeolismtact.com
 0.0.0.0 aeonproducts.com
@@ -14035,7 +14033,6 @@
 0.0.0.0 axikid.com
 0.0.0.0 axill.com
 0.0.0.0 axillovely.com
-0.0.0.0 axingectal.com
 0.0.0.0 axioiptv.com
 0.0.0.0 axiomaticalley.com
 0.0.0.0 axiomparasol.com
@@ -16716,7 +16713,6 @@
 0.0.0.0 blazeobservancebough.com
 0.0.0.0 blazetcn.com
 0.0.0.0 blazingswatstated.com
-0.0.0.0 blbjfuowx.com
 0.0.0.0 bleachbit.com
 0.0.0.0 bleachfamouszinc.com
 0.0.0.0 bleandworld.xyz
@@ -26557,7 +26553,6 @@
 0.0.0.0 davaphsriganganagar.com
 0.0.0.0 davarello.com
 0.0.0.0 davash.com.ng
-0.0.0.0 daveexpose.com
 0.0.0.0 davehunterphoto.com
 0.0.0.0 davesappliances.co.za
 0.0.0.0 david-rox.com
@@ -29128,7 +29123,6 @@
 0.0.0.0 dreamsaukn.co
 0.0.0.0 dreamteaser.ru
 0.0.0.0 dreamworksbiz.com
-0.0.0.0 dreanrh.cn
 0.0.0.0 dreaty.com
 0.0.0.0 drebz4f.shop
 0.0.0.0 drei.oewabox.at
@@ -30132,7 +30126,6 @@
 0.0.0.0 eb.alcmpn.com
 0.0.0.0 eb.proper.io
 0.0.0.0 eb.prout.be
-0.0.0.0 eb1a6329bb.com
 0.0.0.0 eb2.3lift.com
 0.0.0.0 eb7f3.shrubs.emptyisland.pics
 0.0.0.0 eba-amadeus.netdna-ssl.com
@@ -49271,7 +49264,6 @@
 0.0.0.0 luzulabeguile.com
 0.0.0.0 luzynka.ru
 0.0.0.0 lv-xin.cn
-0.0.0.0 lvaocaogtjlidk.com
 0.0.0.0 lvecygampj.com
 0.0.0.0 lviana.com.br
 0.0.0.0 lvjkghqpbbpri.xyz
@@ -51795,7 +51787,6 @@
 0.0.0.0 mglsk.com
 0.0.0.0 mgmyxwxoea.top
 0.0.0.0 mgowec.xyz
-0.0.0.0 mgqggtduodvntf.com
 0.0.0.0 mgrattedropenrigh.xyz
 0.0.0.0 mgs123.com
 0.0.0.0 mgtbo.112.2o7.net
@@ -52893,7 +52884,6 @@
 0.0.0.0 moonandmarsresort.com
 0.0.0.0 moonicorn.network
 0.0.0.0 moonprocessed.com
-0.0.0.0 moons.cyou
 0.0.0.0 moonshinestorebd.com
 0.0.0.0 moontuftboy.com
 0.0.0.0 moooginnumit.com
@@ -63346,7 +63336,6 @@
 0.0.0.0 qfsya.comfortykive.xyz
 0.0.0.0 qfthyjr.pro
 0.0.0.0 qfybrigdgftsxko.top
-0.0.0.0 qgazysq.cn
 0.0.0.0 qgcbht.xyz
 0.0.0.0 qgermm.xyz
 0.0.0.0 qgevavwyafjf.com
@@ -66159,7 +66148,6 @@
 0.0.0.0 roosevelt.gjbig.com
 0.0.0.0 roosteem.net
 0.0.0.0 roosterfirework.com
-0.0.0.0 roostkalekah.com
 0.0.0.0 root--servers.org
 0.0.0.0 rootbuzz.com
 0.0.0.0 rootedlifeinc.ca
@@ -66368,7 +66356,6 @@
 0.0.0.0 rpsconsultants.co.za
 0.0.0.0 rpsrv.com
 0.0.0.0 rptjx.xyz
-0.0.0.0 rpuyenybqtvs.xyz
 0.0.0.0 rpx.a8.net
 0.0.0.0 rqeyxceoyojbcc.xyz
 0.0.0.0 rqhere.com
@@ -76817,7 +76804,6 @@
 0.0.0.0 tfaln.com
 0.0.0.0 tfcwears.com
 0.0.0.0 tffkroute.com
-0.0.0.0 tfgjsfrrpsreppt.com
 0.0.0.0 tfic0klf.xyz
 0.0.0.0 tfinnovations.com
 0.0.0.0 tfiph.com
@@ -83428,7 +83414,6 @@
 0.0.0.0 vlry5l4j5gbn.com
 0.0.0.0 vlxx.host
 0.0.0.0 vlyby.com
-0.0.0.0 vlyqhdfbrgn.com
 0.0.0.0 vmap.v.ad-generation.jp
 0.0.0.0 vmay.com
 0.0.0.0 vmca.ro
@@ -85558,7 +85543,6 @@
 0.0.0.0 wohnnet.oewabox.at
 0.0.0.0 wohuamanhua.com
 0.0.0.0 woiloop.com
-0.0.0.0 wojgvibx.xyz
 0.0.0.0 wok-keletikonyha.hu
 0.0.0.0 wokekk.com
 0.0.0.0 wokentractorfurnished.com
@@ -89921,7 +89905,6 @@
 0.0.0.0 yc.flyblowfilippi.com
 0.0.0.0 yca.ir
 0.0.0.0 ycadenevery.xyz
-0.0.0.0 ycdlqmlrf.xyz
 0.0.0.0 ychml.com
 0.0.0.0 ycjthualafr.top
 0.0.0.0 yckjnbafq.top

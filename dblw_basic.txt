@@ -1,6 +1,6 @@
-# Version: 202301230055
+# Version: 202301230407
 # Title: oisd basic
-# Last modified: 2023-01-23T00:55:55+0000
+# Last modified: 2023-01-23T04:07:08+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -1140,7 +1140,6 @@
 *.4736.in
 *.47e224be59415ec068b94bca857581bd7dde7fb6.cws.conviva.com
 *.47f9b1fbc5.com
-*.48da4009ba.com
 *.493b0eda03.com
 *.493b98cce8bc1a2dd.com
 *.49468220.com
@@ -4695,7 +4694,6 @@
 *.ads.carocean.co.uk
 *.ads.cashsurfers.com
 *.ads.casinocity.com
-*.ads.casumoaffiliates.com
 *.ads.catholic.org
 *.ads.cavello.com
 *.ads.cbc.ca
@@ -6430,7 +6428,6 @@
 *.aelcindia.in
 *.aem-collector-22ylcwym.kgslb.com
 *.aem-collector.daumkakao.io
-*.aemuinwlvssyg.com
 *.aene.com.ec
 *.aeoliancorojo.com
 *.aeolismtact.com
@@ -11317,7 +11314,6 @@
 *.axikid.com
 *.axill.com
 *.axillovely.com
-*.axingectal.com
 *.axioiptv.com
 *.axiomaticalley.com
 *.axiomparasol.com
@@ -13777,7 +13773,6 @@
 *.blazeobservancebough.com
 *.blazetcn.com
 *.blazingswatstated.com
-*.blbjfuowx.com
 *.bleachbit.com
 *.bleachfamouszinc.com
 *.bleandworld.xyz
@@ -16135,6 +16130,7 @@
 *.casualdatingisreal.life
 *.casualproof.com
 *.casualstat.com
+*.casumoaffiliates.com
 *.cat.acesandaros.org
 *.cat.beunitedinchrist.com
 *.cat.doebankdesigns.com
@@ -22038,7 +22034,6 @@
 *.davaphsriganganagar.com
 *.davarello.com
 *.davash.com.ng
-*.daveexpose.com
 *.davehunterphoto.com
 *.davesappliances.co.za
 *.david-rox.com
@@ -24350,7 +24345,6 @@
 *.dreamsaukn.co
 *.dreamteaser.ru
 *.dreamworksbiz.com
-*.dreanrh.cn
 *.dreaty.com
 *.drebz4f.shop
 *.drenchspecialsmoker.com
@@ -25145,7 +25139,6 @@
 *.eazyhiregroup.com
 *.eazzup.com
 *.eb.prout.be
-*.eb1a6329bb.com
 *.eba-amadeus.netdna-ssl.com
 *.ebay1.112.2o7.net
 *.ebayadvertising.com
@@ -42358,7 +42351,6 @@
 *.luzulabeguile.com
 *.luzynka.ru
 *.lv-xin.cn
-*.lvaocaogtjlidk.com
 *.lvecygampj.com
 *.lviana.com.br
 *.lvjkghqpbbpri.xyz
@@ -43874,7 +43866,6 @@
 *.media.alphaload.com
 *.media.aso.altapress.ru
 *.media.bonnint.net
-*.media.casumoaffiliates.com
 *.media.charter.com
 *.media.dabong247.com
 *.media.datahc.com
@@ -44609,7 +44600,6 @@
 *.mglsk.com
 *.mgmyxwxoea.top
 *.mgowec.xyz
-*.mgqggtduodvntf.com
 *.mgrattedropenrigh.xyz
 *.mgs123.com
 *.mgtbo.112.2o7.net
@@ -45663,7 +45653,6 @@
 *.mooncklick.com
 *.moonicorn.network
 *.moonprocessed.com
-*.moons.cyou
 *.moonshinestorebd.com
 *.moontuftboy.com
 *.moooginnumit.com
@@ -55005,7 +54994,6 @@
 *.qfjherc.com
 *.qfthyjr.pro
 *.qfybrigdgftsxko.top
-*.qgazysq.cn
 *.qgcbht.xyz
 *.qgermm.xyz
 *.qgevavwyafjf.com
@@ -57570,7 +57558,6 @@
 *.roosevelt.gjbig.com
 *.roosteem.net
 *.roosterfirework.com
-*.roostkalekah.com
 *.root--servers.org
 *.rootbuzz.com
 *.rootedlifeinc.ca
@@ -57752,7 +57739,6 @@
 *.rpsconsultants.co.za
 *.rpsrv.com
 *.rptjx.xyz
-*.rpuyenybqtvs.xyz
 *.rqeyxceoyojbcc.xyz
 *.rqhere.com
 *.rqhere2.com
@@ -66437,7 +66423,6 @@
 *.tfaln.com
 *.tfcwears.com
 *.tffkroute.com
-*.tfgjsfrrpsreppt.com
 *.tfic0klf.xyz
 *.tfinnovations.com
 *.tfiph.com
@@ -72241,7 +72226,6 @@
 *.vlry5l4j5gbn.com
 *.vlxx.host
 *.vlyby.com
-*.vlyqhdfbrgn.com
 *.vm5apis.com
 *.vmay.com
 *.vmca.ro
@@ -74058,7 +74042,6 @@
 *.wohnen-schlafen.de
 *.wohuamanhua.com
 *.woiloop.com
-*.wojgvibx.xyz
 *.wok-keletikonyha.hu
 *.wokekk.com
 *.wokentractorfurnished.com
@@ -75416,7 +75399,6 @@
 *.yca.ir
 *.ycadenevery.xyz
 *.yccdn.com
-*.ycdlqmlrf.xyz
 *.yceml.net
 *.ychml.com
 *.ycjthualafr.top

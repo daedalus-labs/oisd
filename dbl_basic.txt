@@ -1,6 +1,6 @@
-# Version: 202301230055
+# Version: 202301230407
 # Title: oisd basic
-# Last modified: 2023-01-23T00:55:50+0000
+# Last modified: 2023-01-23T04:07:03+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -1851,7 +1851,6 @@
 4888136.notify6.com
 489a19fa-d831-4954-858d-46436d5cdb20.event.collector.scopely.io
 489a19fa-d831-4954-858d-46436d5cdb20.register.collector.scopely.io
-48da4009ba.com
 493b0eda03.com
 493b98cce8bc1a2dd.com
 49468220.com
@@ -8209,7 +8208,6 @@ ael.co.tz
 aelcindia.in
 aem-collector-22ylcwym.kgslb.com
 aem-collector.daumkakao.io
-aemuinwlvssyg.com
 aene.com.ec
 aeolismtact.com
 aeonproducts.com
@@ -14035,7 +14033,6 @@ axicare.ir
 axikid.com
 axill.com
 axillovely.com
-axingectal.com
 axioiptv.com
 axiomaticalley.com
 axiomparasol.com
@@ -16716,7 +16713,6 @@ blax-market.com
 blazeobservancebough.com
 blazetcn.com
 blazingswatstated.com
-blbjfuowx.com
 bleachbit.com
 bleachfamouszinc.com
 bleandworld.xyz
@@ -26557,7 +26553,6 @@ davalex-ng.com
 davaphsriganganagar.com
 davarello.com
 davash.com.ng
-daveexpose.com
 davehunterphoto.com
 davesappliances.co.za
 david-rox.com
@@ -29128,7 +29123,6 @@ dreamnfilm.com
 dreamsaukn.co
 dreamteaser.ru
 dreamworksbiz.com
-dreanrh.cn
 dreaty.com
 drebz4f.shop
 drei.oewabox.at
@@ -30132,7 +30126,6 @@ eazzup.com
 eb.alcmpn.com
 eb.proper.io
 eb.prout.be
-eb1a6329bb.com
 eb2.3lift.com
 eb7f3.shrubs.emptyisland.pics
 eba-amadeus.netdna-ssl.com
@@ -49271,7 +49264,6 @@ luzasol.com.br
 luzulabeguile.com
 luzynka.ru
 lv-xin.cn
-lvaocaogtjlidk.com
 lvecygampj.com
 lviana.com.br
 lvjkghqpbbpri.xyz
@@ -51795,7 +51787,6 @@ mgla1xfree.com
 mglsk.com
 mgmyxwxoea.top
 mgowec.xyz
-mgqggtduodvntf.com
 mgrattedropenrigh.xyz
 mgs123.com
 mgtbo.112.2o7.net
@@ -52893,7 +52884,6 @@ moonads.net
 moonandmarsresort.com
 moonicorn.network
 moonprocessed.com
-moons.cyou
 moonshinestorebd.com
 moontuftboy.com
 moooginnumit.com
@@ -63346,7 +63336,6 @@ qfjherc.com
 qfsya.comfortykive.xyz
 qfthyjr.pro
 qfybrigdgftsxko.top
-qgazysq.cn
 qgcbht.xyz
 qgermm.xyz
 qgevavwyafjf.com
@@ -66159,7 +66148,6 @@ roomyreading.com
 roosevelt.gjbig.com
 roosteem.net
 roosterfirework.com
-roostkalekah.com
 root--servers.org
 rootbuzz.com
 rootedlifeinc.ca
@@ -66368,7 +66356,6 @@ rpsconstrucao.com.br
 rpsconsultants.co.za
 rpsrv.com
 rptjx.xyz
-rpuyenybqtvs.xyz
 rpx.a8.net
 rqeyxceoyojbcc.xyz
 rqhere.com
@@ -76817,7 +76804,6 @@ tfag.de
 tfaln.com
 tfcwears.com
 tffkroute.com
-tfgjsfrrpsreppt.com
 tfic0klf.xyz
 tfinnovations.com
 tfiph.com
@@ -83428,7 +83414,6 @@ vlovelaundree.com
 vlry5l4j5gbn.com
 vlxx.host
 vlyby.com
-vlyqhdfbrgn.com
 vmap.v.ad-generation.jp
 vmay.com
 vmca.ro
@@ -85558,7 +85543,6 @@ wohnen-schlafen.de
 wohnnet.oewabox.at
 wohuamanhua.com
 woiloop.com
-wojgvibx.xyz
 wok-keletikonyha.hu
 wokekk.com
 wokentractorfurnished.com
@@ -89921,7 +89905,6 @@ yc-ads.s3.amazonaws.com
 yc.flyblowfilippi.com
 yca.ir
 ycadenevery.xyz
-ycdlqmlrf.xyz
 ychml.com
 ycjthualafr.top
 yckjnbafq.top
