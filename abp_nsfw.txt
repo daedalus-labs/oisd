@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202301222057
+! Version: 202301230059
 ! Title: oisd nsfw
-! Last modified: 2023-01-22T20:57:15+0000
+! Last modified: 2023-01-23T00:59:45+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List              
@@ -9370,6 +9370,7 @@
 ||amateurserotic.com^
 ||amateursex-cam.com^
 ||amateursex-cam.de^
+||amateursex-cams.de^
 ||amateursex-ch.ch^
 ||amateursex-chat.net^
 ||amateursex-club.com^
@@ -10286,6 +10287,7 @@
 ||anal-mature.com^
 ||anal-pantyhose.com^
 ||anal-penetration.com^
+||anal-phone-sex.co.uk^
 ||anal-phonesex.com^
 ||anal-pictures.biz^
 ||anal-porn-games.com^
@@ -18198,7 +18200,6 @@
 ||bdsmminnend.nl^
 ||bdsmmississippi.com^
 ||bdsmmissouri.com^
-||bdsmmistresslondon.com^
 ||bdsmmix.com^
 ||bdsmmodel.com^
 ||bdsmmodels.net^
@@ -18664,7 +18665,6 @@
 ||beate-uhse.cz^
 ||beate-uhse.de^
 ||beate-uhse.fr^
-||beate-uhse.tv^
 ||beatenasses.com^
 ||beateuhse.de^
 ||beateuhselive.com^
@@ -19722,6 +19722,7 @@
 ||bestbdsmpornsite.com^
 ||bestbdsmtoys.com^
 ||bestbhabhiporn.com^
+||bestbhabhisex.com^
 ||bestbhabhisexvideo.com^
 ||bestbhabhixxx.com^
 ||bestbigbutts.com^
@@ -22599,6 +22600,7 @@
 ||bisexual-camgirls.com^
 ||bisexual-chat.com^
 ||bisexual-dates.com^
+||bisexual-dating-site.org^
 ||bisexual-hardcore.com^
 ||bisexual-links.com^
 ||bisexual-mmf-sex.com^
@@ -36382,7 +36384,6 @@
 ||cougarxxxvideos.com^
 ||cougays.com^
 ||councilestateporn.com^
-||counter.sexsuche.tv^
 ||countrygirlporn.com^
 ||coupe.de^
 ||couple-amateur-sexe.over-blog.com^
@@ -37070,7 +37071,6 @@
 ||csexe.fr^
 ||csextube.com^
 ||csgirls.com^
-||cshacks.partycat.us^
 ||csimignon.over-blog.com^
 ||csiporn.com^
 ||cspma.org^
@@ -39200,6 +39200,7 @@
 ||darmowepornofilmy.top^
 ||darmowesex.de^
 ||darmowesexfilmy.top^
+||darmowesexkamerki.com^
 ||darmowesexmamuski.top^
 ||darmowesextube.com^
 ||darmowysexfilmy.top^
@@ -42753,7 +42754,6 @@
 ||domination-sexline.co.uk^
 ||domination-telephone.fr^
 ||domination-toys.com^
-||domination.issexy.tv^
 ||domination4k.com^
 ||dominationamateurporn.com^
 ||dominationarea.com^
@@ -57340,7 +57340,6 @@
 ||free-youporn.org^
 ||free-zoo-porn.top^
 ||free.adultcomix.biz^
-||free.animaltop.tv^
 ||free.atkpremium.com^
 ||free.cam^
 ||free.livecamzsex.com^
@@ -63596,6 +63595,7 @@
 ||gay-men-tube.com^
 ||gay-men-usa.online^
 ||gay-mens-canada.online^
+||gay-mens-usa.online^
 ||gay-militaire.com^
 ||gay-mobile-games.com^
 ||gay-models.com^
@@ -63905,7 +63905,6 @@
 ||gay.mt^
 ||gay.net.in^
 ||gay.net.nz^
-||gay.nudeboys.tv^
 ||gay.onlc.fr^
 ||gay.pornmoviedirectors.com^
 ||gay.pornmovieseries.com^
@@ -64373,6 +64372,7 @@
 ||gayboyblowjob.com^
 ||gayboybondage.com^
 ||gayboyc.com^
+||gayboycams.info^
 ||gayboyclub.com^
 ||gayboydick.com^
 ||gayboydvdstore.com^
@@ -66190,6 +66190,7 @@
 ||gaypartylines.net^
 ||gaypartystuttgart.de^
 ||gaypartytix.com^
+||gaypasg.org^
 ||gaypassif.fr^
 ||gaypassions.com^
 ||gaypassport.stage.dragonstack.com^
@@ -67909,6 +67910,7 @@
 ||gayvidshop.net^
 ||gayvidz.co^
 ||gayvienna4u.com^
+||gayviking.fr^
 ||gayvilla.nl^
 ||gayville-volinathletics.com^
 ||gayviolations.com^
@@ -68751,6 +68753,7 @@
 ||geroshop.ch^
 ||gert-project.eu^
 ||gertibaldi.com^
+||gescosex.net^
 ||gesek.info^
 ||gesek.net^
 ||gesext.de^
@@ -71633,7 +71636,6 @@
 ||granny.asia^
 ||granny.be^
 ||granny.cc^
-||granny.hothost.tv^
 ||granny.live^
 ||granny.nu^
 ||granny.top^
@@ -72893,7 +72895,6 @@
 ||guesperitusex.tk^
 ||guesstheass.com^
 ||guessthetits.com^
-||guest.suzisimpson.tv^
 ||gui7hu8tu7.free.fr^
 ||guiaadulto.com^
 ||guiadosexo.com.br^
@@ -79217,6 +79218,7 @@
 ||hornysite.com^
 ||hornyskin.com^
 ||hornyslags.co.uk^
+||hornysluts.horny-women.xyz^
 ||hornyslutshub.com^
 ||hornyson.com^
 ||hornyspanishflies.com^
@@ -84681,6 +84683,7 @@
 ||indianliveporn.com^
 ||indianlivesex.co.uk^
 ||indianlivesex.net^
+||indianlivesex.org^
 ||indianlivexxx.com^
 ||indianlovegoddess.com^
 ||indianloves.com^
@@ -84971,6 +84974,7 @@
 ||indiansexbazar.com^
 ||indiansexcam.live^
 ||indiansexcam.net^
+||indiansexcam.org^
 ||indiansexcams.xyz^
 ||indiansexcase.com^
 ||indiansexcenter.com^
@@ -87578,6 +87582,7 @@
 ||japaneselesbians.com^
 ||japaneselesbians.org^
 ||japaneselesbiansex.net^
+||japaneselivesex.net^
 ||japaneselivesexcams.com^
 ||japanesemassagejizz.com^
 ||japanesematures.com^
@@ -91501,7 +91506,6 @@
 ||kartinki31.com^
 ||kartrashian.com^
 ||kartuliporno.net^
-||karup.besthost.tv^
 ||karup.com^
 ||karupfilms.com^
 ||karups-gallery.com^
@@ -96097,6 +96101,7 @@
 ||lesbiansexattack.com^
 ||lesbiansexbook.ca^
 ||lesbiansexbook.co.uk^
+||lesbiansexcam.net^
 ||lesbiansexcams.net^
 ||lesbiansexchat.net^
 ||lesbiansexcity.com^
@@ -109470,6 +109475,7 @@
 ||mobilepornmovies.co.uk^
 ||mobilepornmp4.com^
 ||mobileporno.be^
+||mobilepornoh.com^
 ||mobilepornovideo.com^
 ||mobilepornovids.com^
 ||mobilepornpaysites.com^
@@ -114022,6 +114028,7 @@
 ||nacktealtefrauen.com^
 ||nackteasiagirls.com^
 ||nacktefoto.com^
+||nacktefotzen.sexluder.net^
 ||nacktefrau.eu^
 ||nacktefrauen.info^
 ||nacktefrauen.pics^
@@ -114671,7 +114678,6 @@
 ||nakedwifepics.com^
 ||nakedwifevideo.com^
 ||nakedwoman.com^
-||nakedwoman.manfuckingwoman.com^
 ||nakedwomen.asia^
 ||nakedwomen.cc^
 ||nakedwomen.me^
@@ -135925,6 +135931,7 @@
 ||pornoizleyev.xyz^
 ||pornoizleyici.com^
 ||pornoizleyim.com^
+||pornoizlicez.biz^
 ||pornoizliyorum.info^
 ||pornoiznasilovanie.ru^
 ||pornoiznos.com^
@@ -145074,7 +145081,6 @@
 ||rappisexshop.com^
 ||rappisexshop.ultimahorausaperu.com^
 ||rapportal.net^
-||rapsluts.issexy.tv^
 ||raptormovies.com^
 ||raptorvideos.com^
 ||rapvideoauditions.com^
@@ -150340,6 +150346,7 @@
 ||secret-kl.com^
 ||secret-link.com^
 ||secret-porn.com^
+||secret-sex.nl^
 ||secret-touch-escort-miami.com^
 ||secret-touch-escorts.com^
 ||secret-touch.com^
@@ -155898,6 +155905,7 @@
 ||sexe2jeune.com^
 ||sexe2mature.com^
 ||sexe2point0.typepad.com^
+||sexe30.com^
 ||sexe32.com^
 ||sexe3f.com^
 ||sexe40ans.free.fr^
@@ -161932,6 +161940,7 @@
 ||sexting101.com^
 ||sexting18.com^
 ||sextingamateurs.com^
+||sextingapp.org^
 ||sextingarea.eu^
 ||sextingarea.net^
 ||sextingcam.co.uk^
@@ -163039,6 +163048,7 @@
 ||sexuels.free.fr^
 ||sexuelsjouets.fr^
 ||sexuelzen.com^
+||sexuelzen.eu^
 ||sexufly.com^
 ||sexuha.com^
 ||sexuhot.com^
@@ -169494,6 +169504,7 @@
 ||sitevideosex.com^
 ||sitgesgaymassage.com^
 ||siti-webcam-porno.info^
+||sitiincontribdsm.com^
 ||sitiodosexo.pt^
 ||sitioporn.club^
 ||sitioporno.com^
@@ -170841,7 +170852,6 @@
 ||sobrasileiras.net^
 ||socabondage.com^
 ||socal-babes.com^
-||socal.besthost.tv^
 ||socalbondage.com^
 ||socalcoeds.com^
 ||socalcoedspage.com^
@@ -176767,6 +176777,7 @@
 ||teencams.me^
 ||teencams4you.com^
 ||teencamschat.com^
+||teencamsex.net^
 ||teencamsonline.com^
 ||teencamsx.com^
 ||teencamsxxx.com^
@@ -177661,6 +177672,7 @@
 ||teensexbabes.com^
 ||teensexblog.com^
 ||teensexcam.com^
+||teensexcam.me^
 ||teensexcams.com^
 ||teensexcams.org^
 ||teensexchatrooms.com^
@@ -178219,6 +178231,7 @@
 ||teeny-babes.com^
 ||teeny-channel.com^
 ||teeny-joanne.com^
+||teeny-sex-date.ch^
 ||teeny18.com^
 ||teenyasians.com^
 ||teenybikini.com^
@@ -178549,6 +178562,7 @@
 ||telefonsex-date.org^
 ||telefonsex-dating.com^
 ||telefonsex-de.com^
+||telefonsex-denise.de^
 ||telefonsex-deutsch.land^
 ||telefonsex-deutschland.de^
 ||telefonsex-dildo.com^
@@ -207195,7 +207209,6 @@
 ||young-gayboystube.com^
 ||young-gays.com^
 ||young-gfs.top^
-||young-girls.free-lesbian-sex-pics.com^
 ||young-girls.gr^
 ||young-girls.top^
 ||young-girlsfuck.top^
