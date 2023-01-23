@@ -1,6 +1,6 @@
-# Version: 202301230057
+# Version: 202301230408
 # Title: oisd extra
-# Last modified: 2023-01-23T00:57:07+0000
+# Last modified: 2023-01-23T04:08:01+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -1118,7 +1118,6 @@ www.1priest1nun.com
 www.1priest1nun.net
 www.2022aaa.xyz
 www.23uuw3.com
-www.25917.shop
 www.293870.com
 www.2999.store
 www.29wjns.com
@@ -1247,7 +1246,6 @@ www.affiliatefuture.com
 www.affiliserve.com
 www.affistats.com
 www.agkn.com
-www.agsgupei.top
 www.ahe.so
 www.ahuang.site
 www.aiwen.cc
@@ -1255,11 +1253,9 @@ www.akstat.io
 www.alimama.com
 www.alimb.top
 www.aliyun6969.cn
-www.allkindlecloud.com
 www.alpari.ru
 www.alsedu.tech
 www.altabold1.com
-www.amfyetnjmalvlxb.top
 www.amplitude.com
 www.anal-videos-photos.com
 www.androidtvwatsonfe-pa.googleapis.com
@@ -1328,7 +1324,6 @@ www.baremetrics.com
 www.bazinga12138.online
 www.bbazhaheiv.top
 www.bbt114.cn
-www.bebj.com
 www.bengbaly.fun
 www.bentonow.com
 www.benwang.love
@@ -1339,11 +1334,9 @@ www.betclic.com
 www.betrad.com
 www.betylife.com
 www.bfast.com
-www.biandaosheng.com
 www.bisafniv.space
 www.bizographics.com
 www.bizrate.com
-www.bjhyn.vip
 www.bkrtx.com
 www.blacklinknow.com
 www.blog-o-rama.de
@@ -1437,7 +1430,6 @@ www.cocoad.jp
 www.coderjim.ltd
 www.cofounderspecials.com
 www.cognitivlabs.com
-www.coin-service.com
 www.colour5.top
 www.comekang.xyz
 www.comic-promotion.com
@@ -1483,7 +1475,6 @@ www.dartry.fr
 www.datacaciques.com
 www.datacoral.io
 www.datadoghq-browser-agent.com
-www.datatech.wang
 www.dating2cloud.org
 www.deeginews.com
 www.demdex.net
@@ -1553,7 +1544,6 @@ www.eoqygep.cn
 www.eperfectdata.com
 www.epilot.com
 www.eresmas.net
-www.eroo.shop
 www.erweiblog.xyz
 www.esnoownmw.fun
 www.etrust.eu
@@ -1682,10 +1672,8 @@ www.gzwl.xyz
 www.gzxxty168.com
 www.habyc.com
 www.hai2u.com
-www.haiao.wang
 www.hanlinzhijia.net
 www.hao61.net
-www.haodazhizhuangzhuang.club
 www.hcdjy.xyz
 www.healmsuoguurd.eu
 www.heias.com
@@ -1693,7 +1681,6 @@ www.helloworldisbeautiful.net
 www.hengbalp.fun
 www.herepackagine.info
 www.herman.ink
-www.hexin.city
 www.hexp.xyz
 www.hht687.site
 www.hiasor.com
@@ -1705,7 +1692,6 @@ www.hjjkk66.xyz
 www.hk50606.cn
 www.hkbmsb.fun
 www.hnshangzhongxia.com
-www.hnyczs.club
 www.homewares.org
 www.hoood.info
 www.horyzon-media.com
@@ -1781,7 +1767,6 @@ www.ist-track.com
 www.iteratehq.com
 www.iuliglsh.space
 www.iumnxwvh.ink
-www.iwstats.com
 www.izzcwww7.live
 www.izzcwww7.world
 www.izzcwww8.xyz
@@ -1803,7 +1788,6 @@ www.jimeilm.com
 www.jingyue.co
 www.jisafnia.space
 www.jivox.com
-www.jkxty.mobi
 www.joinbrand.club
 www.joker6.fun
 www.jqueryscript.net
@@ -1813,7 +1797,6 @@ www.jsl44w.xyz
 www.jsnoownma.fun
 www.jsnqh.cn
 www.jtwlj.cn
-www.juanbanji.biz
 www.jubudayu.com
 www.junwjwl.com
 www.jwoglda.top
@@ -1868,7 +1851,6 @@ www.legitimate.wang
 www.lemonparty.biz
 www.lemonparty.org
 www.leoyard.com
-www.lf666.xyz
 www.lgsmartad.com
 www.lhinsights.com
 www.lihong.ltd
@@ -1921,7 +1903,6 @@ www.maxim.pub
 www.mayif.xyz
 www.mayig.xyz
 www.mbazhaheix.top
-www.mbzl-pro.xyz
 www.mclseww.top
 www.mczbf.com
 www.md-nx.com
@@ -1960,12 +1941,12 @@ www.mobimagic.com
 www.mobivity.com
 www.mobylog.jp
 www.moengage.com
-www.mokopoio.shop
 www.moneroocean.stream
 www.monetate.net
 www.moneyplatform.biz
 www.mongsonv.uno
 www.monitis.com
+www.moons.cyou
 www.mopinion.com
 www.morbitempus.com
 www.morgdm.ru
@@ -2028,7 +2009,6 @@ www.novastarled.com
 www.npmeingm7.shop
 www.npttech.com
 www.nrysogsic.uno
-www.nscontext.com
 www.nsnoownmc.fun
 www.numnxwvv.ink
 www.nutabuse.com
@@ -2049,7 +2029,6 @@ www.ometria.com
 www.omgpm.com
 www.omnitagjs.com
 www.omtrdc.net
-www.onedrive-download.com
 www.onenetworkdirect.net
 www.online.sh.cn
 www.onthe.io
@@ -2082,7 +2061,6 @@ www.perimeterx.net
 www.perk0mean.com
 www.permutive.com
 www.personalicanvas.com
-www.pgames.club
 www.phonejapan.com
 www.piwik.org
 www.pjatr.com
@@ -2104,7 +2082,6 @@ www.poewage.top
 www.pokeryun.site
 www.polymorphicads.jp
 www.pongsone.uno
-www.popcash.com
 www.porlsbll.cyou
 www.postaffiliatepro.com
 www.posthog.com
@@ -2345,7 +2322,6 @@ www.ssdsss.top
 www.ssnoownmb.fun
 www.stat24.com
 www.statcounter.com
-www.status500.xyz
 www.streamate.com
 www.studiostack.com
 www.subiz-cdn.com
@@ -2511,7 +2487,6 @@ www.voodoo.com
 www.vorlsblf.cyou
 www.vq7736.com
 www.vrizead.com
-www.vrrzmvb.cn
 www.vukipoerg.com
 www.vuliglsf.space
 www.vumnxwvf.ink
@@ -2538,7 +2513,6 @@ www.webpu.sh
 www.webpushr.com
 www.webtrekk-asia.net
 www.webtrekk-us.net
-www.wenxiang.work
 www.whatfinger.com
 www.whipcrack.org
 www.whmhdz.xyz
@@ -2547,11 +2521,11 @@ www.winitout.com
 www.wisafnie.space
 www.wiuspckmn.bar
 www.wjslw.mobi
-www.wjxs.xyz
 www.wk4y.cn
 www.wmgtr.com
 www.wndlkj.com
 www.wogukcd.xyz
+www.wojgvibx.xyz
 www.wongsonc.uno
 www.woodpeckerlog.com
 www.wootric.com
@@ -2661,8 +2635,6 @@ www.zgnz020.mobi
 www.zgwxt.vip
 www.zhaoyiqi.ltd
 www.zhiai.space
-www.zhongbolm.com
-www.zhudao.shop
 www.ziffdavis.com
 www.ziig.com.cn
 www.zisafniq.space
@@ -2682,7 +2654,6 @@ www.zuliglsa.space
 www.zumnxwva.ink
 www.zuqiuju.com
 www.zwogldq.top
-www.zyhx.ltd
 www.zyiis.net
 www.zyyz.pro
 www.zzkj.biz

@@ -1,6 +1,6 @@
-# Version: 202301230057
+# Version: 202301230408
 # Title: oisd extra
-# Last modified: 2023-01-23T00:57:11+0000
+# Last modified: 2023-01-23T04:08:05+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -27,7 +27,6 @@
 *.1priest1nun.net
 *.2022aaa.xyz
 *.23uuw3.com
-*.25917.shop
 *.293870.com
 *.2999.store
 *.29wjns.com
@@ -196,7 +195,6 @@
 *.affistats.com
 *.agacelebir.com
 *.agkn.com
-*.agsgupei.top
 *.ahe.so
 *.ahuang.site
 *.aimatch.com
@@ -208,12 +206,10 @@
 *.alimb.top
 *.alitems.site
 *.aliyun6969.cn
-*.allkindlecloud.com
 *.alpari.ru
 *.alsedu.tech
 *.altabold1.com
 *.amdc.m.taobao.com
-*.amfyetnjmalvlxb.top
 *.amplify-com-mktg.imgix.net
 *.amplitude.com
 *.anal-videos-photos.com
@@ -316,7 +312,6 @@
 *.bbazhaheiv.top
 *.bbt114.cn
 *.beacon-fullpage-predictor.goguardian.com
-*.bebj.com
 *.benefits.sovendus.com
 *.bengbaly.fun
 *.bentonow.com
@@ -329,11 +324,9 @@
 *.betylife.com
 *.bfast.com
 *.bi.medscape.com
-*.biandaosheng.com
 *.bisafniv.space
 *.bizographics.com
 *.bizrate.com
-*.bjhyn.vip
 *.bkrtx.com
 *.blacklinknow.com
 *.blog-o-rama.de
@@ -479,7 +472,6 @@
 *.coderjim.ltd
 *.cofounderspecials.com
 *.cognitivlabs.com
-*.coin-service.com
 *.collecting-consent.g5e.com
 *.collector-main.trafficmanager.net
 *.colour5.top
@@ -552,7 +544,6 @@
 *.datacaciques.com
 *.datacoral.io
 *.datadoghq-browser-agent.com
-*.datatech.wang
 *.dating2cloud.org
 *.deeginews.com
 *.demdex.net
@@ -636,7 +627,6 @@
 *.eperfectdata.com
 *.epilot.com
 *.eresmas.net
-*.eroo.shop
 *.erweiblog.xyz
 *.esnoownmw.fun
 *.etl.tindersparks.com
@@ -810,10 +800,8 @@
 *.h-adashx4ae.ut.taobao.com
 *.habyc.com
 *.hai2u.com
-*.haiao.wang
 *.hanlinzhijia.net
 *.hao61.net
-*.haodazhizhuangzhuang.club
 *.hcdjy.xyz
 *.healmsuoguurd.eu
 *.heias.com
@@ -821,7 +809,6 @@
 *.hengbalp.fun
 *.herepackagine.info
 *.herman.ink
-*.hexin.city
 *.hexp.xyz
 *.hht687.site
 *.hiasor.com
@@ -834,7 +821,6 @@
 *.hk50606.cn
 *.hkbmsb.fun
 *.hnshangzhongxia.com
-*.hnyczs.club
 *.homewares.org
 *.hook.integromat.com
 *.hoood.info
@@ -931,7 +917,6 @@
 *.iteratehq.com
 *.iuliglsh.space
 *.iumnxwvh.ink
-*.iwstats.com
 *.izzcwww7.live
 *.izzcwww7.world
 *.izzcwww8.xyz
@@ -953,7 +938,6 @@
 *.jingyue.co
 *.jisafnia.space
 *.jivox.com
-*.jkxty.mobi
 *.joinbrand.club
 *.joker6.fun
 *.jqueryscript.net
@@ -967,7 +951,6 @@
 *.jsnoownma.fun
 *.jsnqh.cn
 *.jtwlj.cn
-*.juanbanji.biz
 *.jubudayu.com
 *.junwjwl.com
 *.jwoglda.top
@@ -1030,7 +1013,6 @@
 *.lemonparty.biz
 *.lemonparty.org
 *.leoyard.com
-*.lf666.xyz
 *.lgsmartad.com
 *.lhinsights.com
 *.lihong.ltd
@@ -1110,7 +1092,6 @@
 *.mb-cdn.stocard.de
 *.mbazhaheix.top
 *.mbsy.co
-*.mbzl-pro.xyz
 *.mc.yandex.ru
 *.mclseww.top
 *.mczbf.com
@@ -1157,7 +1138,6 @@
 *.mobivity.com
 *.mobylog.jp
 *.moengage.com
-*.mokopoio.shop
 *.mon-va.tiktokv.com
 *.moneroocean.stream
 *.monetate.net
@@ -1166,6 +1146,7 @@
 *.monitis.com
 *.monitoring-sdk.experimentation.intuit.com
 *.monorail-edge.shopifysvc.com
+*.moons.cyou
 *.mopinion.com
 *.morbitempus.com
 *.morgdm.ru
@@ -1239,7 +1220,6 @@
 *.npmeingm7.shop
 *.npttech.com
 *.nrysogsic.uno
-*.nscontext.com
 *.nsnoownmc.fun
 *.numnxwvv.ink
 *.nutabuse.com
@@ -1265,7 +1245,6 @@
 *.omgpm.com
 *.omnitagjs.com
 *.omtrdc.net
-*.onedrive-download.com
 *.onenetworkdirect.net
 *.online.sh.cn
 *.onthe.io
@@ -1310,7 +1289,6 @@
 *.perr.h-cdn.com
 *.personalicanvas.com
 *.pf.intuit.com
-*.pgames.club
 *.phonejapan.com
 *.pi.pardot.com
 *.pidorg.ru
@@ -1338,7 +1316,6 @@
 *.pokeryun.site
 *.polymorphicads.jp
 *.pongsone.uno
-*.popcash.com
 *.porlsbll.cyou
 *.postaffiliatepro.com
 *.posthog.com
@@ -1667,7 +1644,6 @@
 *.stats.defense.gov
 *.stats.paypal.com
 *.stats.pusher.com
-*.status500.xyz
 *.stocks-analytics-events.apple.com
 *.stocks-analytics-events.news.apple-dns.net
 *.streamate.com
@@ -1881,7 +1857,6 @@
 *.vortex.hulu.com
 *.vq7736.com
 *.vrizead.com
-*.vrrzmvb.cn
 *.vukipoerg.com
 *.vuliglsf.space
 *.vumnxwvf.ink
@@ -1909,7 +1884,6 @@
 *.webpushr.com
 *.webtrekk-asia.net
 *.webtrekk-us.net
-*.wenxiang.work
 *.whatfinger.com
 *.whipcrack.org
 *.whmhdz.xyz
@@ -1922,11 +1896,11 @@
 *.wisafnie.space
 *.wiuspckmn.bar
 *.wjslw.mobi
-*.wjxs.xyz
 *.wk4y.cn
 *.wmgtr.com
 *.wndlkj.com
 *.wogukcd.xyz
+*.wojgvibx.xyz
 *.wongsonc.uno
 *.woodpecker.uc.cn
 *.woodpeckerlog.com
@@ -2048,8 +2022,6 @@
 *.zgwxt.vip
 *.zhaoyiqi.ltd
 *.zhiai.space
-*.zhongbolm.com
-*.zhudao.shop
 *.ziffdavis.com
 *.ziig.com.cn
 *.zion.qbo.intuit.com
@@ -2070,7 +2042,6 @@
 *.zumnxwva.ink
 *.zuqiuju.com
 *.zwogldq.top
-*.zyhx.ltd
 *.zyiis.net
 *.zyyz.pro
 *.zzkj.biz

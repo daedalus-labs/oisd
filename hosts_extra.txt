@@ -1,6 +1,6 @@
-# Version: 202301230057
+# Version: 202301230408
 # Title: oisd extra
-# Last modified: 2023-01-23T00:57:07+0000
+# Last modified: 2023-01-23T04:08:01+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -1118,7 +1118,6 @@
 0.0.0.0 www.1priest1nun.net
 0.0.0.0 www.2022aaa.xyz
 0.0.0.0 www.23uuw3.com
-0.0.0.0 www.25917.shop
 0.0.0.0 www.293870.com
 0.0.0.0 www.2999.store
 0.0.0.0 www.29wjns.com
@@ -1247,7 +1246,6 @@
 0.0.0.0 www.affiliserve.com
 0.0.0.0 www.affistats.com
 0.0.0.0 www.agkn.com
-0.0.0.0 www.agsgupei.top
 0.0.0.0 www.ahe.so
 0.0.0.0 www.ahuang.site
 0.0.0.0 www.aiwen.cc
@@ -1255,11 +1253,9 @@
 0.0.0.0 www.alimama.com
 0.0.0.0 www.alimb.top
 0.0.0.0 www.aliyun6969.cn
-0.0.0.0 www.allkindlecloud.com
 0.0.0.0 www.alpari.ru
 0.0.0.0 www.alsedu.tech
 0.0.0.0 www.altabold1.com
-0.0.0.0 www.amfyetnjmalvlxb.top
 0.0.0.0 www.amplitude.com
 0.0.0.0 www.anal-videos-photos.com
 0.0.0.0 www.androidtvwatsonfe-pa.googleapis.com
@@ -1328,7 +1324,6 @@
 0.0.0.0 www.bazinga12138.online
 0.0.0.0 www.bbazhaheiv.top
 0.0.0.0 www.bbt114.cn
-0.0.0.0 www.bebj.com
 0.0.0.0 www.bengbaly.fun
 0.0.0.0 www.bentonow.com
 0.0.0.0 www.benwang.love
@@ -1339,11 +1334,9 @@
 0.0.0.0 www.betrad.com
 0.0.0.0 www.betylife.com
 0.0.0.0 www.bfast.com
-0.0.0.0 www.biandaosheng.com
 0.0.0.0 www.bisafniv.space
 0.0.0.0 www.bizographics.com
 0.0.0.0 www.bizrate.com
-0.0.0.0 www.bjhyn.vip
 0.0.0.0 www.bkrtx.com
 0.0.0.0 www.blacklinknow.com
 0.0.0.0 www.blog-o-rama.de
@@ -1437,7 +1430,6 @@
 0.0.0.0 www.coderjim.ltd
 0.0.0.0 www.cofounderspecials.com
 0.0.0.0 www.cognitivlabs.com
-0.0.0.0 www.coin-service.com
 0.0.0.0 www.colour5.top
 0.0.0.0 www.comekang.xyz
 0.0.0.0 www.comic-promotion.com
@@ -1483,7 +1475,6 @@
 0.0.0.0 www.datacaciques.com
 0.0.0.0 www.datacoral.io
 0.0.0.0 www.datadoghq-browser-agent.com
-0.0.0.0 www.datatech.wang
 0.0.0.0 www.dating2cloud.org
 0.0.0.0 www.deeginews.com
 0.0.0.0 www.demdex.net
@@ -1553,7 +1544,6 @@
 0.0.0.0 www.eperfectdata.com
 0.0.0.0 www.epilot.com
 0.0.0.0 www.eresmas.net
-0.0.0.0 www.eroo.shop
 0.0.0.0 www.erweiblog.xyz
 0.0.0.0 www.esnoownmw.fun
 0.0.0.0 www.etrust.eu
@@ -1682,10 +1672,8 @@
 0.0.0.0 www.gzxxty168.com
 0.0.0.0 www.habyc.com
 0.0.0.0 www.hai2u.com
-0.0.0.0 www.haiao.wang
 0.0.0.0 www.hanlinzhijia.net
 0.0.0.0 www.hao61.net
-0.0.0.0 www.haodazhizhuangzhuang.club
 0.0.0.0 www.hcdjy.xyz
 0.0.0.0 www.healmsuoguurd.eu
 0.0.0.0 www.heias.com
@@ -1693,7 +1681,6 @@
 0.0.0.0 www.hengbalp.fun
 0.0.0.0 www.herepackagine.info
 0.0.0.0 www.herman.ink
-0.0.0.0 www.hexin.city
 0.0.0.0 www.hexp.xyz
 0.0.0.0 www.hht687.site
 0.0.0.0 www.hiasor.com
@@ -1705,7 +1692,6 @@
 0.0.0.0 www.hk50606.cn
 0.0.0.0 www.hkbmsb.fun
 0.0.0.0 www.hnshangzhongxia.com
-0.0.0.0 www.hnyczs.club
 0.0.0.0 www.homewares.org
 0.0.0.0 www.hoood.info
 0.0.0.0 www.horyzon-media.com
@@ -1781,7 +1767,6 @@
 0.0.0.0 www.iteratehq.com
 0.0.0.0 www.iuliglsh.space
 0.0.0.0 www.iumnxwvh.ink
-0.0.0.0 www.iwstats.com
 0.0.0.0 www.izzcwww7.live
 0.0.0.0 www.izzcwww7.world
 0.0.0.0 www.izzcwww8.xyz
@@ -1803,7 +1788,6 @@
 0.0.0.0 www.jingyue.co
 0.0.0.0 www.jisafnia.space
 0.0.0.0 www.jivox.com
-0.0.0.0 www.jkxty.mobi
 0.0.0.0 www.joinbrand.club
 0.0.0.0 www.joker6.fun
 0.0.0.0 www.jqueryscript.net
@@ -1813,7 +1797,6 @@
 0.0.0.0 www.jsnoownma.fun
 0.0.0.0 www.jsnqh.cn
 0.0.0.0 www.jtwlj.cn
-0.0.0.0 www.juanbanji.biz
 0.0.0.0 www.jubudayu.com
 0.0.0.0 www.junwjwl.com
 0.0.0.0 www.jwoglda.top
@@ -1868,7 +1851,6 @@
 0.0.0.0 www.lemonparty.biz
 0.0.0.0 www.lemonparty.org
 0.0.0.0 www.leoyard.com
-0.0.0.0 www.lf666.xyz
 0.0.0.0 www.lgsmartad.com
 0.0.0.0 www.lhinsights.com
 0.0.0.0 www.lihong.ltd
@@ -1921,7 +1903,6 @@
 0.0.0.0 www.mayif.xyz
 0.0.0.0 www.mayig.xyz
 0.0.0.0 www.mbazhaheix.top
-0.0.0.0 www.mbzl-pro.xyz
 0.0.0.0 www.mclseww.top
 0.0.0.0 www.mczbf.com
 0.0.0.0 www.md-nx.com
@@ -1960,12 +1941,12 @@
 0.0.0.0 www.mobivity.com
 0.0.0.0 www.mobylog.jp
 0.0.0.0 www.moengage.com
-0.0.0.0 www.mokopoio.shop
 0.0.0.0 www.moneroocean.stream
 0.0.0.0 www.monetate.net
 0.0.0.0 www.moneyplatform.biz
 0.0.0.0 www.mongsonv.uno
 0.0.0.0 www.monitis.com
+0.0.0.0 www.moons.cyou
 0.0.0.0 www.mopinion.com
 0.0.0.0 www.morbitempus.com
 0.0.0.0 www.morgdm.ru
@@ -2028,7 +2009,6 @@
 0.0.0.0 www.npmeingm7.shop
 0.0.0.0 www.npttech.com
 0.0.0.0 www.nrysogsic.uno
-0.0.0.0 www.nscontext.com
 0.0.0.0 www.nsnoownmc.fun
 0.0.0.0 www.numnxwvv.ink
 0.0.0.0 www.nutabuse.com
@@ -2049,7 +2029,6 @@
 0.0.0.0 www.omgpm.com
 0.0.0.0 www.omnitagjs.com
 0.0.0.0 www.omtrdc.net
-0.0.0.0 www.onedrive-download.com
 0.0.0.0 www.onenetworkdirect.net
 0.0.0.0 www.online.sh.cn
 0.0.0.0 www.onthe.io
@@ -2082,7 +2061,6 @@
 0.0.0.0 www.perk0mean.com
 0.0.0.0 www.permutive.com
 0.0.0.0 www.personalicanvas.com
-0.0.0.0 www.pgames.club
 0.0.0.0 www.phonejapan.com
 0.0.0.0 www.piwik.org
 0.0.0.0 www.pjatr.com
@@ -2104,7 +2082,6 @@
 0.0.0.0 www.pokeryun.site
 0.0.0.0 www.polymorphicads.jp
 0.0.0.0 www.pongsone.uno
-0.0.0.0 www.popcash.com
 0.0.0.0 www.porlsbll.cyou
 0.0.0.0 www.postaffiliatepro.com
 0.0.0.0 www.posthog.com
@@ -2345,7 +2322,6 @@
 0.0.0.0 www.ssnoownmb.fun
 0.0.0.0 www.stat24.com
 0.0.0.0 www.statcounter.com
-0.0.0.0 www.status500.xyz
 0.0.0.0 www.streamate.com
 0.0.0.0 www.studiostack.com
 0.0.0.0 www.subiz-cdn.com
@@ -2511,7 +2487,6 @@
 0.0.0.0 www.vorlsblf.cyou
 0.0.0.0 www.vq7736.com
 0.0.0.0 www.vrizead.com
-0.0.0.0 www.vrrzmvb.cn
 0.0.0.0 www.vukipoerg.com
 0.0.0.0 www.vuliglsf.space
 0.0.0.0 www.vumnxwvf.ink
@@ -2538,7 +2513,6 @@
 0.0.0.0 www.webpushr.com
 0.0.0.0 www.webtrekk-asia.net
 0.0.0.0 www.webtrekk-us.net
-0.0.0.0 www.wenxiang.work
 0.0.0.0 www.whatfinger.com
 0.0.0.0 www.whipcrack.org
 0.0.0.0 www.whmhdz.xyz
@@ -2547,11 +2521,11 @@
 0.0.0.0 www.wisafnie.space
 0.0.0.0 www.wiuspckmn.bar
 0.0.0.0 www.wjslw.mobi
-0.0.0.0 www.wjxs.xyz
 0.0.0.0 www.wk4y.cn
 0.0.0.0 www.wmgtr.com
 0.0.0.0 www.wndlkj.com
 0.0.0.0 www.wogukcd.xyz
+0.0.0.0 www.wojgvibx.xyz
 0.0.0.0 www.wongsonc.uno
 0.0.0.0 www.woodpeckerlog.com
 0.0.0.0 www.wootric.com
@@ -2661,8 +2635,6 @@
 0.0.0.0 www.zgwxt.vip
 0.0.0.0 www.zhaoyiqi.ltd
 0.0.0.0 www.zhiai.space
-0.0.0.0 www.zhongbolm.com
-0.0.0.0 www.zhudao.shop
 0.0.0.0 www.ziffdavis.com
 0.0.0.0 www.ziig.com.cn
 0.0.0.0 www.zisafniq.space
@@ -2682,7 +2654,6 @@
 0.0.0.0 www.zumnxwva.ink
 0.0.0.0 www.zuqiuju.com
 0.0.0.0 www.zwogldq.top
-0.0.0.0 www.zyhx.ltd
 0.0.0.0 www.zyiis.net
 0.0.0.0 www.zyyz.pro
 0.0.0.0 www.zzkj.biz

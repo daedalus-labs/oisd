@@ -1,12 +1,12 @@
-; Version: 202301230057
+; Version: 202301230408
 ; Title: oisd extra
-; Last modified: 2023-01-23T00:57:11+0000
+; Last modified: 2023-01-23T04:08:05+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674432003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674446402 86400 3600 604800 30
  NS localhost.
 
 0371app.wang CNAME .
@@ -47,8 +47,6 @@ $TTL 30
 *.2022aaa.xyz CNAME .
 23uuw3.com CNAME .
 *.23uuw3.com CNAME .
-25917.shop CNAME .
-*.25917.shop CNAME .
 293870.com CNAME .
 *.293870.com CNAME .
 2999.store CNAME .
@@ -385,8 +383,6 @@ agacelebir.com CNAME .
 *.agacelebir.com CNAME .
 agkn.com CNAME .
 *.agkn.com CNAME .
-agsgupei.top CNAME .
-*.agsgupei.top CNAME .
 ahe.so CNAME .
 *.ahe.so CNAME .
 ahuang.site CNAME .
@@ -409,8 +405,6 @@ alitems.site CNAME .
 *.alitems.site CNAME .
 aliyun6969.cn CNAME .
 *.aliyun6969.cn CNAME .
-allkindlecloud.com CNAME .
-*.allkindlecloud.com CNAME .
 alpari.ru CNAME .
 *.alpari.ru CNAME .
 alsedu.tech CNAME .
@@ -419,8 +413,6 @@ altabold1.com CNAME .
 *.altabold1.com CNAME .
 amdc.m.taobao.com CNAME .
 *.amdc.m.taobao.com CNAME .
-amfyetnjmalvlxb.top CNAME .
-*.amfyetnjmalvlxb.top CNAME .
 amplify-com-mktg.imgix.net CNAME .
 *.amplify-com-mktg.imgix.net CNAME .
 amplitude.com CNAME .
@@ -625,8 +617,6 @@ bbt114.cn CNAME .
 *.bbt114.cn CNAME .
 beacon-fullpage-predictor.goguardian.com CNAME .
 *.beacon-fullpage-predictor.goguardian.com CNAME .
-bebj.com CNAME .
-*.bebj.com CNAME .
 benefits.sovendus.com CNAME .
 *.benefits.sovendus.com CNAME .
 bengbaly.fun CNAME .
@@ -651,16 +641,12 @@ bfast.com CNAME .
 *.bfast.com CNAME .
 bi.medscape.com CNAME .
 *.bi.medscape.com CNAME .
-biandaosheng.com CNAME .
-*.biandaosheng.com CNAME .
 bisafniv.space CNAME .
 *.bisafniv.space CNAME .
 bizographics.com CNAME .
 *.bizographics.com CNAME .
 bizrate.com CNAME .
 *.bizrate.com CNAME .
-bjhyn.vip CNAME .
-*.bjhyn.vip CNAME .
 bkrtx.com CNAME .
 *.bkrtx.com CNAME .
 blacklinknow.com CNAME .
@@ -951,8 +937,6 @@ cofounderspecials.com CNAME .
 *.cofounderspecials.com CNAME .
 cognitivlabs.com CNAME .
 *.cognitivlabs.com CNAME .
-coin-service.com CNAME .
-*.coin-service.com CNAME .
 collecting-consent.g5e.com CNAME .
 *.collecting-consent.g5e.com CNAME .
 collector-main.trafficmanager.net CNAME .
@@ -1097,8 +1081,6 @@ datacoral.io CNAME .
 *.datacoral.io CNAME .
 datadoghq-browser-agent.com CNAME .
 *.datadoghq-browser-agent.com CNAME .
-datatech.wang CNAME .
-*.datatech.wang CNAME .
 dating2cloud.org CNAME .
 *.dating2cloud.org CNAME .
 deeginews.com CNAME .
@@ -1265,8 +1247,6 @@ epilot.com CNAME .
 *.epilot.com CNAME .
 eresmas.net CNAME .
 *.eresmas.net CNAME .
-eroo.shop CNAME .
-*.eroo.shop CNAME .
 erweiblog.xyz CNAME .
 *.erweiblog.xyz CNAME .
 esnoownmw.fun CNAME .
@@ -1613,14 +1593,10 @@ habyc.com CNAME .
 *.habyc.com CNAME .
 hai2u.com CNAME .
 *.hai2u.com CNAME .
-haiao.wang CNAME .
-*.haiao.wang CNAME .
 hanlinzhijia.net CNAME .
 *.hanlinzhijia.net CNAME .
 hao61.net CNAME .
 *.hao61.net CNAME .
-haodazhizhuangzhuang.club CNAME .
-*.haodazhizhuangzhuang.club CNAME .
 hcdjy.xyz CNAME .
 *.hcdjy.xyz CNAME .
 healmsuoguurd.eu CNAME .
@@ -1635,8 +1611,6 @@ herepackagine.info CNAME .
 *.herepackagine.info CNAME .
 herman.ink CNAME .
 *.herman.ink CNAME .
-hexin.city CNAME .
-*.hexin.city CNAME .
 hexp.xyz CNAME .
 *.hexp.xyz CNAME .
 hht687.site CNAME .
@@ -1661,8 +1635,6 @@ hkbmsb.fun CNAME .
 *.hkbmsb.fun CNAME .
 hnshangzhongxia.com CNAME .
 *.hnshangzhongxia.com CNAME .
-hnyczs.club CNAME .
-*.hnyczs.club CNAME .
 homewares.org CNAME .
 *.homewares.org CNAME .
 hook.integromat.com CNAME .
@@ -1855,8 +1827,6 @@ iuliglsh.space CNAME .
 *.iuliglsh.space CNAME .
 iumnxwvh.ink CNAME .
 *.iumnxwvh.ink CNAME .
-iwstats.com CNAME .
-*.iwstats.com CNAME .
 izzcwww7.live CNAME .
 *.izzcwww7.live CNAME .
 izzcwww7.world CNAME .
@@ -1899,8 +1869,6 @@ jisafnia.space CNAME .
 *.jisafnia.space CNAME .
 jivox.com CNAME .
 *.jivox.com CNAME .
-jkxty.mobi CNAME .
-*.jkxty.mobi CNAME .
 joinbrand.club CNAME .
 *.joinbrand.club CNAME .
 joker6.fun CNAME .
@@ -1927,8 +1895,6 @@ jsnqh.cn CNAME .
 *.jsnqh.cn CNAME .
 jtwlj.cn CNAME .
 *.jtwlj.cn CNAME .
-juanbanji.biz CNAME .
-*.juanbanji.biz CNAME .
 jubudayu.com CNAME .
 *.jubudayu.com CNAME .
 junwjwl.com CNAME .
@@ -2053,8 +2019,6 @@ lemonparty.org CNAME .
 *.lemonparty.org CNAME .
 leoyard.com CNAME .
 *.leoyard.com CNAME .
-lf666.xyz CNAME .
-*.lf666.xyz CNAME .
 lgsmartad.com CNAME .
 *.lgsmartad.com CNAME .
 lhinsights.com CNAME .
@@ -2213,8 +2177,6 @@ mbazhaheix.top CNAME .
 *.mbazhaheix.top CNAME .
 mbsy.co CNAME .
 *.mbsy.co CNAME .
-mbzl-pro.xyz CNAME .
-*.mbzl-pro.xyz CNAME .
 mc.yandex.ru CNAME .
 *.mc.yandex.ru CNAME .
 mclseww.top CNAME .
@@ -2307,8 +2269,6 @@ mobylog.jp CNAME .
 *.mobylog.jp CNAME .
 moengage.com CNAME .
 *.moengage.com CNAME .
-mokopoio.shop CNAME .
-*.mokopoio.shop CNAME .
 mon-va.tiktokv.com CNAME .
 *.mon-va.tiktokv.com CNAME .
 moneroocean.stream CNAME .
@@ -2325,6 +2285,8 @@ monitoring-sdk.experimentation.intuit.com CNAME .
 *.monitoring-sdk.experimentation.intuit.com CNAME .
 monorail-edge.shopifysvc.com CNAME .
 *.monorail-edge.shopifysvc.com CNAME .
+moons.cyou CNAME .
+*.moons.cyou CNAME .
 mopinion.com CNAME .
 *.mopinion.com CNAME .
 morbitempus.com CNAME .
@@ -2471,8 +2433,6 @@ npttech.com CNAME .
 *.npttech.com CNAME .
 nrysogsic.uno CNAME .
 *.nrysogsic.uno CNAME .
-nscontext.com CNAME .
-*.nscontext.com CNAME .
 nsnoownmc.fun CNAME .
 *.nsnoownmc.fun CNAME .
 numnxwvv.ink CNAME .
@@ -2523,8 +2483,6 @@ omnitagjs.com CNAME .
 *.omnitagjs.com CNAME .
 omtrdc.net CNAME .
 *.omtrdc.net CNAME .
-onedrive-download.com CNAME .
-*.onedrive-download.com CNAME .
 onenetworkdirect.net CNAME .
 *.onenetworkdirect.net CNAME .
 online.sh.cn CNAME .
@@ -2613,8 +2571,6 @@ personalicanvas.com CNAME .
 *.personalicanvas.com CNAME .
 pf.intuit.com CNAME .
 *.pf.intuit.com CNAME .
-pgames.club CNAME .
-*.pgames.club CNAME .
 phonejapan.com CNAME .
 *.phonejapan.com CNAME .
 pi.pardot.com CNAME .
@@ -2669,8 +2625,6 @@ polymorphicads.jp CNAME .
 *.polymorphicads.jp CNAME .
 pongsone.uno CNAME .
 *.pongsone.uno CNAME .
-popcash.com CNAME .
-*.popcash.com CNAME .
 porlsbll.cyou CNAME .
 *.porlsbll.cyou CNAME .
 postaffiliatepro.com CNAME .
@@ -3327,8 +3281,6 @@ stats.paypal.com CNAME .
 *.stats.paypal.com CNAME .
 stats.pusher.com CNAME .
 *.stats.pusher.com CNAME .
-status500.xyz CNAME .
-*.status500.xyz CNAME .
 stocks-analytics-events.apple.com CNAME .
 *.stocks-analytics-events.apple.com CNAME .
 stocks-analytics-events.news.apple-dns.net CNAME .
@@ -3755,8 +3707,6 @@ vq7736.com CNAME .
 *.vq7736.com CNAME .
 vrizead.com CNAME .
 *.vrizead.com CNAME .
-vrrzmvb.cn CNAME .
-*.vrrzmvb.cn CNAME .
 vukipoerg.com CNAME .
 *.vukipoerg.com CNAME .
 vuliglsf.space CNAME .
@@ -3811,8 +3761,6 @@ webtrekk-asia.net CNAME .
 *.webtrekk-asia.net CNAME .
 webtrekk-us.net CNAME .
 *.webtrekk-us.net CNAME .
-wenxiang.work CNAME .
-*.wenxiang.work CNAME .
 whatfinger.com CNAME .
 *.whatfinger.com CNAME .
 whipcrack.org CNAME .
@@ -3837,8 +3785,6 @@ wiuspckmn.bar CNAME .
 *.wiuspckmn.bar CNAME .
 wjslw.mobi CNAME .
 *.wjslw.mobi CNAME .
-wjxs.xyz CNAME .
-*.wjxs.xyz CNAME .
 wk4y.cn CNAME .
 *.wk4y.cn CNAME .
 wmgtr.com CNAME .
@@ -3847,6 +3793,8 @@ wndlkj.com CNAME .
 *.wndlkj.com CNAME .
 wogukcd.xyz CNAME .
 *.wogukcd.xyz CNAME .
+wojgvibx.xyz CNAME .
+*.wojgvibx.xyz CNAME .
 wongsonc.uno CNAME .
 *.wongsonc.uno CNAME .
 woodpecker.uc.cn CNAME .
@@ -4089,10 +4037,6 @@ zhaoyiqi.ltd CNAME .
 *.zhaoyiqi.ltd CNAME .
 zhiai.space CNAME .
 *.zhiai.space CNAME .
-zhongbolm.com CNAME .
-*.zhongbolm.com CNAME .
-zhudao.shop CNAME .
-*.zhudao.shop CNAME .
 ziffdavis.com CNAME .
 *.ziffdavis.com CNAME .
 ziig.com.cn CNAME .
@@ -4133,8 +4077,6 @@ zuqiuju.com CNAME .
 *.zuqiuju.com CNAME .
 zwogldq.top CNAME .
 *.zwogldq.top CNAME .
-zyhx.ltd CNAME .
-*.zyhx.ltd CNAME .
 zyiis.net CNAME .
 *.zyiis.net CNAME .
 zyyz.pro CNAME .
