@@ -1,6 +1,6 @@
-# Version: 202301230408
+# Version: 202301230808
 # Title: oisd extra
-# Last modified: 2023-01-23T04:08:05+0000
+# Last modified: 2023-01-23T08:08:47+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -299,7 +299,6 @@ local-zone: "badlniop.top." always_null
 local-zone: "badlnniop.top." always_null
 local-zone: "badloniop.top." always_null
 local-zone: "badmniop.top." always_null
-local-zone: "bailinghealth.cn." always_null
 local-zone: "bairentou.com.cn." always_null
 local-zone: "bam-x.com." always_null
 local-zone: "bam.eu01.nr-data.net." always_null

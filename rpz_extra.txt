@@ -1,12 +1,12 @@
-; Version: 202301230408
+; Version: 202301230808
 ; Title: oisd extra
-; Last modified: 2023-01-23T04:08:05+0000
+; Last modified: 2023-01-23T08:08:47+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674446402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674460801 86400 3600 604800 30
  NS localhost.
 
 0371app.wang CNAME .
@@ -593,8 +593,6 @@ badloniop.top CNAME .
 *.badloniop.top CNAME .
 badmniop.top CNAME .
 *.badmniop.top CNAME .
-bailinghealth.cn CNAME .
-*.bailinghealth.cn CNAME .
 bairentou.com.cn CNAME .
 *.bairentou.com.cn CNAME .
 bam-x.com CNAME .

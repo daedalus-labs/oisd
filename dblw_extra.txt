@@ -1,6 +1,6 @@
-# Version: 202301230408
+# Version: 202301230808
 # Title: oisd extra
-# Last modified: 2023-01-23T04:08:05+0000
+# Last modified: 2023-01-23T08:08:47+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -300,7 +300,6 @@
 *.badlnniop.top
 *.badloniop.top
 *.badmniop.top
-*.bailinghealth.cn
 *.bairentou.com.cn
 *.bam-x.com
 *.bam.eu01.nr-data.net
