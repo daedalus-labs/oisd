@@ -1,6 +1,6 @@
-# Version: 202301231949
+# Version: 202301231953
 # Title: oisd basic
-# Last modified: 2023-01-23T19:49:18+0000
+# Last modified: 2023-01-23T19:53:10+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -17190,7 +17190,6 @@ server=/csmads.gameclick.vn/
 server=/csnchile.cl/
 server=/csp-collector.appspot.com/
 server=/csp-group.co.uk/
-server=/csp-reporting.cloudflare.com/
 server=/cspb1.5w5w.com/
 server=/csqiulong.com/
 server=/csr.onet.pl/

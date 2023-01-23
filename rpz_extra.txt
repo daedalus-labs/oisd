@@ -1,12 +1,12 @@
-; Version: 202301231209
+; Version: 202301231950
 ; Title: oisd extra
-; Last modified: 2023-01-23T12:09:33+0000
+; Last modified: 2023-01-23T19:50:42+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674475201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674502875 86400 3600 604800 30
  NS localhost.
 
 189-211-177-171.static.axtel.net CNAME .
@@ -125,6 +125,10 @@ advertising.com CNAME .
 *.advertising.com CNAME .
 adzerk.net CNAME .
 *.adzerk.net CNAME .
+aerreravasi.com CNAME .
+*.aerreravasi.com CNAME .
+af-mark.jp CNAME .
+*.af-mark.jp CNAME .
 agkn.com CNAME .
 *.agkn.com CNAME .
 aimatch.com CNAME .
@@ -163,8 +167,6 @@ api.immomo.com CNAME .
 *.api.immomo.com CNAME .
 api.ipstack.com CNAME .
 *.api.ipstack.com CNAME .
-api.leanplum.com CNAME .
-*.api.leanplum.com CNAME .
 api.parsely.com CNAME .
 *.api.parsely.com CNAME .
 api.segment.io CNAME .
@@ -379,6 +381,8 @@ ct.pinterest.com CNAME .
 *.ct.pinterest.com CNAME .
 customtraffic.impactradius.com CNAME .
 *.customtraffic.impactradius.com CNAME .
+cyber-ad01.cc CNAME .
+*.cyber-ad01.cc CNAME .
 d.la1-c2-iad.salesforceliveagent.com CNAME .
 *.d.la1-c2-iad.salesforceliveagent.com CNAME .
 d1z2jf7jlzjs58.cloudfront.net CNAME .
@@ -467,6 +471,8 @@ fastclick.net CNAME .
 *.fastclick.net CNAME .
 ffconf.ecbsn.com CNAME .
 *.ffconf.ecbsn.com CNAME .
+fiduciariobajio.com.mx CNAME .
+*.fiduciariobajio.com.mx CNAME .
 fls-eu.amazon-adsystem.com CNAME .
 *.fls-eu.amazon-adsystem.com CNAME .
 fls-fe.amazon-adsystem.com CNAME .
@@ -483,6 +489,8 @@ fwmrm.net CNAME .
 *.fwmrm.net CNAME .
 gaja79.com CNAME .
 *.gaja79.com CNAME .
+galileounaluna.com CNAME .
+*.galileounaluna.com CNAME .
 gameanalytics.com CNAME .
 *.gameanalytics.com CNAME .
 gamefeat.net CNAME .
@@ -513,6 +521,8 @@ google-analytics.com CNAME .
 *.google-analytics.com CNAME .
 googleadservices.com CNAME .
 *.googleadservices.com CNAME .
+googletagservices.com CNAME .
+*.googletagservices.com CNAME .
 gotoip55.com CNAME .
 *.gotoip55.com CNAME .
 grabify.link CNAME .
@@ -595,8 +605,12 @@ l.betrad.com CNAME .
 *.l.betrad.com CNAME .
 l.qq.com CNAME .
 *.l.qq.com CNAME .
+leanplum.com CNAME .
+*.leanplum.com CNAME .
 lgsmartad.com CNAME .
 *.lgsmartad.com CNAME .
+lightboxcdn.com CNAME .
+*.lightboxcdn.com CNAME .
 livejasmin.com CNAME .
 *.livejasmin.com CNAME .
 logging.api.intuit.com CNAME .
@@ -623,6 +637,8 @@ mb-cdn.stocard.de CNAME .
 *.mb-cdn.stocard.de CNAME .
 mc.yandex.ru CNAME .
 *.mc.yandex.ru CNAME .
+mczbf.com CNAME .
+*.mczbf.com CNAME .
 measurementapi.com CNAME .
 *.measurementapi.com CNAME .
 media.richrelevance.com CNAME .
@@ -687,6 +703,8 @@ network.bazaarvoice.com CNAME .
 *.network.bazaarvoice.com CNAME .
 newre-conversions.clickmeter.com CNAME .
 *.newre-conversions.clickmeter.com CNAME .
+newsbreak.com CNAME .
+*.newsbreak.com CNAME .
 nova-collector-1192479543.us-east-1.elb.amazonaws.com CNAME .
 *.nova-collector-1192479543.us-east-1.elb.amazonaws.com CNAME .
 novastarled.com CNAME .
@@ -711,6 +729,8 @@ p.brid.tv CNAME .
 *.p.brid.tv CNAME .
 pangle.io.edgekey.net CNAME .
 *.pangle.io.edgekey.net CNAME .
+papy.co.jp CNAME .
+*.papy.co.jp CNAME .
 pcmatic.com CNAME .
 *.pcmatic.com CNAME .
 permutive.com CNAME .
@@ -761,6 +781,8 @@ redirect.appmetrica.yandex.ru CNAME .
 *.redirect.appmetrica.yandex.ru CNAME .
 referrer.disqus.com CNAME .
 *.referrer.disqus.com CNAME .
+rentracks.jp CNAME .
+*.rentracks.jp CNAME .
 researchnow.com CNAME .
 *.researchnow.com CNAME .
 rest.locuslabs.com CNAME .
@@ -865,6 +887,10 @@ spotxchange.com CNAME .
 *.spotxchange.com CNAME .
 springserve.com CNAME .
 *.springserve.com CNAME .
+srmdata-us.com CNAME .
+*.srmdata-us.com CNAME .
+srmdata.com CNAME .
+*.srmdata.com CNAME .
 startup.mobile.yandex.net CNAME .
 *.startup.mobile.yandex.net CNAME .
 static.addtoany.com CNAME .
@@ -897,6 +923,8 @@ stocks-analytics-events.news.apple-dns.net CNAME .
 *.stocks-analytics-events.news.apple-dns.net CNAME .
 subiz-cdn.com CNAME .
 *.subiz-cdn.com CNAME .
+summerhamster.com CNAME .
+*.summerhamster.com CNAME .
 sunonsunday.com CNAME .
 *.sunonsunday.com CNAME .
 sw88.go.com CNAME .
@@ -921,10 +949,16 @@ tags.bluekai.com.edgekey.net CNAME .
 *.tags.bluekai.com.edgekey.net CNAME .
 tags.tiqcdn.com CNAME .
 *.tags.tiqcdn.com CNAME .
+tapresearch.com CNAME .
+*.tapresearch.com CNAME .
 tcs-asp.net CNAME .
 *.tcs-asp.net CNAME .
+thebigoutdoors.co.uk CNAME .
+*.thebigoutdoors.co.uk CNAME .
 tie.247-inc.net CNAME .
 *.tie.247-inc.net CNAME .
+tkdami.net CNAME .
+*.tkdami.net CNAME .
 tp-emea.exactag.com CNAME .
 *.tp-emea.exactag.com CNAME .
 track.adform.net CNAME .
@@ -969,6 +1003,8 @@ vid.connatix.com CNAME .
 *.vid.connatix.com CNAME .
 vindicosuite.com CNAME .
 *.vindicosuite.com CNAME .
+vinyljazzrecords.com CNAME .
+*.vinyljazzrecords.com CNAME .
 vis.vi-serve.com CNAME .
 *.vis.vi-serve.com CNAME .
 vms.bluebillywig.com CNAME .

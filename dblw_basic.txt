@@ -1,6 +1,6 @@
-# Version: 202301231949
+# Version: 202301231953
 # Title: oisd basic
-# Last modified: 2023-01-23T19:49:18+0000
+# Last modified: 2023-01-23T19:53:07+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -17193,7 +17193,6 @@
 *.csnchile.cl
 *.csp-collector.appspot.com
 *.csp-group.co.uk
-*.csp-reporting.cloudflare.com
 *.cspb1.5w5w.com
 *.csqiulong.com
 *.csr.onet.pl

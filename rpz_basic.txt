@@ -1,12 +1,12 @@
-; Version: 202301231949
+; Version: 202301231953
 ; Title: oisd basic
-; Last modified: 2023-01-23T19:49:19+0000
+; Last modified: 2023-01-23T19:53:12+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674502875 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674503592 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -34379,8 +34379,6 @@ csp-collector.appspot.com CNAME .
 *.csp-collector.appspot.com CNAME .
 csp-group.co.uk CNAME .
 *.csp-group.co.uk CNAME .
-csp-reporting.cloudflare.com CNAME .
-*.csp-reporting.cloudflare.com CNAME .
 cspb1.5w5w.com CNAME .
 *.cspb1.5w5w.com CNAME .
 csqiulong.com CNAME .
