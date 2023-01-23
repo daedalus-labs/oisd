@@ -1,12 +1,12 @@
-; Version: 202301230513
+; Version: 202301230632
 ; Title: oisd basic
-; Last modified: 2023-01-23T05:13:01+0000
+; Last modified: 2023-01-23T06:32:17+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674450781 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674455064 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -7795,6 +7795,8 @@ adforgeinc.com CNAME .
 *.adforgeinc.com CNAME .
 adform.com CNAME .
 *.adform.com CNAME .
+adfox.yandex.ru CNAME .
+*.adfox.yandex.ru CNAME .
 adfpoint.com CNAME .
 *.adfpoint.com CNAME .
 adframesrc.com CNAME .
@@ -7803,6 +7805,8 @@ adfrika.com CNAME .
 *.adfrika.com CNAME .
 adfrontiers.com CNAME .
 *.adfrontiers.com CNAME .
+adfstat.yandex.ru CNAME .
+*.adfstat.yandex.ru CNAME .
 adfun.ru CNAME .
 *.adfun.ru CNAME .
 adfunkyserver.com CNAME .
@@ -10851,6 +10855,8 @@ adsdk.picooapps.com CNAME .
 *.adsdk.picooapps.com CNAME .
 adsdk.vivo.com.cn CNAME .
 *.adsdk.vivo.com.cn CNAME .
+adsdk.yandex.ru CNAME .
+*.adsdk.yandex.ru CNAME .
 adsdot.ph CNAME .
 *.adsdot.ph CNAME .
 adsearch.pl CNAME .
@@ -16575,6 +16581,8 @@ an.reflektion.com CNAME .
 *.an.reflektion.com CNAME .
 an.xemvtv.net CNAME .
 *.an.xemvtv.net CNAME .
+an.yandex.ru CNAME .
+*.an.yandex.ru CNAME .
 ana.bandi.so CNAME .
 *.ana.bandi.so CNAME .
 ana.mediable.info CNAME .
@@ -22413,6 +22421,8 @@ awaltundo.com CNAME .
 *.awaltundo.com CNAME .
 awaps.yandex.net CNAME .
 *.awaps.yandex.net CNAME .
+awaps.yandex.ru CNAME .
+*.awaps.yandex.ru CNAME .
 award.sitekeuring.net CNAME .
 *.award.sitekeuring.net CNAME .
 awarealley.com CNAME .
@@ -22543,6 +22553,8 @@ awsurveys.com CNAME .
 *.awsurveys.com CNAME .
 awsxc.live CNAME .
 *.awsxc.live CNAME .
+awsync.yandex.ru CNAME .
+*.awsync.yandex.ru CNAME .
 awtks.com CNAME .
 *.awtks.com CNAME .
 awts.co.in CNAME .
@@ -29663,10 +29675,14 @@ brznetwork.com CNAME .
 *.brznetwork.com CNAME .
 bs-dante.ru CNAME .
 *.bs-dante.ru CNAME .
+bs-meta.yandex.ru CNAME .
+*.bs-meta.yandex.ru CNAME .
 bs.orsk.ru CNAME .
 *.bs.orsk.ru CNAME .
 bs.url.tw CNAME .
 *.bs.url.tw CNAME .
+bs.yandex.ru CNAME .
+*.bs.yandex.ru CNAME .
 bs50tds.com CNAME .
 *.bs50tds.com CNAME .
 bsa.iain-jember.ac.id CNAME .
@@ -64079,6 +64095,8 @@ graciousacademy.com CNAME .
 *.graciousacademy.com CNAME .
 grackoceesto.com CNAME .
 *.grackoceesto.com CNAME .
+grade.market.yandex.ru CNAME .
+*.grade.market.yandex.ru CNAME .
 gradec.org CNAME .
 *.gradec.org CNAME .
 gradecastlecanadian.com CNAME .
@@ -83309,6 +83327,8 @@ log.snssdk.com CNAME .
 *.log.snssdk.com CNAME .
 log.spotify.com CNAME .
 *.log.spotify.com CNAME .
+log.strm.yandex.ru CNAME .
+*.log.strm.yandex.ru CNAME .
 log.suumo.jp CNAME .
 *.log.suumo.jp CNAME .
 log.tagtic.cn CNAME .
@@ -89037,6 +89057,8 @@ metrika.myseldon.com CNAME .
 *.metrika.myseldon.com CNAME .
 metrika.traff.space CNAME .
 *.metrika.traff.space CNAME .
+metrika.yandex.ru CNAME .
+*.metrika.yandex.ru CNAME .
 metrilo.com CNAME .
 *.metrilo.com CNAME .
 metriweb.be CNAME .

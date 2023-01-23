@@ -1,6 +1,6 @@
-# Version: 202301230512
+# Version: 202301230632
 # Title: oisd basic
-# Last modified: 2023-01-23T05:12:56+0000
+# Last modified: 2023-01-23T06:32:16+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -3898,10 +3898,12 @@ server=/adforce.team/
 server=/adforgames.com/
 server=/adforgeinc.com/
 server=/adform.com/
+server=/adfox.yandex.ru/
 server=/adfpoint.com/
 server=/adframesrc.com/
 server=/adfrika.com/
 server=/adfrontiers.com/
+server=/adfstat.yandex.ru/
 server=/adfun.ru/
 server=/adfunkyserver.com/
 server=/adfurikun.jp/
@@ -5426,6 +5428,7 @@ server=/adsdaq.com/
 server=/adsdk.com/
 server=/adsdk.picooapps.com/
 server=/adsdk.vivo.com.cn/
+server=/adsdk.yandex.ru/
 server=/adsdot.ph/
 server=/adsearch.pl/
 server=/adsearch.wp.pl/
@@ -8288,6 +8291,7 @@ server=/an.mlb.com/
 server=/an.pintaentrep.com/
 server=/an.reflektion.com/
 server=/an.xemvtv.net/
+server=/an.yandex.ru/
 server=/ana.bandi.so/
 server=/ana.mediable.info/
 server=/ana5.net/
@@ -11207,6 +11211,7 @@ server=/awakebird.com/
 server=/awakeexterior.com/
 server=/awaltundo.com/
 server=/awaps.yandex.net/
+server=/awaps.yandex.ru/
 server=/award.sitekeuring.net/
 server=/awarealley.com/
 server=/awasete.com/
@@ -11272,6 +11277,7 @@ server=/awstaticdn.net/
 server=/awstats.cloud/
 server=/awsurveys.com/
 server=/awsxc.live/
+server=/awsync.yandex.ru/
 server=/awtks.com/
 server=/awts.co.in/
 server=/awviajes.com.ar/
@@ -14832,8 +14838,10 @@ server=/bryantaylor.free-online.co.uk/
 server=/brygella.com/
 server=/brznetwork.com/
 server=/bs-dante.ru/
+server=/bs-meta.yandex.ru/
 server=/bs.orsk.ru/
 server=/bs.url.tw/
+server=/bs.yandex.ru/
 server=/bs50tds.com/
 server=/bsa.iain-jember.ac.id/
 server=/bsaq5.cn/
@@ -32040,6 +32048,7 @@ server=/graciebarrasobradinho.com.br/
 server=/graciellabeauty.com/
 server=/graciousacademy.com/
 server=/grackoceesto.com/
+server=/grade.market.yandex.ru/
 server=/gradec.org/
 server=/gradecastlecanadian.com/
 server=/gradeink.com/
@@ -41655,6 +41664,7 @@ server=/log.snapdeal.com/
 server=/log.snow.me/
 server=/log.snssdk.com/
 server=/log.spotify.com/
+server=/log.strm.yandex.ru/
 server=/log.suumo.jp/
 server=/log.tagtic.cn/
 server=/log.tapatalk.com/
@@ -44519,6 +44529,7 @@ server=/metrika-informer.com/
 server=/metrika.kontur.ru/
 server=/metrika.myseldon.com/
 server=/metrika.traff.space/
+server=/metrika.yandex.ru/
 server=/metrilo.com/
 server=/metriweb.be/
 server=/metrix.emagister.com/
