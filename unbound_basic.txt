@@ -1,6 +1,6 @@
-# Version: 202301230407
+# Version: 202301230513
 # Title: oisd basic
-# Last modified: 2023-01-23T04:07:09+0000
+# Last modified: 2023-01-23T05:13:03+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -3900,12 +3900,10 @@ local-zone: "adforce.team." always_null
 local-zone: "adforgames.com." always_null
 local-zone: "adforgeinc.com." always_null
 local-zone: "adform.com." always_null
-local-zone: "adfox.yandex.ru." always_null
 local-zone: "adfpoint.com." always_null
 local-zone: "adframesrc.com." always_null
 local-zone: "adfrika.com." always_null
 local-zone: "adfrontiers.com." always_null
-local-zone: "adfstat.yandex.ru." always_null
 local-zone: "adfun.ru." always_null
 local-zone: "adfunkyserver.com." always_null
 local-zone: "adfurikun.jp." always_null
@@ -5430,7 +5428,6 @@ local-zone: "adsdaq.com." always_null
 local-zone: "adsdk.com." always_null
 local-zone: "adsdk.picooapps.com." always_null
 local-zone: "adsdk.vivo.com.cn." always_null
-local-zone: "adsdk.yandex.ru." always_null
 local-zone: "adsdot.ph." always_null
 local-zone: "adsearch.pl." always_null
 local-zone: "adsearch.wp.pl." always_null
@@ -8293,7 +8290,6 @@ local-zone: "an.mlb.com." always_null
 local-zone: "an.pintaentrep.com." always_null
 local-zone: "an.reflektion.com." always_null
 local-zone: "an.xemvtv.net." always_null
-local-zone: "an.yandex.ru." always_null
 local-zone: "ana.bandi.so." always_null
 local-zone: "ana.mediable.info." always_null
 local-zone: "ana5.net." always_null
@@ -11213,7 +11209,6 @@ local-zone: "awakebird.com." always_null
 local-zone: "awakeexterior.com." always_null
 local-zone: "awaltundo.com." always_null
 local-zone: "awaps.yandex.net." always_null
-local-zone: "awaps.yandex.ru." always_null
 local-zone: "award.sitekeuring.net." always_null
 local-zone: "awarealley.com." always_null
 local-zone: "awasete.com." always_null
@@ -11279,7 +11274,6 @@ local-zone: "awstaticdn.net." always_null
 local-zone: "awstats.cloud." always_null
 local-zone: "awsurveys.com." always_null
 local-zone: "awsxc.live." always_null
-local-zone: "awsync.yandex.ru." always_null
 local-zone: "awtks.com." always_null
 local-zone: "awts.co.in." always_null
 local-zone: "awviajes.com.ar." always_null
@@ -14840,10 +14834,8 @@ local-zone: "bryantaylor.free-online.co.uk." always_null
 local-zone: "brygella.com." always_null
 local-zone: "brznetwork.com." always_null
 local-zone: "bs-dante.ru." always_null
-local-zone: "bs-meta.yandex.ru." always_null
 local-zone: "bs.orsk.ru." always_null
 local-zone: "bs.url.tw." always_null
-local-zone: "bs.yandex.ru." always_null
 local-zone: "bs50tds.com." always_null
 local-zone: "bsa.iain-jember.ac.id." always_null
 local-zone: "bsaq5.cn." always_null
@@ -32050,7 +32042,6 @@ local-zone: "graciebarrasobradinho.com.br." always_null
 local-zone: "graciellabeauty.com." always_null
 local-zone: "graciousacademy.com." always_null
 local-zone: "grackoceesto.com." always_null
-local-zone: "grade.market.yandex.ru." always_null
 local-zone: "gradec.org." always_null
 local-zone: "gradecastlecanadian.com." always_null
 local-zone: "gradeink.com." always_null
@@ -41666,7 +41657,6 @@ local-zone: "log.snapdeal.com." always_null
 local-zone: "log.snow.me." always_null
 local-zone: "log.snssdk.com." always_null
 local-zone: "log.spotify.com." always_null
-local-zone: "log.strm.yandex.ru." always_null
 local-zone: "log.suumo.jp." always_null
 local-zone: "log.tagtic.cn." always_null
 local-zone: "log.tapatalk.com." always_null
@@ -44531,7 +44521,6 @@ local-zone: "metrika-informer.com." always_null
 local-zone: "metrika.kontur.ru." always_null
 local-zone: "metrika.myseldon.com." always_null
 local-zone: "metrika.traff.space." always_null
-local-zone: "metrika.yandex.ru." always_null
 local-zone: "metrilo.com." always_null
 local-zone: "metriweb.be." always_null
 local-zone: "metrix.emagister.com." always_null

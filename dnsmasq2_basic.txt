@@ -1,6 +1,6 @@
-# Version: 202301230407
+# Version: 202301230512
 # Title: oisd basic
-# Last modified: 2023-01-23T04:07:08+0000
+# Last modified: 2023-01-23T05:12:57+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -3898,12 +3898,10 @@ local=/adforce.team/
 local=/adforgames.com/
 local=/adforgeinc.com/
 local=/adform.com/
-local=/adfox.yandex.ru/
 local=/adfpoint.com/
 local=/adframesrc.com/
 local=/adfrika.com/
 local=/adfrontiers.com/
-local=/adfstat.yandex.ru/
 local=/adfun.ru/
 local=/adfunkyserver.com/
 local=/adfurikun.jp/
@@ -5428,7 +5426,6 @@ local=/adsdaq.com/
 local=/adsdk.com/
 local=/adsdk.picooapps.com/
 local=/adsdk.vivo.com.cn/
-local=/adsdk.yandex.ru/
 local=/adsdot.ph/
 local=/adsearch.pl/
 local=/adsearch.wp.pl/
@@ -8291,7 +8288,6 @@ local=/an.mlb.com/
 local=/an.pintaentrep.com/
 local=/an.reflektion.com/
 local=/an.xemvtv.net/
-local=/an.yandex.ru/
 local=/ana.bandi.so/
 local=/ana.mediable.info/
 local=/ana5.net/
@@ -11211,7 +11207,6 @@ local=/awakebird.com/
 local=/awakeexterior.com/
 local=/awaltundo.com/
 local=/awaps.yandex.net/
-local=/awaps.yandex.ru/
 local=/award.sitekeuring.net/
 local=/awarealley.com/
 local=/awasete.com/
@@ -11277,7 +11272,6 @@ local=/awstaticdn.net/
 local=/awstats.cloud/
 local=/awsurveys.com/
 local=/awsxc.live/
-local=/awsync.yandex.ru/
 local=/awtks.com/
 local=/awts.co.in/
 local=/awviajes.com.ar/
@@ -14838,10 +14832,8 @@ local=/bryantaylor.free-online.co.uk/
 local=/brygella.com/
 local=/brznetwork.com/
 local=/bs-dante.ru/
-local=/bs-meta.yandex.ru/
 local=/bs.orsk.ru/
 local=/bs.url.tw/
-local=/bs.yandex.ru/
 local=/bs50tds.com/
 local=/bsa.iain-jember.ac.id/
 local=/bsaq5.cn/
@@ -32048,7 +32040,6 @@ local=/graciebarrasobradinho.com.br/
 local=/graciellabeauty.com/
 local=/graciousacademy.com/
 local=/grackoceesto.com/
-local=/grade.market.yandex.ru/
 local=/gradec.org/
 local=/gradecastlecanadian.com/
 local=/gradeink.com/
@@ -41664,7 +41655,6 @@ local=/log.snapdeal.com/
 local=/log.snow.me/
 local=/log.snssdk.com/
 local=/log.spotify.com/
-local=/log.strm.yandex.ru/
 local=/log.suumo.jp/
 local=/log.tagtic.cn/
 local=/log.tapatalk.com/
@@ -44529,7 +44519,6 @@ local=/metrika-informer.com/
 local=/metrika.kontur.ru/
 local=/metrika.myseldon.com/
 local=/metrika.traff.space/
-local=/metrika.yandex.ru/
 local=/metrilo.com/
 local=/metriweb.be/
 local=/metrix.emagister.com/

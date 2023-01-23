@@ -1,6 +1,6 @@
-# Version: 202301230407
+# Version: 202301230512
 # Title: oisd basic
-# Last modified: 2023-01-23T04:07:04+0000
+# Last modified: 2023-01-23T05:12:54+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -5211,14 +5211,12 @@
 0.0.0.0 adform.com
 0.0.0.0 adformsync01.admantx.com
 0.0.0.0 adformui.admantx.com
-0.0.0.0 adfox.yandex.ru
 0.0.0.0 adfpoint.com
 0.0.0.0 adframesrc.com
 0.0.0.0 adfraud.adoptimize.info
 0.0.0.0 adfrika.com
 0.0.0.0 adfrontiers.com
 0.0.0.0 adfs.qadynamics.marketo.com
-0.0.0.0 adfstat.yandex.ru
 0.0.0.0 adfun.ru
 0.0.0.0 adfunkyserver.com
 0.0.0.0 adfurikun.jp
@@ -7044,7 +7042,6 @@
 0.0.0.0 adsdk.picooapps.com
 0.0.0.0 adsdk.vivo.com.cn
 0.0.0.0 adsdk.vrvm.com
-0.0.0.0 adsdk.yandex.ru
 0.0.0.0 adsdot.ph
 0.0.0.0 adsearch.adkontekst.pl
 0.0.0.0 adsearch.wp.pl
@@ -10205,7 +10202,6 @@
 0.0.0.0 an.reflektion.com
 0.0.0.0 an.tacoda.net
 0.0.0.0 an.xemvtv.net
-0.0.0.0 an.yandex.ru
 0.0.0.0 an.yandexadexchange.net
 0.0.0.0 ana.bandi.so
 0.0.0.0 ana.headerlift.com
@@ -13924,7 +13920,6 @@
 0.0.0.0 awakeexterior.com
 0.0.0.0 awaltundo.com
 0.0.0.0 awaps.yandex.net
-0.0.0.0 awaps.yandex.ru
 0.0.0.0 award.sitekeuring.net
 0.0.0.0 awarealley.com
 0.0.0.0 awasete.com
@@ -14000,7 +13995,6 @@
 0.0.0.0 awstats.cloud
 0.0.0.0 awsurveys.com
 0.0.0.0 awsxc.live
-0.0.0.0 awsync.yandex.ru
 0.0.0.0 awtks.com
 0.0.0.0 awts.co.in
 0.0.0.0 awviajes.com.ar
@@ -17824,7 +17818,6 @@
 0.0.0.0 brznetwork.com
 0.0.0.0 bs-dante.ru
 0.0.0.0 bs-geo.dvgtm.akadns.net
-0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 bs-wlb-uswest.dvgtm.akadns.net
 0.0.0.0 bs.ad-stir.com
 0.0.0.0 bs.bicepsseiner.com
@@ -17833,7 +17826,6 @@
 0.0.0.0 bs.orsk.ru
 0.0.0.0 bs.showheroes.com
 0.0.0.0 bs.url.tw
-0.0.0.0 bs.yandex.ru
 0.0.0.0 bs1.showheroes.com
 0.0.0.0 bs50tds.com
 0.0.0.0 bsa.iain-jember.ac.id
@@ -37779,7 +37771,6 @@
 0.0.0.0 graciousacademy.com
 0.0.0.0 grackoceesto.com
 0.0.0.0 grade-my-app.leanplum.com
-0.0.0.0 grade.market.yandex.ru
 0.0.0.0 gradec.org
 0.0.0.0 gradecastlecanadian.com
 0.0.0.0 gradeink.com
@@ -48509,7 +48500,6 @@
 0.0.0.0 log.snssdk.com
 0.0.0.0 log.spotify.com
 0.0.0.0 log.starseed.fr
-0.0.0.0 log.strm.yandex.ru
 0.0.0.0 log.suumo.jp
 0.0.0.0 log.tagcade.com
 0.0.0.0 log.tagtic.cn
@@ -50475,7 +50465,6 @@
 0.0.0.0 matcheendirect.fr
 0.0.0.0 matchendiredt.fr
 0.0.0.0 matches1x2.com
-0.0.0.0 matchid.adfox.yandex.ru
 0.0.0.0 matching.ivitrack.com
 0.0.0.0 matching.truffle.bid
 0.0.0.0 matchingstubborn.com
@@ -51707,7 +51696,6 @@
 0.0.0.0 metrika.kontur.ru
 0.0.0.0 metrika.myseldon.com
 0.0.0.0 metrika.traff.space
-0.0.0.0 metrika.yandex.ru
 0.0.0.0 metrilo.com
 0.0.0.0 metriweb.be
 0.0.0.0 metrix.emagister.com

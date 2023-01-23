@@ -1,6 +1,6 @@
-# Version: 202301230407
+# Version: 202301230512
 # Title: oisd basic
-# Last modified: 2023-01-23T04:07:03+0000
+# Last modified: 2023-01-23T05:12:48+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -5211,14 +5211,12 @@ adforgeinc.com
 adform.com
 adformsync01.admantx.com
 adformui.admantx.com
-adfox.yandex.ru
 adfpoint.com
 adframesrc.com
 adfraud.adoptimize.info
 adfrika.com
 adfrontiers.com
 adfs.qadynamics.marketo.com
-adfstat.yandex.ru
 adfun.ru
 adfunkyserver.com
 adfurikun.jp
@@ -7044,7 +7042,6 @@ adsdk.com
 adsdk.picooapps.com
 adsdk.vivo.com.cn
 adsdk.vrvm.com
-adsdk.yandex.ru
 adsdot.ph
 adsearch.adkontekst.pl
 adsearch.wp.pl
@@ -10205,7 +10202,6 @@ an.pintaentrep.com
 an.reflektion.com
 an.tacoda.net
 an.xemvtv.net
-an.yandex.ru
 an.yandexadexchange.net
 ana.bandi.so
 ana.headerlift.com
@@ -13924,7 +13920,6 @@ awakebird.com
 awakeexterior.com
 awaltundo.com
 awaps.yandex.net
-awaps.yandex.ru
 award.sitekeuring.net
 awarealley.com
 awasete.com
@@ -14000,7 +13995,6 @@ awstaticdn.net
 awstats.cloud
 awsurveys.com
 awsxc.live
-awsync.yandex.ru
 awtks.com
 awts.co.in
 awviajes.com.ar
@@ -17824,7 +17818,6 @@ brygella.com
 brznetwork.com
 bs-dante.ru
 bs-geo.dvgtm.akadns.net
-bs-meta.yandex.ru
 bs-wlb-uswest.dvgtm.akadns.net
 bs.ad-stir.com
 bs.bicepsseiner.com
@@ -17833,7 +17826,6 @@ bs.nakanohito.jp
 bs.orsk.ru
 bs.showheroes.com
 bs.url.tw
-bs.yandex.ru
 bs1.showheroes.com
 bs50tds.com
 bsa.iain-jember.ac.id
@@ -37779,7 +37771,6 @@ graciellabeauty.com
 graciousacademy.com
 grackoceesto.com
 grade-my-app.leanplum.com
-grade.market.yandex.ru
 gradec.org
 gradecastlecanadian.com
 gradeink.com
@@ -48509,7 +48500,6 @@ log.snow.me
 log.snssdk.com
 log.spotify.com
 log.starseed.fr
-log.strm.yandex.ru
 log.suumo.jp
 log.tagcade.com
 log.tagtic.cn
@@ -50475,7 +50465,6 @@ matchcraft.com
 matcheendirect.fr
 matchendiredt.fr
 matches1x2.com
-matchid.adfox.yandex.ru
 matching.ivitrack.com
 matching.truffle.bid
 matchingstubborn.com
@@ -51707,7 +51696,6 @@ metrika-informer.com
 metrika.kontur.ru
 metrika.myseldon.com
 metrika.traff.space
-metrika.yandex.ru
 metrilo.com
 metriweb.be
 metrix.emagister.com
