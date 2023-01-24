@@ -1,6 +1,6 @@
-# Version: 202301231953
+# Version: 202301241255
 # Title: oisd nsfw
-# Last modified: 2023-01-23T19:53:35+0000
+# Last modified: 2023-01-24T12:55:19+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                  
@@ -15348,6 +15348,7 @@
 *.avgadultgamers.com
 *.avgirls.asia
 *.avgle.life
+*.avgle.mobi
 *.avgle.net
 *.avgle.ninja
 *.avgle.org
@@ -17540,6 +17541,7 @@
 *.bbwsexbombs.com
 *.bbwsexbook.co.uk
 *.bbwsexbook.com
+*.bbwsexcam.net
 *.bbwsexchat.co.uk
 *.bbwsexchat.net
 *.bbwsexchatcity.com
@@ -17882,7 +17884,6 @@
 *.bdsm.singles
 *.bdsm.start.be
 *.bdsm.startpagina.nl
-*.bdsm.toysblog.co
 *.bdsm.webcam-women.co.uk
 *.bdsm.xxx
 *.bdsm02.free.fr
@@ -17945,7 +17946,6 @@
 *.bdsmbg.stefansolakov.com
 *.bdsmbibliothek.net
 *.bdsmbitch.com
-*.bdsmbizarre.bims-bg.com
 *.bdsmbizarre.com
 *.bdsmblogs.com
 *.bdsmblonde.com
@@ -18178,7 +18178,6 @@
 *.bdsmindia1.com
 *.bdsmirl.com
 *.bdsmis.com
-*.bdsmislife.nikkile.net
 *.bdsmitalia.org
 *.bdsmix.com
 *.bdsmjav.org
@@ -18215,7 +18214,6 @@
 *.bdsmlifestyle.nl
 *.bdsmlifestylescoaching.com
 *.bdsmlike.com
-*.bdsmlingerie.com
 *.bdsmlinjen.com
 *.bdsmlinks.com
 *.bdsmlinks.net
@@ -26217,6 +26215,7 @@
 *.boyxxxmovies.com
 *.boyxxxtube.com
 *.boyxxxtube.net
+*.boyxxxtube.org
 *.boyxxxtuber.com
 *.boyxxxvideos.com
 *.boyz.com
@@ -31148,7 +31147,6 @@
 *.cdn.dogpile.com
 *.cdn.dreambabes.eu
 *.cdn.epicporntube.com
-*.cdn.eve-sextoys.com
 *.cdn.feetporn.com
 *.cdn.freshporntube.com
 *.cdn.freshxxxclips.com
@@ -36475,6 +36473,7 @@
 *.coupleseekingawoman.com
 *.coupleseekingbisexual.family.blog
 *.couplesex.info
+*.couplesexcam.net
 *.couplesexchange.com
 *.couplesexchat.com
 *.couplesexdating.com
@@ -47590,6 +47589,7 @@
 *.escort46.com
 *.escort46.de
 *.escort46.dk
+*.escort46.es
 *.escort46.eu
 *.escort46.fr
 *.escort46.it
@@ -47841,6 +47841,7 @@
 *.escortelola.com
 *.escortelux.vip
 *.escortemature.com
+*.escortematurebucuresti.com
 *.escortemeisjes.be
 *.escortemmen.nl
 *.escortenalicante.com
@@ -48087,6 +48088,7 @@
 *.escortlanddenmark.com
 *.escortlandnorway.com
 *.escortlandportugal.com
+*.escortlandsweden.com
 *.escortlarrize.net
 *.escortlarsamsun.net
 *.escortliege.com
@@ -48194,6 +48196,7 @@
 *.escortpattaya.info
 *.escortpau.org
 *.escortpenang.net
+*.escortphotographermiami.com
 *.escortphuket.info
 *.escortpics.com
 *.escortplaces.com
@@ -48261,6 +48264,7 @@
 *.escorts-elegance.com
 *.escorts-essex.co.uk
 *.escorts-eugene.us
+*.escorts-forum.com
 *.escorts-girls-club.gr
 *.escorts-goa.com
 *.escorts-guide.co.uk
@@ -48951,6 +48955,7 @@
 *.escortsvip.com
 *.escortsvip.com.ar
 *.escortsvipbuenosaires.com
+*.escortsvipibiza.com
 *.escortsvizzera.ch
 *.escortsvogue.com
 *.escortsvolupty.com
@@ -49241,6 +49246,7 @@
 *.etitsporn.com
 *.etitz.com
 *.etmaintenant.net
+*.etopron.com
 *.etoro.ws
 *.etourism-fitness.com
 *.etre-naturiste.com
@@ -49498,6 +49504,7 @@
 *.evasonline.com.ar
 *.evasonline.net
 *.evastoys.eu
+*.eve-sextoys.com
 *.eveangelofficial.com
 *.eveangelporn.com
 *.eveellis.com
@@ -50849,6 +50856,7 @@
 *.faifresexchanno.ga
 *.fail18.com
 *.faintmysex.com
+*.fair-paysex.de
 *.fair.ru
 *.fairasian.com
 *.fairdolls.com
@@ -59315,6 +59323,7 @@
 *.freeporno.pro
 *.freeporno.ro
 *.freeporno.run
+*.freeporno.site
 *.freeporno.sk
 *.freeporno.tv
 *.freeporno.work
@@ -59569,6 +59578,7 @@
 *.freepornvideosnow.com
 *.freepornvideostar.com
 *.freepornvideostube.xyz
+*.freepornvideostuff.com
 *.freepornvideotop.com
 *.freepornvideox.com
 *.freepornvideoxxx.com
@@ -67319,6 +67329,7 @@
 *.gaysohbet.co
 *.gaysohbet.gel.gen.tr
 *.gaysohbet.info
+*.gaysohbet.name.tr
 *.gaysohbet.site
 *.gaysohbeti.info
 *.gaysohbetkanallari.com
@@ -68799,6 +68810,7 @@
 *.get-porn-free.com
 *.get-pornmovies.com
 *.get-pornvideos.com
+*.get-xxxtube.com
 *.get.agaymanbook.com
 *.getabeautifulgirlfriend.com
 *.getadultdvds.com
@@ -73383,6 +73395,7 @@
 *.hairynakedpussy.com
 *.hairynatural.info
 *.hairynaturalwomen.com
+*.hairynature.com
 *.hairynude.com
 *.hairynude.org
 *.hairynudepics.com
@@ -79171,6 +79184,7 @@
 *.hornymaturez.com
 *.hornymeets.com
 *.hornymen.com
+*.hornymilfchat.com
 *.hornymilflive.com.pornmilfhd.com
 *.hornymilfpics.com
 *.hornymilfsex.com
@@ -82946,12 +82960,14 @@
 *.huren-kontakte.com
 *.huren-sexcams.com
 *.huren-top100.net
+*.huren-wg.com
 *.hurenanzeiger.com
 *.hurenbock.com
 *.hurenclub.com
 *.hurenexclusiv.de
 *.hurenfick.com
 *.hurenkartei.com
+*.hurenkontakte.net
 *.hurenmagazin.com
 *.hurenporno.xyz
 *.hurenportal.com
@@ -84702,6 +84718,7 @@
 *.indianlivesex.co.uk
 *.indianlivesex.net
 *.indianlivesex.org
+*.indianlivesexcam.com
 *.indianlivexxx.com
 *.indianlovegoddess.com
 *.indianloves.com
@@ -95167,6 +95184,7 @@
 *.leblogsexy.com
 *.leblonescorts.com
 *.lebloug.fr
+*.lebon.porn
 *.lebonfap.com
 *.lebonlive.com
 *.lebonporn.com
@@ -100323,6 +100341,7 @@
 *.loversex.net
 *.loversexo.com
 *.loversexshop.com
+*.loversexshop.sogamosocompravirtual.com
 *.loversguide.com
 *.loversinlatex.com
 *.loverslane.com
@@ -112375,6 +112394,7 @@
 *.mycrazyporn.com
 *.mycrazysextoys.com
 *.mycreamypussy.com
+*.mycuckoldcams.com
 *.mycum4k.com
 *.mycums.com
 *.mycumx.com
@@ -117163,6 +117183,7 @@
 *.njshemalesex.digitalnetproductions.com
 *.nkromeo.ru
 *.nl-escort.nl
+*.nl.meinesex.cam
 *.nl.pornxnxxhub.com
 *.nl.sexeshop.info
 *.nlkdom.com
@@ -124634,6 +124655,7 @@
 *.phim19.org
 *.phim2k.org
 *.phim3xhay.com
+*.phim3xhd.pro
 *.phim69.info
 *.phimbo24h.com
 *.phimbx.co
@@ -124717,6 +124739,7 @@
 *.phimsec.xxx
 *.phimsec6789.pro
 *.phimsecnhat.cyou
+*.phimsecnhat.top
 *.phimsecnhatban.top
 *.phimsecvietnam.net
 *.phimsecvl.com
@@ -125417,6 +125440,7 @@
 *.phimtcc.com
 *.phimthudam.top
 *.phimtop1sex.com
+*.phimtrantrui.com
 *.phimtz.com
 *.phimvideosxxx.monster
 *.phimvideoxxx.click
@@ -125754,6 +125778,7 @@
 *.phonesexaudios.com
 *.phonesexaudiosluts.com
 *.phonesexauldlangsyne.com
+*.phonesexaustralia.net.au
 *.phonesexbaby.com
 *.phonesexbabydolls.com
 *.phonesexbadgirls.com
@@ -128236,6 +128261,7 @@
 *.porn-image.net
 *.porn-img.org
 *.porn-in-web.com
+*.porn-incest.ru
 *.porn-index.com
 *.porn-indian.com
 *.porn-indian.pro
@@ -128499,6 +128525,7 @@
 *.porn-trex.com
 *.porn-tube-box.com
 *.porn-tube-box.mobi
+*.porn-tube-box.net
 *.porn-tube-box.site
 *.porn-tube-films.com
 *.porn-tube-home.net
@@ -131316,6 +131343,7 @@
 *.porngo.tube
 *.porngo.us
 *.porngo.xxx
+*.porngo.xyz
 *.porngo4free.com
 *.porngo4free.net
 *.porngod.biz
@@ -134079,6 +134107,7 @@
 *.porno02.de
 *.porno1.be
 *.porno1.biz
+*.porno1.dk
 *.porno1.es
 *.porno1.fi
 *.porno1.hu
@@ -150659,6 +150688,7 @@
 *.seitensprungnetzwerk.ch
 *.seitensprungsuite.de
 *.sejalescorts.com
+*.sejalkaur.com
 *.sejie33.xyz
 *.sejie42.xyz
 *.sejie55.xyz
@@ -160399,6 +160429,7 @@
 *.sexpuntje.nl
 *.sexpuppen-schweiz.ch
 *.sexpuppenetz.de
+*.sexpuppenfabrik.de
 *.sexpuppy.com
 *.sexpure.net
 *.sexpurmerend.nl
@@ -161573,6 +161604,7 @@
 *.sexsub.app
 *.sexsub.click
 *.sexsub.club
+*.sexsub.co
 *.sexsub.in
 *.sexsub.info
 *.sexsub.live
@@ -162160,6 +162192,7 @@
 *.sextoydiscountwarehouse.xyz
 *.sextoydistributing.co.uk
 *.sextoydistributing.com
+*.sextoydolls.com
 *.sextoyedu.com
 *.sextoyeducacion.com
 *.sextoyeducacion.visibits.com
@@ -164313,6 +164346,7 @@
 *.sexy-cam2cam.com
 *.sexy-cam4.com
 *.sexy-camboys.com
+*.sexy-camchat.com
 *.sexy-camgirl-werden.com
 *.sexy-cams.biz
 *.sexy-cams.com
@@ -182193,6 +182227,7 @@
 *.tienersvoorgeld.gerelateerd.nl
 *.tienersxxx.nl
 *.tienertelefoonsex.be
+*.tienertelefoonsex.com
 *.tienertelefoonsex.nl
 *.tienertje.nl
 *.tienerwebcams.nl
@@ -182416,6 +182451,7 @@
 *.tinkbackclospermalo.tk
 *.tinkstoys.com
 *.tinnacams.com
+*.tinodownload.com
 *.tintgrasexvongufan.ga
 *.tintintin.ru
 *.tiny-4k.com
@@ -188458,6 +188494,7 @@
 *.uhteens.com
 *.uhtube.cc
 *.uhtube.club
+*.uhtube.fun
 *.uimpx.deca-escalquens.fr
 *.uiporn.com
 *.uisextoys.com
@@ -208690,6 +208727,7 @@
 *.zivafeyxxx.com
 *.zixporn.com
 *.ziyaa.net
+*.ziyapatel.com
 *.zizak.top
 *.zizicucu.com
 *.zizivids.com
