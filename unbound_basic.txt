@@ -1,6 +1,6 @@
-# Version: 202301251256
+# Version: 202301251743
 # Title: oisd basic
-# Last modified: 2023-01-25T12:56:48+0000
+# Last modified: 2023-01-25T17:43:44+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -57978,9 +57978,7 @@ local-zone: "rubcomplaintdimly.com." always_null
 local-zone: "rubeeltechnicalservice.com." always_null
 local-zone: "rubelki.com." always_null
 local-zone: "rubicon-match.dotomi.com." always_null
-local-zone: "rubiconproject.com." always_null
 local-zone: "rubiconproject.com-v1.edgekey.net." always_null
-local-zone: "rubiconproject.com.edgekey.net." always_null
 local-zone: "rubiconproject.net.akadns.net." always_null
 local-zone: "rubiestagaty.com." always_null
 local-zone: "rubiks.ca." always_null

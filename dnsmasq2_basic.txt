@@ -1,6 +1,6 @@
-# Version: 202301251256
+# Version: 202301251743
 # Title: oisd basic
-# Last modified: 2023-01-25T12:56:47+0000
+# Last modified: 2023-01-25T17:43:41+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -57976,9 +57976,7 @@ local=/rubcomplaintdimly.com/
 local=/rubeeltechnicalservice.com/
 local=/rubelki.com/
 local=/rubicon-match.dotomi.com/
-local=/rubiconproject.com/
 local=/rubiconproject.com-v1.edgekey.net/
-local=/rubiconproject.com.edgekey.net/
 local=/rubiconproject.net.akadns.net/
 local=/rubiestagaty.com/
 local=/rubiks.ca/

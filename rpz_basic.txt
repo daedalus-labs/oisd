@@ -1,12 +1,12 @@
-; Version: 202301251256
+; Version: 202301251743
 ; Title: oisd basic
-; Last modified: 2023-01-25T12:56:48+0000
+; Last modified: 2023-01-25T17:43:43+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674648003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674668623 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -115951,12 +115951,8 @@ rubelki.com CNAME .
 *.rubelki.com CNAME .
 rubicon-match.dotomi.com CNAME .
 *.rubicon-match.dotomi.com CNAME .
-rubiconproject.com CNAME .
-*.rubiconproject.com CNAME .
 rubiconproject.com-v1.edgekey.net CNAME .
 *.rubiconproject.com-v1.edgekey.net CNAME .
-rubiconproject.com.edgekey.net CNAME .
-*.rubiconproject.com.edgekey.net CNAME .
 rubiconproject.net.akadns.net CNAME .
 *.rubiconproject.net.akadns.net CNAME .
 rubiestagaty.com CNAME .

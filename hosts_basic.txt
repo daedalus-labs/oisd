@@ -1,6 +1,6 @@
-# Version: 202301251256
+# Version: 202301251743
 # Title: oisd basic
-# Last modified: 2023-01-25T12:56:43+0000
+# Last modified: 2023-01-25T17:43:39+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -27675,7 +27675,6 @@
 0.0.0.0 digiadzone.com
 0.0.0.0 digianalytics.airtel.in
 0.0.0.0 digiaquascr.com
-0.0.0.0 digicertwc.rubiconproject.com.edgekey.net
 0.0.0.0 digicomstore.com
 0.0.0.0 digicontact.in
 0.0.0.0 digicub.fr
@@ -66501,7 +66500,6 @@
 0.0.0.0 rubelki.com
 0.0.0.0 rubicon-match.dotomi.com
 0.0.0.0 rubicon.socdm.com
-0.0.0.0 rubiconproject.com
 0.0.0.0 rubiconproject883925.s.moatpixel.com
 0.0.0.0 rubiestagaty.com
 0.0.0.0 rubiks.ca
