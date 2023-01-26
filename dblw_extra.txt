@@ -1,6 +1,6 @@
-# Version: 202301251258
+# Version: 202301261253
 # Title: oisd extra
-# Last modified: 2023-01-25T12:58:01+0000
+# Last modified: 2023-01-26T12:53:21+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -26,7 +26,6 @@
 *.1priest1nun.com
 *.1priest1nun.net
 *.2022aaa.xyz
-*.22f538366c.com
 *.23uuw3.com
 *.293870.com
 *.2999.store
@@ -63,7 +62,6 @@
 *.745c.cn
 *.778669.com
 *.79423.analytics.edgekey.net
-*.7fc0966988.com
 *.876920.com
 *.88-baidu.com
 *.8881919.cc
@@ -218,7 +216,6 @@
 *.alpari.ru
 *.alsedu.tech
 *.altabold1.com
-*.altairsoftware.link
 *.amdc.m.taobao.com
 *.amplify-com-mktg.imgix.net
 *.amplitude.com
@@ -578,6 +575,7 @@
 *.dfnac.fr
 *.dfsvhv88.com
 *.dianomioffers.co.uk
+*.digicertwc.rubiconproject.com.edgekey.net
 *.digitaladvisor.dk
 *.dinclinx.com
 *.directrev.com
@@ -844,6 +842,7 @@
 *.hk50606.cn
 *.hkbmsb.fun
 *.hnshangzhongxia.com
+*.holybaby.com.tw
 *.homewares.org
 *.hook.integromat.com
 *.hoood.info
@@ -968,6 +967,7 @@
 *.joker6.fun
 *.jqueryscript.net
 *.jrysogsia.uno
+*.js-agent.newrelic.com
 *.js-sec.casalemedia.com.edgekey.net
 *.js-sec.indexww.com
 *.js.gleam.io
@@ -996,7 +996,6 @@
 *.kiks.yandex.ru
 *.kimiaexirteb.com
 *.kisafnid.space
-*.kiymowg.cn
 *.kjldh.top
 *.kmpjrjz.cn
 *.kmqkdhqaqt.com
@@ -1230,7 +1229,6 @@
 *.netshare.ltd
 *.netupdater.info
 *.network.bazaarvoice.com
-*.newrelic.com
 *.newsbreak.com
 *.nijj990.xyz
 *.ninja.data.olxcdn.com
@@ -1264,7 +1262,6 @@
 *.nwogldc.top
 *.nxlidc.ink
 *.nyctrl32.com
-*.nykoubk.cn
 *.o2o.api.xiaomi.com
 *.oaprodlogging.yo-digital.com
 *.obazhaheik.top
@@ -1494,6 +1491,7 @@
 *.rtnews.pro
 *.rtrk.co.nz
 *.rubicon.wellsfargo.com
+*.rubiconproject.com
 *.ruiyijy.xyz
 *.ruliglso.space
 *.rumnxwvo.ink
@@ -1896,6 +1894,7 @@
 *.visualwebsiteoptimizer.com
 *.viuspbkmn.bar
 *.vms.bluebillywig.com
+*.vms.boldchat.com
 *.vnet.cn
 *.volantix.com
 *.vomitgirl.org
@@ -2063,6 +2062,7 @@
 *.zahl4tf5zs.xyz
 *.zahrvfbd.xyz
 *.zasjfget.xyz
+*.zawqwpajq.club
 *.zdwsh.tech
 *.zengbalg.fun
 *.zgbtw.mobi
@@ -2079,7 +2079,6 @@
 *.zjgzp4z9.xyz
 *.zkjh.info
 *.zllxy.love
-*.zoomapp.tech
 *.zorlsbln.cyou
 *.zorosrv.com
 *.zqsj.xyz

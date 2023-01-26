@@ -1,6 +1,6 @@
-# Version: 202301251257
+# Version: 202301261253
 # Title: oisd extra
-# Last modified: 2023-01-25T12:57:57+0000
+# Last modified: 2023-01-26T12:53:16+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -379,6 +379,7 @@ detroithardcore.com
 deutschebahn.sc.omtrdc.net
 device-api.urbanairship.com
 devices.carnivalmobile.com
+digicertwc.rubiconproject.com.edgekey.net
 digitaladvisor.dk
 discoverecommerce.tt.omtrdc.net
 disney.demdex.net
@@ -715,7 +716,6 @@ netcoresmartech.com
 netupdater.info
 network.bazaarvoice.com
 newre-conversions.clickmeter.com
-newrelic.com
 newsbreak.com
 nexus.ensighten.com
 ninja.data.olxcdn.com
@@ -846,6 +846,7 @@ restaurantcom.tt.omtrdc.net
 rmp.rakuten.com
 rosettastone.tt.omtrdc.net
 rubicon.wellsfargo.com
+rubiconproject.com
 rutrk.org
 s-bid.rmp.rakuten.com
 s.amazon-adsystem.com
@@ -1083,6 +1084,7 @@ vilynx.com
 vis.vi-serve.com
 visualwebsiteoptimizer.com
 vms.bluebillywig.com
+vms.boldchat.com
 vodafonetr.sc.omtrdc.net
 vomitgirl.org
 voodoo.com
@@ -1135,7 +1137,6 @@ www.1man2needles.com
 www.1priest1nun.com
 www.1priest1nun.net
 www.2022aaa.xyz
-www.22f538366c.com
 www.23uuw3.com
 www.293870.com
 www.2999.store
@@ -1169,7 +1170,6 @@ www.670360.com
 www.7-7-7-partner.com
 www.745c.cn
 www.778669.com
-www.7fc0966988.com
 www.876920.com
 www.88-baidu.com
 www.8881919.cc
@@ -1283,7 +1283,6 @@ www.aliyun6969.cn
 www.alpari.ru
 www.alsedu.tech
 www.altabold1.com
-www.altairsoftware.link
 www.amplitude.com
 www.anal-videos-photos.com
 www.androidtvwatsonfe-pa.googleapis.com
@@ -1731,6 +1730,7 @@ www.hjjkk66.xyz
 www.hk50606.cn
 www.hkbmsb.fun
 www.hnshangzhongxia.com
+www.holybaby.com.tw
 www.homewares.org
 www.hoood.info
 www.horyzon-media.com
@@ -1855,7 +1855,6 @@ www.kf3.xyz
 www.kidsinsandbox.info
 www.kimiaexirteb.com
 www.kisafnid.space
-www.kiymowg.cn
 www.kjldh.top
 www.kmpjrjz.cn
 www.kmqkdhqaqt.com
@@ -2037,7 +2036,6 @@ www.netminers.dk
 www.netmng.com
 www.netshare.ltd
 www.netupdater.info
-www.newrelic.com
 www.newsbreak.com
 www.nijj990.xyz
 www.nisafnic.space
@@ -2067,7 +2065,6 @@ www.nv43.com
 www.nwogldc.top
 www.nxlidc.ink
 www.nyctrl32.com
-www.nykoubk.cn
 www.obazhaheik.top
 www.oclus.com
 www.octopart-analytics.com
@@ -2251,6 +2248,7 @@ www.rsvpgenius.com
 www.rtbanalytics.com
 www.rtnews.pro
 www.rtrk.co.nz
+www.rubiconproject.com
 www.ruiyijy.xyz
 www.ruliglso.space
 www.rumnxwvo.ink
@@ -2692,6 +2690,7 @@ www.zahl4tf5zclub.xyz
 www.zahl4tf5zs.xyz
 www.zahrvfbd.xyz
 www.zasjfget.xyz
+www.zawqwpajq.club
 www.zdwsh.tech
 www.zengbalg.fun
 www.zgbtw.mobi
@@ -2707,7 +2706,6 @@ www.zjgzp4z9.club
 www.zjgzp4z9.xyz
 www.zkjh.info
 www.zllxy.love
-www.zoomapp.tech
 www.zorlsbln.cyou
 www.zorosrv.com
 www.zqsj.xyz

@@ -1,6 +1,6 @@
-# Version: 202301251257
+# Version: 202301261253
 # Title: oisd extra
-# Last modified: 2023-01-25T12:57:57+0000
+# Last modified: 2023-01-26T12:53:16+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -379,6 +379,7 @@
 0.0.0.0 deutschebahn.sc.omtrdc.net
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 devices.carnivalmobile.com
+0.0.0.0 digicertwc.rubiconproject.com.edgekey.net
 0.0.0.0 digitaladvisor.dk
 0.0.0.0 discoverecommerce.tt.omtrdc.net
 0.0.0.0 disney.demdex.net
@@ -715,7 +716,6 @@
 0.0.0.0 netupdater.info
 0.0.0.0 network.bazaarvoice.com
 0.0.0.0 newre-conversions.clickmeter.com
-0.0.0.0 newrelic.com
 0.0.0.0 newsbreak.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 ninja.data.olxcdn.com
@@ -846,6 +846,7 @@
 0.0.0.0 rmp.rakuten.com
 0.0.0.0 rosettastone.tt.omtrdc.net
 0.0.0.0 rubicon.wellsfargo.com
+0.0.0.0 rubiconproject.com
 0.0.0.0 rutrk.org
 0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 s.amazon-adsystem.com
@@ -1083,6 +1084,7 @@
 0.0.0.0 vis.vi-serve.com
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 vms.bluebillywig.com
+0.0.0.0 vms.boldchat.com
 0.0.0.0 vodafonetr.sc.omtrdc.net
 0.0.0.0 vomitgirl.org
 0.0.0.0 voodoo.com
@@ -1135,7 +1137,6 @@
 0.0.0.0 www.1priest1nun.com
 0.0.0.0 www.1priest1nun.net
 0.0.0.0 www.2022aaa.xyz
-0.0.0.0 www.22f538366c.com
 0.0.0.0 www.23uuw3.com
 0.0.0.0 www.293870.com
 0.0.0.0 www.2999.store
@@ -1169,7 +1170,6 @@
 0.0.0.0 www.7-7-7-partner.com
 0.0.0.0 www.745c.cn
 0.0.0.0 www.778669.com
-0.0.0.0 www.7fc0966988.com
 0.0.0.0 www.876920.com
 0.0.0.0 www.88-baidu.com
 0.0.0.0 www.8881919.cc
@@ -1283,7 +1283,6 @@
 0.0.0.0 www.alpari.ru
 0.0.0.0 www.alsedu.tech
 0.0.0.0 www.altabold1.com
-0.0.0.0 www.altairsoftware.link
 0.0.0.0 www.amplitude.com
 0.0.0.0 www.anal-videos-photos.com
 0.0.0.0 www.androidtvwatsonfe-pa.googleapis.com
@@ -1731,6 +1730,7 @@
 0.0.0.0 www.hk50606.cn
 0.0.0.0 www.hkbmsb.fun
 0.0.0.0 www.hnshangzhongxia.com
+0.0.0.0 www.holybaby.com.tw
 0.0.0.0 www.homewares.org
 0.0.0.0 www.hoood.info
 0.0.0.0 www.horyzon-media.com
@@ -1855,7 +1855,6 @@
 0.0.0.0 www.kidsinsandbox.info
 0.0.0.0 www.kimiaexirteb.com
 0.0.0.0 www.kisafnid.space
-0.0.0.0 www.kiymowg.cn
 0.0.0.0 www.kjldh.top
 0.0.0.0 www.kmpjrjz.cn
 0.0.0.0 www.kmqkdhqaqt.com
@@ -2037,7 +2036,6 @@
 0.0.0.0 www.netmng.com
 0.0.0.0 www.netshare.ltd
 0.0.0.0 www.netupdater.info
-0.0.0.0 www.newrelic.com
 0.0.0.0 www.newsbreak.com
 0.0.0.0 www.nijj990.xyz
 0.0.0.0 www.nisafnic.space
@@ -2067,7 +2065,6 @@
 0.0.0.0 www.nwogldc.top
 0.0.0.0 www.nxlidc.ink
 0.0.0.0 www.nyctrl32.com
-0.0.0.0 www.nykoubk.cn
 0.0.0.0 www.obazhaheik.top
 0.0.0.0 www.oclus.com
 0.0.0.0 www.octopart-analytics.com
@@ -2251,6 +2248,7 @@
 0.0.0.0 www.rtbanalytics.com
 0.0.0.0 www.rtnews.pro
 0.0.0.0 www.rtrk.co.nz
+0.0.0.0 www.rubiconproject.com
 0.0.0.0 www.ruiyijy.xyz
 0.0.0.0 www.ruliglso.space
 0.0.0.0 www.rumnxwvo.ink
@@ -2692,6 +2690,7 @@
 0.0.0.0 www.zahl4tf5zs.xyz
 0.0.0.0 www.zahrvfbd.xyz
 0.0.0.0 www.zasjfget.xyz
+0.0.0.0 www.zawqwpajq.club
 0.0.0.0 www.zdwsh.tech
 0.0.0.0 www.zengbalg.fun
 0.0.0.0 www.zgbtw.mobi
@@ -2707,7 +2706,6 @@
 0.0.0.0 www.zjgzp4z9.xyz
 0.0.0.0 www.zkjh.info
 0.0.0.0 www.zllxy.love
-0.0.0.0 www.zoomapp.tech
 0.0.0.0 www.zorlsbln.cyou
 0.0.0.0 www.zorosrv.com
 0.0.0.0 www.zqsj.xyz

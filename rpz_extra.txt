@@ -1,12 +1,12 @@
-; Version: 202301251258
+; Version: 202301261253
 ; Title: oisd extra
-; Last modified: 2023-01-25T12:58:01+0000
+; Last modified: 2023-01-26T12:53:21+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674648003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674734403 86400 3600 604800 30
  NS localhost.
 
 0371app.wang CNAME .
@@ -45,8 +45,6 @@ $TTL 30
 *.1priest1nun.net CNAME .
 2022aaa.xyz CNAME .
 *.2022aaa.xyz CNAME .
-22f538366c.com CNAME .
-*.22f538366c.com CNAME .
 23uuw3.com CNAME .
 *.23uuw3.com CNAME .
 293870.com CNAME .
@@ -119,8 +117,6 @@ $TTL 30
 *.778669.com CNAME .
 79423.analytics.edgekey.net CNAME .
 *.79423.analytics.edgekey.net CNAME .
-7fc0966988.com CNAME .
-*.7fc0966988.com CNAME .
 876920.com CNAME .
 *.876920.com CNAME .
 88-baidu.com CNAME .
@@ -429,8 +425,6 @@ alsedu.tech CNAME .
 *.alsedu.tech CNAME .
 altabold1.com CNAME .
 *.altabold1.com CNAME .
-altairsoftware.link CNAME .
-*.altairsoftware.link CNAME .
 amdc.m.taobao.com CNAME .
 *.amdc.m.taobao.com CNAME .
 amplify-com-mktg.imgix.net CNAME .
@@ -1149,6 +1143,8 @@ dfsvhv88.com CNAME .
 *.dfsvhv88.com CNAME .
 dianomioffers.co.uk CNAME .
 *.dianomioffers.co.uk CNAME .
+digicertwc.rubiconproject.com.edgekey.net CNAME .
+*.digicertwc.rubiconproject.com.edgekey.net CNAME .
 digitaladvisor.dk CNAME .
 *.digitaladvisor.dk CNAME .
 dinclinx.com CNAME .
@@ -1681,6 +1677,8 @@ hkbmsb.fun CNAME .
 *.hkbmsb.fun CNAME .
 hnshangzhongxia.com CNAME .
 *.hnshangzhongxia.com CNAME .
+holybaby.com.tw CNAME .
+*.holybaby.com.tw CNAME .
 homewares.org CNAME .
 *.homewares.org CNAME .
 hook.integromat.com CNAME .
@@ -1929,6 +1927,8 @@ jqueryscript.net CNAME .
 *.jqueryscript.net CNAME .
 jrysogsia.uno CNAME .
 *.jrysogsia.uno CNAME .
+js-agent.newrelic.com CNAME .
+*.js-agent.newrelic.com CNAME .
 js-sec.casalemedia.com.edgekey.net CNAME .
 *.js-sec.casalemedia.com.edgekey.net CNAME .
 js-sec.indexww.com CNAME .
@@ -1985,8 +1985,6 @@ kimiaexirteb.com CNAME .
 *.kimiaexirteb.com CNAME .
 kisafnid.space CNAME .
 *.kisafnid.space CNAME .
-kiymowg.cn CNAME .
-*.kiymowg.cn CNAME .
 kjldh.top CNAME .
 *.kjldh.top CNAME .
 kmpjrjz.cn CNAME .
@@ -2453,8 +2451,6 @@ netupdater.info CNAME .
 *.netupdater.info CNAME .
 network.bazaarvoice.com CNAME .
 *.network.bazaarvoice.com CNAME .
-newrelic.com CNAME .
-*.newrelic.com CNAME .
 newsbreak.com CNAME .
 *.newsbreak.com CNAME .
 nijj990.xyz CNAME .
@@ -2521,8 +2517,6 @@ nxlidc.ink CNAME .
 *.nxlidc.ink CNAME .
 nyctrl32.com CNAME .
 *.nyctrl32.com CNAME .
-nykoubk.cn CNAME .
-*.nykoubk.cn CNAME .
 o2o.api.xiaomi.com CNAME .
 *.o2o.api.xiaomi.com CNAME .
 oaprodlogging.yo-digital.com CNAME .
@@ -2981,6 +2975,8 @@ rtrk.co.nz CNAME .
 *.rtrk.co.nz CNAME .
 rubicon.wellsfargo.com CNAME .
 *.rubicon.wellsfargo.com CNAME .
+rubiconproject.com CNAME .
+*.rubiconproject.com CNAME .
 ruiyijy.xyz CNAME .
 *.ruiyijy.xyz CNAME .
 ruliglso.space CNAME .
@@ -3785,6 +3781,8 @@ viuspbkmn.bar CNAME .
 *.viuspbkmn.bar CNAME .
 vms.bluebillywig.com CNAME .
 *.vms.bluebillywig.com CNAME .
+vms.boldchat.com CNAME .
+*.vms.boldchat.com CNAME .
 vnet.cn CNAME .
 *.vnet.cn CNAME .
 volantix.com CNAME .
@@ -4119,6 +4117,8 @@ zahrvfbd.xyz CNAME .
 *.zahrvfbd.xyz CNAME .
 zasjfget.xyz CNAME .
 *.zasjfget.xyz CNAME .
+zawqwpajq.club CNAME .
+*.zawqwpajq.club CNAME .
 zdwsh.tech CNAME .
 *.zdwsh.tech CNAME .
 zengbalg.fun CNAME .
@@ -4151,8 +4151,6 @@ zkjh.info CNAME .
 *.zkjh.info CNAME .
 zllxy.love CNAME .
 *.zllxy.love CNAME .
-zoomapp.tech CNAME .
-*.zoomapp.tech CNAME .
 zorlsbln.cyou CNAME .
 *.zorlsbln.cyou CNAME .
 zorosrv.com CNAME .
