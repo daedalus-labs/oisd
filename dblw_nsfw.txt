@@ -1,6 +1,6 @@
-# Version: 202301261256
+# Version: 202301270021
 # Title: oisd nsfw
-# Last modified: 2023-01-26T12:56:23+0000
+# Last modified: 2023-01-27T00:21:10+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                  
@@ -17714,10 +17714,7 @@
 *.bdsm-bondage-xxx.com
 *.bdsm-bondage.com
 *.bdsm-cams.com
-*.bdsm-cams.net
-*.bdsm-camsex.com
 *.bdsm-chat.co.uk
-*.bdsm-chat.life
 *.bdsm-chat.live
 *.bdsm-chat.net
 *.bdsm-chat.nl
@@ -17737,7 +17734,6 @@
 *.bdsm-dating.nl
 *.bdsm-dating.org
 *.bdsm-domina.com
-*.bdsm-domina.net
 *.bdsm-domina.pl
 *.bdsm-dominatrix-mistress-fire.com
 *.bdsm-dominatrix.com
@@ -17746,7 +17742,6 @@
 *.bdsm-enzo.com
 *.bdsm-enzo.nl
 *.bdsm-erotik.de
-*.bdsm-erotika.com
 *.bdsm-extrem.com
 *.bdsm-extreme.org
 *.bdsm-ferien.com
@@ -17775,7 +17770,6 @@
 *.bdsm-lifestyle.de
 *.bdsm-limits.com
 *.bdsm-list.net
-*.bdsm-live.cam
 *.bdsm-livecam.de
 *.bdsm-luxe.fr
 *.bdsm-mania.net
@@ -17810,7 +17804,6 @@
 *.bdsm-rencontre.fr
 *.bdsm-schweiz.net
 *.bdsm-secrets.com
-*.bdsm-sex-dungeon.kinkiness.com
 *.bdsm-sex-games.com
 *.bdsm-sex.date
 *.bdsm-sex.eu
@@ -17836,7 +17829,6 @@
 *.bdsm-spiele.com
 *.bdsm-style.com
 *.bdsm-suisse.com
-*.bdsm-suisse.monplancokin.com
 *.bdsm-talk.co.uk
 *.bdsm-tgp.com
 *.bdsm-tickling.com
@@ -21834,6 +21826,7 @@
 *.bigdicksex.com
 *.bigdicksex1.com
 *.bigdicksgallery.com
+*.bigdicksgallore.com
 *.bigdickshemale.com
 *.bigdicksingles.com
 *.bigdickslittleasians.com
@@ -29131,6 +29124,7 @@
 *.camgirls.ws
 *.camgirls18.privat-telefonsex.net
 *.camgirls43.cam
+*.camgirls4sex.com
 *.camgirls4sex.music.blog
 *.camgirls4u.com
 *.camgirls4us.com
@@ -42915,6 +42909,7 @@
 *.don-juan24.com
 *.donacalenta.com
 *.donakedgirls.com
+*.donby.xyz
 *.doncomicsporno.com
 *.donecek.info
 *.donerotik.de
@@ -47578,6 +47573,7 @@
 *.escort-zurich.ch
 *.escort.13.free.fr
 *.escort.at
+*.escort.club
 *.escort.co.uk
 *.escort.com.do
 *.escort.cz
@@ -58517,6 +58513,7 @@
 *.freeliveadultwebcams.net
 *.freeliveamateur.com
 *.freeliveamateurcams.com
+*.freelivebrunettes.com
 *.freelivecam.com
 *.freelivecam.top
 *.freelivecamgirls.com
@@ -67447,6 +67444,7 @@
 *.gaysteam.com
 *.gaysteel.de
 *.gaysteel.es
+*.gaysteel.nl
 *.gaysteensboys.com
 *.gaysteensvideo.com
 *.gaysteenvideos.com
@@ -71309,6 +71307,7 @@
 *.got-gayporn.com
 *.got-porn.com
 *.got-pussy.com
+*.got.sex
 *.gota.ch
 *.gota.xxxjob.ch
 *.gotamateurporn.com
@@ -73806,6 +73805,7 @@
 *.handy-spiele.us
 *.handy-telefonerotik.com
 *.handy-telefonsex-mobil.com
+*.handy-telefonsex.biz
 *.handy-telefonsex.blognow.at
 *.handy-telefonsex.cam
 *.handy-telefonsex.cc
@@ -75200,6 +75200,7 @@
 *.hdhumiliation.com
 *.hdincest.nl
 *.hdindian.pro
+*.hdindianfuck.com
 *.hdindianporn.com
 *.hdindianporn.mobi
 *.hdindianporn.net
@@ -93772,6 +93773,7 @@
 *.ladyboy.world
 *.ladyboy.xxx
 *.ladyboy1.com
+*.ladyboy69.net
 *.ladyboyandshemale.com
 *.ladyboyareeya.com
 *.ladyboyasia.xxx
@@ -96855,6 +96857,7 @@
 *.libresexelibre.xyz
 *.libreticas.com
 *.libri-erotici.com
+*.libriserotica.com
 *.lic.me
 *.licarjautresex.tk
 *.lickablepussy.com
@@ -150946,6 +150949,7 @@
 *.seksvideo.cyou
 *.seksvideo.link
 *.seksvideo.net
+*.seksvideo.one
 *.seksvideo.online
 *.seksvideo.watch
 *.seksvideo1.net
@@ -151937,6 +151941,7 @@
 *.sex-in-tirol.com
 *.sex-in-ulm.com
 *.sex-in.cc
+*.sex-in.club
 *.sex-in.de
 *.sex-in.net
 *.sex-india.in
@@ -153138,6 +153143,7 @@
 *.sex8.sexoirk.guru
 *.sex8.sexorb.io
 *.sex8.site
+*.sex86.net
 *.sex8785674.family.blog
 *.sex88.biz
 *.sex88.click
@@ -153224,6 +153230,7 @@
 *.sexadvanced.com
 *.sexadvertentie.nl
 *.sexadvertenties.com
+*.sexadvertenties.info
 *.sexadvertenties.nl
 *.sexadvertentiesgratisplaatsen.nl
 *.sexadvertentiesonline.nl
@@ -154434,6 +154441,7 @@
 *.sexcamsplus.top
 *.sexcamspremium.com
 *.sexcamsprivat.net
+*.sexcamsreview.com
 *.sexcamss.com
 *.sexcamssexcams.com
 *.sexcamsshow.com
@@ -163686,6 +163694,7 @@
 *.sexvjetnam.net
 *.sexvkl.me
 *.sexvkl.net
+*.sexvkl.pro
 *.sexvl.biz
 *.sexvl.tube
 *.sexvl.tv
@@ -175856,6 +175865,7 @@
 *.tameuf.com
 *.tamiachiennesoumise.over-blog.com
 *.tamiafoxy.blackebonypicsxxx.com
+*.tamil-mom.com
 *.tamil-porn-videos.com
 *.tamil-porn.net
 *.tamil-porno.com
@@ -175958,6 +175968,7 @@
 *.tamilsexzone.com
 *.tamilstories69.com
 *.tamilxnxx.net
+*.tamilxnxx.org
 *.tamilxnxx.pro
 *.tamilxnxxvideos.com
 *.tamilxvideo2021.com
@@ -184412,6 +184423,7 @@
 *.touchpalacesex.shop
 *.touchpussy.com
 *.touchroomapp.com
+*.touchthatboy.com
 *.touchtonepleasures.com
 *.toughdesitube.com
 *.toughescortgirls.us
@@ -188788,6 +188800,7 @@
 *.ulporno.com
 *.ulsex.net
 *.ulsexvideo.com
+*.ultimanal.com
 *.ultimaporn.com
 *.ultimaporn.origamiw.com
 *.ultimate-adult-sex-toys.com
@@ -196030,6 +196043,7 @@
 *.webnightcam.com
 *.webnudecams.com
 *.webodl.com
+*.weboftoys.com
 *.webouf.com
 *.webphimsex.me
 *.webphimsex.org
@@ -199722,6 +199736,7 @@
 *.xn--80a1afkx7a.com
 *.xn--80aa7ag.video
 *.xn--80abmyhebbfbfhrr.top
+*.xn--80ac8adbdi6b.top
 *.xn--80ahid8a.video
 *.xn--80aihg3al4c.me
 *.xn--80aihg3al4c.mom
@@ -199753,6 +199768,7 @@
 *.xn--e02bt3f24w.xn--mk1bu44c
 *.xn--e1aflf0a.video
 *.xn--e1akjdbdidc.com
+*.xn--e1aktc.lol
 *.xn--e1aktc.video
 *.xn--e1anecbbegddnc4k.top
 *.xn--edelmpse-r4a.de
@@ -206755,6 +206771,7 @@
 *.yaoqq88.com
 *.yaoqq99.com
 *.yaowokeke.com
+*.yapalive.com
 *.yapatube.com
 *.yapmovies.com
 *.yaporn.black
