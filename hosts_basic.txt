@@ -1,6 +1,6 @@
-# Version: 202301270016
+# Version: 202301271208
 # Title: oisd basic
-# Last modified: 2023-01-27T00:16:49+0000
+# Last modified: 2023-01-27T12:08:49+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -187,7 +187,6 @@
 0.0.0.0 1001movies.com
 0.0.0.0 1001nightsgroup.com
 0.0.0.0 1002.men
-0.0.0.0 1008691.com
 0.0.0.0 100dollars-seo.com
 0.0.0.0 100fenlm.com
 0.0.0.0 100filles.free.fr
@@ -7122,7 +7121,6 @@
 0.0.0.0 airdoamoord.com
 0.0.0.0 airdropemboil.com
 0.0.0.0 airglobalfair.com
-0.0.0.0 airhobi.com
 0.0.0.0 airlessquotationtroubled.com
 0.0.0.0 airlinerappetizingcoast.com
 0.0.0.0 airlinerlibrariesfavour.com
@@ -7229,7 +7227,6 @@
 0.0.0.0 aj2505.online
 0.0.0.0 aj2506.online
 0.0.0.0 aj2509.online
-0.0.0.0 aj2510.online
 0.0.0.0 aj2511.online
 0.0.0.0 aj2512.online
 0.0.0.0 aj2517.bid
@@ -8871,7 +8868,6 @@
 0.0.0.0 andreasimon.com.ec
 0.0.0.0 andremajorstudio.com.br
 0.0.0.0 andrespena.com.mx
-0.0.0.0 andrewpharma.com
 0.0.0.0 andrezaeleandro.com.br
 0.0.0.0 andriesshied.com
 0.0.0.0 android-com-wildlife-games-battle-royale-free-zooba.topaz-analytics.com
@@ -13211,7 +13207,6 @@
 0.0.0.0 ben.crxmouse.com
 0.0.0.0 benaamart.com
 0.0.0.0 benbisnis.com
-0.0.0.0 bencevendeghaz.hu
 0.0.0.0 benchastonishingstudying.com
 0.0.0.0 bencovn.com
 0.0.0.0 bendan.shop
@@ -16379,7 +16374,6 @@
 0.0.0.0 cdn-cn.brand-display.com
 0.0.0.0 cdn-config.taplytics.com
 0.0.0.0 cdn-d.amazon-adsystem.com
-0.0.0.0 cdn-download-center-europe.com
 0.0.0.0 cdn-download.top
 0.0.0.0 cdn-dsa.clicktale.net.edgekey.net
 0.0.0.0 cdn-embed.wiinvent.tv
@@ -17460,7 +17454,6 @@
 0.0.0.0 chatbox-tracking.botbanhang.vn
 0.0.0.0 chatbox-widget.botbanhang.vn
 0.0.0.0 chatbox.urekamedia.com
-0.0.0.0 chatgigi2.com
 0.0.0.0 chatheez.net
 0.0.0.0 chatigabe.com
 0.0.0.0 chatmingo.com
@@ -17885,7 +17878,6 @@
 0.0.0.0 cipientco.com
 0.0.0.0 cipledecline.buzz
 0.0.0.0 cippa.com.br
-0.0.0.0 cipro.mx
 0.0.0.0 ciproco.com
 0.0.0.0 cipta.net.id
 0.0.0.0 ciq.dmpxs.com
@@ -24621,7 +24613,6 @@
 0.0.0.0 drishya.org
 0.0.0.0 dritasecurity.com
 0.0.0.0 drittoallameta.it
-0.0.0.0 drive.google.com.it-barcelona.com
 0.0.0.0 drivebygolf.com
 0.0.0.0 drivemandu.com
 0.0.0.0 driverequest.com
@@ -25685,7 +25676,6 @@
 0.0.0.0 edobbd.com
 0.0.0.0 edoctordiu.xyz
 0.0.0.0 edomz.net
-0.0.0.0 edoraseguros.com.br
 0.0.0.0 edoriumcorporation.com
 0.0.0.0 edoriuminternational.com
 0.0.0.0 edoriumjournalofbiochemistry.com
@@ -30359,7 +30349,6 @@
 0.0.0.0 gc.ds.duapps.com
 0.0.0.0 gcbassa.org
 0.0.0.0 gccode.gongchang.com
-0.0.0.0 gccon.in
 0.0.0.0 gccpaints.com
 0.0.0.0 gccvfs.com
 0.0.0.0 gcd-s2s.appsflyer.com
@@ -31612,7 +31601,6 @@
 0.0.0.0 goodyflicks.digital
 0.0.0.0 goofertas.com
 0.0.0.0 gooffybox-tv.com
-0.0.0.0 goofygoob.cf
 0.0.0.0 goofypismica.com
 0.0.0.0 goog.emailon.top
 0.0.0.0 googe.com
@@ -35784,7 +35772,6 @@
 0.0.0.0 indoleads.com
 0.0.0.0 indometro.net
 0.0.0.0 indonesiacommodity.com
-0.0.0.0 indonesias.me
 0.0.0.0 indonesiatourguide.co.id
 0.0.0.0 indoor.lk
 0.0.0.0 indooritalian.com
@@ -36350,7 +36337,6 @@
 0.0.0.0 interwapp.com
 0.0.0.0 interxconnect.com
 0.0.0.0 intg.snapchat.com
-0.0.0.0 inthbc.com
 0.0.0.0 inthenearfuture.com
 0.0.0.0 intimediastudio.com
 0.0.0.0 intimg1k.com
@@ -38164,7 +38150,6 @@
 0.0.0.0 k55p9ka2.de
 0.0.0.0 k56tyui.cfd
 0.0.0.0 k5zoom.com
-0.0.0.0 k6027.eu
 0.0.0.0 k68tkg.com
 0.0.0.0 k6r.net
 0.0.0.0 k8s.dable.io
@@ -39242,7 +39227,6 @@
 0.0.0.0 kurupara.com
 0.0.0.0 kusal.com
 0.0.0.0 kustaucu.com
-0.0.0.0 kustens.com
 0.0.0.0 kustomeyes.in
 0.0.0.0 kutegiagoc.com
 0.0.0.0 kutjilsi.com
@@ -43396,7 +43380,6 @@
 0.0.0.0 meptech.in
 0.0.0.0 mepuzz.com
 0.0.0.0 mer.stdout.cz
-0.0.0.0 mer30.ru
 0.0.0.0 merakiartencialstore.com
 0.0.0.0 meraom.lt
 0.0.0.0 merapathshala.com
@@ -43827,7 +43810,6 @@
 0.0.0.0 miladkhoy.com
 0.0.0.0 milalina.co.uk
 0.0.0.0 milan100.cn
-0.0.0.0 milanstaffing.com
 0.0.0.0 milasktic.com
 0.0.0.0 milbalancas.com.br
 0.0.0.0 mildcauliflower.com
@@ -46473,7 +46455,6 @@
 0.0.0.0 ngplansfo.com
 0.0.0.0 ngtnepal.com
 0.0.0.0 ngzconsulting.com
-0.0.0.0 nhachannuoi.vn
 0.0.0.0 nhacvietplus.com.vn
 0.0.0.0 nhaoxahoihanam.com
 0.0.0.0 nhaqtem.com
@@ -49583,7 +49564,6 @@
 0.0.0.0 pasta.whosthat.duapps.com
 0.0.0.0 pastaesthetictracks.com
 0.0.0.0 pastamemes.com
-0.0.0.0 paste-bin.xyz
 0.0.0.0 pasteleriasena.com
 0.0.0.0 pastepot.com
 0.0.0.0 pasticuan.org
@@ -51965,7 +51945,6 @@
 0.0.0.0 pritesol.com
 0.0.0.0 priv-policy.imrworldwide.com
 0.0.0.0 privacy-sdk.talent-soft.com
-0.0.0.0 privacy-tools-for-you-453.com
 0.0.0.0 privacy.as.criteo.com
 0.0.0.0 privacy.commander1.com
 0.0.0.0 privacy.outdoorsg.com
@@ -52917,7 +52896,6 @@
 0.0.0.0 purplepatch.online
 0.0.0.0 purplepatchfarms.co.in
 0.0.0.0 purposedaycare.com
-0.0.0.0 purposedesigns.net
 0.0.0.0 purposelynextbinary.com
 0.0.0.0 purposeparking.com
 0.0.0.0 pursedistraught.com
@@ -57476,7 +57454,6 @@
 0.0.0.0 scarfthought.com
 0.0.0.0 scarl.shop
 0.0.0.0 scarletcashwi5.com
-0.0.0.0 scarletespinal.com
 0.0.0.0 scarofnght.com
 0.0.0.0 scatteredheat.com
 0.0.0.0 scatteredstream.com
@@ -58862,7 +58839,6 @@
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
 0.0.0.0 ship2ja.com
-0.0.0.0 shipminttracking.net
 0.0.0.0 shipostrich.com
 0.0.0.0 shipping-sinaha.com
 0.0.0.0 shipping.925cz.com
@@ -62450,7 +62426,6 @@
 0.0.0.0 stignaud.net
 0.0.0.0 stilaikr.com
 0.0.0.0 stilfb.com
-0.0.0.0 still-link1.com
 0.0.0.0 stillooptica.com.br
 0.0.0.0 stillootica.com.br
 0.0.0.0 stilooptica.com.br
@@ -68329,7 +68304,6 @@
 0.0.0.0 ukentaspe.xyz
 0.0.0.0 ukentaspects.autos
 0.0.0.0 ukfareputfea.xyz
-0.0.0.0 ukguk71.ru
 0.0.0.0 ukiyoyechromy.com
 0.0.0.0 uklunchtimepredictions.com
 0.0.0.0 uklyeconnected.monster
@@ -68566,7 +68540,6 @@
 0.0.0.0 union-tracking.duapps.com
 0.0.0.0 union.china.com.cn
 0.0.0.0 union.ucweb.com
-0.0.0.0 unionbindinqcompany.it
 0.0.0.0 unionelectrica.com.uy
 0.0.0.0 unionssoothe.com
 0.0.0.0 unipar.ac.id
@@ -73492,7 +73465,6 @@
 0.0.0.0 yecheeze.com
 0.0.0.0 yeegsxcwbnn.com
 0.0.0.0 yeesshh.xml.ak-is2.net
-0.0.0.0 yeichner.com
 0.0.0.0 yeliam.com
 0.0.0.0 yellow-record.pro
 0.0.0.0 yellowacorn.net

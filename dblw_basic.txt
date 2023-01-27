@@ -1,6 +1,6 @@
-# Version: 202301270016
+# Version: 202301271208
 # Title: oisd basic
-# Last modified: 2023-01-27T00:16:55+0000
+# Last modified: 2023-01-27T12:08:54+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -181,7 +181,6 @@
 *.1001movies.com
 *.1001nightsgroup.com
 *.1002.men
-*.1008691.com
 *.100dollars-seo.com
 *.100fenlm.com
 *.100filles.free.fr
@@ -5611,7 +5610,6 @@
 *.airdoamoord.com
 *.airdropemboil.com
 *.airglobalfair.com
-*.airhobi.com
 *.airlessquotationtroubled.com
 *.airlinerappetizingcoast.com
 *.airlinerlibrariesfavour.com
@@ -5718,7 +5716,6 @@
 *.aj2505.online
 *.aj2506.online
 *.aj2509.online
-*.aj2510.online
 *.aj2511.online
 *.aj2512.online
 *.aj2517.bid
@@ -7229,7 +7226,6 @@
 *.andreasimon.com.ec
 *.andremajorstudio.com.br
 *.andrespena.com.mx
-*.andrewpharma.com
 *.andrezaeleandro.com.br
 *.andriesshied.com
 *.android-com-wildlife-games-battle-royale-free-zooba.topaz-analytics.com
@@ -10892,7 +10888,6 @@
 *.ben.crxmouse.com
 *.benaamart.com
 *.benbisnis.com
-*.bencevendeghaz.hu
 *.benchastonishingstudying.com
 *.bencovn.com
 *.bendan.shop
@@ -13748,7 +13743,6 @@
 *.cdn-channels-pixel.ex.co
 *.cdn-config.taplytics.com
 *.cdn-d.amazon-adsystem.com
-*.cdn-download-center-europe.com
 *.cdn-download.top
 *.cdn-dsa.clicktale.net.edgekey.net
 *.cdn-engagement.inmarket.com
@@ -14351,7 +14345,6 @@
 *.chatbox-static.botbanhang.vn
 *.chatbox-tracking.botbanhang.vn
 *.chatbox-widget.botbanhang.vn
-*.chatgigi2.com
 *.chatheez.net
 *.chatigabe.com
 *.chatmingo.com
@@ -14765,7 +14758,6 @@
 *.cipientco.com
 *.cipledecline.buzz
 *.cippa.com.br
-*.cipro.mx
 *.ciproco.com
 *.cipta.net.id
 *.ciqguphollyj.com
@@ -20695,7 +20687,6 @@
 *.drishya.org
 *.dritasecurity.com
 *.drittoallameta.it
-*.drive.google.com.it-barcelona.com
 *.drivebygolf.com
 *.drivemandu.com
 *.driverequest.com
@@ -21605,7 +21596,6 @@
 *.edobbd.com
 *.edoctordiu.xyz
 *.edomz.net
-*.edoraseguros.com.br
 *.edoriumcorporation.com
 *.edoriuminternational.com
 *.edoriumjournalofbiochemistry.com
@@ -25918,7 +25908,6 @@
 *.gbzumh.cn
 *.gcbassa.org
 *.gccode.gongchang.com
-*.gccon.in
 *.gccpaints.com
 *.gccvfs.com
 *.gcd-s2s.appsflyer.com
@@ -27026,7 +27015,6 @@
 *.goodyflicks.digital
 *.goofertas.com
 *.gooffybox-tv.com
-*.goofygoob.cf
 *.goofypismica.com
 *.goog.emailon.top
 *.googe.com
@@ -30780,7 +30768,6 @@
 *.indoleads.com
 *.indometro.net
 *.indonesiacommodity.com
-*.indonesias.me
 *.indonesiatourguide.co.id
 *.indoor.lk
 *.indooritalian.com
@@ -31297,7 +31284,6 @@
 *.interwapp.com
 *.interxconnect.com
 *.intg.snapchat.com
-*.inthbc.com
 *.inthenearfuture.com
 *.intimediastudio.com
 *.intimg1k.com
@@ -32923,7 +32909,6 @@
 *.k55p9ka2.de
 *.k56tyui.cfd
 *.k5zoom.com
-*.k6027.eu
 *.k68tkg.com
 *.k6r.net
 *.k8trangphim.com
@@ -33965,7 +33950,6 @@
 *.kurupara.com
 *.kusal.com
 *.kustaucu.com
-*.kustens.com
 *.kustomeyes.in
 *.kutegiagoc.com
 *.kutjilsi.com
@@ -37728,7 +37712,6 @@
 *.meptech.in
 *.mepuzz.com
 *.mer.stdout.cz
-*.mer30.ru
 *.merakiartencialstore.com
 *.meraom.lt
 *.merapathshala.com
@@ -38136,7 +38119,6 @@
 *.miladkhoy.com
 *.milalina.co.uk
 *.milan100.cn
-*.milanstaffing.com
 *.milasktic.com
 *.milbalancas.com.br
 *.mildcauliflower.com
@@ -40622,7 +40604,6 @@
 *.ngplansfo.com
 *.ngtnepal.com
 *.ngzconsulting.com
-*.nhachannuoi.vn
 *.nhacvietplus.com.vn
 *.nhaoxahoihanam.com
 *.nhaqtem.com
@@ -43422,7 +43403,6 @@
 *.passyourcourse.com
 *.pastaesthetictracks.com
 *.pastamemes.com
-*.paste-bin.xyz
 *.pasteleriasena.com
 *.pastepot.com
 *.pasticuan.org
@@ -45500,7 +45480,6 @@
 *.pritesol.com
 *.priv-policy.imrworldwide.com
 *.privacy-sdk.talent-soft.com
-*.privacy-tools-for-you-453.com
 *.privacy.commander1.com
 *.privacy.outdoorsg.com
 *.privacy.selbst.de
@@ -46326,7 +46305,6 @@
 *.purplepatch.online
 *.purplepatchfarms.co.in
 *.purposedaycare.com
-*.purposedesigns.net
 *.purposelynextbinary.com
 *.purposeparking.com
 *.pursedistraught.com
@@ -50283,7 +50261,6 @@
 *.scarfthought.com
 *.scarl.shop
 *.scarletcashwi5.com
-*.scarletespinal.com
 *.scarofnght.com
 *.scatteredheat.com
 *.scatteredstream.com
@@ -51411,7 +51388,6 @@
 *.shinystat.com
 *.shinystat.it
 *.ship2ja.com
-*.shipminttracking.net
 *.shipostrich.com
 *.shipping-sinaha.com
 *.shipping.925cz.com
@@ -54441,7 +54417,6 @@
 *.stignaud.net
 *.stilaikr.com
 *.stilfb.com
-*.still-link1.com
 *.stillooptica.com.br
 *.stillootica.com.br
 *.stilooptica.com.br
@@ -59715,7 +59690,6 @@
 *.ukentaspe.xyz
 *.ukentaspects.autos
 *.ukfareputfea.xyz
-*.ukguk71.ru
 *.ukiyoyechromy.com
 *.uklunchtimepredictions.com
 *.uklyeconnected.monster
@@ -59942,7 +59916,6 @@
 *.unioladeseret.com
 *.union.china.com.cn
 *.union.ucweb.com
-*.unionbindinqcompany.it
 *.unionelectrica.com.uy
 *.unionssoothe.com
 *.unipar.ac.id
@@ -64180,7 +64153,6 @@
 *.yebanys.com.cn
 *.yecheeze.com
 *.yeegsxcwbnn.com
-*.yeichner.com
 *.yeliam.com
 *.yellow-record.pro
 *.yellowacorn.net
