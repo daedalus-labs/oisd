@@ -1,6 +1,6 @@
-# Version: 202301270018
+# Version: 202301271210
 # Title: oisd extra
-# Last modified: 2023-01-27T00:18:06+0000
+# Last modified: 2023-01-27T12:10:00+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -620,7 +620,6 @@ www.bstats.org
 www.btstatic.com
 www.bttn.io
 www.chartboosts.com
-www.cisnc.it
 www.click-plus.net
 www.cocoad.jp
 www.comic-promotion.com
@@ -633,7 +632,6 @@ www.crashlytics.com
 www.crittercism.com
 www.cyber-ad01.cc
 www.d2cmedia.ca
-www.dacui.online
 www.datadoghq-browser-agent.com
 www.demdex.net
 www.demopage.me
@@ -671,7 +669,6 @@ www.googletagservices.com
 www.gotoip55.com
 www.grabify.link
 www.hitgraph.jp
-www.holybaby.com.tw
 www.hotjar.com
 www.huanqiucaijing.cn
 www.iaflstore.jp
@@ -740,7 +737,6 @@ www.sevenstars7.com
 www.shalltry.com
 www.singular.net
 www.skimresources.com
-www.skyscan.com
 www.smac-ssp.com
 www.smart.link
 www.smartclip.net

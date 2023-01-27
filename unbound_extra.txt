@@ -1,6 +1,6 @@
-# Version: 202301270018
+# Version: 202301271210
 # Title: oisd extra
-# Last modified: 2023-01-27T00:18:11+0000
+# Last modified: 2023-01-27T12:10:05+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -166,7 +166,6 @@ local-zone: "cdp.cloud.unity3d.com." always_null
 local-zone: "cds.connatix.com." always_null
 local-zone: "cfr.us.v2.we-stats.com." always_null
 local-zone: "chartboosts.com." always_null
-local-zone: "cisnc.it." always_null
 local-zone: "cj.mplxtms.com." always_null
 local-zone: "clck.yandex.ru." always_null
 local-zone: "click-plus.net." always_null
@@ -198,7 +197,6 @@ local-zone: "cyber-ad01.cc." always_null
 local-zone: "d.la1-c2-iad.salesforceliveagent.com." always_null
 local-zone: "d1z2jf7jlzjs58.cloudfront.net." always_null
 local-zone: "d2cmedia.ca." always_null
-local-zone: "dacui.online." always_null
 local-zone: "data.cnn.com." always_null
 local-zone: "data.mistat.intl.xiaomi.com." always_null
 local-zone: "data.mistat.rus.xiaomi.com." always_null
@@ -271,7 +269,6 @@ local-zone: "gotoip55.com." always_null
 local-zone: "grabify.link." always_null
 local-zone: "hit.stat24.com." always_null
 local-zone: "hitgraph.jp." always_null
-local-zone: "holybaby.com.tw." always_null
 local-zone: "hook.integromat.com." always_null
 local-zone: "hotjar.com." always_null
 local-zone: "hspx.hotstar.com." always_null
@@ -440,7 +437,6 @@ local-zone: "share.yandex.ru." always_null
 local-zone: "singular.net." always_null
 local-zone: "siteintercept.qualtrics.com." always_null
 local-zone: "skimresources.com." always_null
-local-zone: "skyscan.com." always_null
 local-zone: "smac-ssp.com." always_null
 local-zone: "smart.link." always_null
 local-zone: "smartclip.net." always_null

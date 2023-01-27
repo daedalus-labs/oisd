@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202301270021
+! Version: 202301271212
 ! Title: oisd nsfw
-! Last modified: 2023-01-27T00:21:09+0000
+! Last modified: 2023-01-27T12:12:58+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List              
@@ -77951,6 +77951,7 @@
 ||hindipornjav.com^
 ||hindipornkahani.com^
 ||hindipornmovie.com^
+||hindipornmovie.mobi^
 ||hindipornmovies.net^
 ||hindipornmovies.org^
 ||hindiporno.net^
@@ -151332,6 +151333,7 @@
 ||setcams.com^
 ||setecoop.co^
 ||setfetishporn.com^
+||setforme.com^
 ||setforsex-live.com^
 ||setforsexgaycams.com^
 ||setforsexlive.com^

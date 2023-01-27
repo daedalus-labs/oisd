@@ -1,6 +1,6 @@
-# Version: 202301270018
+# Version: 202301271210
 # Title: oisd extra
-# Last modified: 2023-01-27T00:18:11+0000
+# Last modified: 2023-01-27T12:10:05+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -167,7 +167,6 @@
 *.cds.connatix.com
 *.cfr.us.v2.we-stats.com
 *.chartboosts.com
-*.cisnc.it
 *.cj.mplxtms.com
 *.clck.yandex.ru
 *.click-plus.net
@@ -199,7 +198,6 @@
 *.d.la1-c2-iad.salesforceliveagent.com
 *.d1z2jf7jlzjs58.cloudfront.net
 *.d2cmedia.ca
-*.dacui.online
 *.data.cnn.com
 *.data.mistat.intl.xiaomi.com
 *.data.mistat.rus.xiaomi.com
@@ -272,7 +270,6 @@
 *.grabify.link
 *.hit.stat24.com
 *.hitgraph.jp
-*.holybaby.com.tw
 *.hook.integromat.com
 *.hotjar.com
 *.hspx.hotstar.com
@@ -441,7 +438,6 @@
 *.singular.net
 *.siteintercept.qualtrics.com
 *.skimresources.com
-*.skyscan.com
 *.smac-ssp.com
 *.smart.link
 *.smartclip.net

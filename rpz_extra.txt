@@ -1,12 +1,12 @@
-; Version: 202301270018
+; Version: 202301271210
 ; Title: oisd extra
-; Last modified: 2023-01-27T00:18:11+0000
+; Last modified: 2023-01-27T12:10:05+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674777607 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674820803 86400 3600 604800 30
  NS localhost.
 
 189-211-177-171.static.axtel.net CNAME .
@@ -327,8 +327,6 @@ cfr.us.v2.we-stats.com CNAME .
 *.cfr.us.v2.we-stats.com CNAME .
 chartboosts.com CNAME .
 *.chartboosts.com CNAME .
-cisnc.it CNAME .
-*.cisnc.it CNAME .
 cj.mplxtms.com CNAME .
 *.cj.mplxtms.com CNAME .
 clck.yandex.ru CNAME .
@@ -391,8 +389,6 @@ d1z2jf7jlzjs58.cloudfront.net CNAME .
 *.d1z2jf7jlzjs58.cloudfront.net CNAME .
 d2cmedia.ca CNAME .
 *.d2cmedia.ca CNAME .
-dacui.online CNAME .
-*.dacui.online CNAME .
 data.cnn.com CNAME .
 *.data.cnn.com CNAME .
 data.mistat.intl.xiaomi.com CNAME .
@@ -537,8 +533,6 @@ hit.stat24.com CNAME .
 *.hit.stat24.com CNAME .
 hitgraph.jp CNAME .
 *.hitgraph.jp CNAME .
-holybaby.com.tw CNAME .
-*.holybaby.com.tw CNAME .
 hook.integromat.com CNAME .
 *.hook.integromat.com CNAME .
 hotjar.com CNAME .
@@ -875,8 +869,6 @@ siteintercept.qualtrics.com CNAME .
 *.siteintercept.qualtrics.com CNAME .
 skimresources.com CNAME .
 *.skimresources.com CNAME .
-skyscan.com CNAME .
-*.skyscan.com CNAME .
 smac-ssp.com CNAME .
 *.smac-ssp.com CNAME .
 smart.link CNAME .

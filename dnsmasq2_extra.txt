@@ -1,6 +1,6 @@
-# Version: 202301270018
+# Version: 202301271210
 # Title: oisd extra
-# Last modified: 2023-01-27T00:18:11+0000
+# Last modified: 2023-01-27T12:10:04+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -164,7 +164,6 @@ local=/cdp.cloud.unity3d.com/
 local=/cds.connatix.com/
 local=/cfr.us.v2.we-stats.com/
 local=/chartboosts.com/
-local=/cisnc.it/
 local=/cj.mplxtms.com/
 local=/clck.yandex.ru/
 local=/click-plus.net/
@@ -196,7 +195,6 @@ local=/cyber-ad01.cc/
 local=/d.la1-c2-iad.salesforceliveagent.com/
 local=/d1z2jf7jlzjs58.cloudfront.net/
 local=/d2cmedia.ca/
-local=/dacui.online/
 local=/data.cnn.com/
 local=/data.mistat.intl.xiaomi.com/
 local=/data.mistat.rus.xiaomi.com/
@@ -269,7 +267,6 @@ local=/gotoip55.com/
 local=/grabify.link/
 local=/hit.stat24.com/
 local=/hitgraph.jp/
-local=/holybaby.com.tw/
 local=/hook.integromat.com/
 local=/hotjar.com/
 local=/hspx.hotstar.com/
@@ -438,7 +435,6 @@ local=/share.yandex.ru/
 local=/singular.net/
 local=/siteintercept.qualtrics.com/
 local=/skimresources.com/
-local=/skyscan.com/
 local=/smac-ssp.com/
 local=/smart.link/
 local=/smartclip.net/
