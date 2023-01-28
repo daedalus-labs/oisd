@@ -1,6 +1,6 @@
-# Version: 202301271212
+# Version: 202301280058
 # Title: oisd nsfw
-# Last modified: 2023-01-27T12:12:59+0000
+# Last modified: 2023-01-28T00:58:43+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                  
@@ -12607,6 +12607,7 @@
 *.arapsex.org
 *.arbada.com
 *.arbadasex.com
+*.arbik.top
 *.arbredesplaisirs.com
 *.arbsx.top
 *.arburyghettogaggers.com
@@ -17220,7 +17221,6 @@
 *.bbw-pussy.net
 *.bbw-pussy.xyz
 *.bbw-sex-dating.nl
-*.bbw-sex-site.singlesdating.london
 *.bbw-sex-videos.com
 *.bbw-sex.info
 *.bbw-sex.net
@@ -17390,7 +17390,6 @@
 *.bbwhotxxx.com
 *.bbwhqporn.com
 *.bbwhqsex.com
-*.bbwhunter.allpornsitespass.net
 *.bbwhunter.com
 *.bbwjade.com
 *.bbwjapanese.com
@@ -17556,7 +17555,6 @@
 *.bbwsexdate.org
 *.bbwsexdating.co.uk
 *.bbwsexdating.com.au
-*.bbwsexdating.de
 *.bbwsexdating.dk
 *.bbwsexdoll.us
 *.bbwsexdoll.xyz
@@ -17570,7 +17568,6 @@
 *.bbwsexireland.com
 *.bbwsexkontakt.com
 *.bbwsexmov.com
-*.bbwsexmovie.bomcams.net
 *.bbwsexmovie.com
 *.bbwsexocasual.com
 *.bbwsexonline.com
@@ -18218,6 +18215,7 @@
 *.bdsmlist.com
 *.bdsmlive.co
 *.bdsmlive.com
+*.bdsmlive.info
 *.bdsmlive.org
 *.bdsmlive.xxx
 *.bdsmlivejasmin.com
@@ -22662,6 +22660,7 @@
 *.bisexual.group
 *.bisexual.nl
 *.bisexual.place
+*.bisexual.sexy
 *.bisexual.show
 *.bisexual.wiki.gd
 *.bisexual4u.com
@@ -25732,6 +25731,7 @@
 *.bootytube.tv
 *.boourns.net
 *.boozeblogger.com
+*.boozefitness.com
 *.bopaobeki.unblog.fr
 *.boporno.com
 *.boppingbabes.com
@@ -43666,6 +43666,7 @@
 *.dubaigirlmassage.com
 *.dubaigirls.me
 *.dubaiindiancallgirls.com
+*.dubaikiss.com
 *.dubailove.me
 *.dubailove18.me
 *.dubaimistressjessica.com
@@ -58171,6 +58172,7 @@
 *.freegayxx.com
 *.freegayxxxtube.com
 *.freegayyaoi.com
+*.freegermanporn.cloud
 *.freegermanporn.com
 *.freegfporncams.com
 *.freegfpornlive.com
@@ -67314,6 +67316,7 @@
 *.gayskypesex.eu
 *.gayslactherlisepo.tk
 *.gayslatinos.com
+*.gayslavecams.com
 *.gayslavejustin.com
 *.gayslavepersonals.com
 *.gayslaw.com
@@ -72346,6 +72349,7 @@
 *.gratissex.ch
 *.gratissex.dk
 *.gratissex.eigenstart.be
+*.gratissex.info
 *.gratissex.no
 *.gratissex.start.be
 *.gratissex.startbeurs.nl
@@ -74955,6 +74959,7 @@
 *.hd.josex.org
 *.hd.josex.page
 *.hd.pornvideos.sexy
+*.hd18.xxx
 *.hd18porn.com
 *.hd21.com
 *.hd21.net
@@ -80959,6 +80964,7 @@
 *.hotpoolgirls.com
 *.hotporn-list.com
 *.hotporn-videos.com
+*.hotporn.click
 *.hotporn.com
 *.hotporn.link
 *.hotporn.mx
@@ -92659,6 +92665,7 @@
 *.kissinggays.com
 *.kissinghd.com
 *.kissingsex.com
+*.kissjav.com
 *.kissjav.li
 *.kissjav.net
 *.kissjav.sbs
@@ -93727,6 +93734,7 @@
 *.ladsforum.com
 *.ladslist.co.uk
 *.lady-alina.com
+*.lady-anja.com
 *.lady-boy-noon.com
 *.lady-boyamy.com
 *.lady-boys.biz
@@ -114845,6 +114853,7 @@
 *.namiporngames.com
 *.namjai.net
 *.namorosgay.com
+*.namratasinha.com
 *.namritakapoor.co.in
 *.nana.my.id
 *.nana.webcam.free.fr
@@ -117736,6 +117745,7 @@
 *.nsfw.it
 *.nsfw.myconfinedspace.com
 *.nsfw.online
+*.nsfw.page
 *.nsfw.pics
 *.nsfw.sex
 *.nsfw.sexy
@@ -120491,6 +120501,7 @@
 *.oldyoungxxx.com
 *.ole.sex
 *.oleaksxxx.fun
+*.oleaksxxx.xyz
 *.oleanda.com
 *.olecams.com
 *.olecams.tv
@@ -121559,6 +121570,8 @@
 *.onlyleaks.me
 *.onlyleaksmega.com
 *.onlyleaksxxx.com
+*.onlyleaksxxx.fun
+*.onlyleaksxxx.online
 *.onlyleaksxxx.xyz
 *.onlylelastar.com
 *.onlyleolulu.com
@@ -124083,6 +124096,7 @@
 *.pennysexe.free.fr
 *.penragesexking.tk
 *.pension-program.ru
+*.pensiuneatora.ro
 *.penstopixels.com
 *.pentetgacor.online
 *.penthouse-pets.com
@@ -124151,6 +124165,7 @@
 *.perdos.porn
 *.perdos.ru
 *.perdosa.online
+*.perdosik.org
 *.perec.top
 *.perepix.club
 *.perfecgirls.site
@@ -124785,6 +124800,7 @@
 *.phimse.xyz
 *.phimsec.cyou
 *.phimsec.icu
+*.phimsec.info
 *.phimsec.one
 *.phimsec.to
 *.phimsec.vip
@@ -126518,6 +126534,7 @@
 *.pinayporntv.com
 *.pinays247.com
 *.pinaysex.asia
+*.pinaysex.click
 *.pinaysex.co
 *.pinaysex.com.es
 *.pinaysex.net
@@ -127879,6 +127896,7 @@
 *.pookyporn.com
 *.pool.7u.org
 *.pooldare.com
+*.poolercrossroads.com
 *.poolmilfs.com
 *.pooltournamentsonline.com
 *.poonamgupta.com
@@ -145904,6 +145922,7 @@
 *.realmaturetube.pro
 *.realmaturevideo.com
 *.realmaturevideos.com
+*.realmenarehot.com
 *.realmencams.com
 *.realmenfuck.com
 *.realmilfcams.com
@@ -150890,6 +150909,7 @@
 *.sekslink.nl
 *.seksly.com
 *.seksmanyagi.com
+*.seksmelayu.top
 *.seksmet.nl
 *.seksmetvrouwen.be
 *.seksmovie.be
@@ -155133,6 +155153,7 @@
 *.sexdate.gr
 *.sexdate.linkoverzicht.be
 *.sexdate.rocks
+*.sexdate.top
 *.sexdate11.com
 *.sexdate18.net
 *.sexdate24.net
@@ -156346,6 +156367,7 @@
 *.sexescortsgirlslahore.com
 *.sexescortsnorge.online
 *.sexescortsvensk.online
+*.sexescorttjejer.online
 *.sexesecret.com
 *.sexesecret.fr
 *.sexesex.com
@@ -157322,6 +157344,7 @@
 *.sexhdvideo.club
 *.sexhdvideo.net
 *.sexhdvideos.me
+*.sexhdvideos.mobi
 *.sexhdviethay.com
 *.sexhdvn.club
 *.sexhdvn.org
@@ -158492,6 +158515,7 @@
 *.sexloading.com
 *.sexloads.win
 *.sexloaf.com
+*.sexloan.net
 *.sexloanluan.org
 *.sexloanluan.vip
 *.sexloanluanvn.com
@@ -160030,6 +160054,7 @@
 *.sexphap.com
 *.sexpharma.com.br
 *.sexphe.me
+*.sexphe.org
 *.sexphe.tube
 *.sexphe.xyz
 *.sexphi.net
@@ -162070,6 +162095,7 @@
 *.sextjejer18.com.se
 *.sextjejerescort.online
 *.sextjejersvensk.online
+*.sextjejersverige.online
 *.sextjobs.com
 *.sextlinks.com
 *.sextlocal.com
@@ -163785,6 +163811,7 @@
 *.sexvungtrom.org
 *.sexvungtrom1.pro
 *.sexvuntrom.net
+*.sexvuto.com
 *.sexvuto.net
 *.sexvuto.top
 *.sexvvc.net
@@ -165281,6 +165308,7 @@
 *.sexydates.info
 *.sexydating.ca
 *.sexydatingfriends.com
+*.sexydatingnetworks-shop.nl
 *.sexydatingwomen.com
 *.sexydaughter.com
 *.sexydaydreams.com
@@ -165951,6 +165979,7 @@
 *.sexylinx.com
 *.sexylinx.net
 *.sexylips.co.uk
+*.sexylips.in
 *.sexylist.gr
 *.sexylittleskirt.com
 *.sexylive-paradise.com
@@ -171453,6 +171482,7 @@
 *.sos-sexe.fr
 *.sos.xxx
 *.sosafadas.com
+*.sosalkino.click
 *.sosalkino.life
 *.sosalkino.org
 *.sosalkino.pw
@@ -172948,6 +172978,7 @@
 *.stepporndiscounts.com
 *.stepporno.com
 *.stepporntvs.com
+*.steppov.com
 *.stepscrew.com
 *.stepsex.com
 *.stepsex.net
@@ -175712,6 +175743,7 @@
 *.tabordvd.co.uk
 *.tabporn.cc
 *.tabporn.com
+*.tabu-escort.de
 *.tabu.ch
 *.tabu24.tv
 *.tabu69.com
@@ -179634,6 +179666,7 @@
 *.tetaspornogratis.com
 *.tetasreales.com
 *.tetasypechos.com
+*.tetazas.com
 *.tetedepoule.com
 *.tetekbokep.xyz
 *.tetona.tv
@@ -186350,6 +186383,7 @@
 *.tsontes.club
 *.tsontesxxx.com
 *.tspantyhose.com
+*.tspersuasion.com
 *.tsphonesex.com
 *.tspimps.com
 *.tsplaygirl.com
@@ -190931,6 +190965,7 @@
 *.videolucah.xyz
 *.videolucahmelayu.top
 *.videomakelove.com
+*.videomanysex.com
 *.videomature.cc
 *.videomature.eu
 *.videomature.free.fr
@@ -196248,6 +196283,7 @@
 *.welivetogether-index.com
 *.welivetogether-lesbian.com
 *.welivetogether.com
+*.welivetogether.net
 *.welivetogether.org.uk
 *.welkatha.com
 *.well-informed-decision.com
@@ -196911,6 +196947,7 @@
 *.wifeboy.com
 *.wifebucket.com
 *.wifebucket.us
+*.wifecam.co.uk
 *.wifecam.org
 *.wifechat.co.uk
 *.wifecheating.me
@@ -197165,6 +197202,7 @@
 *.wildhole.com
 *.wildholes.com
 *.wildhotgirlsporn.com
+*.wildindiangirls.pro
 *.wildindianporn.com
 *.wildindianporn.mobi
 *.wildindianporn.pro
@@ -199650,6 +199688,7 @@
 *.xmxxamator.com
 *.xmxxporn.com
 *.xmxxtube.com
+*.xn----7sbgmnk0afcbifig.top
 *.xn----8sba2anpgbgldna7l.top
 *.xn----8sba3afemovkaw.top
 *.xn----8sbd9bebej2c.top
