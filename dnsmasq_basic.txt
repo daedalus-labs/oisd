@@ -1,6 +1,6 @@
-# Version: 202301281208
+# Version: 202301281408
 # Title: oisd basic
-# Last modified: 2023-01-28T12:08:39+0000
+# Last modified: 2023-01-28T14:08:53+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -55554,6 +55554,7 @@ server=/tkd777.cn/
 server=/tkearnmoney.com/
 server=/tkgara8m.xyz/
 server=/tkickhhylnvm.com/
+server=/tkictet.com/
 server=/tkihospital.org.pk/
 server=/tklef.com/
 server=/tkmedia-cache.aotter.net/

@@ -1,12 +1,12 @@
-; Version: 202301281208
+; Version: 202301281408
 ; Title: oisd basic
-; Last modified: 2023-01-28T12:08:40+0000
+; Last modified: 2023-01-28T14:08:54+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674907203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674914405 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -111107,6 +111107,8 @@ tkgara8m.xyz CNAME .
 *.tkgara8m.xyz CNAME .
 tkickhhylnvm.com CNAME .
 *.tkickhhylnvm.com CNAME .
+tkictet.com CNAME .
+*.tkictet.com CNAME .
 tkihospital.org.pk CNAME .
 *.tkihospital.org.pk CNAME .
 tklef.com CNAME .

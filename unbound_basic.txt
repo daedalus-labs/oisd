@@ -1,6 +1,6 @@
-# Version: 202301281208
+# Version: 202301281408
 # Title: oisd basic
-# Last modified: 2023-01-28T12:08:40+0000
+# Last modified: 2023-01-28T14:08:54+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -55556,6 +55556,7 @@ local-zone: "tkd777.cn." always_null
 local-zone: "tkearnmoney.com." always_null
 local-zone: "tkgara8m.xyz." always_null
 local-zone: "tkickhhylnvm.com." always_null
+local-zone: "tkictet.com." always_null
 local-zone: "tkihospital.org.pk." always_null
 local-zone: "tklef.com." always_null
 local-zone: "tkmedia-cache.aotter.net." always_null
