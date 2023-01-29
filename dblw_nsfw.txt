@@ -1,6 +1,6 @@
-# Version: 202301282212
+# Version: 202301290247
 # Title: oisd nsfw
-# Last modified: 2023-01-28T22:12:22+0000
+# Last modified: 2023-01-29T02:47:45+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                  
@@ -3227,6 +3227,7 @@
 *.50tinhaxxx.com
 *.50yearoldmilfs.com
 *.50yearoldsluts.com
+*.510hookup.com
 *.51789.ru
 *.517cssf.net
 *.51ifun.com
@@ -87641,6 +87642,7 @@
 *.japanesefuckpics.com
 *.japanesegayboys.com
 *.japanesegayporn.online
+*.japanesegirlcams.com
 *.japanesegirlfriend.com
 *.japanesegirlies.com
 *.japanesegirls.pro
