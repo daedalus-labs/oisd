@@ -1,12 +1,12 @@
-; Version: 202301291408
+; Version: 202301291733
 ; Title: oisd basic
-; Last modified: 2023-01-29T14:08:23+0000
+; Last modified: 2023-01-29T17:33:07+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675000801 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675013588 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -150331,8 +150331,6 @@ xtreff69.com CNAME .
 *.xtreff69.com CNAME .
 xtrememarinespain.com CNAME .
 *.xtrememarinespain.com CNAME .
-xtremepush.com CNAME .
-*.xtremepush.com CNAME .
 xtremeserve.xyz CNAME .
 *.xtremeserve.xyz CNAME .
 xtremetop100.com CNAME .

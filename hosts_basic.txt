@@ -1,6 +1,6 @@
-# Version: 202301291408
+# Version: 202301291733
 # Title: oisd basic
-# Last modified: 2023-01-29T14:08:17+0000
+# Last modified: 2023-01-29T17:33:04+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -86520,7 +86520,6 @@
 0.0.0.0 xtraserp.com
 0.0.0.0 xtreff69.com
 0.0.0.0 xtrememarinespain.com
-0.0.0.0 xtremepush.com
 0.0.0.0 xtremeserve.xyz
 0.0.0.0 xtremetop100.com
 0.0.0.0 xtremline.com

@@ -1,6 +1,6 @@
-# Version: 202301291408
+# Version: 202301291733
 # Title: oisd basic
-# Last modified: 2023-01-29T14:08:22+0000
+# Last modified: 2023-01-29T17:33:05+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -75166,7 +75166,6 @@ server=/xtrafic.ro/
 server=/xtraserp.com/
 server=/xtreff69.com/
 server=/xtrememarinespain.com/
-server=/xtremepush.com/
 server=/xtremeserve.xyz/
 server=/xtremetop100.com/
 server=/xtremline.com/
