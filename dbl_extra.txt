@@ -1,6 +1,6 @@
-# Version: 202301290409
+# Version: 202301290608
 # Title: oisd extra
-# Last modified: 2023-01-29T04:09:00+0000
+# Last modified: 2023-01-29T06:08:47+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -1170,7 +1170,6 @@ www.670360.com
 www.7-7-7-partner.com
 www.745c.cn
 www.778669.com
-www.7nekc.icu
 www.876920.com
 www.88-baidu.com
 www.8881919.cc

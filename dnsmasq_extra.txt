@@ -1,6 +1,6 @@
-# Version: 202301290409
+# Version: 202301290608
 # Title: oisd extra
-# Last modified: 2023-01-29T04:09:04+0000
+# Last modified: 2023-01-29T06:08:51+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -58,7 +58,6 @@ server=/7-7-7-partner.com/
 server=/745c.cn/
 server=/778669.com/
 server=/79423.analytics.edgekey.net/
-server=/7nekc.icu/
 server=/876920.com/
 server=/88-baidu.com/
 server=/8881919.cc/

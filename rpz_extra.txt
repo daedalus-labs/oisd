@@ -1,12 +1,12 @@
-; Version: 202301290409
+; Version: 202301290608
 ; Title: oisd extra
-; Last modified: 2023-01-29T04:09:04+0000
+; Last modified: 2023-01-29T06:08:51+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674964802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674972002 86400 3600 604800 30
  NS localhost.
 
 0371app.wang CNAME .
@@ -115,8 +115,6 @@ $TTL 30
 *.778669.com CNAME .
 79423.analytics.edgekey.net CNAME .
 *.79423.analytics.edgekey.net CNAME .
-7nekc.icu CNAME .
-*.7nekc.icu CNAME .
 876920.com CNAME .
 *.876920.com CNAME .
 88-baidu.com CNAME .
