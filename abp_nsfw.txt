@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202301291012
+! Version: 202301291212
 ! Title: oisd nsfw
-! Last modified: 2023-01-29T10:12:20+0000
+! Last modified: 2023-01-29T12:12:24+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List              
@@ -196183,6 +196183,7 @@
 ||webtoons.red^
 ||webts.ru^
 ||webtvsex.com^
+||webvamsex.com^
 ||webvoyeur.com^
 ||webwidesex.com^
 ||webworldcam.com^
