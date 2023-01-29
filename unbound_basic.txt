@@ -1,6 +1,6 @@
-# Version: 202301290808
+# Version: 202301291408
 # Title: oisd basic
-# Last modified: 2023-01-29T08:08:12+0000
+# Last modified: 2023-01-29T14:08:23+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -39565,7 +39565,6 @@ local-zone: "kornholekings.com." always_null
 local-zone: "korodrogerie.fr." always_null
 local-zone: "korruoebt.live." always_null
 local-zone: "korunabevy.com." always_null
-local-zone: "korydwf.cn." always_null
 local-zone: "kos.interseek.si." always_null
 local-zone: "kosherglobal.ae." always_null
 local-zone: "koshka.ir." always_null

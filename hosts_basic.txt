@@ -1,6 +1,6 @@
-# Version: 202301290808
+# Version: 202301291408
 # Title: oisd basic
-# Last modified: 2023-01-29T08:08:06+0000
+# Last modified: 2023-01-29T14:08:17+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -46004,7 +46004,6 @@
 0.0.0.0 korodrogerie.fr
 0.0.0.0 korruoebt.live
 0.0.0.0 korunabevy.com
-0.0.0.0 korydwf.cn
 0.0.0.0 kos.interseek.si
 0.0.0.0 kosherglobal.ae
 0.0.0.0 koshka.ir

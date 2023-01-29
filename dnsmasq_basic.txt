@@ -1,6 +1,6 @@
-# Version: 202301290808
+# Version: 202301291408
 # Title: oisd basic
-# Last modified: 2023-01-29T08:08:11+0000
+# Last modified: 2023-01-29T14:08:22+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -39563,7 +39563,6 @@ server=/kornholekings.com/
 server=/korodrogerie.fr/
 server=/korruoebt.live/
 server=/korunabevy.com/
-server=/korydwf.cn/
 server=/kos.interseek.si/
 server=/kosherglobal.ae/
 server=/koshka.ir/

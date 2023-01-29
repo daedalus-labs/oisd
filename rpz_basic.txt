@@ -1,12 +1,12 @@
-; Version: 202301290808
+; Version: 202301291408
 ; Title: oisd basic
-; Last modified: 2023-01-29T08:08:12+0000
+; Last modified: 2023-01-29T14:08:23+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674979202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675000801 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -79125,8 +79125,6 @@ korruoebt.live CNAME .
 *.korruoebt.live CNAME .
 korunabevy.com CNAME .
 *.korunabevy.com CNAME .
-korydwf.cn CNAME .
-*.korydwf.cn CNAME .
 kos.interseek.si CNAME .
 *.kos.interseek.si CNAME .
 kosherglobal.ae CNAME .
