@@ -1,6 +1,6 @@
-# Version: 202301291212
+# Version: 202301291412
 # Title: oisd nsfw
-# Last modified: 2023-01-29T12:12:24+0000
+# Last modified: 2023-01-29T14:12:16+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                  
@@ -132149,6 +132149,7 @@
 *.pornhubmobilecasino.com
 *.pornhubmodel.com
 *.pornhubmodels.com
+*.pornhubmovie.ru
 *.pornhubmovies.com
 *.pornhubnew.xyz
 *.pornhubnews.com
