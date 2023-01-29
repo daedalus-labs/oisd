@@ -1,12 +1,12 @@
-; Version: 202301290407
+; Version: 202301290808
 ; Title: oisd basic
-; Last modified: 2023-01-29T04:07:54+0000
+; Last modified: 2023-01-29T08:08:12+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674964802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674979202 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -49713,8 +49713,6 @@ dxf3d.co.za CNAME .
 *.dxf3d.co.za CNAME .
 dxgo95ahe73e8.cloudfront.net CNAME .
 *.dxgo95ahe73e8.cloudfront.net CNAME .
-dxhgafult.com CNAME .
-*.dxhgafult.com CNAME .
 dxk5g04fo96r4.cloudfront.net CNAME .
 *.dxk5g04fo96r4.cloudfront.net CNAME .
 dxkkb5tytkivf.cloudfront.net CNAME .

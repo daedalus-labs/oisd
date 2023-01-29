@@ -1,6 +1,6 @@
-# Version: 202301290407
+# Version: 202301290808
 # Title: oisd basic
-# Last modified: 2023-01-29T04:07:54+0000
+# Last modified: 2023-01-29T08:08:12+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -24859,7 +24859,6 @@ local-zone: "dx6uy6q3udhkj.cloudfront.net." always_null
 local-zone: "dx7.sosporntube.com." always_null
 local-zone: "dxf3d.co.za." always_null
 local-zone: "dxgo95ahe73e8.cloudfront.net." always_null
-local-zone: "dxhgafult.com." always_null
 local-zone: "dxk5g04fo96r4.cloudfront.net." always_null
 local-zone: "dxkkb5tytkivf.cloudfront.net." always_null
 local-zone: "dxmjyxksvc.com." always_null

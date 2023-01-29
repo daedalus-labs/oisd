@@ -1,6 +1,6 @@
-# Version: 202301290407
+# Version: 202301290808
 # Title: oisd basic
-# Last modified: 2023-01-29T04:07:53+0000
+# Last modified: 2023-01-29T08:08:11+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -24857,7 +24857,6 @@ server=/dx6uy6q3udhkj.cloudfront.net/
 server=/dx7.sosporntube.com/
 server=/dxf3d.co.za/
 server=/dxgo95ahe73e8.cloudfront.net/
-server=/dxhgafult.com/
 server=/dxk5g04fo96r4.cloudfront.net/
 server=/dxkkb5tytkivf.cloudfront.net/
 server=/dxmjyxksvc.com/
