@@ -1,6 +1,6 @@
-# Version: 202301290244
+# Version: 202301290409
 # Title: oisd extra
-# Last modified: 2023-01-29T02:44:57+0000
+# Last modified: 2023-01-29T04:09:04+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -1528,7 +1528,6 @@
 *.sbgsodufuosmmvsdf.info
 *.sc-static.net
 *.scarabresearch.com
-*.scfh9.cn
 *.sci.intuit.com
 *.scorecardresearch.com
 *.screenshots.goguardian.com

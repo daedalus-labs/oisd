@@ -1,6 +1,6 @@
-# Version: 202301290244
+# Version: 202301290409
 # Title: oisd extra
-# Last modified: 2023-01-29T02:44:57+0000
+# Last modified: 2023-01-29T04:09:04+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -1527,7 +1527,6 @@ local-zone: "sbazhaheib.top." always_null
 local-zone: "sbgsodufuosmmvsdf.info." always_null
 local-zone: "sc-static.net." always_null
 local-zone: "scarabresearch.com." always_null
-local-zone: "scfh9.cn." always_null
 local-zone: "sci.intuit.com." always_null
 local-zone: "scorecardresearch.com." always_null
 local-zone: "screenshots.goguardian.com." always_null

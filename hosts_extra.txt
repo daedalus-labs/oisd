@@ -1,6 +1,6 @@
-# Version: 202301290244
+# Version: 202301290409
 # Title: oisd extra
-# Last modified: 2023-01-29T02:44:53+0000
+# Last modified: 2023-01-29T04:09:00+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -2271,7 +2271,6 @@
 0.0.0.0 www.sas15k01.com
 0.0.0.0 www.sbazhaheib.top
 0.0.0.0 www.sbgsodufuosmmvsdf.info
-0.0.0.0 www.scfh9.cn
 0.0.0.0 www.scorecardresearch.com
 0.0.0.0 www.scrollbelow.com
 0.0.0.0 www.sdhjqz.com
