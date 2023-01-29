@@ -1,12 +1,12 @@
-; Version: 202301290243
+; Version: 202301290407
 ; Title: oisd basic
-; Last modified: 2023-01-29T02:43:43+0000
+; Last modified: 2023-01-29T04:07:54+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674957602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674964802 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -55287,8 +55287,6 @@ f5biz.com CNAME .
 *.f5biz.com CNAME .
 f5cialis-price.com CNAME .
 *.f5cialis-price.com CNAME .
-f5e52a0d14.com CNAME .
-*.f5e52a0d14.com CNAME .
 f5v1x3kgv5.com CNAME .
 *.f5v1x3kgv5.com CNAME .
 f622.campaign.tworiversboat.com CNAME .
@@ -55297,8 +55295,6 @@ f636f7dde4.com CNAME .
 *.f636f7dde4.com CNAME .
 f6dy9wgfbf.ru CNAME .
 *.f6dy9wgfbf.ru CNAME .
-f709c496d6.com CNAME .
-*.f709c496d6.com CNAME .
 f775.thehour.com CNAME .
 *.f775.thehour.com CNAME .
 f7ds.liberation.fr CNAME .
@@ -65467,8 +65463,6 @@ gutouwang.net CNAME .
 *.gutouwang.net CNAME .
 gutrnesak.com CNAME .
 *.gutrnesak.com CNAME .
-guuds.cyou CNAME .
-*.guuds.cyou CNAME .
 guwfusqa.com CNAME .
 *.guwfusqa.com CNAME .
 gvapp.ru CNAME .
@@ -75979,8 +75973,6 @@ jmobras.com.br CNAME .
 *.jmobras.com.br CNAME .
 jmpmedia.club CNAME .
 *.jmpmedia.club CNAME .
-jmqmbsn.cn CNAME .
-*.jmqmbsn.cn CNAME .
 jmrc.in CNAME .
 *.jmrc.in CNAME .
 jmrnews.pro CNAME .
@@ -109853,8 +109845,6 @@ qdopportune.cn CNAME .
 *.qdopportune.cn CNAME .
 qdrmui.com CNAME .
 *.qdrmui.com CNAME .
-qdutmef.cn CNAME .
-*.qdutmef.cn CNAME .
 qdzyspjx.com CNAME .
 *.qdzyspjx.com CNAME .
 qe0ckm024b.com CNAME .
@@ -148691,8 +148681,6 @@ wrotov.com CNAME .
 *.wrotov.com CNAME .
 wrrzje.com CNAME .
 *.wrrzje.com CNAME .
-wrxexwtgnaac.top CNAME .
-*.wrxexwtgnaac.top CNAME .
 wryaslomwx.com CNAME .
 *.wryaslomwx.com CNAME .
 wryfinger.com CNAME .

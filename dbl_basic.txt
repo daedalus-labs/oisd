@@ -1,6 +1,6 @@
-# Version: 202301290243
+# Version: 202301290407
 # Title: oisd basic
-# Last modified: 2023-01-29T02:43:38+0000
+# Last modified: 2023-01-29T04:07:49+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -32843,12 +32843,10 @@ f5080f5cee5a00.com
 f50d9.fate.truelance.com
 f5biz.com
 f5cialis-price.com
-f5e52a0d14.com
 f5v1x3kgv5.com
 f622.campaign.tworiversboat.com
 f636f7dde4.com
 f6dy9wgfbf.ru
-f709c496d6.com
 f775.thehour.com
 f7ds.liberation.fr
 f8260adbf8558d6.com
@@ -38322,7 +38320,6 @@ gutierrezstubbs.com
 gutiumhypoxic.website
 gutouwang.net
 gutrnesak.com
-guuds.cyou
 guwfusqa.com
 gv1.xdrig.com
 gvapp.ru
@@ -44265,7 +44262,6 @@ jmjfoodlink.com
 jmn.jangonetwork.com
 jmobras.com.br
 jmpmedia.club
-jmqmbsn.cn
 jmrc.in
 jmrnews.pro
 jmrnpzbpqla.com
@@ -62997,7 +62993,6 @@ qdmil.com
 qdopportune.cn
 qdrmui.com
 qds0l.publishers.tremorhub.com
-qdutmef.cn
 qdzyspjx.com
 qe0ckm024b.com
 qeclsl.com
@@ -85436,7 +85431,6 @@ wrongpotato.com
 wrotos.com
 wrotov.com
 wrrzje.com
-wrxexwtgnaac.top
 wryaslomwx.com
 wryfinger.com
 wrygraphicstheme.com

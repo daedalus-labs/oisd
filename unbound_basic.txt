@@ -1,6 +1,6 @@
-# Version: 202301290243
+# Version: 202301290407
 # Title: oisd basic
-# Last modified: 2023-01-29T02:43:44+0000
+# Last modified: 2023-01-29T04:07:54+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -27646,12 +27646,10 @@ local-zone: "f5080f5cee5a00.com." always_null
 local-zone: "f50d9.fate.truelance.com." always_null
 local-zone: "f5biz.com." always_null
 local-zone: "f5cialis-price.com." always_null
-local-zone: "f5e52a0d14.com." always_null
 local-zone: "f5v1x3kgv5.com." always_null
 local-zone: "f622.campaign.tworiversboat.com." always_null
 local-zone: "f636f7dde4.com." always_null
 local-zone: "f6dy9wgfbf.ru." always_null
-local-zone: "f709c496d6.com." always_null
 local-zone: "f775.thehour.com." always_null
 local-zone: "f7ds.liberation.fr." always_null
 local-zone: "f8260adbf8558d6.com." always_null
@@ -32736,7 +32734,6 @@ local-zone: "gutierrezstubbs.com." always_null
 local-zone: "gutiumhypoxic.website." always_null
 local-zone: "gutouwang.net." always_null
 local-zone: "gutrnesak.com." always_null
-local-zone: "guuds.cyou." always_null
 local-zone: "guwfusqa.com." always_null
 local-zone: "gvapp.ru." always_null
 local-zone: "gvc.vn." always_null
@@ -37992,7 +37989,6 @@ local-zone: "jmjexports.in." always_null
 local-zone: "jmjfoodlink.com." always_null
 local-zone: "jmobras.com.br." always_null
 local-zone: "jmpmedia.club." always_null
-local-zone: "jmqmbsn.cn." always_null
 local-zone: "jmrc.in." always_null
 local-zone: "jmrnews.pro." always_null
 local-zone: "jmrnpzbpqla.com." always_null
@@ -54929,7 +54925,6 @@ local-zone: "qdjkybxy.page.link." always_null
 local-zone: "qdmil.com." always_null
 local-zone: "qdopportune.cn." always_null
 local-zone: "qdrmui.com." always_null
-local-zone: "qdutmef.cn." always_null
 local-zone: "qdzyspjx.com." always_null
 local-zone: "qe0ckm024b.com." always_null
 local-zone: "qeclsl.com." always_null
@@ -74348,7 +74343,6 @@ local-zone: "wrongpotato.com." always_null
 local-zone: "wrotos.com." always_null
 local-zone: "wrotov.com." always_null
 local-zone: "wrrzje.com." always_null
-local-zone: "wrxexwtgnaac.top." always_null
 local-zone: "wryaslomwx.com." always_null
 local-zone: "wryfinger.com." always_null
 local-zone: "wrygraphicstheme.com." always_null

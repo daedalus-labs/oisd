@@ -1,6 +1,6 @@
-# Version: 202301290243
+# Version: 202301290407
 # Title: oisd basic
-# Last modified: 2023-01-29T02:43:38+0000
+# Last modified: 2023-01-29T04:07:49+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -32843,12 +32843,10 @@
 0.0.0.0 f50d9.fate.truelance.com
 0.0.0.0 f5biz.com
 0.0.0.0 f5cialis-price.com
-0.0.0.0 f5e52a0d14.com
 0.0.0.0 f5v1x3kgv5.com
 0.0.0.0 f622.campaign.tworiversboat.com
 0.0.0.0 f636f7dde4.com
 0.0.0.0 f6dy9wgfbf.ru
-0.0.0.0 f709c496d6.com
 0.0.0.0 f775.thehour.com
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 f8260adbf8558d6.com
@@ -38322,7 +38320,6 @@
 0.0.0.0 gutiumhypoxic.website
 0.0.0.0 gutouwang.net
 0.0.0.0 gutrnesak.com
-0.0.0.0 guuds.cyou
 0.0.0.0 guwfusqa.com
 0.0.0.0 gv1.xdrig.com
 0.0.0.0 gvapp.ru
@@ -44265,7 +44262,6 @@
 0.0.0.0 jmn.jangonetwork.com
 0.0.0.0 jmobras.com.br
 0.0.0.0 jmpmedia.club
-0.0.0.0 jmqmbsn.cn
 0.0.0.0 jmrc.in
 0.0.0.0 jmrnews.pro
 0.0.0.0 jmrnpzbpqla.com
@@ -62997,7 +62993,6 @@
 0.0.0.0 qdopportune.cn
 0.0.0.0 qdrmui.com
 0.0.0.0 qds0l.publishers.tremorhub.com
-0.0.0.0 qdutmef.cn
 0.0.0.0 qdzyspjx.com
 0.0.0.0 qe0ckm024b.com
 0.0.0.0 qeclsl.com
@@ -85436,7 +85431,6 @@
 0.0.0.0 wrotos.com
 0.0.0.0 wrotov.com
 0.0.0.0 wrrzje.com
-0.0.0.0 wrxexwtgnaac.top
 0.0.0.0 wryaslomwx.com
 0.0.0.0 wryfinger.com
 0.0.0.0 wrygraphicstheme.com

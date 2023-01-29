@@ -1,6 +1,6 @@
-# Version: 202301290243
+# Version: 202301290407
 # Title: oisd basic
-# Last modified: 2023-01-29T02:43:42+0000
+# Last modified: 2023-01-29T04:07:53+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -27644,12 +27644,10 @@ server=/f5080f5cee5a00.com/
 server=/f50d9.fate.truelance.com/
 server=/f5biz.com/
 server=/f5cialis-price.com/
-server=/f5e52a0d14.com/
 server=/f5v1x3kgv5.com/
 server=/f622.campaign.tworiversboat.com/
 server=/f636f7dde4.com/
 server=/f6dy9wgfbf.ru/
-server=/f709c496d6.com/
 server=/f775.thehour.com/
 server=/f7ds.liberation.fr/
 server=/f8260adbf8558d6.com/
@@ -32734,7 +32732,6 @@ server=/gutierrezstubbs.com/
 server=/gutiumhypoxic.website/
 server=/gutouwang.net/
 server=/gutrnesak.com/
-server=/guuds.cyou/
 server=/guwfusqa.com/
 server=/gvapp.ru/
 server=/gvc.vn/
@@ -37990,7 +37987,6 @@ server=/jmjexports.in/
 server=/jmjfoodlink.com/
 server=/jmobras.com.br/
 server=/jmpmedia.club/
-server=/jmqmbsn.cn/
 server=/jmrc.in/
 server=/jmrnews.pro/
 server=/jmrnpzbpqla.com/
@@ -54927,7 +54923,6 @@ server=/qdjkybxy.page.link/
 server=/qdmil.com/
 server=/qdopportune.cn/
 server=/qdrmui.com/
-server=/qdutmef.cn/
 server=/qdzyspjx.com/
 server=/qe0ckm024b.com/
 server=/qeclsl.com/
@@ -74346,7 +74341,6 @@ server=/wrongpotato.com/
 server=/wrotos.com/
 server=/wrotov.com/
 server=/wrrzje.com/
-server=/wrxexwtgnaac.top/
 server=/wryaslomwx.com/
 server=/wryfinger.com/
 server=/wrygraphicstheme.com/
