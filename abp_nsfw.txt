@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202301290611
+! Version: 202301290812
 ! Title: oisd nsfw
-! Last modified: 2023-01-29T06:11:32+0000
+! Last modified: 2023-01-29T08:12:00+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List              
@@ -11428,6 +11428,7 @@
 ||animefucktube.com^
 ||animefurry.com^
 ||animegahd.com^
+||animegalore.com^
 ||animegay.net^
 ||animegifs.me^
 ||animegifs.pro^
@@ -26467,6 +26468,7 @@
 ||brazz-girls.com^
 ||brazz.icu^
 ||brazzclub.top^
+||brazzer-sex.ru^
 ||brazzer.click^
 ||brazzer.com^
 ||brazzer.download^
@@ -132252,6 +132254,7 @@
 ||pornhubvideos.co^
 ||pornhubvideos.me^
 ||pornhubvideos.movie.blog^
+||pornhubvideos.ru^
 ||pornhubvideoxxx.com^
 ||pornhubvirtual.com^
 ||pornhubwebcams.com^
