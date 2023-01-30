@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202301300852
+! Version: 202301301009
 ! Title: oisd extra
-! Last modified: 2023-01-30T08:52:22+0000
+! Last modified: 2023-01-30T10:09:14+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List             
@@ -570,7 +570,6 @@
 ||detroithardcore.com^
 ||device-api.urbanairship.com^
 ||devices.carnivalmobile.com^
-||dfadas13.com^
 ||dfnac.fr^
 ||dfsvhv88.com^
 ||dianomioffers.co.uk^
@@ -707,6 +706,7 @@
 ||fiduciariobajio.com.mx^
 ||findswiftresults.com^
 ||fireflyengagement.com^
+||firstblackphase.com^
 ||fjdy.cc^
 ||flexlinkspro.com^
 ||fls-eu.amazon-adsystem.com^
@@ -1283,6 +1283,7 @@
 ||online.sh.cn^
 ||onthe.io^
 ||oorlsblk.cyou^
+||opeem.cyou^
 ||open.delivery.net^
 ||optaim.com^
 ||opti-digital.com^
@@ -2036,7 +2037,6 @@
 ||ygwdai.cn^
 ||yigehong.com.cn^
 ||yikouxian.fun^
-||yinming.online^
 ||yinyouapp.com^
 ||yiuspekmn.bar^
 ||yoshatia.com^

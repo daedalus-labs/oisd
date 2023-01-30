@@ -1,6 +1,6 @@
-# Version: 202301300852
+# Version: 202301301009
 # Title: oisd extra
-# Last modified: 2023-01-30T08:52:23+0000
+# Last modified: 2023-01-30T10:09:14+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -571,7 +571,6 @@ local-zone: "destinationurl.com." always_null
 local-zone: "detroithardcore.com." always_null
 local-zone: "device-api.urbanairship.com." always_null
 local-zone: "devices.carnivalmobile.com." always_null
-local-zone: "dfadas13.com." always_null
 local-zone: "dfnac.fr." always_null
 local-zone: "dfsvhv88.com." always_null
 local-zone: "dianomioffers.co.uk." always_null
@@ -708,6 +707,7 @@ local-zone: "fhsiqk.xyz." always_null
 local-zone: "fiduciariobajio.com.mx." always_null
 local-zone: "findswiftresults.com." always_null
 local-zone: "fireflyengagement.com." always_null
+local-zone: "firstblackphase.com." always_null
 local-zone: "fjdy.cc." always_null
 local-zone: "flexlinkspro.com." always_null
 local-zone: "fls-eu.amazon-adsystem.com." always_null
@@ -1284,6 +1284,7 @@ local-zone: "onenetworkdirect.net." always_null
 local-zone: "online.sh.cn." always_null
 local-zone: "onthe.io." always_null
 local-zone: "oorlsblk.cyou." always_null
+local-zone: "opeem.cyou." always_null
 local-zone: "open.delivery.net." always_null
 local-zone: "optaim.com." always_null
 local-zone: "opti-digital.com." always_null
@@ -2037,7 +2038,6 @@ local-zone: "yfue99.xyz." always_null
 local-zone: "ygwdai.cn." always_null
 local-zone: "yigehong.com.cn." always_null
 local-zone: "yikouxian.fun." always_null
-local-zone: "yinming.online." always_null
 local-zone: "yinyouapp.com." always_null
 local-zone: "yiuspekmn.bar." always_null
 local-zone: "yoshatia.com." always_null

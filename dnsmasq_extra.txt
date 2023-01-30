@@ -1,6 +1,6 @@
-# Version: 202301300852
+# Version: 202301301009
 # Title: oisd extra
-# Last modified: 2023-01-30T08:52:22+0000
+# Last modified: 2023-01-30T10:09:14+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -569,7 +569,6 @@ server=/destinationurl.com/
 server=/detroithardcore.com/
 server=/device-api.urbanairship.com/
 server=/devices.carnivalmobile.com/
-server=/dfadas13.com/
 server=/dfnac.fr/
 server=/dfsvhv88.com/
 server=/dianomioffers.co.uk/
@@ -706,6 +705,7 @@ server=/fhsiqk.xyz/
 server=/fiduciariobajio.com.mx/
 server=/findswiftresults.com/
 server=/fireflyengagement.com/
+server=/firstblackphase.com/
 server=/fjdy.cc/
 server=/flexlinkspro.com/
 server=/fls-eu.amazon-adsystem.com/
@@ -1282,6 +1282,7 @@ server=/onenetworkdirect.net/
 server=/online.sh.cn/
 server=/onthe.io/
 server=/oorlsblk.cyou/
+server=/opeem.cyou/
 server=/open.delivery.net/
 server=/optaim.com/
 server=/opti-digital.com/
@@ -2035,7 +2036,6 @@ server=/yfue99.xyz/
 server=/ygwdai.cn/
 server=/yigehong.com.cn/
 server=/yikouxian.fun/
-server=/yinming.online/
 server=/yinyouapp.com/
 server=/yiuspekmn.bar/
 server=/yoshatia.com/

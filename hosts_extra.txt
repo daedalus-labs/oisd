@@ -1,6 +1,6 @@
-# Version: 202301300852
+# Version: 202301301009
 # Title: oisd extra
-# Last modified: 2023-01-30T08:52:18+0000
+# Last modified: 2023-01-30T10:09:10+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -1522,7 +1522,6 @@
 0.0.0.0 www.deskt.cn
 0.0.0.0 www.destinationurl.com
 0.0.0.0 www.detroithardcore.com
-0.0.0.0 www.dfadas13.com
 0.0.0.0 www.dfnac.fr
 0.0.0.0 www.dfsvhv88.com
 0.0.0.0 www.dianomioffers.co.uk
@@ -1624,6 +1623,7 @@
 0.0.0.0 www.fiduciariobajio.com.mx
 0.0.0.0 www.findswiftresults.com
 0.0.0.0 www.fireflyengagement.com
+0.0.0.0 www.firstblackphase.com
 0.0.0.0 www.fjdy.cc
 0.0.0.0 www.flexlinkspro.com
 0.0.0.0 www.fmcurling.org
@@ -2087,6 +2087,7 @@
 0.0.0.0 www.online.sh.cn
 0.0.0.0 www.onthe.io
 0.0.0.0 www.oorlsblk.cyou
+0.0.0.0 www.opeem.cyou
 0.0.0.0 www.optaim.com
 0.0.0.0 www.opti-digital.com
 0.0.0.0 www.orysogsik.uno
@@ -2668,7 +2669,6 @@
 0.0.0.0 www.ygwdai.cn
 0.0.0.0 www.yigehong.com.cn
 0.0.0.0 www.yikouxian.fun
-0.0.0.0 www.yinming.online
 0.0.0.0 www.yinyouapp.com
 0.0.0.0 www.yiuspekmn.bar
 0.0.0.0 www.yoshatia.com
