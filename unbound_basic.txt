@@ -1,6 +1,6 @@
-# Version: 202301291733
+# Version: 202301300615
 # Title: oisd basic
-# Last modified: 2023-01-29T17:33:08+0000
+# Last modified: 2023-01-30T06:15:32+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -73707,7 +73707,6 @@ local-zone: "widgets.recruitology.com." always_null
 local-zone: "widgets.shop.moda.it." always_null
 local-zone: "widgets.stackcommerce.com." always_null
 local-zone: "widgets.tree.com." always_null
-local-zone: "widgets.trustedshops.com." always_null
 local-zone: "widjet.analnoe.tv." always_null
 local-zone: "widow5blackfr.com." always_null
 local-zone: "widton.com." always_null

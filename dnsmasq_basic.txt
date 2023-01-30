@@ -1,6 +1,6 @@
-# Version: 202301291733
+# Version: 202301300615
 # Title: oisd basic
-# Last modified: 2023-01-29T17:33:05+0000
+# Last modified: 2023-01-30T06:15:30+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -73705,7 +73705,6 @@ server=/widgets.recruitology.com/
 server=/widgets.shop.moda.it/
 server=/widgets.stackcommerce.com/
 server=/widgets.tree.com/
-server=/widgets.trustedshops.com/
 server=/widjet.analnoe.tv/
 server=/widow5blackfr.com/
 server=/widton.com/
