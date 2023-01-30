@@ -1,6 +1,6 @@
-# Version: 202301301208
+# Version: 202301301623
 # Title: oisd basic
-# Last modified: 2023-01-30T12:08:12+0000
+# Last modified: 2023-01-30T16:23:38+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -17403,6 +17403,7 @@
 0.0.0.0 brdmin.com
 0.0.0.0 breadbalance.com
 0.0.0.0 breadcrafters.com
+0.0.0.0 breahant.site
 0.0.0.0 break-even.it
 0.0.0.0 breakableinsurance.com
 0.0.0.0 breakdownfragileindication.com

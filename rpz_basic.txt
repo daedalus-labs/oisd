@@ -1,12 +1,12 @@
-; Version: 202301301208
+; Version: 202301301623
 ; Title: oisd basic
-; Last modified: 2023-01-30T12:08:18+0000
+; Last modified: 2023-01-30T16:23:44+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675080003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675095324 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -29101,6 +29101,8 @@ breadbalance.com CNAME .
 *.breadbalance.com CNAME .
 breadcrafters.com CNAME .
 *.breadcrafters.com CNAME .
+breahant.site CNAME .
+*.breahant.site CNAME .
 break-even.it CNAME .
 *.break-even.it CNAME .
 breakableinsurance.com CNAME .

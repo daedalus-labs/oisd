@@ -1,6 +1,6 @@
-# Version: 202301301208
+# Version: 202301301623
 # Title: oisd basic
-# Last modified: 2023-01-30T12:08:17+0000
+# Last modified: 2023-01-30T16:23:43+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -14551,6 +14551,7 @@ local=/brconnecta.com.br/
 local=/brdmin.com/
 local=/breadbalance.com/
 local=/breadcrafters.com/
+local=/breahant.site/
 local=/break-even.it/
 local=/breakableinsurance.com/
 local=/breakdownfragileindication.com/
