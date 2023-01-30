@@ -1,6 +1,6 @@
-# Version: 202301301009
+# Version: 202301301209
 # Title: oisd extra
-# Last modified: 2023-01-30T10:09:14+0000
+# Last modified: 2023-01-30T12:09:26+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -76,7 +76,6 @@ local=/a1843.g.akamai.net/
 local=/a2uu36g43l.download/
 local=/a8.net/
 local=/aa.online-metrix.net/
-local=/aaaesme.cn/
 local=/aan.amazon.com/
 local=/aax-cpm.amazon-adsystem.com/
 local=/aax-eu-retail-direct.amazon-adsystem.com/
@@ -1552,7 +1551,6 @@ local=/securitymetrics.com/
 local=/securitytrfx.com/
 local=/sedoparking.com/
 local=/seed.bitcoin.sipa.be/
-local=/seed.bitcoinstats.com/
 local=/segment.com/
 local=/segment.io/
 local=/segmentify.com/

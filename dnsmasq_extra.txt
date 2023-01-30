@@ -1,6 +1,6 @@
-# Version: 202301301009
+# Version: 202301301209
 # Title: oisd extra
-# Last modified: 2023-01-30T10:09:14+0000
+# Last modified: 2023-01-30T12:09:26+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -76,7 +76,6 @@ server=/a1843.g.akamai.net/
 server=/a2uu36g43l.download/
 server=/a8.net/
 server=/aa.online-metrix.net/
-server=/aaaesme.cn/
 server=/aan.amazon.com/
 server=/aax-cpm.amazon-adsystem.com/
 server=/aax-eu-retail-direct.amazon-adsystem.com/
@@ -1552,7 +1551,6 @@ server=/securitymetrics.com/
 server=/securitytrfx.com/
 server=/sedoparking.com/
 server=/seed.bitcoin.sipa.be/
-server=/seed.bitcoinstats.com/
 server=/segment.com/
 server=/segment.io/
 server=/segmentify.com/

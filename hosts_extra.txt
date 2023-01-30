@@ -1,6 +1,6 @@
-# Version: 202301301009
+# Version: 202301301209
 # Title: oisd extra
-# Last modified: 2023-01-30T10:09:10+0000
+# Last modified: 2023-01-30T12:09:22+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -904,7 +904,6 @@
 0.0.0.0 securitymetrics.com
 0.0.0.0 sedoparking.com
 0.0.0.0 seed.bitcoin.sipa.be
-0.0.0.0 seed.bitcoinstats.com
 0.0.0.0 segment.com
 0.0.0.0 segment.io
 0.0.0.0 segmentify.com
@@ -1184,7 +1183,6 @@
 0.0.0.0 www.a0b11.com
 0.0.0.0 www.a2uu36g43l.download
 0.0.0.0 www.a8.net
-0.0.0.0 www.aaaesme.cn
 0.0.0.0 www.abblm.com
 0.0.0.0 www.abnad.net
 0.0.0.0 www.abogadodejacksonville.com

@@ -1,12 +1,12 @@
-; Version: 202301301009
+; Version: 202301301209
 ; Title: oisd extra
-; Last modified: 2023-01-30T10:09:14+0000
+; Last modified: 2023-01-30T12:09:26+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675072802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675080003 86400 3600 604800 30
  NS localhost.
 
 0371app.wang CNAME .
@@ -151,8 +151,6 @@ a8.net CNAME .
 *.a8.net CNAME .
 aa.online-metrix.net CNAME .
 *.aa.online-metrix.net CNAME .
-aaaesme.cn CNAME .
-*.aaaesme.cn CNAME .
 aan.amazon.com CNAME .
 *.aan.amazon.com CNAME .
 aax-cpm.amazon-adsystem.com CNAME .
@@ -3103,8 +3101,6 @@ sedoparking.com CNAME .
 *.sedoparking.com CNAME .
 seed.bitcoin.sipa.be CNAME .
 *.seed.bitcoin.sipa.be CNAME .
-seed.bitcoinstats.com CNAME .
-*.seed.bitcoinstats.com CNAME .
 segment.com CNAME .
 *.segment.com CNAME .
 segment.io CNAME .
