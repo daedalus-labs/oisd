@@ -1,12 +1,12 @@
-; Version: 202301300851
+; Version: 202301301008
 ; Title: oisd basic
-; Last modified: 2023-01-30T08:51:09+0000
+; Last modified: 2023-01-30T10:08:05+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675065601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675072802 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -30449,8 +30449,6 @@ byyanmaor.com CNAME .
 *.byyanmaor.com CNAME .
 byzgoso.ru CNAME .
 *.byzgoso.ru CNAME .
-byzt8.top CNAME .
-*.byzt8.top CNAME .
 bz.waveoffcrakes.com CNAME .
 *.bz.waveoffcrakes.com CNAME .
 bz4xhomecharger.com CNAME .
@@ -56579,8 +56577,6 @@ firstadsolution.com CNAME .
 *.firstadsolution.com CNAME .
 firstbellglobal.com CNAME .
 *.firstbellglobal.com CNAME .
-firstblackphase.com CNAME .
-*.firstblackphase.com CNAME .
 firstchoicefertility.in CNAME .
 *.firstchoicefertility.in CNAME .
 firstclassdatang.com CNAME .
@@ -63739,8 +63735,6 @@ grlogistics.gr CNAME .
 *.grlogistics.gr CNAME .
 grmtech.net CNAME .
 *.grmtech.net CNAME .
-grndhkd.cn CNAME .
-*.grndhkd.cn CNAME .
 grnet.id CNAME .
 *.grnet.id CNAME .
 groacmaz.com CNAME .
@@ -78445,8 +78439,6 @@ kzorre.com CNAME .
 *.kzorre.com CNAME .
 kzsfip3v.cfd CNAME .
 *.kzsfip3v.cfd CNAME .
-kzwwamf.cn CNAME .
-*.kzwwamf.cn CNAME .
 l.clicktale.net CNAME .
 *.l.clicktale.net CNAME .
 l.connatix.com CNAME .
@@ -91059,8 +91051,6 @@ mvelectricful.com CNAME .
 *.mvelectricful.com CNAME .
 mvevuokyzah.com CNAME .
 *.mvevuokyzah.com CNAME .
-mvfrcio.cn CNAME .
-*.mvfrcio.cn CNAME .
 mvilivestats.com CNAME .
 *.mvilivestats.com CNAME .
 mvkvlpxds.com CNAME .
@@ -97661,8 +97651,6 @@ opediatech.com CNAME .
 *.opediatech.com CNAME .
 opediatech.com.sg CNAME .
 *.opediatech.com.sg CNAME .
-opeem.cyou CNAME .
-*.opeem.cyou CNAME .
 opelop.com CNAME .
 *.opelop.com CNAME .
 open-up.it CNAME .
@@ -120045,8 +120033,6 @@ sitebro.tw CNAME .
 *.sitebro.tw CNAME .
 sitecompass.com CNAME .
 *.sitecompass.com CNAME .
-sitecounter.site CNAME .
-*.sitecounter.site CNAME .
 sitedataprocessing.com CNAME .
 *.sitedataprocessing.com CNAME .
 sitedoafiliado.com.br CNAME .
@@ -147795,8 +147781,6 @@ xrp-new.site CNAME .
 *.xrp-new.site CNAME .
 xruonpmunan.com CNAME .
 *.xruonpmunan.com CNAME .
-xryjyfb.cn CNAME .
-*.xryjyfb.cn CNAME .
 xs213.javgg.club CNAME .
 *.xs213.javgg.club CNAME .
 xsa2zq7q2l.ru CNAME .

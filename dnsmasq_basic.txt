@@ -1,6 +1,6 @@
-# Version: 202301300851
+# Version: 202301301008
 # Title: oisd basic
-# Last modified: 2023-01-30T08:51:08+0000
+# Last modified: 2023-01-30T10:08:04+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -15225,7 +15225,6 @@ server=/bywhoshixo.com/
 server=/byxdeoner.com/
 server=/byyanmaor.com/
 server=/byzgoso.ru/
-server=/byzt8.top/
 server=/bz.waveoffcrakes.com/
 server=/bz4xhomecharger.com/
 server=/bzclk.baidu.com/
@@ -28290,7 +28289,6 @@ server=/first.nova.cz/
 server=/first11.cn/
 server=/firstadsolution.com/
 server=/firstbellglobal.com/
-server=/firstblackphase.com/
 server=/firstchoicefertility.in/
 server=/firstclassdatang.com/
 server=/firstconsumers.com/
@@ -31870,7 +31868,6 @@ server=/griwhouy.com/
 server=/grlglobal.in/
 server=/grlogistics.gr/
 server=/grmtech.net/
-server=/grndhkd.cn/
 server=/grnet.id/
 server=/groacmaz.com/
 server=/grobido.info/
@@ -39223,7 +39220,6 @@ server=/kzezz.com/
 server=/kzkmmbrrzn.com/
 server=/kzorre.com/
 server=/kzsfip3v.cfd/
-server=/kzwwamf.cn/
 server=/l.clicktale.net/
 server=/l.connatix.com/
 server=/l.da-te.jp/
@@ -45530,7 +45526,6 @@ server=/mvchallenges.s3-website-eu-west-1.amazonaws.com/
 server=/mvdwq.xyz/
 server=/mvelectricful.com/
 server=/mvevuokyzah.com/
-server=/mvfrcio.cn/
 server=/mvilivestats.com/
 server=/mvkvlpxds.com/
 server=/mvlkvth.cn/
@@ -48831,7 +48826,6 @@ server=/opeate.com/
 server=/opediaitinstitute.com/
 server=/opediatech.com/
 server=/opediatech.com.sg/
-server=/opeem.cyou/
 server=/opelop.com/
 server=/open-up.it/
 server=/open.isnssdk.com/
@@ -60023,7 +60017,6 @@ server=/sitebro.de/
 server=/sitebro.net/
 server=/sitebro.tw/
 server=/sitecompass.com/
-server=/sitecounter.site/
 server=/sitedataprocessing.com/
 server=/sitedoafiliado.com.br/
 server=/siteencore.com/
@@ -73898,7 +73891,6 @@ server=/xrp-live.io/
 server=/xrp-live.live/
 server=/xrp-new.site/
 server=/xruonpmunan.com/
-server=/xryjyfb.cn/
 server=/xs213.javgg.club/
 server=/xsa2zq7q2l.ru/
 server=/xsafdsv.cn/

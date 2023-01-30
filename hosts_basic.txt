@@ -1,6 +1,6 @@
-# Version: 202301300851
+# Version: 202301301007
 # Title: oisd basic
-# Last modified: 2023-01-30T08:51:03+0000
+# Last modified: 2023-01-30T10:07:59+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -18127,7 +18127,6 @@
 0.0.0.0 byxdeoner.com
 0.0.0.0 byyanmaor.com
 0.0.0.0 byzgoso.ru
-0.0.0.0 byzt8.top
 0.0.0.0 bz.waveoffcrakes.com
 0.0.0.0 bz4xhomecharger.com
 0.0.0.0 bzcdn.fin.ovh
@@ -33560,7 +33559,6 @@
 0.0.0.0 first11.cn
 0.0.0.0 firstadsolution.com
 0.0.0.0 firstbellglobal.com
-0.0.0.0 firstblackphase.com
 0.0.0.0 firstchoicefertility.in
 0.0.0.0 firstclassdatang.com
 0.0.0.0 firstconsumers.com
@@ -37433,7 +37431,6 @@
 0.0.0.0 grlglobal.in
 0.0.0.0 grlogistics.gr
 0.0.0.0 grmtech.net
-0.0.0.0 grndhkd.cn
 0.0.0.0 grnet.id
 0.0.0.0 groacmaz.com
 0.0.0.0 grobido.info
@@ -45683,7 +45680,6 @@
 0.0.0.0 kzkmmbrrzn.com
 0.0.0.0 kzorre.com
 0.0.0.0 kzsfip3v.cfd
-0.0.0.0 kzwwamf.cn
 0.0.0.0 l-sspcash.adxcore.com
 0.0.0.0 l.a.eclick.vn
 0.0.0.0 l.aaxads.com
@@ -52601,7 +52597,6 @@
 0.0.0.0 mvdwq.xyz
 0.0.0.0 mvelectricful.com
 0.0.0.0 mvevuokyzah.com
-0.0.0.0 mvfrcio.cn
 0.0.0.0 mvideo.tpmedia.online
 0.0.0.0 mvilivestats.com
 0.0.0.0 mvkvlpxds.com
@@ -56120,7 +56115,6 @@
 0.0.0.0 opediaitinstitute.com
 0.0.0.0 opediatech.com
 0.0.0.0 opediatech.com.sg
-0.0.0.0 opeem.cyou
 0.0.0.0 opelop.com
 0.0.0.0 open-up.it
 0.0.0.0 open.adview.cn
@@ -69067,7 +69061,6 @@
 0.0.0.0 sitebro.net
 0.0.0.0 sitebro.tw
 0.0.0.0 sitecompass.com
-0.0.0.0 sitecounter.site
 0.0.0.0 sitedataprocessing.com
 0.0.0.0 sitedoafiliado.com.br
 0.0.0.0 siteencore.com
@@ -85245,7 +85238,6 @@
 0.0.0.0 xrp-live.live
 0.0.0.0 xrp-new.site
 0.0.0.0 xruonpmunan.com
-0.0.0.0 xryjyfb.cn
 0.0.0.0 xs.houyi.baofeng.net
 0.0.0.0 xs213.javgg.club
 0.0.0.0 xsa2zq7q2l.ru

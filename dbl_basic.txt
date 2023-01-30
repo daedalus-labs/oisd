@@ -1,6 +1,6 @@
-# Version: 202301300851
+# Version: 202301301007
 # Title: oisd basic
-# Last modified: 2023-01-30T08:51:03+0000
+# Last modified: 2023-01-30T10:07:59+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -18127,7 +18127,6 @@ bywhoshixo.com
 byxdeoner.com
 byyanmaor.com
 byzgoso.ru
-byzt8.top
 bz.waveoffcrakes.com
 bz4xhomecharger.com
 bzcdn.fin.ovh
@@ -33560,7 +33559,6 @@ first.nova.cz
 first11.cn
 firstadsolution.com
 firstbellglobal.com
-firstblackphase.com
 firstchoicefertility.in
 firstclassdatang.com
 firstconsumers.com
@@ -37433,7 +37431,6 @@ griwhouy.com
 grlglobal.in
 grlogistics.gr
 grmtech.net
-grndhkd.cn
 grnet.id
 groacmaz.com
 grobido.info
@@ -45683,7 +45680,6 @@ kzezz.com
 kzkmmbrrzn.com
 kzorre.com
 kzsfip3v.cfd
-kzwwamf.cn
 l-sspcash.adxcore.com
 l.a.eclick.vn
 l.aaxads.com
@@ -52601,7 +52597,6 @@ mvchallenges.s3-website-eu-west-1.amazonaws.com
 mvdwq.xyz
 mvelectricful.com
 mvevuokyzah.com
-mvfrcio.cn
 mvideo.tpmedia.online
 mvilivestats.com
 mvkvlpxds.com
@@ -56120,7 +56115,6 @@ opeate.com
 opediaitinstitute.com
 opediatech.com
 opediatech.com.sg
-opeem.cyou
 opelop.com
 open-up.it
 open.adview.cn
@@ -69067,7 +69061,6 @@ sitebro.de
 sitebro.net
 sitebro.tw
 sitecompass.com
-sitecounter.site
 sitedataprocessing.com
 sitedoafiliado.com.br
 siteencore.com
@@ -85245,7 +85238,6 @@ xrp-live.io
 xrp-live.live
 xrp-new.site
 xruonpmunan.com
-xryjyfb.cn
 xs.houyi.baofeng.net
 xs213.javgg.club
 xsa2zq7q2l.ru

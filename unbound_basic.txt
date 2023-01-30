@@ -1,6 +1,6 @@
-# Version: 202301300851
+# Version: 202301301008
 # Title: oisd basic
-# Last modified: 2023-01-30T08:51:10+0000
+# Last modified: 2023-01-30T10:08:05+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -15227,7 +15227,6 @@ local-zone: "bywhoshixo.com." always_null
 local-zone: "byxdeoner.com." always_null
 local-zone: "byyanmaor.com." always_null
 local-zone: "byzgoso.ru." always_null
-local-zone: "byzt8.top." always_null
 local-zone: "bz.waveoffcrakes.com." always_null
 local-zone: "bz4xhomecharger.com." always_null
 local-zone: "bzclk.baidu.com." always_null
@@ -28292,7 +28291,6 @@ local-zone: "first.nova.cz." always_null
 local-zone: "first11.cn." always_null
 local-zone: "firstadsolution.com." always_null
 local-zone: "firstbellglobal.com." always_null
-local-zone: "firstblackphase.com." always_null
 local-zone: "firstchoicefertility.in." always_null
 local-zone: "firstclassdatang.com." always_null
 local-zone: "firstconsumers.com." always_null
@@ -31872,7 +31870,6 @@ local-zone: "griwhouy.com." always_null
 local-zone: "grlglobal.in." always_null
 local-zone: "grlogistics.gr." always_null
 local-zone: "grmtech.net." always_null
-local-zone: "grndhkd.cn." always_null
 local-zone: "grnet.id." always_null
 local-zone: "groacmaz.com." always_null
 local-zone: "grobido.info." always_null
@@ -39225,7 +39222,6 @@ local-zone: "kzezz.com." always_null
 local-zone: "kzkmmbrrzn.com." always_null
 local-zone: "kzorre.com." always_null
 local-zone: "kzsfip3v.cfd." always_null
-local-zone: "kzwwamf.cn." always_null
 local-zone: "l.clicktale.net." always_null
 local-zone: "l.connatix.com." always_null
 local-zone: "l.da-te.jp." always_null
@@ -45532,7 +45528,6 @@ local-zone: "mvchallenges.s3-website-eu-west-1.amazonaws.com." always_null
 local-zone: "mvdwq.xyz." always_null
 local-zone: "mvelectricful.com." always_null
 local-zone: "mvevuokyzah.com." always_null
-local-zone: "mvfrcio.cn." always_null
 local-zone: "mvilivestats.com." always_null
 local-zone: "mvkvlpxds.com." always_null
 local-zone: "mvlkvth.cn." always_null
@@ -48833,7 +48828,6 @@ local-zone: "opeate.com." always_null
 local-zone: "opediaitinstitute.com." always_null
 local-zone: "opediatech.com." always_null
 local-zone: "opediatech.com.sg." always_null
-local-zone: "opeem.cyou." always_null
 local-zone: "opelop.com." always_null
 local-zone: "open-up.it." always_null
 local-zone: "open.isnssdk.com." always_null
@@ -60025,7 +60019,6 @@ local-zone: "sitebro.de." always_null
 local-zone: "sitebro.net." always_null
 local-zone: "sitebro.tw." always_null
 local-zone: "sitecompass.com." always_null
-local-zone: "sitecounter.site." always_null
 local-zone: "sitedataprocessing.com." always_null
 local-zone: "sitedoafiliado.com.br." always_null
 local-zone: "siteencore.com." always_null
@@ -73900,7 +73893,6 @@ local-zone: "xrp-live.io." always_null
 local-zone: "xrp-live.live." always_null
 local-zone: "xrp-new.site." always_null
 local-zone: "xruonpmunan.com." always_null
-local-zone: "xryjyfb.cn." always_null
 local-zone: "xs213.javgg.club." always_null
 local-zone: "xsa2zq7q2l.ru." always_null
 local-zone: "xsafdsv.cn." always_null

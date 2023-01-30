@@ -1,6 +1,6 @@
-# Version: 202301300851
+# Version: 202301301008
 # Title: oisd basic
-# Last modified: 2023-01-30T08:51:09+0000
+# Last modified: 2023-01-30T10:08:04+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -15225,7 +15225,6 @@ local=/bywhoshixo.com/
 local=/byxdeoner.com/
 local=/byyanmaor.com/
 local=/byzgoso.ru/
-local=/byzt8.top/
 local=/bz.waveoffcrakes.com/
 local=/bz4xhomecharger.com/
 local=/bzclk.baidu.com/
@@ -28290,7 +28289,6 @@ local=/first.nova.cz/
 local=/first11.cn/
 local=/firstadsolution.com/
 local=/firstbellglobal.com/
-local=/firstblackphase.com/
 local=/firstchoicefertility.in/
 local=/firstclassdatang.com/
 local=/firstconsumers.com/
@@ -31870,7 +31868,6 @@ local=/griwhouy.com/
 local=/grlglobal.in/
 local=/grlogistics.gr/
 local=/grmtech.net/
-local=/grndhkd.cn/
 local=/grnet.id/
 local=/groacmaz.com/
 local=/grobido.info/
@@ -39223,7 +39220,6 @@ local=/kzezz.com/
 local=/kzkmmbrrzn.com/
 local=/kzorre.com/
 local=/kzsfip3v.cfd/
-local=/kzwwamf.cn/
 local=/l.clicktale.net/
 local=/l.connatix.com/
 local=/l.da-te.jp/
@@ -45530,7 +45526,6 @@ local=/mvchallenges.s3-website-eu-west-1.amazonaws.com/
 local=/mvdwq.xyz/
 local=/mvelectricful.com/
 local=/mvevuokyzah.com/
-local=/mvfrcio.cn/
 local=/mvilivestats.com/
 local=/mvkvlpxds.com/
 local=/mvlkvth.cn/
@@ -48831,7 +48826,6 @@ local=/opeate.com/
 local=/opediaitinstitute.com/
 local=/opediatech.com/
 local=/opediatech.com.sg/
-local=/opeem.cyou/
 local=/opelop.com/
 local=/open-up.it/
 local=/open.isnssdk.com/
@@ -60023,7 +60017,6 @@ local=/sitebro.de/
 local=/sitebro.net/
 local=/sitebro.tw/
 local=/sitecompass.com/
-local=/sitecounter.site/
 local=/sitedataprocessing.com/
 local=/sitedoafiliado.com.br/
 local=/siteencore.com/
@@ -73898,7 +73891,6 @@ local=/xrp-live.io/
 local=/xrp-live.live/
 local=/xrp-new.site/
 local=/xruonpmunan.com/
-local=/xryjyfb.cn/
 local=/xs213.javgg.club/
 local=/xsa2zq7q2l.ru/
 local=/xsafdsv.cn/
