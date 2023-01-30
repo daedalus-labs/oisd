@@ -1,6 +1,6 @@
-# Version: 202301301209
+# Version: 202301301409
 # Title: oisd extra
-# Last modified: 2023-01-30T12:09:26+0000
+# Last modified: 2023-01-30T14:09:10+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -1281,7 +1281,6 @@ local=/onenetworkdirect.net/
 local=/online.sh.cn/
 local=/onthe.io/
 local=/oorlsblk.cyou/
-local=/opeem.cyou/
 local=/open.delivery.net/
 local=/optaim.com/
 local=/opti-digital.com/
