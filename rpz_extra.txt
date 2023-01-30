@@ -1,12 +1,12 @@
-; Version: 202301290608
+; Version: 202301300852
 ; Title: oisd extra
-; Last modified: 2023-01-29T06:08:51+0000
+; Last modified: 2023-01-30T08:52:23+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1674972002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675065601 86400 3600 604800 30
  NS localhost.
 
 0371app.wang CNAME .
@@ -151,6 +151,8 @@ a8.net CNAME .
 *.a8.net CNAME .
 aa.online-metrix.net CNAME .
 *.aa.online-metrix.net CNAME .
+aaaesme.cn CNAME .
+*.aaaesme.cn CNAME .
 aan.amazon.com CNAME .
 *.aan.amazon.com CNAME .
 aax-cpm.amazon-adsystem.com CNAME .
@@ -1135,6 +1137,8 @@ device-api.urbanairship.com CNAME .
 *.device-api.urbanairship.com CNAME .
 devices.carnivalmobile.com CNAME .
 *.devices.carnivalmobile.com CNAME .
+dfadas13.com CNAME .
+*.dfadas13.com CNAME .
 dfnac.fr CNAME .
 *.dfnac.fr CNAME .
 dfsvhv88.com CNAME .
@@ -1495,6 +1499,8 @@ genieessp.com CNAME .
 *.genieessp.com CNAME .
 geo.nbcsports.com CNAME .
 *.geo.nbcsports.com CNAME .
+geo.yahoo.com CNAME .
+*.geo.yahoo.com CNAME .
 geoip-js.com CNAME .
 *.geoip-js.com CNAME .
 geojs.io CNAME .
@@ -2711,6 +2717,8 @@ ppcprotect.com CNAME .
 *.ppcprotect.com CNAME .
 pr.analytics.console.aws.a2z.com CNAME .
 *.pr.analytics.console.aws.a2z.com CNAME .
+pr.comet.yahoo.com CNAME .
+*.pr.comet.yahoo.com CNAME .
 preroot.xyz CNAME .
 *.preroot.xyz CNAME .
 presidency.site CNAME .
@@ -3671,8 +3679,6 @@ ubt-sin.tripcdn.com CNAME .
 *.ubt-sin.tripcdn.com CNAME .
 uciservice.com CNAME .
 *.uciservice.com CNAME .
-udec.cl CNAME .
-*.udec.cl CNAME .
 udiy.club CNAME .
 *.udiy.club CNAME .
 ue.flipboard.com CNAME .
@@ -3865,6 +3871,8 @@ whmhdz.xyz CNAME .
 *.whmhdz.xyz CNAME .
 widget-cdn.rpxnow.com CNAME .
 *.widget-cdn.rpxnow.com CNAME .
+widgets.trustedshops.com CNAME .
+*.widgets.trustedshops.com CNAME .
 wildcard.evidon.com.edgekey.net CNAME .
 *.wildcard.evidon.com.edgekey.net CNAME .
 wildcard.outbrain.com.edgekey.net CNAME .
@@ -4011,6 +4019,8 @@ xorlsblw.cyou CNAME .
 *.xorlsblw.cyou CNAME .
 xp2tb80s.xyz CNAME .
 *.xp2tb80s.xyz CNAME .
+xtremepush.com CNAME .
+*.xtremepush.com CNAME .
 xtxa.net CNAME .
 *.xtxa.net CNAME .
 xuekalun.com CNAME .
@@ -4059,6 +4069,8 @@ yigehong.com.cn CNAME .
 *.yigehong.com.cn CNAME .
 yikouxian.fun CNAME .
 *.yikouxian.fun CNAME .
+yinming.online CNAME .
+*.yinming.online CNAME .
 yinyouapp.com CNAME .
 *.yinyouapp.com CNAME .
 yiuspekmn.bar CNAME .

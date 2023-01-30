@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202301291412
+! Version: 202301300855
 ! Title: oisd nsfw
-! Last modified: 2023-01-29T14:12:16+0000
+! Last modified: 2023-01-30T08:55:08+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List              
@@ -17076,7 +17076,6 @@
 ||batzenkeller.at^
 ||bau9bui9.free.fr^
 ||bavarialadies.de^
-||bavarianfetish.de^
 ||bavivo.com^
 ||bawdybloke.com^
 ||bawdyporn.com^
@@ -17152,7 +17151,6 @@
 ||bbdoll.co.uk^
 ||bbdoll.com^
 ||bbdu9.xyz^
-||bbebd.porncrafty.com^
 ||bbfilms.com^
 ||bbfun.pw^
 ||bbitoy.com^
@@ -17647,6 +17645,7 @@
 ||bbwxnxx.net^
 ||bbwxxx.cc^
 ||bbwxxx.icu^
+||bbwxxx.mobi^
 ||bbwxxx.name^
 ||bbwxxx.net^
 ||bbwxxx.org^
@@ -39504,6 +39503,7 @@
 ||dcashstudios.com^
 ||dcbiggirls.com^
 ||dchoneys.com^
+||dcm.xxx^
 ||dcp-krug.ru^
 ||dcs68.com^
 ||dcshemalesex.com^
@@ -49916,6 +49916,7 @@
 ||exoticwomen.com^
 ||exoticwomenofmissnikki.com^
 ||exoticworldusa.org^
+||exoticzambia.com^
 ||exotik-pearl.onlc.fr^
 ||exotranny.com^
 ||expansible.com^
@@ -62414,6 +62415,7 @@
 ||fullsexpornhd.com^
 ||fullsexsex.com^
 ||fullsexvideo.net^
+||fullsexyvideo.net^
 ||fullshemaleporn.com^
 ||fullshemalesex.com^
 ||fullsizemovies.com^
@@ -64772,6 +64774,7 @@
 ||gaycocksex.com^
 ||gaycocksucking.com^
 ||gaycocktgp.com^
+||gaycocktube.com^
 ||gaycockvideos.com^
 ||gaycockworship.com^
 ||gaycollector.com^
@@ -78010,6 +78013,7 @@
 ||hindisexstory.net^
 ||hindisextube.net^
 ||hindisextube.org^
+||hindisextv.com^
 ||hindisexualstories.com^
 ||hindisexvideo.mobi^
 ||hindisexvideo.net^
@@ -128302,6 +128306,7 @@
 ||porn-hub-com.ru^
 ||porn-hub-deutsch.com^
 ||porn-hub-premium.ru^
+||porn-hub.be^
 ||porn-hub.casa^
 ||porn-hub.com^
 ||porn-hub.es^
@@ -136266,6 +136271,7 @@
 ||pornoleader.org^
 ||pornoleaks.fun^
 ||pornoleeuw.com^
+||pornoleeuw.eu^
 ||pornolegendado.blog^
 ||pornolegendado.top^
 ||pornolegende.com^
@@ -142580,6 +142586,7 @@
 ||princesspussy.com^
 ||princessxxxgames.fun^
 ||principiainfecta.com^
+||print.gayeroticarchives.com^
 ||printed-spandex.com^
 ||priorityescorts.co.uk^
 ||prioritymale.com^
@@ -149784,6 +149791,7 @@
 ||sauc.live^
 ||saucedxxx.com^
 ||sauceofsex.com^
+||saucernipples.com^
 ||saucissonsex.com^
 ||saucissonsexe.com^
 ||saucyboutique.co.uk^
@@ -155152,6 +155160,7 @@
 ||sexdate-regio.be^
 ||sexdate-scoren.nl^
 ||sexdate-site.nl^
+||sexdate-test.de^
 ||sexdate-und-handynummer.camficken.net^
 ||sexdate-vandaag.nl^
 ||sexdate-vinden.be^
@@ -178673,6 +178682,7 @@
 ||telefonsex-chat.com^
 ||telefonsex-chat.net^
 ||telefonsex-chat.xyz^
+||telefonsex-cheyenne.at^
 ||telefonsex-cheyenne26.de^
 ||telefonsex-city.net^
 ||telefonsex-citygirls.com^
@@ -193466,8 +193476,10 @@
 ||vlxxnxx.net^
 ||vlxxs.net^
 ||vlxxsex.cc^
+||vlxxsex.me^
 ||vlxxsex.net^
 ||vlxxsex.tv^
+||vlxxsex.vip^
 ||vlxxtop.com^
 ||vlxxtube.com^
 ||vlxxtube.net^

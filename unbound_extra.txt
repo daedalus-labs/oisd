@@ -1,6 +1,6 @@
-# Version: 202301290608
+# Version: 202301300852
 # Title: oisd extra
-# Last modified: 2023-01-29T06:08:51+0000
+# Last modified: 2023-01-30T08:52:23+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -78,6 +78,7 @@ local-zone: "a1843.g.akamai.net." always_null
 local-zone: "a2uu36g43l.download." always_null
 local-zone: "a8.net." always_null
 local-zone: "aa.online-metrix.net." always_null
+local-zone: "aaaesme.cn." always_null
 local-zone: "aan.amazon.com." always_null
 local-zone: "aax-cpm.amazon-adsystem.com." always_null
 local-zone: "aax-eu-retail-direct.amazon-adsystem.com." always_null
@@ -570,6 +571,7 @@ local-zone: "destinationurl.com." always_null
 local-zone: "detroithardcore.com." always_null
 local-zone: "device-api.urbanairship.com." always_null
 local-zone: "devices.carnivalmobile.com." always_null
+local-zone: "dfadas13.com." always_null
 local-zone: "dfnac.fr." always_null
 local-zone: "dfsvhv88.com." always_null
 local-zone: "dianomioffers.co.uk." always_null
@@ -750,6 +752,7 @@ local-zone: "gemius.mgr.consensu.org." always_null
 local-zone: "gemius.pl." always_null
 local-zone: "genieessp.com." always_null
 local-zone: "geo.nbcsports.com." always_null
+local-zone: "geo.yahoo.com." always_null
 local-zone: "geoip-js.com." always_null
 local-zone: "geojs.io." always_null
 local-zone: "geolocation.onetrust.com." always_null
@@ -1358,6 +1361,7 @@ local-zone: "pouyao.com." always_null
 local-zone: "pp8.com." always_null
 local-zone: "ppcprotect.com." always_null
 local-zone: "pr.analytics.console.aws.a2z.com." always_null
+local-zone: "pr.comet.yahoo.com." always_null
 local-zone: "preroot.xyz." always_null
 local-zone: "presidency.site." always_null
 local-zone: "privacy-policy.truste.com." always_null
@@ -1838,7 +1842,6 @@ local-zone: "uaadi.com." always_null
 local-zone: "ubazhaheit.top." always_null
 local-zone: "ubt-sin.tripcdn.com." always_null
 local-zone: "uciservice.com." always_null
-local-zone: "udec.cl." always_null
 local-zone: "udiy.club." always_null
 local-zone: "ue.flipboard.com." always_null
 local-zone: "uengbalc.fun." always_null
@@ -1935,6 +1938,7 @@ local-zone: "whatfinger.com." always_null
 local-zone: "whipcrack.org." always_null
 local-zone: "whmhdz.xyz." always_null
 local-zone: "widget-cdn.rpxnow.com." always_null
+local-zone: "widgets.trustedshops.com." always_null
 local-zone: "wildcard.evidon.com.edgekey.net." always_null
 local-zone: "wildcard.outbrain.com.edgekey.net." always_null
 local-zone: "wildcard46.akstat.io.edgekey.net." always_null
@@ -2008,6 +2012,7 @@ local-zone: "xmwn.shop." always_null
 local-zone: "xn--myetherwallt-cfb.com." always_null
 local-zone: "xorlsblw.cyou." always_null
 local-zone: "xp2tb80s.xyz." always_null
+local-zone: "xtremepush.com." always_null
 local-zone: "xtxa.net." always_null
 local-zone: "xuekalun.com." always_null
 local-zone: "xuliglsw.space." always_null
@@ -2032,6 +2037,7 @@ local-zone: "yfue99.xyz." always_null
 local-zone: "ygwdai.cn." always_null
 local-zone: "yigehong.com.cn." always_null
 local-zone: "yikouxian.fun." always_null
+local-zone: "yinming.online." always_null
 local-zone: "yinyouapp.com." always_null
 local-zone: "yiuspekmn.bar." always_null
 local-zone: "yoshatia.com." always_null

@@ -1,6 +1,6 @@
-# Version: 202301290608
+# Version: 202301300852
 # Title: oisd extra
-# Last modified: 2023-01-29T06:08:51+0000
+# Last modified: 2023-01-30T08:52:22+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -76,6 +76,7 @@ local=/a1843.g.akamai.net/
 local=/a2uu36g43l.download/
 local=/a8.net/
 local=/aa.online-metrix.net/
+local=/aaaesme.cn/
 local=/aan.amazon.com/
 local=/aax-cpm.amazon-adsystem.com/
 local=/aax-eu-retail-direct.amazon-adsystem.com/
@@ -568,6 +569,7 @@ local=/destinationurl.com/
 local=/detroithardcore.com/
 local=/device-api.urbanairship.com/
 local=/devices.carnivalmobile.com/
+local=/dfadas13.com/
 local=/dfnac.fr/
 local=/dfsvhv88.com/
 local=/dianomioffers.co.uk/
@@ -748,6 +750,7 @@ local=/gemius.mgr.consensu.org/
 local=/gemius.pl/
 local=/genieessp.com/
 local=/geo.nbcsports.com/
+local=/geo.yahoo.com/
 local=/geoip-js.com/
 local=/geojs.io/
 local=/geolocation.onetrust.com/
@@ -1356,6 +1359,7 @@ local=/pouyao.com/
 local=/pp8.com/
 local=/ppcprotect.com/
 local=/pr.analytics.console.aws.a2z.com/
+local=/pr.comet.yahoo.com/
 local=/preroot.xyz/
 local=/presidency.site/
 local=/privacy-policy.truste.com/
@@ -1836,7 +1840,6 @@ local=/uaadi.com/
 local=/ubazhaheit.top/
 local=/ubt-sin.tripcdn.com/
 local=/uciservice.com/
-local=/udec.cl/
 local=/udiy.club/
 local=/ue.flipboard.com/
 local=/uengbalc.fun/
@@ -1933,6 +1936,7 @@ local=/whatfinger.com/
 local=/whipcrack.org/
 local=/whmhdz.xyz/
 local=/widget-cdn.rpxnow.com/
+local=/widgets.trustedshops.com/
 local=/wildcard.evidon.com.edgekey.net/
 local=/wildcard.outbrain.com.edgekey.net/
 local=/wildcard46.akstat.io.edgekey.net/
@@ -2006,6 +2010,7 @@ local=/xmwn.shop/
 local=/xn--myetherwallt-cfb.com/
 local=/xorlsblw.cyou/
 local=/xp2tb80s.xyz/
+local=/xtremepush.com/
 local=/xtxa.net/
 local=/xuekalun.com/
 local=/xuliglsw.space/
@@ -2030,6 +2035,7 @@ local=/yfue99.xyz/
 local=/ygwdai.cn/
 local=/yigehong.com.cn/
 local=/yikouxian.fun/
+local=/yinming.online/
 local=/yinyouapp.com/
 local=/yiuspekmn.bar/
 local=/yoshatia.com/

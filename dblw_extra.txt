@@ -1,6 +1,6 @@
-# Version: 202301290608
+# Version: 202301300852
 # Title: oisd extra
-# Last modified: 2023-01-29T06:08:51+0000
+# Last modified: 2023-01-30T08:52:23+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -79,6 +79,7 @@
 *.a2uu36g43l.download
 *.a8.net
 *.aa.online-metrix.net
+*.aaaesme.cn
 *.aan.amazon.com
 *.aax-cpm.amazon-adsystem.com
 *.aax-eu-retail-direct.amazon-adsystem.com
@@ -571,6 +572,7 @@
 *.detroithardcore.com
 *.device-api.urbanairship.com
 *.devices.carnivalmobile.com
+*.dfadas13.com
 *.dfnac.fr
 *.dfsvhv88.com
 *.dianomioffers.co.uk
@@ -751,6 +753,7 @@
 *.gemius.pl
 *.genieessp.com
 *.geo.nbcsports.com
+*.geo.yahoo.com
 *.geoip-js.com
 *.geojs.io
 *.geolocation.onetrust.com
@@ -1359,6 +1362,7 @@
 *.pp8.com
 *.ppcprotect.com
 *.pr.analytics.console.aws.a2z.com
+*.pr.comet.yahoo.com
 *.preroot.xyz
 *.presidency.site
 *.privacy-policy.truste.com
@@ -1839,7 +1843,6 @@
 *.ubazhaheit.top
 *.ubt-sin.tripcdn.com
 *.uciservice.com
-*.udec.cl
 *.udiy.club
 *.ue.flipboard.com
 *.uengbalc.fun
@@ -1936,6 +1939,7 @@
 *.whipcrack.org
 *.whmhdz.xyz
 *.widget-cdn.rpxnow.com
+*.widgets.trustedshops.com
 *.wildcard.evidon.com.edgekey.net
 *.wildcard.outbrain.com.edgekey.net
 *.wildcard46.akstat.io.edgekey.net
@@ -2009,6 +2013,7 @@
 *.xn--myetherwallt-cfb.com
 *.xorlsblw.cyou
 *.xp2tb80s.xyz
+*.xtremepush.com
 *.xtxa.net
 *.xuekalun.com
 *.xuliglsw.space
@@ -2033,6 +2038,7 @@
 *.ygwdai.cn
 *.yigehong.com.cn
 *.yikouxian.fun
+*.yinming.online
 *.yinyouapp.com
 *.yiuspekmn.bar
 *.yoshatia.com

@@ -1,6 +1,6 @@
-# Version: 202301290608
+# Version: 202301300852
 # Title: oisd extra
-# Last modified: 2023-01-29T06:08:51+0000
+# Last modified: 2023-01-30T08:52:22+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -76,6 +76,7 @@ server=/a1843.g.akamai.net/
 server=/a2uu36g43l.download/
 server=/a8.net/
 server=/aa.online-metrix.net/
+server=/aaaesme.cn/
 server=/aan.amazon.com/
 server=/aax-cpm.amazon-adsystem.com/
 server=/aax-eu-retail-direct.amazon-adsystem.com/
@@ -568,6 +569,7 @@ server=/destinationurl.com/
 server=/detroithardcore.com/
 server=/device-api.urbanairship.com/
 server=/devices.carnivalmobile.com/
+server=/dfadas13.com/
 server=/dfnac.fr/
 server=/dfsvhv88.com/
 server=/dianomioffers.co.uk/
@@ -748,6 +750,7 @@ server=/gemius.mgr.consensu.org/
 server=/gemius.pl/
 server=/genieessp.com/
 server=/geo.nbcsports.com/
+server=/geo.yahoo.com/
 server=/geoip-js.com/
 server=/geojs.io/
 server=/geolocation.onetrust.com/
@@ -1356,6 +1359,7 @@ server=/pouyao.com/
 server=/pp8.com/
 server=/ppcprotect.com/
 server=/pr.analytics.console.aws.a2z.com/
+server=/pr.comet.yahoo.com/
 server=/preroot.xyz/
 server=/presidency.site/
 server=/privacy-policy.truste.com/
@@ -1836,7 +1840,6 @@ server=/uaadi.com/
 server=/ubazhaheit.top/
 server=/ubt-sin.tripcdn.com/
 server=/uciservice.com/
-server=/udec.cl/
 server=/udiy.club/
 server=/ue.flipboard.com/
 server=/uengbalc.fun/
@@ -1933,6 +1936,7 @@ server=/whatfinger.com/
 server=/whipcrack.org/
 server=/whmhdz.xyz/
 server=/widget-cdn.rpxnow.com/
+server=/widgets.trustedshops.com/
 server=/wildcard.evidon.com.edgekey.net/
 server=/wildcard.outbrain.com.edgekey.net/
 server=/wildcard46.akstat.io.edgekey.net/
@@ -2006,6 +2010,7 @@ server=/xmwn.shop/
 server=/xn--myetherwallt-cfb.com/
 server=/xorlsblw.cyou/
 server=/xp2tb80s.xyz/
+server=/xtremepush.com/
 server=/xtxa.net/
 server=/xuekalun.com/
 server=/xuliglsw.space/
@@ -2030,6 +2035,7 @@ server=/yfue99.xyz/
 server=/ygwdai.cn/
 server=/yigehong.com.cn/
 server=/yikouxian.fun/
+server=/yinming.online/
 server=/yinyouapp.com/
 server=/yiuspekmn.bar/
 server=/yoshatia.com/

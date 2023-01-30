@@ -1,6 +1,6 @@
-# Version: 202301290608
+# Version: 202301300852
 # Title: oisd extra
-# Last modified: 2023-01-29T06:08:47+0000
+# Last modified: 2023-01-30T08:52:18+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -482,6 +482,7 @@
 0.0.0.0 gemius.mgr.consensu.org
 0.0.0.0 gemius.pl
 0.0.0.0 geo.nbcsports.com
+0.0.0.0 geo.yahoo.com
 0.0.0.0 geoip-js.com
 0.0.0.0 geojs.io
 0.0.0.0 geolocation.onetrust.com
@@ -799,6 +800,7 @@
 0.0.0.0 postaffiliatepro.com
 0.0.0.0 posthog.com
 0.0.0.0 ppcprotect.com
+0.0.0.0 pr.comet.yahoo.com
 0.0.0.0 prd.jwpltx.com
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 prisacom.112.2o7.net
@@ -1056,7 +1058,6 @@
 0.0.0.0 turnerapac.d1.sc.omtrdc.net
 0.0.0.0 tvn.adocean.pl
 0.0.0.0 ubt-sin.tripcdn.com
-0.0.0.0 udec.cl
 0.0.0.0 ue.flipboard.com
 0.0.0.0 unitedparcelservice.sc.omtrdc.net
 0.0.0.0 uptodatefinishconferenceroom.com
@@ -1107,6 +1108,7 @@
 0.0.0.0 whatfinger.com
 0.0.0.0 whipcrack.org
 0.0.0.0 widget-cdn.rpxnow.com
+0.0.0.0 widgets.trustedshops.com
 0.0.0.0 wildcard.evidon.com.edgekey.net
 0.0.0.0 wildcard.outbrain.com.edgekey.net
 0.0.0.0 wildcard46.akstat.io.edgekey.net
@@ -1182,6 +1184,7 @@
 0.0.0.0 www.a0b11.com
 0.0.0.0 www.a2uu36g43l.download
 0.0.0.0 www.a8.net
+0.0.0.0 www.aaaesme.cn
 0.0.0.0 www.abblm.com
 0.0.0.0 www.abnad.net
 0.0.0.0 www.abogadodejacksonville.com
@@ -1519,6 +1522,7 @@
 0.0.0.0 www.deskt.cn
 0.0.0.0 www.destinationurl.com
 0.0.0.0 www.detroithardcore.com
+0.0.0.0 www.dfadas13.com
 0.0.0.0 www.dfnac.fr
 0.0.0.0 www.dfsvhv88.com
 0.0.0.0 www.dianomioffers.co.uk
@@ -2500,7 +2504,6 @@
 0.0.0.0 www.uaadi.com
 0.0.0.0 www.ubazhaheit.top
 0.0.0.0 www.uciservice.com
-0.0.0.0 www.udec.cl
 0.0.0.0 www.udiy.club
 0.0.0.0 www.uengbalc.fun
 0.0.0.0 www.uisafnit.space
@@ -2640,6 +2643,7 @@
 0.0.0.0 www.xn--myetherwallt-cfb.com
 0.0.0.0 www.xorlsblw.cyou
 0.0.0.0 www.xp2tb80s.xyz
+0.0.0.0 www.xtremepush.com
 0.0.0.0 www.xtxa.net
 0.0.0.0 www.xuekalun.com
 0.0.0.0 www.xuliglsw.space
@@ -2664,6 +2668,7 @@
 0.0.0.0 www.ygwdai.cn
 0.0.0.0 www.yigehong.com.cn
 0.0.0.0 www.yikouxian.fun
+0.0.0.0 www.yinming.online
 0.0.0.0 www.yinyouapp.com
 0.0.0.0 www.yiuspekmn.bar
 0.0.0.0 www.yoshatia.com
@@ -2727,6 +2732,7 @@
 0.0.0.0 x3-predictor.goguardian.com
 0.0.0.0 xapi.ozon.ru
 0.0.0.0 xlog-va.musical.ly
+0.0.0.0 xtremepush.com
 0.0.0.0 yeswegays.com
 0.0.0.0 yodleeinc.tt.omtrdc.net
 0.0.0.0 youvisit.com
