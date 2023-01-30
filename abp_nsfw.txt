@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202301300855
+! Version: 202301301812
 ! Title: oisd nsfw
-! Last modified: 2023-01-30T08:55:08+0000
+! Last modified: 2023-01-30T18:12:36+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List              
@@ -152765,6 +152765,7 @@
 ||sex-x-video.ru^
 ||sex-x-x-x.de^
 ||sex-xcenter.com^
+||sex-xhamster.ru^
 ||sex-xnxx-video.com^
 ||sex-xnxx-videos.com^
 ||sex-xnxx.com^
