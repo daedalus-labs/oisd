@@ -1,6 +1,6 @@
-# Version: 202301301008
+# Version: 202301301208
 # Title: oisd basic
-# Last modified: 2023-01-30T10:08:04+0000
+# Last modified: 2023-01-30T12:08:17+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -45162,7 +45162,6 @@ local=/mrtpcfegryfgqtbuvksbaebneewer.com/
 local=/mrtrick.me/
 local=/mrualursuyem.top/
 local=/mrvio.com/
-local=/mryshl.com/
 local=/mrzhao.life/
 local=/ms-mvp.org/
 local=/ms-pipes-service.com/
@@ -48011,7 +48010,6 @@ local=/oblivochki.biz/
 local=/oblongcondition.com/
 local=/oblongseller.com/
 local=/obmnt.com/
-local=/obmpp.com/
 local=/obnarium.com/
 local=/obnoxiouspatrolassault.com/
 local=/obnoxiousstackderide.com/

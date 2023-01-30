@@ -1,6 +1,6 @@
-# Version: 202301301007
+# Version: 202301301208
 # Title: oisd basic
-# Last modified: 2023-01-30T10:07:59+0000
+# Last modified: 2023-01-30T12:08:12+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -52195,7 +52195,6 @@
 0.0.0.0 mrtrick.me
 0.0.0.0 mrualursuyem.top
 0.0.0.0 mrvio.com
-0.0.0.0 mryshl.com
 0.0.0.0 mrzhao.life
 0.0.0.0 ms-ads-events.presage.io
 0.0.0.0 ms-ads.presage.io
@@ -55257,7 +55256,6 @@
 0.0.0.0 oblongcondition.com
 0.0.0.0 oblongseller.com
 0.0.0.0 obmnt.com
-0.0.0.0 obmpp.com
 0.0.0.0 obnarium.com
 0.0.0.0 obnoxiouspatrolassault.com
 0.0.0.0 obnoxiousstackderide.com

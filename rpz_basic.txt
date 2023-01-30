@@ -1,12 +1,12 @@
-; Version: 202301301008
+; Version: 202301301208
 ; Title: oisd basic
-; Last modified: 2023-01-30T10:08:05+0000
+; Last modified: 2023-01-30T12:08:18+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675072802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675080003 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -90323,8 +90323,6 @@ mrualursuyem.top CNAME .
 *.mrualursuyem.top CNAME .
 mrvio.com CNAME .
 *.mrvio.com CNAME .
-mryshl.com CNAME .
-*.mryshl.com CNAME .
 mrzhao.life CNAME .
 *.mrzhao.life CNAME .
 ms-mvp.org CNAME .
@@ -96021,8 +96019,6 @@ oblongseller.com CNAME .
 *.oblongseller.com CNAME .
 obmnt.com CNAME .
 *.obmnt.com CNAME .
-obmpp.com CNAME .
-*.obmpp.com CNAME .
 obnarium.com CNAME .
 *.obnarium.com CNAME .
 obnoxiouspatrolassault.com CNAME .

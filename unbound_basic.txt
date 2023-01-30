@@ -1,6 +1,6 @@
-# Version: 202301301008
+# Version: 202301301208
 # Title: oisd basic
-# Last modified: 2023-01-30T10:08:05+0000
+# Last modified: 2023-01-30T12:08:18+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -45164,7 +45164,6 @@ local-zone: "mrtpcfegryfgqtbuvksbaebneewer.com." always_null
 local-zone: "mrtrick.me." always_null
 local-zone: "mrualursuyem.top." always_null
 local-zone: "mrvio.com." always_null
-local-zone: "mryshl.com." always_null
 local-zone: "mrzhao.life." always_null
 local-zone: "ms-mvp.org." always_null
 local-zone: "ms-pipes-service.com." always_null
@@ -48013,7 +48012,6 @@ local-zone: "oblivochki.biz." always_null
 local-zone: "oblongcondition.com." always_null
 local-zone: "oblongseller.com." always_null
 local-zone: "obmnt.com." always_null
-local-zone: "obmpp.com." always_null
 local-zone: "obnarium.com." always_null
 local-zone: "obnoxiouspatrolassault.com." always_null
 local-zone: "obnoxiousstackderide.com." always_null

@@ -1,6 +1,6 @@
-# Version: 202301301007
+# Version: 202301301208
 # Title: oisd basic
-# Last modified: 2023-01-30T10:07:59+0000
+# Last modified: 2023-01-30T12:08:12+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -52195,7 +52195,6 @@ mrtpcfegryfgqtbuvksbaebneewer.com
 mrtrick.me
 mrualursuyem.top
 mrvio.com
-mryshl.com
 mrzhao.life
 ms-ads-events.presage.io
 ms-ads.presage.io
@@ -55257,7 +55256,6 @@ oblivochki.biz
 oblongcondition.com
 oblongseller.com
 obmnt.com
-obmpp.com
 obnarium.com
 obnoxiouspatrolassault.com
 obnoxiousstackderide.com

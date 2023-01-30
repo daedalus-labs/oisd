@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202301301008
+! Version: 202301301208
 ! Title: oisd basic
-! Last modified: 2023-01-30T10:08:04+0000
+! Last modified: 2023-01-30T12:08:17+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List             
@@ -45163,7 +45163,6 @@
 ||mrtrick.me^
 ||mrualursuyem.top^
 ||mrvio.com^
-||mryshl.com^
 ||mrzhao.life^
 ||ms-mvp.org^
 ||ms-pipes-service.com^
@@ -48012,7 +48011,6 @@
 ||oblongcondition.com^
 ||oblongseller.com^
 ||obmnt.com^
-||obmpp.com^
 ||obnarium.com^
 ||obnoxiouspatrolassault.com^
 ||obnoxiousstackderide.com^
