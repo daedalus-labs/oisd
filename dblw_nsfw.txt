@@ -1,6 +1,6 @@
-# Version: 202301301812
+# Version: 202301310012
 # Title: oisd nsfw
-# Last modified: 2023-01-30T18:12:37+0000
+# Last modified: 2023-01-31T00:12:36+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                  
@@ -31213,6 +31213,7 @@
 *.cdn1avtub.xyz
 *.cdn1d-static-shared.phncdn.co
 *.cdn2.craigslistforsex.com
+*.cdn2.gayxmovies.net
 *.cdn2.sextflirt.com
 *.cdn2.teads.tv
 *.cdn2.x-sensual.com
