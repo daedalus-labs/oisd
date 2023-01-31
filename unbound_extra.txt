@@ -1,6 +1,6 @@
-# Version: 202301310812
+# Version: 202301311255
 # Title: oisd extra
-# Last modified: 2023-01-31T08:12:08+0000
+# Last modified: 2023-01-31T12:55:06+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -667,6 +667,7 @@ local-zone: "everestop.io." always_null
 local-zone: "everesttech.net." always_null
 local-zone: "evergage.com." always_null
 local-zone: "evidon.com." always_null
+local-zone: "evnjkyja.com." always_null
 local-zone: "evt.mxplay.com." always_null
 local-zone: "ewogldw.top." always_null
 local-zone: "exactag.com." always_null
@@ -751,7 +752,6 @@ local-zone: "gemius.mgr.consensu.org." always_null
 local-zone: "gemius.pl." always_null
 local-zone: "genieessp.com." always_null
 local-zone: "geo.nbcsports.com." always_null
-local-zone: "geo.yahoo.com." always_null
 local-zone: "geoip-js.com." always_null
 local-zone: "geojs.io." always_null
 local-zone: "geolocation.onetrust.com." always_null
@@ -933,6 +933,7 @@ local-zone: "ip.goguardian.com." always_null
 local-zone: "ipinfodb.com." always_null
 local-zone: "iplist.cc." always_null
 local-zone: "ipm-provider.ff.avast.com." always_null
+local-zone: "irbisennuis.com." always_null
 local-zone: "ironbeast.io." always_null
 local-zone: "irony.world." always_null
 local-zone: "irs01.com." always_null
@@ -963,6 +964,7 @@ local-zone: "jieshimaya.xyz." always_null
 local-zone: "jimeilm.com." always_null
 local-zone: "jingyue.co." always_null
 local-zone: "jisafnia.space." always_null
+local-zone: "jishiben.info." always_null
 local-zone: "jivox.com." always_null
 local-zone: "joinbrand.club." always_null
 local-zone: "joker6.fun." always_null
@@ -1326,6 +1328,7 @@ local-zone: "perr.h-cdn.com." always_null
 local-zone: "perso.ch." always_null
 local-zone: "personalicanvas.com." always_null
 local-zone: "pf.intuit.com." always_null
+local-zone: "pgpl.g5e.com." always_null
 local-zone: "phonejapan.com." always_null
 local-zone: "pi.pardot.com." always_null
 local-zone: "pidorg.ru." always_null
@@ -1352,6 +1355,7 @@ local-zone: "pnxs.com." always_null
 local-zone: "poewage.top." always_null
 local-zone: "pokeryun.site." always_null
 local-zone: "polymorphicads.jp." always_null
+local-zone: "pompeyafrite.com." always_null
 local-zone: "pongsone.uno." always_null
 local-zone: "porlsbll.cyou." always_null
 local-zone: "postaffiliatepro.com." always_null
@@ -1472,6 +1476,7 @@ local-zone: "rest.locuslabs.com." always_null
 local-zone: "revenuewire.net." always_null
 local-zone: "revlifter.io." always_null
 local-zone: "rfihub.com." always_null
+local-zone: "rgkkzna.com." always_null
 local-zone: "rhythmxchange.com." always_null
 local-zone: "ripplestika.site." always_null
 local-zone: "risafniz.space." always_null

@@ -1,12 +1,12 @@
-; Version: 202301310812
+; Version: 202301311255
 ; Title: oisd extra
-; Last modified: 2023-01-31T08:12:08+0000
+; Last modified: 2023-01-31T12:55:06+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675152002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675166401 86400 3600 604800 30
  NS localhost.
 
 0371app.wang CNAME .
@@ -1329,6 +1329,8 @@ evergage.com CNAME .
 *.evergage.com CNAME .
 evidon.com CNAME .
 *.evidon.com CNAME .
+evnjkyja.com CNAME .
+*.evnjkyja.com CNAME .
 evt.mxplay.com CNAME .
 *.evt.mxplay.com CNAME .
 ewogldw.top CNAME .
@@ -1497,8 +1499,6 @@ genieessp.com CNAME .
 *.genieessp.com CNAME .
 geo.nbcsports.com CNAME .
 *.geo.nbcsports.com CNAME .
-geo.yahoo.com CNAME .
-*.geo.yahoo.com CNAME .
 geoip-js.com CNAME .
 *.geoip-js.com CNAME .
 geojs.io CNAME .
@@ -1861,6 +1861,8 @@ iplist.cc CNAME .
 *.iplist.cc CNAME .
 ipm-provider.ff.avast.com CNAME .
 *.ipm-provider.ff.avast.com CNAME .
+irbisennuis.com CNAME .
+*.irbisennuis.com CNAME .
 ironbeast.io CNAME .
 *.ironbeast.io CNAME .
 irony.world CNAME .
@@ -1921,6 +1923,8 @@ jingyue.co CNAME .
 *.jingyue.co CNAME .
 jisafnia.space CNAME .
 *.jisafnia.space CNAME .
+jishiben.info CNAME .
+*.jishiben.info CNAME .
 jivox.com CNAME .
 *.jivox.com CNAME .
 joinbrand.club CNAME .
@@ -2647,6 +2651,8 @@ personalicanvas.com CNAME .
 *.personalicanvas.com CNAME .
 pf.intuit.com CNAME .
 *.pf.intuit.com CNAME .
+pgpl.g5e.com CNAME .
+*.pgpl.g5e.com CNAME .
 phonejapan.com CNAME .
 *.phonejapan.com CNAME .
 pi.pardot.com CNAME .
@@ -2699,6 +2705,8 @@ pokeryun.site CNAME .
 *.pokeryun.site CNAME .
 polymorphicads.jp CNAME .
 *.polymorphicads.jp CNAME .
+pompeyafrite.com CNAME .
+*.pompeyafrite.com CNAME .
 pongsone.uno CNAME .
 *.pongsone.uno CNAME .
 porlsbll.cyou CNAME .
@@ -2939,6 +2947,8 @@ revlifter.io CNAME .
 *.revlifter.io CNAME .
 rfihub.com CNAME .
 *.rfihub.com CNAME .
+rgkkzna.com CNAME .
+*.rgkkzna.com CNAME .
 rhythmxchange.com CNAME .
 *.rhythmxchange.com CNAME .
 ripplestika.site CNAME .

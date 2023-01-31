@@ -1,6 +1,6 @@
-# Version: 202301310812
+# Version: 202301311255
 # Title: oisd extra
-# Last modified: 2023-01-31T08:12:03+0000
+# Last modified: 2023-01-31T12:55:01+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -23,7 +23,6 @@
 1priest1nun.net
 2cnt.net
 2girls1cup.cc
-2girls1cup.com
 2girls1cup.ws
 2girls1finger.org
 2guys1stump.org
@@ -482,7 +481,6 @@ gecko-sg.byteoversea.com
 gemius.mgr.consensu.org
 gemius.pl
 geo.nbcsports.com
-geo.yahoo.com
 geoip-js.com
 geojs.io
 geolocation.onetrust.com
@@ -774,6 +772,7 @@ perfectgirls.net
 permutive.com
 perr.h-cdn.com
 pf.intuit.com
+pgpl.g5e.com
 philipslighting.d3.sc.omtrdc.net
 phonejapan.com
 pi.pardot.com
@@ -1591,6 +1590,7 @@ www.everestop.io
 www.everesttech.net
 www.evergage.com
 www.evidon.com
+www.evnjkyja.com
 www.ewogldw.top
 www.exactag.com
 www.exacttargetapis.com
@@ -1803,6 +1803,7 @@ www.iorlsblj.cyou
 www.iovation.com
 www.ipinfodb.com
 www.iplist.cc
+www.irbisennuis.com
 www.irony.world
 www.irs01.com
 www.ishoutu.net
@@ -1831,6 +1832,7 @@ www.jieshimaya.xyz
 www.jimeilm.com
 www.jingyue.co
 www.jisafnia.space
+www.jishiben.info
 www.jivox.com
 www.joinbrand.club
 www.joker6.fun
@@ -2135,6 +2137,7 @@ www.pnxs.com
 www.poewage.top
 www.pokeryun.site
 www.polymorphicads.jp
+www.pompeyafrite.com
 www.pongsone.uno
 www.porlsbll.cyou
 www.postaffiliatepro.com
@@ -2231,6 +2234,7 @@ www.researchnow.com
 www.revenuewire.net
 www.revlifter.io
 www.rfihub.com
+www.rgkkzna.com
 www.rhythmxchange.com
 www.ripplestika.site
 www.risafniz.space

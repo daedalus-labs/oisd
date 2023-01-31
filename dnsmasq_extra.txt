@@ -1,6 +1,6 @@
-# Version: 202301310812
+# Version: 202301311255
 # Title: oisd extra
-# Last modified: 2023-01-31T08:12:08+0000
+# Last modified: 2023-01-31T12:55:06+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -665,6 +665,7 @@ server=/everestop.io/
 server=/everesttech.net/
 server=/evergage.com/
 server=/evidon.com/
+server=/evnjkyja.com/
 server=/evt.mxplay.com/
 server=/ewogldw.top/
 server=/exactag.com/
@@ -749,7 +750,6 @@ server=/gemius.mgr.consensu.org/
 server=/gemius.pl/
 server=/genieessp.com/
 server=/geo.nbcsports.com/
-server=/geo.yahoo.com/
 server=/geoip-js.com/
 server=/geojs.io/
 server=/geolocation.onetrust.com/
@@ -931,6 +931,7 @@ server=/ip.goguardian.com/
 server=/ipinfodb.com/
 server=/iplist.cc/
 server=/ipm-provider.ff.avast.com/
+server=/irbisennuis.com/
 server=/ironbeast.io/
 server=/irony.world/
 server=/irs01.com/
@@ -961,6 +962,7 @@ server=/jieshimaya.xyz/
 server=/jimeilm.com/
 server=/jingyue.co/
 server=/jisafnia.space/
+server=/jishiben.info/
 server=/jivox.com/
 server=/joinbrand.club/
 server=/joker6.fun/
@@ -1324,6 +1326,7 @@ server=/perr.h-cdn.com/
 server=/perso.ch/
 server=/personalicanvas.com/
 server=/pf.intuit.com/
+server=/pgpl.g5e.com/
 server=/phonejapan.com/
 server=/pi.pardot.com/
 server=/pidorg.ru/
@@ -1350,6 +1353,7 @@ server=/pnxs.com/
 server=/poewage.top/
 server=/pokeryun.site/
 server=/polymorphicads.jp/
+server=/pompeyafrite.com/
 server=/pongsone.uno/
 server=/porlsbll.cyou/
 server=/postaffiliatepro.com/
@@ -1470,6 +1474,7 @@ server=/rest.locuslabs.com/
 server=/revenuewire.net/
 server=/revlifter.io/
 server=/rfihub.com/
+server=/rgkkzna.com/
 server=/rhythmxchange.com/
 server=/ripplestika.site/
 server=/risafniz.space/

@@ -1,6 +1,6 @@
-# Version: 202301310812
+# Version: 202301311255
 # Title: oisd extra
-# Last modified: 2023-01-31T08:12:08+0000
+# Last modified: 2023-01-31T12:55:06+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -668,6 +668,7 @@
 *.everesttech.net
 *.evergage.com
 *.evidon.com
+*.evnjkyja.com
 *.evt.mxplay.com
 *.ewogldw.top
 *.exactag.com
@@ -752,7 +753,6 @@
 *.gemius.pl
 *.genieessp.com
 *.geo.nbcsports.com
-*.geo.yahoo.com
 *.geoip-js.com
 *.geojs.io
 *.geolocation.onetrust.com
@@ -934,6 +934,7 @@
 *.ipinfodb.com
 *.iplist.cc
 *.ipm-provider.ff.avast.com
+*.irbisennuis.com
 *.ironbeast.io
 *.irony.world
 *.irs01.com
@@ -964,6 +965,7 @@
 *.jimeilm.com
 *.jingyue.co
 *.jisafnia.space
+*.jishiben.info
 *.jivox.com
 *.joinbrand.club
 *.joker6.fun
@@ -1327,6 +1329,7 @@
 *.perso.ch
 *.personalicanvas.com
 *.pf.intuit.com
+*.pgpl.g5e.com
 *.phonejapan.com
 *.pi.pardot.com
 *.pidorg.ru
@@ -1353,6 +1356,7 @@
 *.poewage.top
 *.pokeryun.site
 *.polymorphicads.jp
+*.pompeyafrite.com
 *.pongsone.uno
 *.porlsbll.cyou
 *.postaffiliatepro.com
@@ -1473,6 +1477,7 @@
 *.revenuewire.net
 *.revlifter.io
 *.rfihub.com
+*.rgkkzna.com
 *.rhythmxchange.com
 *.ripplestika.site
 *.risafniz.space

@@ -1,6 +1,6 @@
-# Version: 202301310812
+# Version: 202301311255
 # Title: oisd extra
-# Last modified: 2023-01-31T08:12:03+0000
+# Last modified: 2023-01-31T12:55:01+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -23,7 +23,6 @@
 0.0.0.0 1priest1nun.net
 0.0.0.0 2cnt.net
 0.0.0.0 2girls1cup.cc
-0.0.0.0 2girls1cup.com
 0.0.0.0 2girls1cup.ws
 0.0.0.0 2girls1finger.org
 0.0.0.0 2guys1stump.org
@@ -482,7 +481,6 @@
 0.0.0.0 gemius.mgr.consensu.org
 0.0.0.0 gemius.pl
 0.0.0.0 geo.nbcsports.com
-0.0.0.0 geo.yahoo.com
 0.0.0.0 geoip-js.com
 0.0.0.0 geojs.io
 0.0.0.0 geolocation.onetrust.com
@@ -774,6 +772,7 @@
 0.0.0.0 permutive.com
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 pf.intuit.com
+0.0.0.0 pgpl.g5e.com
 0.0.0.0 philipslighting.d3.sc.omtrdc.net
 0.0.0.0 phonejapan.com
 0.0.0.0 pi.pardot.com
@@ -1591,6 +1590,7 @@
 0.0.0.0 www.everesttech.net
 0.0.0.0 www.evergage.com
 0.0.0.0 www.evidon.com
+0.0.0.0 www.evnjkyja.com
 0.0.0.0 www.ewogldw.top
 0.0.0.0 www.exactag.com
 0.0.0.0 www.exacttargetapis.com
@@ -1803,6 +1803,7 @@
 0.0.0.0 www.iovation.com
 0.0.0.0 www.ipinfodb.com
 0.0.0.0 www.iplist.cc
+0.0.0.0 www.irbisennuis.com
 0.0.0.0 www.irony.world
 0.0.0.0 www.irs01.com
 0.0.0.0 www.ishoutu.net
@@ -1831,6 +1832,7 @@
 0.0.0.0 www.jimeilm.com
 0.0.0.0 www.jingyue.co
 0.0.0.0 www.jisafnia.space
+0.0.0.0 www.jishiben.info
 0.0.0.0 www.jivox.com
 0.0.0.0 www.joinbrand.club
 0.0.0.0 www.joker6.fun
@@ -2135,6 +2137,7 @@
 0.0.0.0 www.poewage.top
 0.0.0.0 www.pokeryun.site
 0.0.0.0 www.polymorphicads.jp
+0.0.0.0 www.pompeyafrite.com
 0.0.0.0 www.pongsone.uno
 0.0.0.0 www.porlsbll.cyou
 0.0.0.0 www.postaffiliatepro.com
@@ -2231,6 +2234,7 @@
 0.0.0.0 www.revenuewire.net
 0.0.0.0 www.revlifter.io
 0.0.0.0 www.rfihub.com
+0.0.0.0 www.rgkkzna.com
 0.0.0.0 www.rhythmxchange.com
 0.0.0.0 www.ripplestika.site
 0.0.0.0 www.risafniz.space
