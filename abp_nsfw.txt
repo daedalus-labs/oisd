@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202301310012
+! Version: 202301310814
 ! Title: oisd nsfw
-! Last modified: 2023-01-31T00:12:35+0000
+! Last modified: 2023-01-31T08:14:55+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List              
@@ -31215,8 +31215,10 @@
 ||cdn2.sextflirt.com^
 ||cdn2.teads.tv^
 ||cdn2.x-sensual.com^
+||cdn2.xxxhd.sex^
 ||cdn25122858.ahacdn.me^
 ||cdn3.gayhd.fun^
+||cdn3.gaymovies.me^
 ||cdn3.xiptv.cat^
 ||cdn30100273.ahacdn.me^
 ||cdn37804682.ahacdn.me^
@@ -64840,6 +64842,7 @@
 ||gaycundelotraiden.tk^
 ||gaycup.com^
 ||gaycupidstories.com^
+||gaycurling.com^
 ||gaycusmypepwosub.tk^
 ||gaydad.net^
 ||gaydaddating.com^
@@ -65601,6 +65604,7 @@
 ||gayhub.click^
 ||gayhub.club^
 ||gayhub.mobi^
+||gayhub.ooo^
 ||gayhub.porn^
 ||gayhubplus.com^
 ||gayhubster.com^
@@ -196253,6 +196257,7 @@
 ||wefuckmoms.com^
 ||wegayboys.com^
 ||wegayboys.ga^
+||wegcamsex.com^
 ||wegetlaidgaycams.com^
 ||wegfuck.xyz^
 ||weggefaehrte-hund.info^
@@ -196365,6 +196370,7 @@
 ||wemature.com^
 ||wembley-escorts.com^
 ||wenaked.net^
+||wencamsex.com^
 ||wendiefacialabuse.com^
 ||wendise.com^
 ||wendymoonxxx.com^
@@ -206838,6 +206844,7 @@
 ||yaoqq88.com^
 ||yaoqq99.com^
 ||yaowokeke.com^
+||yapacams.com^
 ||yapalive.com^
 ||yapatube.com^
 ||yapmovies.com^
