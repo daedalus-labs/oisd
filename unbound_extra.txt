@@ -1,6 +1,6 @@
-# Version: 202301311255
+# Version: 202301311610
 # Title: oisd extra
-# Last modified: 2023-01-31T12:55:06+0000
+# Last modified: 2023-01-31T16:10:00+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -667,7 +667,6 @@ local-zone: "everestop.io." always_null
 local-zone: "everesttech.net." always_null
 local-zone: "evergage.com." always_null
 local-zone: "evidon.com." always_null
-local-zone: "evnjkyja.com." always_null
 local-zone: "evt.mxplay.com." always_null
 local-zone: "ewogldw.top." always_null
 local-zone: "exactag.com." always_null
@@ -933,7 +932,6 @@ local-zone: "ip.goguardian.com." always_null
 local-zone: "ipinfodb.com." always_null
 local-zone: "iplist.cc." always_null
 local-zone: "ipm-provider.ff.avast.com." always_null
-local-zone: "irbisennuis.com." always_null
 local-zone: "ironbeast.io." always_null
 local-zone: "irony.world." always_null
 local-zone: "irs01.com." always_null
@@ -964,7 +962,6 @@ local-zone: "jieshimaya.xyz." always_null
 local-zone: "jimeilm.com." always_null
 local-zone: "jingyue.co." always_null
 local-zone: "jisafnia.space." always_null
-local-zone: "jishiben.info." always_null
 local-zone: "jivox.com." always_null
 local-zone: "joinbrand.club." always_null
 local-zone: "joker6.fun." always_null
@@ -1045,6 +1042,7 @@ local-zone: "lemonparty.biz." always_null
 local-zone: "lemonparty.org." always_null
 local-zone: "leoyard.com." always_null
 local-zone: "lgsmartad.com." always_null
+local-zone: "lgugsnp.cn." always_null
 local-zone: "lhinsights.com." always_null
 local-zone: "lightboxcdn.com." always_null
 local-zone: "lihong.ltd." always_null
@@ -1476,7 +1474,6 @@ local-zone: "rest.locuslabs.com." always_null
 local-zone: "revenuewire.net." always_null
 local-zone: "revlifter.io." always_null
 local-zone: "rfihub.com." always_null
-local-zone: "rgkkzna.com." always_null
 local-zone: "rhythmxchange.com." always_null
 local-zone: "ripplestika.site." always_null
 local-zone: "risafniz.space." always_null

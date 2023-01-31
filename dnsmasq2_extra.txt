@@ -1,6 +1,6 @@
-# Version: 202301311255
+# Version: 202301311610
 # Title: oisd extra
-# Last modified: 2023-01-31T12:55:06+0000
+# Last modified: 2023-01-31T16:10:00+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -665,7 +665,6 @@ local=/everestop.io/
 local=/everesttech.net/
 local=/evergage.com/
 local=/evidon.com/
-local=/evnjkyja.com/
 local=/evt.mxplay.com/
 local=/ewogldw.top/
 local=/exactag.com/
@@ -931,7 +930,6 @@ local=/ip.goguardian.com/
 local=/ipinfodb.com/
 local=/iplist.cc/
 local=/ipm-provider.ff.avast.com/
-local=/irbisennuis.com/
 local=/ironbeast.io/
 local=/irony.world/
 local=/irs01.com/
@@ -962,7 +960,6 @@ local=/jieshimaya.xyz/
 local=/jimeilm.com/
 local=/jingyue.co/
 local=/jisafnia.space/
-local=/jishiben.info/
 local=/jivox.com/
 local=/joinbrand.club/
 local=/joker6.fun/
@@ -1043,6 +1040,7 @@ local=/lemonparty.biz/
 local=/lemonparty.org/
 local=/leoyard.com/
 local=/lgsmartad.com/
+local=/lgugsnp.cn/
 local=/lhinsights.com/
 local=/lightboxcdn.com/
 local=/lihong.ltd/
@@ -1474,7 +1472,6 @@ local=/rest.locuslabs.com/
 local=/revenuewire.net/
 local=/revlifter.io/
 local=/rfihub.com/
-local=/rgkkzna.com/
 local=/rhythmxchange.com/
 local=/ripplestika.site/
 local=/risafniz.space/

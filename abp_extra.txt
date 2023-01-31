@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202301311255
+! Version: 202301311610
 ! Title: oisd extra
-! Last modified: 2023-01-31T12:55:06+0000
+! Last modified: 2023-01-31T16:10:00+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List             
@@ -666,7 +666,6 @@
 ||everesttech.net^
 ||evergage.com^
 ||evidon.com^
-||evnjkyja.com^
 ||evt.mxplay.com^
 ||ewogldw.top^
 ||exactag.com^
@@ -932,7 +931,6 @@
 ||ipinfodb.com^
 ||iplist.cc^
 ||ipm-provider.ff.avast.com^
-||irbisennuis.com^
 ||ironbeast.io^
 ||irony.world^
 ||irs01.com^
@@ -963,7 +961,6 @@
 ||jimeilm.com^
 ||jingyue.co^
 ||jisafnia.space^
-||jishiben.info^
 ||jivox.com^
 ||joinbrand.club^
 ||joker6.fun^
@@ -1044,6 +1041,7 @@
 ||lemonparty.org^
 ||leoyard.com^
 ||lgsmartad.com^
+||lgugsnp.cn^
 ||lhinsights.com^
 ||lightboxcdn.com^
 ||lihong.ltd^
@@ -1475,7 +1473,6 @@
 ||revenuewire.net^
 ||revlifter.io^
 ||rfihub.com^
-||rgkkzna.com^
 ||rhythmxchange.com^
 ||ripplestika.site^
 ||risafniz.space^

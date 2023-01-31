@@ -1,12 +1,12 @@
-; Version: 202301311255
+; Version: 202301311610
 ; Title: oisd extra
-; Last modified: 2023-01-31T12:55:06+0000
+; Last modified: 2023-01-31T16:10:00+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675166401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675180805 86400 3600 604800 30
  NS localhost.
 
 0371app.wang CNAME .
@@ -1329,8 +1329,6 @@ evergage.com CNAME .
 *.evergage.com CNAME .
 evidon.com CNAME .
 *.evidon.com CNAME .
-evnjkyja.com CNAME .
-*.evnjkyja.com CNAME .
 evt.mxplay.com CNAME .
 *.evt.mxplay.com CNAME .
 ewogldw.top CNAME .
@@ -1861,8 +1859,6 @@ iplist.cc CNAME .
 *.iplist.cc CNAME .
 ipm-provider.ff.avast.com CNAME .
 *.ipm-provider.ff.avast.com CNAME .
-irbisennuis.com CNAME .
-*.irbisennuis.com CNAME .
 ironbeast.io CNAME .
 *.ironbeast.io CNAME .
 irony.world CNAME .
@@ -1923,8 +1919,6 @@ jingyue.co CNAME .
 *.jingyue.co CNAME .
 jisafnia.space CNAME .
 *.jisafnia.space CNAME .
-jishiben.info CNAME .
-*.jishiben.info CNAME .
 jivox.com CNAME .
 *.jivox.com CNAME .
 joinbrand.club CNAME .
@@ -2085,6 +2079,8 @@ leoyard.com CNAME .
 *.leoyard.com CNAME .
 lgsmartad.com CNAME .
 *.lgsmartad.com CNAME .
+lgugsnp.cn CNAME .
+*.lgugsnp.cn CNAME .
 lhinsights.com CNAME .
 *.lhinsights.com CNAME .
 lightboxcdn.com CNAME .
@@ -2947,8 +2943,6 @@ revlifter.io CNAME .
 *.revlifter.io CNAME .
 rfihub.com CNAME .
 *.rfihub.com CNAME .
-rgkkzna.com CNAME .
-*.rgkkzna.com CNAME .
 rhythmxchange.com CNAME .
 *.rhythmxchange.com CNAME .
 ripplestika.site CNAME .

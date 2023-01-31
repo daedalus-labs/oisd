@@ -1,6 +1,6 @@
-# Version: 202301311255
+# Version: 202301311609
 # Title: oisd extra
-# Last modified: 2023-01-31T12:55:01+0000
+# Last modified: 2023-01-31T16:09:55+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -1590,7 +1590,6 @@ www.everestop.io
 www.everesttech.net
 www.evergage.com
 www.evidon.com
-www.evnjkyja.com
 www.ewogldw.top
 www.exactag.com
 www.exacttargetapis.com
@@ -1803,7 +1802,6 @@ www.iorlsblj.cyou
 www.iovation.com
 www.ipinfodb.com
 www.iplist.cc
-www.irbisennuis.com
 www.irony.world
 www.irs01.com
 www.ishoutu.net
@@ -1832,7 +1830,6 @@ www.jieshimaya.xyz
 www.jimeilm.com
 www.jingyue.co
 www.jisafnia.space
-www.jishiben.info
 www.jivox.com
 www.joinbrand.club
 www.joker6.fun
@@ -1900,6 +1897,7 @@ www.lemonparty.biz
 www.lemonparty.org
 www.leoyard.com
 www.lgsmartad.com
+www.lgugsnp.cn
 www.lhinsights.com
 www.lightboxcdn.com
 www.lihong.ltd
@@ -2234,7 +2232,6 @@ www.researchnow.com
 www.revenuewire.net
 www.revlifter.io
 www.rfihub.com
-www.rgkkzna.com
 www.rhythmxchange.com
 www.ripplestika.site
 www.risafniz.space
