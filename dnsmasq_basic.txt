@@ -1,6 +1,6 @@
-# Version: 202301311253
+# Version: 202301311608
 # Title: oisd basic
-# Last modified: 2023-01-31T12:53:51+0000
+# Last modified: 2023-01-31T16:08:40+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -16156,6 +16156,7 @@ server=/cawbarthe.com/
 server=/cawwn.com/
 server=/cb-content.com/
 server=/cb.baidu.com/
+server=/cb.rompercava.com/
 server=/cba-fed-igh.com/
 server=/cbahogarsanjose.com/
 server=/cbango.com.ar/
@@ -20644,7 +20645,6 @@ server=/cyruswheels.com/
 server=/cystspalt.com/
 server=/cytoclause.com/
 server=/cytogene.co.in/
-server=/cytonsketupa.com/
 server=/cyvperu.com/
 server=/cyxynjlfarcb.top/
 server=/cz09.com/
@@ -29832,7 +29832,6 @@ server=/galaxymeet.ru/
 server=/galaxytechnical.com/
 server=/galaxyvandas.website/
 server=/galeaeevovae.com/
-server=/galeidnursy.com/
 server=/galepush.net/
 server=/galerie-couleurdart.com/
 server=/galetovivaflor.com.br/
@@ -40233,7 +40232,6 @@ server=/lgrmuhendislik.com/
 server=/lgse.com/
 server=/lgtdkpfnor.com/
 server=/lguexrlw.top/
-server=/lgugsnp.cn/
 server=/lhagvasuren.mn/
 server=/lhare.xyz/
 server=/lhedgelnha.com/
@@ -47448,7 +47446,6 @@ server=/notcotal.com/
 server=/noteandclass.com/
 server=/notefullgp.com/
 server=/notenpartner.de/
-server=/notepad-download.online/
 server=/notepad2.com/
 server=/notes-analytics-events.apple.com/
 server=/notesbook.in/
@@ -54245,7 +54242,6 @@ server=/qring-tms.qq.com/
 server=/qrlsx.com/
 server=/qrnfc.net/
 server=/qrstes.com/
-server=/qrybpwqjgkeilh.com/
 server=/qsdr.mysunnylawn.com/
 server=/qsearch-a.akamaihd.net/
 server=/qservz.com/
@@ -56594,7 +56590,6 @@ server=/romero-cpa.com/
 server=/romerogarcia.top/
 server=/romewicked.com/
 server=/romgratis.com/
-server=/rompercava.com/
 server=/ronaldoabezerra.com.br/
 server=/ronaldofilho.com/
 server=/ronaqnews.com/
@@ -56608,7 +56603,6 @@ server=/ronrecheclo.com/
 server=/ronrecheclo.xyz/
 server=/rontar.com/
 server=/rontent.powvibeo.me/
-server=/rooby.cyou/
 server=/roofappointments.net/
 server=/rooferrainmaker.com/
 server=/roofing.galacticleads.com/
@@ -73690,7 +73684,6 @@ server=/xiaotong.pink/
 server=/xiaoxiangmovie.com/
 server=/xiatian.buzz/
 server=/xiazai.9377.com/
-server=/xibpbov.cn/
 server=/xibqq.xyz/
 server=/xidx.org/
 server=/xiepl.com/

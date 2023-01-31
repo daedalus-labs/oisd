@@ -1,6 +1,6 @@
-# Version: 202301311253
+# Version: 202301311608
 # Title: oisd basic
-# Last modified: 2023-01-31T12:53:46+0000
+# Last modified: 2023-01-31T16:08:35+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -24866,7 +24866,6 @@
 0.0.0.0 cystspalt.com
 0.0.0.0 cytoclause.com
 0.0.0.0 cytogene.co.in
-0.0.0.0 cytonsketupa.com
 0.0.0.0 cyvperu.com
 0.0.0.0 cyxynjlfarcb.top
 0.0.0.0 cz-gmtdmp.mookie1.com
@@ -35209,7 +35208,6 @@
 0.0.0.0 galaxytechnical.com
 0.0.0.0 galaxyvandas.website
 0.0.0.0 galeaeevovae.com
-0.0.0.0 galeidnursy.com
 0.0.0.0 galepush.net
 0.0.0.0 galerie-couleurdart.com
 0.0.0.0 galetovivaflor.com.br
@@ -46802,7 +46800,6 @@
 0.0.0.0 lgse.com
 0.0.0.0 lgtdkpfnor.com
 0.0.0.0 lguexrlw.top
-0.0.0.0 lgugsnp.cn
 0.0.0.0 lhagvasuren.mn
 0.0.0.0 lhare.xyz
 0.0.0.0 lhedgelnha.com
@@ -54656,7 +54653,6 @@
 0.0.0.0 noteandclass.com
 0.0.0.0 notefullgp.com
 0.0.0.0 notenpartner.de
-0.0.0.0 notepad-download.online
 0.0.0.0 notepad2.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 notesbook.in
@@ -62334,7 +62330,6 @@
 0.0.0.0 qrlsx.com
 0.0.0.0 qrnfc.net
 0.0.0.0 qrstes.com
-0.0.0.0 qrybpwqjgkeilh.com
 0.0.0.0 qs.ioam.de
 0.0.0.0 qsdr.mysunnylawn.com
 0.0.0.0 qsearch-a.akamaihd.net
@@ -64919,7 +64914,6 @@
 0.0.0.0 romerogarcia.top
 0.0.0.0 romewicked.com
 0.0.0.0 romgratis.com
-0.0.0.0 rompercava.com
 0.0.0.0 ronaldoabezerra.com.br
 0.0.0.0 ronaldofilho.com
 0.0.0.0 ronaqnews.com
@@ -64933,7 +64927,6 @@
 0.0.0.0 ronrecheclo.xyz
 0.0.0.0 rontar.com
 0.0.0.0 rontent.powvibeo.me
-0.0.0.0 rooby.cyou
 0.0.0.0 roofappointments.net
 0.0.0.0 rooferrainmaker.com
 0.0.0.0 roofing.galacticleads.com
@@ -84952,7 +84945,6 @@
 0.0.0.0 xiaoxiangmovie.com
 0.0.0.0 xiatian.buzz
 0.0.0.0 xiazai.9377.com
-0.0.0.0 xibpbov.cn
 0.0.0.0 xibqq.xyz
 0.0.0.0 xidx.org
 0.0.0.0 xiepl.com

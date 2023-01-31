@@ -1,6 +1,6 @@
-# Version: 202301311253
+# Version: 202301311608
 # Title: oisd basic
-# Last modified: 2023-01-31T12:53:51+0000
+# Last modified: 2023-01-31T16:08:40+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -16156,6 +16156,7 @@ local=/cawbarthe.com/
 local=/cawwn.com/
 local=/cb-content.com/
 local=/cb.baidu.com/
+local=/cb.rompercava.com/
 local=/cba-fed-igh.com/
 local=/cbahogarsanjose.com/
 local=/cbango.com.ar/
@@ -20644,7 +20645,6 @@ local=/cyruswheels.com/
 local=/cystspalt.com/
 local=/cytoclause.com/
 local=/cytogene.co.in/
-local=/cytonsketupa.com/
 local=/cyvperu.com/
 local=/cyxynjlfarcb.top/
 local=/cz09.com/
@@ -29832,7 +29832,6 @@ local=/galaxymeet.ru/
 local=/galaxytechnical.com/
 local=/galaxyvandas.website/
 local=/galeaeevovae.com/
-local=/galeidnursy.com/
 local=/galepush.net/
 local=/galerie-couleurdart.com/
 local=/galetovivaflor.com.br/
@@ -40233,7 +40232,6 @@ local=/lgrmuhendislik.com/
 local=/lgse.com/
 local=/lgtdkpfnor.com/
 local=/lguexrlw.top/
-local=/lgugsnp.cn/
 local=/lhagvasuren.mn/
 local=/lhare.xyz/
 local=/lhedgelnha.com/
@@ -47448,7 +47446,6 @@ local=/notcotal.com/
 local=/noteandclass.com/
 local=/notefullgp.com/
 local=/notenpartner.de/
-local=/notepad-download.online/
 local=/notepad2.com/
 local=/notes-analytics-events.apple.com/
 local=/notesbook.in/
@@ -54245,7 +54242,6 @@ local=/qring-tms.qq.com/
 local=/qrlsx.com/
 local=/qrnfc.net/
 local=/qrstes.com/
-local=/qrybpwqjgkeilh.com/
 local=/qsdr.mysunnylawn.com/
 local=/qsearch-a.akamaihd.net/
 local=/qservz.com/
@@ -56594,7 +56590,6 @@ local=/romero-cpa.com/
 local=/romerogarcia.top/
 local=/romewicked.com/
 local=/romgratis.com/
-local=/rompercava.com/
 local=/ronaldoabezerra.com.br/
 local=/ronaldofilho.com/
 local=/ronaqnews.com/
@@ -56608,7 +56603,6 @@ local=/ronrecheclo.com/
 local=/ronrecheclo.xyz/
 local=/rontar.com/
 local=/rontent.powvibeo.me/
-local=/rooby.cyou/
 local=/roofappointments.net/
 local=/rooferrainmaker.com/
 local=/roofing.galacticleads.com/
@@ -73690,7 +73684,6 @@ local=/xiaotong.pink/
 local=/xiaoxiangmovie.com/
 local=/xiatian.buzz/
 local=/xiazai.9377.com/
-local=/xibpbov.cn/
 local=/xibqq.xyz/
 local=/xidx.org/
 local=/xiepl.com/

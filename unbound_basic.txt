@@ -1,6 +1,6 @@
-# Version: 202301311253
+# Version: 202301311608
 # Title: oisd basic
-# Last modified: 2023-01-31T12:53:52+0000
+# Last modified: 2023-01-31T16:08:42+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -16158,6 +16158,7 @@ local-zone: "cawbarthe.com." always_null
 local-zone: "cawwn.com." always_null
 local-zone: "cb-content.com." always_null
 local-zone: "cb.baidu.com." always_null
+local-zone: "cb.rompercava.com." always_null
 local-zone: "cba-fed-igh.com." always_null
 local-zone: "cbahogarsanjose.com." always_null
 local-zone: "cbango.com.ar." always_null
@@ -20646,7 +20647,6 @@ local-zone: "cyruswheels.com." always_null
 local-zone: "cystspalt.com." always_null
 local-zone: "cytoclause.com." always_null
 local-zone: "cytogene.co.in." always_null
-local-zone: "cytonsketupa.com." always_null
 local-zone: "cyvperu.com." always_null
 local-zone: "cyxynjlfarcb.top." always_null
 local-zone: "cz09.com." always_null
@@ -29834,7 +29834,6 @@ local-zone: "galaxymeet.ru." always_null
 local-zone: "galaxytechnical.com." always_null
 local-zone: "galaxyvandas.website." always_null
 local-zone: "galeaeevovae.com." always_null
-local-zone: "galeidnursy.com." always_null
 local-zone: "galepush.net." always_null
 local-zone: "galerie-couleurdart.com." always_null
 local-zone: "galetovivaflor.com.br." always_null
@@ -40235,7 +40234,6 @@ local-zone: "lgrmuhendislik.com." always_null
 local-zone: "lgse.com." always_null
 local-zone: "lgtdkpfnor.com." always_null
 local-zone: "lguexrlw.top." always_null
-local-zone: "lgugsnp.cn." always_null
 local-zone: "lhagvasuren.mn." always_null
 local-zone: "lhare.xyz." always_null
 local-zone: "lhedgelnha.com." always_null
@@ -47450,7 +47448,6 @@ local-zone: "notcotal.com." always_null
 local-zone: "noteandclass.com." always_null
 local-zone: "notefullgp.com." always_null
 local-zone: "notenpartner.de." always_null
-local-zone: "notepad-download.online." always_null
 local-zone: "notepad2.com." always_null
 local-zone: "notes-analytics-events.apple.com." always_null
 local-zone: "notesbook.in." always_null
@@ -54247,7 +54244,6 @@ local-zone: "qring-tms.qq.com." always_null
 local-zone: "qrlsx.com." always_null
 local-zone: "qrnfc.net." always_null
 local-zone: "qrstes.com." always_null
-local-zone: "qrybpwqjgkeilh.com." always_null
 local-zone: "qsdr.mysunnylawn.com." always_null
 local-zone: "qsearch-a.akamaihd.net." always_null
 local-zone: "qservz.com." always_null
@@ -56596,7 +56592,6 @@ local-zone: "romero-cpa.com." always_null
 local-zone: "romerogarcia.top." always_null
 local-zone: "romewicked.com." always_null
 local-zone: "romgratis.com." always_null
-local-zone: "rompercava.com." always_null
 local-zone: "ronaldoabezerra.com.br." always_null
 local-zone: "ronaldofilho.com." always_null
 local-zone: "ronaqnews.com." always_null
@@ -56610,7 +56605,6 @@ local-zone: "ronrecheclo.com." always_null
 local-zone: "ronrecheclo.xyz." always_null
 local-zone: "rontar.com." always_null
 local-zone: "rontent.powvibeo.me." always_null
-local-zone: "rooby.cyou." always_null
 local-zone: "roofappointments.net." always_null
 local-zone: "rooferrainmaker.com." always_null
 local-zone: "roofing.galacticleads.com." always_null
@@ -73692,7 +73686,6 @@ local-zone: "xiaotong.pink." always_null
 local-zone: "xiaoxiangmovie.com." always_null
 local-zone: "xiatian.buzz." always_null
 local-zone: "xiazai.9377.com." always_null
-local-zone: "xibpbov.cn." always_null
 local-zone: "xibqq.xyz." always_null
 local-zone: "xidx.org." always_null
 local-zone: "xiepl.com." always_null

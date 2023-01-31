@@ -1,12 +1,12 @@
-; Version: 202301311253
+; Version: 202301311608
 ; Title: oisd basic
-; Last modified: 2023-01-31T12:53:52+0000
+; Last modified: 2023-01-31T16:08:41+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675166401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675180805 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -32311,6 +32311,8 @@ cb-content.com CNAME .
 *.cb-content.com CNAME .
 cb.baidu.com CNAME .
 *.cb.baidu.com CNAME .
+cb.rompercava.com CNAME .
+*.cb.rompercava.com CNAME .
 cba-fed-igh.com CNAME .
 *.cba-fed-igh.com CNAME .
 cbahogarsanjose.com CNAME .
@@ -41287,8 +41289,6 @@ cytoclause.com CNAME .
 *.cytoclause.com CNAME .
 cytogene.co.in CNAME .
 *.cytogene.co.in CNAME .
-cytonsketupa.com CNAME .
-*.cytonsketupa.com CNAME .
 cyvperu.com CNAME .
 *.cyvperu.com CNAME .
 cyxynjlfarcb.top CNAME .
@@ -59663,8 +59663,6 @@ galaxyvandas.website CNAME .
 *.galaxyvandas.website CNAME .
 galeaeevovae.com CNAME .
 *.galeaeevovae.com CNAME .
-galeidnursy.com CNAME .
-*.galeidnursy.com CNAME .
 galepush.net CNAME .
 *.galepush.net CNAME .
 galerie-couleurdart.com CNAME .
@@ -80465,8 +80463,6 @@ lgtdkpfnor.com CNAME .
 *.lgtdkpfnor.com CNAME .
 lguexrlw.top CNAME .
 *.lguexrlw.top CNAME .
-lgugsnp.cn CNAME .
-*.lgugsnp.cn CNAME .
 lhagvasuren.mn CNAME .
 *.lhagvasuren.mn CNAME .
 lhare.xyz CNAME .
@@ -94895,8 +94891,6 @@ notefullgp.com CNAME .
 *.notefullgp.com CNAME .
 notenpartner.de CNAME .
 *.notenpartner.de CNAME .
-notepad-download.online CNAME .
-*.notepad-download.online CNAME .
 notepad2.com CNAME .
 *.notepad2.com CNAME .
 notes-analytics-events.apple.com CNAME .
@@ -108489,8 +108483,6 @@ qrnfc.net CNAME .
 *.qrnfc.net CNAME .
 qrstes.com CNAME .
 *.qrstes.com CNAME .
-qrybpwqjgkeilh.com CNAME .
-*.qrybpwqjgkeilh.com CNAME .
 qsdr.mysunnylawn.com CNAME .
 *.qsdr.mysunnylawn.com CNAME .
 qsearch-a.akamaihd.net CNAME .
@@ -113187,8 +113179,6 @@ romewicked.com CNAME .
 *.romewicked.com CNAME .
 romgratis.com CNAME .
 *.romgratis.com CNAME .
-rompercava.com CNAME .
-*.rompercava.com CNAME .
 ronaldoabezerra.com.br CNAME .
 *.ronaldoabezerra.com.br CNAME .
 ronaldofilho.com CNAME .
@@ -113215,8 +113205,6 @@ rontar.com CNAME .
 *.rontar.com CNAME .
 rontent.powvibeo.me CNAME .
 *.rontent.powvibeo.me CNAME .
-rooby.cyou CNAME .
-*.rooby.cyou CNAME .
 roofappointments.net CNAME .
 *.roofappointments.net CNAME .
 rooferrainmaker.com CNAME .
@@ -147379,8 +147367,6 @@ xiatian.buzz CNAME .
 *.xiatian.buzz CNAME .
 xiazai.9377.com CNAME .
 *.xiazai.9377.com CNAME .
-xibpbov.cn CNAME .
-*.xibpbov.cn CNAME .
 xibqq.xyz CNAME .
 *.xibqq.xyz CNAME .
 xidx.org CNAME .
