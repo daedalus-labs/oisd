@@ -1,12 +1,12 @@
-; Version: 202301310810
+; Version: 202301311253
 ; Title: oisd basic
-; Last modified: 2023-01-31T08:10:45+0000
+; Last modified: 2023-01-31T12:53:52+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675152002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675166401 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -4233,8 +4233,6 @@ a-waiting.com CNAME .
 *.a-waiting.com CNAME .
 a.123porner.com CNAME .
 *.a.123porner.com CNAME .
-a.20minutes.fr CNAME .
-*.a.20minutes.fr CNAME .
 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com CNAME .
 *.a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com CNAME .
 a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com CNAME .
@@ -13487,6 +13485,8 @@ afucent.com CNAME .
 *.afucent.com CNAME .
 afunnygames.com CNAME .
 *.afunnygames.com CNAME .
+afwpc.com CNAME .
+*.afwpc.com CNAME .
 afy11.net CNAME .
 *.afy11.net CNAME .
 afyads.com CNAME .
@@ -32709,8 +32709,6 @@ cdn.advisible.com CNAME .
 *.cdn.advisible.com CNAME .
 cdn.affiliatable.io CNAME .
 *.cdn.affiliatable.io CNAME .
-cdn.afwpc.com CNAME .
-*.cdn.afwpc.com CNAME .
 cdn.alistcloud.com CNAME .
 *.cdn.alistcloud.com CNAME .
 cdn.amplitude.com CNAME .
@@ -37295,8 +37293,6 @@ collector.wawlabs.com CNAME .
 *.collector.wawlabs.com CNAME .
 collector.xhamster.com CNAME .
 *.collector.xhamster.com CNAME .
-collector.xhwebsite.com CNAME .
-*.collector.xhwebsite.com CNAME .
 collector.xhwide1.com CNAME .
 *.collector.xhwide1.com CNAME .
 collector.xhwide8.com CNAME .
@@ -53705,8 +53701,6 @@ evlsn.com CNAME .
 *.evlsn.com CNAME .
 evlv.online CNAME .
 *.evlv.online CNAME .
-evnjkyja.com CNAME .
-*.evnjkyja.com CNAME .
 evnt.iol.it CNAME .
 *.evnt.iol.it CNAME .
 evogarage.com CNAME .
@@ -58081,8 +58075,6 @@ fp.czvv.com CNAME .
 *.fp.czvv.com CNAME .
 fp.kakaku.com CNAME .
 *.fp.kakaku.com CNAME .
-fp.mailerstalons.com CNAME .
-*.fp.mailerstalons.com CNAME .
 fp.nanrenwo.net CNAME .
 *.fp.nanrenwo.net CNAME .
 fp.nkp.es CNAME .
@@ -60585,6 +60577,8 @@ geo.thehindu.com CNAME .
 *.geo.thehindu.com CNAME .
 geo.xcel.io CNAME .
 *.geo.xcel.io CNAME .
+geo.yahoo.com CNAME .
+*.geo.yahoo.com CNAME .
 geoaddicted.net CNAME .
 *.geoaddicted.net CNAME .
 geoads.com CNAME .
@@ -73069,8 +73063,6 @@ iratelyveinlet.com CNAME .
 *.iratelyveinlet.com CNAME .
 irbbzkph.page.link CNAME .
 *.irbbzkph.page.link CNAME .
-irbisennuis.com CNAME .
-*.irbisennuis.com CNAME .
 ircad.org CNAME .
 *.ircad.org CNAME .
 irchincsp.com CNAME .
@@ -74771,8 +74763,6 @@ jirafe.com CNAME .
 *.jirafe.com CNAME .
 jis.ps CNAME .
 *.jis.ps CNAME .
-jishiben.info CNAME .
-*.jishiben.info CNAME .
 jissingirgoa.com CNAME .
 *.jissingirgoa.com CNAME .
 jistaumt.com CNAME .
@@ -84409,6 +84399,8 @@ mailderef.mail.com CNAME .
 *.mailderef.mail.com CNAME .
 mailer.i.bizml.ru CNAME .
 *.mailer.i.bizml.ru CNAME .
+mailerstalons.com CNAME .
+*.mailerstalons.com CNAME .
 maillots-ffoot-actu.fr CNAME .
 *.maillots-ffoot-actu.fr CNAME .
 maillovelove.net CNAME .
@@ -89441,8 +89433,6 @@ modulepush.com CNAME .
 *.modulepush.com CNAME .
 modules.wcax.com CNAME .
 *.modules.wcax.com CNAME .
-modulohanafi.com CNAME .
-*.modulohanafi.com CNAME .
 modulusoctodon.uno CNAME .
 *.modulusoctodon.uno CNAME .
 moe.video CNAME .
@@ -95207,8 +95197,6 @@ nqslmtuswqdz.com CNAME .
 *.nqslmtuswqdz.com CNAME .
 nqtxg.xyz CNAME .
 *.nqtxg.xyz CNAME .
-nqxvevk.cn CNAME .
-*.nqxvevk.cn CNAME .
 nr-events.taboola.com CNAME .
 *.nr-events.taboola.com CNAME .
 nr.taboola.com CNAME .
@@ -101935,8 +101923,6 @@ pgonews.pro CNAME .
 *.pgonews.pro CNAME .
 pgpartner.com CNAME .
 *.pgpartner.com CNAME .
-pgpl.g5e.com CNAME .
-*.pgpl.g5e.com CNAME .
 pgs.io CNAME .
 *.pgs.io CNAME .
 pgslot-wallet.net CNAME .
@@ -104079,8 +104065,6 @@ pommeyslicht.com CNAME .
 *.pommeyslicht.com CNAME .
 pomp-buerotechnik.de CNAME .
 *.pomp-buerotechnik.de CNAME .
-pompeyafrite.com CNAME .
-*.pompeyafrite.com CNAME .
 pomport.com CNAME .
 *.pomport.com CNAME .
 pompouseruptionrang.com CNAME .
@@ -109851,8 +109835,6 @@ rays-counter.com CNAME .
 *.rays-counter.com CNAME .
 rayspublicschool.org CNAME .
 *.rayspublicschool.org CNAME .
-rayss.host CNAME .
-*.rayss.host CNAME .
 raytech.com.pk CNAME .
 *.raytech.com.pk CNAME .
 rayyanmills.com CNAME .
@@ -112267,8 +112249,6 @@ rgja.in CNAME .
 *.rgja.in CNAME .
 rgjeow3.com CNAME .
 *.rgjeow3.com CNAME .
-rgkkzna.com CNAME .
-*.rgkkzna.com CNAME .
 rgkrhwhai.top CNAME .
 *.rgkrhwhai.top CNAME .
 rgloha.com CNAME .
@@ -125209,8 +125189,6 @@ statistics.crowdynews.com CNAME .
 *.statistics.crowdynews.com CNAME .
 statistics.daktilo.com CNAME .
 *.statistics.daktilo.com CNAME .
-statistics.darkreader.app CNAME .
-*.statistics.darkreader.app CNAME .
 statistics.elsevier.nl CNAME .
 *.statistics.elsevier.nl CNAME .
 statistics.fppressa.ru CNAME .
@@ -149801,8 +149779,6 @@ z6naousb.com CNAME .
 *.z6naousb.com CNAME .
 z7yru.com CNAME .
 *.z7yru.com CNAME .
-z82v0.icu CNAME .
-*.z82v0.icu CNAME .
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me CNAME .
 *.z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me CNAME .
 z929.fuelfix.com CNAME .

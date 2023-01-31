@@ -1,6 +1,6 @@
-# Version: 202301310810
+# Version: 202301311253
 # Title: oisd basic
-# Last modified: 2023-01-31T08:10:39+0000
+# Last modified: 2023-01-31T12:53:46+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -2895,7 +2895,6 @@
 0.0.0.0 a-waiting.com
 0.0.0.0 a.123porner.com
 0.0.0.0 a.1nimo.com
-0.0.0.0 a.20minutes.fr
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
 0.0.0.0 a.4aqq.com
@@ -22582,7 +22581,6 @@
 0.0.0.0 collector.vhx.tv
 0.0.0.0 collector.wawlabs.com
 0.0.0.0 collector.xhamster.com
-0.0.0.0 collector.xhwebsite.com
 0.0.0.0 collector.xhwide1.com
 0.0.0.0 collector.xhwide8.com
 0.0.0.0 collector1.afreecatv.com
@@ -32010,7 +32008,6 @@
 0.0.0.0 evlv.online
 0.0.0.0 evm1.stackadapt.com
 0.0.0.0 evm2.stackadapt.com
-0.0.0.0 evnjkyja.com
 0.0.0.0 evnt.iol.it
 0.0.0.0 evogarage.com
 0.0.0.0 evoitservices.com
@@ -35734,6 +35731,7 @@
 0.0.0.0 geo.thehindu.com
 0.0.0.0 geo.xcel.io
 0.0.0.0 geo.xmlppcbuzz.com
+0.0.0.0 geo.yahoo.com
 0.0.0.0 geoaddicted.net
 0.0.0.0 geoads.com
 0.0.0.0 geoads.osdn.com
@@ -42733,7 +42731,6 @@
 0.0.0.0 iraqcv.com
 0.0.0.0 iratelyveinlet.com
 0.0.0.0 irbbzkph.page.link
-0.0.0.0 irbisennuis.com
 0.0.0.0 ircad.org
 0.0.0.0 irchincsp.com
 0.0.0.0 irecid.com
@@ -43672,7 +43669,6 @@
 0.0.0.0 jira.xsuffer.com
 0.0.0.0 jirafe.com
 0.0.0.0 jis.ps
-0.0.0.0 jishiben.info
 0.0.0.0 jissingirgoa.com
 0.0.0.0 jistaumt.com
 0.0.0.0 jistvotestabl.space
@@ -51741,7 +51737,6 @@
 0.0.0.0 modularmental.com
 0.0.0.0 modulepush.com
 0.0.0.0 modules.wcax.com
-0.0.0.0 modulohanafi.com
 0.0.0.0 modulusoctodon.uno
 0.0.0.0 moe.video
 0.0.0.0 moedgapers.com
@@ -54827,7 +54822,6 @@
 0.0.0.0 nqrkzcd7ixwr.com
 0.0.0.0 nqslmtuswqdz.com
 0.0.0.0 nqtxg.xyz
-0.0.0.0 nqxvevk.cn
 0.0.0.0 nr-events.taboola.com
 0.0.0.0 nr.taboola.com
 0.0.0.0 nr1234.com
@@ -58568,7 +58562,6 @@
 0.0.0.0 pgold.pro
 0.0.0.0 pgonews.pro
 0.0.0.0 pgpartner.com
-0.0.0.0 pgpl.g5e.com
 0.0.0.0 pgs.io
 0.0.0.0 pgslot-wallet.net
 0.0.0.0 pgslotgamings.com
@@ -59824,7 +59817,6 @@
 0.0.0.0 pomerous.info
 0.0.0.0 pommeyslicht.com
 0.0.0.0 pomp-buerotechnik.de
-0.0.0.0 pompeyafrite.com
 0.0.0.0 pomport.com
 0.0.0.0 pompouseruptionrang.com
 0.0.0.0 ponchowafesargb.com
@@ -63075,7 +63067,6 @@
 0.0.0.0 rayrecollect.com
 0.0.0.0 rays-counter.com
 0.0.0.0 rayspublicschool.org
-0.0.0.0 rayss.host
 0.0.0.0 raytech.com.pk
 0.0.0.0 rayyanmills.com
 0.0.0.0 razapharma.com
@@ -64443,7 +64434,6 @@
 0.0.0.0 rggtt.top
 0.0.0.0 rgja.in
 0.0.0.0 rgjeow3.com
-0.0.0.0 rgkkzna.com
 0.0.0.0 rgkrhwhai.top
 0.0.0.0 rgloha.com
 0.0.0.0 rgp-ign.fr
@@ -72202,7 +72192,6 @@
 0.0.0.0 statistics.11880.com
 0.0.0.0 statistics.crowdynews.com
 0.0.0.0 statistics.daktilo.com
-0.0.0.0 statistics.darkreader.app
 0.0.0.0 statistics.elsevier.nl
 0.0.0.0 statistics.fppressa.ru
 0.0.0.0 statistics.heltenkelt.se
@@ -86332,7 +86321,6 @@
 0.0.0.0 z680.beaumontenterprise.com
 0.0.0.0 z6naousb.com
 0.0.0.0 z7yru.com
-0.0.0.0 z82v0.icu
 0.0.0.0 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0.0.0.0 z929.fuelfix.com
 0.0.0.0 z94rtbs.com

@@ -1,6 +1,6 @@
-# Version: 202301310810
+# Version: 202301311253
 # Title: oisd basic
-# Last modified: 2023-01-31T08:10:39+0000
+# Last modified: 2023-01-31T12:53:46+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -2895,7 +2895,6 @@ a-static.com
 a-waiting.com
 a.123porner.com
 a.1nimo.com
-a.20minutes.fr
 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
 a.4aqq.com
@@ -22582,7 +22581,6 @@ collector.unsplash.com
 collector.vhx.tv
 collector.wawlabs.com
 collector.xhamster.com
-collector.xhwebsite.com
 collector.xhwide1.com
 collector.xhwide8.com
 collector1.afreecatv.com
@@ -32010,7 +32008,6 @@ evlsn.com
 evlv.online
 evm1.stackadapt.com
 evm2.stackadapt.com
-evnjkyja.com
 evnt.iol.it
 evogarage.com
 evoitservices.com
@@ -35734,6 +35731,7 @@ geo.rlcdn.com
 geo.thehindu.com
 geo.xcel.io
 geo.xmlppcbuzz.com
+geo.yahoo.com
 geoaddicted.net
 geoads.com
 geoads.osdn.com
@@ -42733,7 +42731,6 @@ iranjanebi.ir
 iraqcv.com
 iratelyveinlet.com
 irbbzkph.page.link
-irbisennuis.com
 ircad.org
 irchincsp.com
 irecid.com
@@ -43672,7 +43669,6 @@ jira.smaato.net
 jira.xsuffer.com
 jirafe.com
 jis.ps
-jishiben.info
 jissingirgoa.com
 jistaumt.com
 jistvotestabl.space
@@ -51741,7 +51737,6 @@ modularkitchenbazar.com
 modularmental.com
 modulepush.com
 modules.wcax.com
-modulohanafi.com
 modulusoctodon.uno
 moe.video
 moedgapers.com
@@ -54827,7 +54822,6 @@ nqn7la7.de
 nqrkzcd7ixwr.com
 nqslmtuswqdz.com
 nqtxg.xyz
-nqxvevk.cn
 nr-events.taboola.com
 nr.taboola.com
 nr1234.com
@@ -58568,7 +58562,6 @@ pgncompany.ir
 pgold.pro
 pgonews.pro
 pgpartner.com
-pgpl.g5e.com
 pgs.io
 pgslot-wallet.net
 pgslotgamings.com
@@ -59824,7 +59817,6 @@ polyverse.com.ng
 pomerous.info
 pommeyslicht.com
 pomp-buerotechnik.de
-pompeyafrite.com
 pomport.com
 pompouseruptionrang.com
 ponchowafesargb.com
@@ -63075,7 +63067,6 @@ raynerise.com
 rayrecollect.com
 rays-counter.com
 rayspublicschool.org
-rayss.host
 raytech.com.pk
 rayyanmills.com
 razapharma.com
@@ -64443,7 +64434,6 @@ rgentssep.xyz
 rggtt.top
 rgja.in
 rgjeow3.com
-rgkkzna.com
 rgkrhwhai.top
 rgloha.com
 rgp-ign.fr
@@ -72202,7 +72192,6 @@ statistics-vov2.vov.vn
 statistics.11880.com
 statistics.crowdynews.com
 statistics.daktilo.com
-statistics.darkreader.app
 statistics.elsevier.nl
 statistics.fppressa.ru
 statistics.heltenkelt.se
@@ -86332,7 +86321,6 @@ z5x.net
 z680.beaumontenterprise.com
 z6naousb.com
 z7yru.com
-z82v0.icu
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 z929.fuelfix.com
 z94rtbs.com
