@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202302012042
+! Version: 202302012106
 ! Title: oisd basic
-! Last modified: 2023-02-01T20:42:15+0000
+! Last modified: 2023-02-01T21:06:57+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List             
@@ -35983,7 +35983,6 @@
 ||insights-jobs-ingress.prod.leanplum.com^
 ||insights.algolia.io^
 ||insights.bizrate.com^
-||insights.dice.com^
 ||insights.hotjar.com^
 ||insights.sitesearch360.com^
 ||insights.vip.aetnd.com^

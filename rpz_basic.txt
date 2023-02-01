@@ -1,12 +1,12 @@
-; Version: 202302012042
+; Version: 202302012107
 ; Title: oisd basic
-; Last modified: 2023-02-01T20:42:24+0000
+; Last modified: 2023-02-01T21:07:05+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675284144 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675285625 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -71963,8 +71963,6 @@ insights.algolia.io CNAME .
 *.insights.algolia.io CNAME .
 insights.bizrate.com CNAME .
 *.insights.bizrate.com CNAME .
-insights.dice.com CNAME .
-*.insights.dice.com CNAME .
 insights.hotjar.com CNAME .
 *.insights.hotjar.com CNAME .
 insights.sitesearch360.com CNAME .

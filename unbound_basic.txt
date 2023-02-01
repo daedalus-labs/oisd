@@ -1,6 +1,6 @@
-# Version: 202302012042
+# Version: 202302012107
 # Title: oisd basic
-# Last modified: 2023-02-01T20:42:25+0000
+# Last modified: 2023-02-01T21:07:06+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -35984,7 +35984,6 @@ local-zone: "insights-collector.newrelic.com." always_null
 local-zone: "insights-jobs-ingress.prod.leanplum.com." always_null
 local-zone: "insights.algolia.io." always_null
 local-zone: "insights.bizrate.com." always_null
-local-zone: "insights.dice.com." always_null
 local-zone: "insights.hotjar.com." always_null
 local-zone: "insights.sitesearch360.com." always_null
 local-zone: "insights.vip.aetnd.com." always_null

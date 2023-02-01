@@ -1,6 +1,6 @@
-# Version: 202302012042
+# Version: 202302012107
 # Title: oisd basic
-# Last modified: 2023-02-01T20:42:21+0000
+# Last modified: 2023-02-01T21:07:03+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -35982,7 +35982,6 @@ server=/insights-collector.newrelic.com/
 server=/insights-jobs-ingress.prod.leanplum.com/
 server=/insights.algolia.io/
 server=/insights.bizrate.com/
-server=/insights.dice.com/
 server=/insights.hotjar.com/
 server=/insights.sitesearch360.com/
 server=/insights.vip.aetnd.com/

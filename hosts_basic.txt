@@ -1,6 +1,6 @@
-# Version: 202302012042
+# Version: 202302012107
 # Title: oisd basic
-# Last modified: 2023-02-01T20:42:20+0000
+# Last modified: 2023-02-01T21:07:02+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -42112,7 +42112,6 @@
 0.0.0.0 insights.alphonso.tv
 0.0.0.0 insights.bizrate.com
 0.0.0.0 insights.clevertap.com
-0.0.0.0 insights.dice.com
 0.0.0.0 insights.gumgum.com
 0.0.0.0 insights.hotjar.com
 0.0.0.0 insights.marketolive.com
