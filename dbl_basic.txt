@@ -1,6 +1,6 @@
-# Version: 202302010008
+# Version: 202302012042
 # Title: oisd basic
-# Last modified: 2023-02-01T00:08:28+0000
+# Last modified: 2023-02-01T20:42:17+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -16013,7 +16013,6 @@ bhyddc.com
 bhyuu.com
 bi.manhuaren.com
 bi.vhost.vn
-bi.yeshen.com
 bia.brightinfo.com
 biakico.mom
 biallo1.de
@@ -46214,7 +46213,6 @@ lauhoosh.net
 lauhoyos.com
 launch.adserver.yahoo.com
 launchbit.com
-launcher.us.yeshen.com
 launches.appsflyersdk.com
 launchingonsetwhirlwind.com
 launchpoint.marketo.com

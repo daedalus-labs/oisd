@@ -1,6 +1,6 @@
-# Version: 202302010008
+# Version: 202302012042
 # Title: oisd basic
-# Last modified: 2023-02-01T00:08:33+0000
+# Last modified: 2023-02-01T20:42:22+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -13254,7 +13254,6 @@ local=/bhyddc.com/
 local=/bhyuu.com/
 local=/bi.manhuaren.com/
 local=/bi.vhost.vn/
-local=/bi.yeshen.com/
 local=/biakico.mom/
 local=/biallo1.de/
 local=/biallo2.de/
@@ -39694,7 +39693,6 @@ local=/lauhefoo.com/
 local=/lauhoosh.net/
 local=/lauhoyos.com/
 local=/launchbit.com/
-local=/launcher.us.yeshen.com/
 local=/launches.appsflyersdk.com/
 local=/launchingonsetwhirlwind.com/
 local=/launchpoint.marketo.com/

@@ -1,6 +1,6 @@
-# Version: 202302010008
+# Version: 202302012042
 # Title: oisd basic
-# Last modified: 2023-02-01T00:08:34+0000
+# Last modified: 2023-02-01T20:42:25+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -13256,7 +13256,6 @@ local-zone: "bhyddc.com." always_null
 local-zone: "bhyuu.com." always_null
 local-zone: "bi.manhuaren.com." always_null
 local-zone: "bi.vhost.vn." always_null
-local-zone: "bi.yeshen.com." always_null
 local-zone: "biakico.mom." always_null
 local-zone: "biallo1.de." always_null
 local-zone: "biallo2.de." always_null
@@ -39696,7 +39695,6 @@ local-zone: "lauhefoo.com." always_null
 local-zone: "lauhoosh.net." always_null
 local-zone: "lauhoyos.com." always_null
 local-zone: "launchbit.com." always_null
-local-zone: "launcher.us.yeshen.com." always_null
 local-zone: "launches.appsflyersdk.com." always_null
 local-zone: "launchingonsetwhirlwind.com." always_null
 local-zone: "launchpoint.marketo.com." always_null

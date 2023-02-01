@@ -1,12 +1,12 @@
-; Version: 202302010008
+; Version: 202302012042
 ; Title: oisd basic
-; Last modified: 2023-02-01T00:08:34+0000
+; Last modified: 2023-02-01T20:42:24+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675209603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675284144 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -26507,8 +26507,6 @@ bi.manhuaren.com CNAME .
 *.bi.manhuaren.com CNAME .
 bi.vhost.vn CNAME .
 *.bi.vhost.vn CNAME .
-bi.yeshen.com CNAME .
-*.bi.yeshen.com CNAME .
 biakico.mom CNAME .
 *.biakico.mom CNAME .
 biallo1.de CNAME .
@@ -79387,8 +79385,6 @@ lauhoyos.com CNAME .
 *.lauhoyos.com CNAME .
 launchbit.com CNAME .
 *.launchbit.com CNAME .
-launcher.us.yeshen.com CNAME .
-*.launcher.us.yeshen.com CNAME .
 launches.appsflyersdk.com CNAME .
 *.launches.appsflyersdk.com CNAME .
 launchingonsetwhirlwind.com CNAME .
