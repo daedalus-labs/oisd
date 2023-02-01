@@ -1,6 +1,6 @@
-# Version: 202301311609
+# Version: 202302010009
 # Title: oisd extra
-# Last modified: 2023-01-31T16:09:55+0000
+# Last modified: 2023-02-01T00:09:46+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -1012,7 +1012,6 @@ tenping.kr
 thehomo.org
 themacuser.org
 thruport.com
-thunderhead.com
 tie.247-inc.net
 tivan.naver.com
 tm.jsuol.com.br
@@ -1436,7 +1435,6 @@ www.chudongcaiwu.xyz
 www.chushoushijian.cn
 www.chuzushijian.cn
 www.cision.com
-www.cisnc.it
 www.cja-1223.cc
 www.cjde.xyz
 www.claiks.com
@@ -1500,7 +1498,6 @@ www.d2-apps.net
 www.d2cmedia.ca
 www.d2ship.com
 www.da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
-www.dacui.online
 www.dacyptepa.pro
 www.dadawm.cc
 www.dadparty.com
@@ -2135,7 +2132,6 @@ www.pnxs.com
 www.poewage.top
 www.pokeryun.site
 www.polymorphicads.jp
-www.pompeyafrite.com
 www.pongsone.uno
 www.porlsbll.cyou
 www.postaffiliatepro.com
@@ -2341,7 +2337,6 @@ www.skfjd1.xyz
 www.skimresources.com
 www.skoovyads.com
 www.skycdnhost.com
-www.skyscan.com
 www.sleeknote.com
 www.slibindy.top
 www.slieindy.top

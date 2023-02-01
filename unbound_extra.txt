@@ -1,6 +1,6 @@
-# Version: 202301311610
+# Version: 202302010009
 # Title: oisd extra
-# Last modified: 2023-01-31T16:10:00+0000
+# Last modified: 2023-02-01T00:09:50+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                             
@@ -447,7 +447,6 @@ local-zone: "chudongcaiwu.xyz." always_null
 local-zone: "chushoushijian.cn." always_null
 local-zone: "chuzushijian.cn." always_null
 local-zone: "cision.com." always_null
-local-zone: "cisnc.it." always_null
 local-zone: "cj.mplxtms.com." always_null
 local-zone: "cja-1223.cc." always_null
 local-zone: "cjde.xyz." always_null
@@ -545,7 +544,6 @@ local-zone: "d2r1yp2w7bby2u.cloudfront.net." always_null
 local-zone: "d2ship.com." always_null
 local-zone: "d2wy8f7a9ursnm.cloudfront.net." always_null
 local-zone: "da29e6b8-f018-490f-b25f-39a887fc95e7.xyz." always_null
-local-zone: "dacui.online." always_null
 local-zone: "dacyptepa.pro." always_null
 local-zone: "dadawm.cc." always_null
 local-zone: "dadparty.com." always_null
@@ -1353,7 +1351,6 @@ local-zone: "pnxs.com." always_null
 local-zone: "poewage.top." always_null
 local-zone: "pokeryun.site." always_null
 local-zone: "polymorphicads.jp." always_null
-local-zone: "pompeyafrite.com." always_null
 local-zone: "pongsone.uno." always_null
 local-zone: "porlsbll.cyou." always_null
 local-zone: "postaffiliatepro.com." always_null
@@ -1620,7 +1617,6 @@ local-zone: "skfjd1.xyz." always_null
 local-zone: "skimresources.com." always_null
 local-zone: "skoovyads.com." always_null
 local-zone: "skycdnhost.com." always_null
-local-zone: "skyscan.com." always_null
 local-zone: "slackb.com." always_null
 local-zone: "sleeknote.com." always_null
 local-zone: "slibindy.top." always_null

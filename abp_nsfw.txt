@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version: 202301311613
+! Version: 202302010012
 ! Title: oisd nsfw
-! Last modified: 2023-01-31T16:13:03+0000
+! Last modified: 2023-02-01T00:12:42+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List              
@@ -128056,6 +128056,7 @@
 ||poringa.net^
 ||porjav.com^
 ||porka.club^
+||porka.online^
 ||porkawhore.com^
 ||porkporn.com^
 ||porkvendors.com^
@@ -133169,6 +133170,7 @@
 ||pornmodelsexxx.com^
 ||pornmodelsvr.com^
 ||pornmodeon.com^
+||pornmofos.com^
 ||pornmolly.com^
 ||pornmom.biz^
 ||pornmom.cc^
@@ -141757,6 +141759,7 @@
 ||porrfilm.cyou^
 ||porrfilm.me^
 ||porrfilm.monster^
+||porrfilm.one^
 ||porrfilm.org^
 ||porrfilm.top^
 ||porrfilmer.monster^
@@ -193348,6 +193351,7 @@
 ||vividlive.com^
 ||vividpersonals.com^
 ||vividradio.com^
+||vividraw.com^
 ||vividstream.xxx^
 ||vividsuperstore.com^
 ||vividtranny.com^
@@ -196070,6 +196074,7 @@
 ||webcqmsex.com^
 ||webcumvideo.com^
 ||webczmsex.com^
+||webdamsex.com^
 ||webdanong.com^
 ||webdating.nl^
 ||webdesir.com^
@@ -199844,6 +199849,7 @@
 ||xn--80a0ahgb2d.top^
 ||xn--80a1afkx7a.com^
 ||xn--80aa7ag.video^
+||xn--80aa7ag.vip^
 ||xn--80aaazx1an0a.lol^
 ||xn--80abmyhebbfbfhrr.top^
 ||xn--80ac8adbdi6b.top^

@@ -1,6 +1,6 @@
-# Version: 202301311610
+# Version: 202302010009
 # Title: oisd extra
-# Last modified: 2023-01-31T16:10:00+0000
+# Last modified: 2023-02-01T00:09:50+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -445,7 +445,6 @@ local=/chudongcaiwu.xyz/
 local=/chushoushijian.cn/
 local=/chuzushijian.cn/
 local=/cision.com/
-local=/cisnc.it/
 local=/cj.mplxtms.com/
 local=/cja-1223.cc/
 local=/cjde.xyz/
@@ -543,7 +542,6 @@ local=/d2r1yp2w7bby2u.cloudfront.net/
 local=/d2ship.com/
 local=/d2wy8f7a9ursnm.cloudfront.net/
 local=/da29e6b8-f018-490f-b25f-39a887fc95e7.xyz/
-local=/dacui.online/
 local=/dacyptepa.pro/
 local=/dadawm.cc/
 local=/dadparty.com/
@@ -1351,7 +1349,6 @@ local=/pnxs.com/
 local=/poewage.top/
 local=/pokeryun.site/
 local=/polymorphicads.jp/
-local=/pompeyafrite.com/
 local=/pongsone.uno/
 local=/porlsbll.cyou/
 local=/postaffiliatepro.com/
@@ -1618,7 +1615,6 @@ local=/skfjd1.xyz/
 local=/skimresources.com/
 local=/skoovyads.com/
 local=/skycdnhost.com/
-local=/skyscan.com/
 local=/slackb.com/
 local=/sleeknote.com/
 local=/slibindy.top/
