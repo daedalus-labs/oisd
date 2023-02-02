@@ -1,6 +1,6 @@
-# Version: 202302020058
+# Version: 202302021627
 # Title: oisd nsfw
-# Last modified: 2023-02-02T00:58:42+0000
+# Last modified: 2023-02-02T16:27:56+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                  
@@ -1628,6 +1628,7 @@
 *.2021.sexonthecampus.fr
 *.2023-porn.ru
 *.2023-sex.ru
+*.2023-xxx.ru
 *.202xnxx.com
 *.20asiansex.com
 *.20essexstreet.com
@@ -13671,6 +13672,7 @@
 *.asianlivewebcam.cam
 *.asianlivewebcams.com
 *.asianlovings.com
+*.asianluxporn.com
 *.asianluxuryescort.com
 *.asianmanwhitegirl.com
 *.asianmassage.xyz
@@ -29963,6 +29965,7 @@
 *.camslut.org
 *.camslut.tv
 *.camslut.us
+*.camslut.xyz
 *.camslutbabes.com
 *.camslutchat.com
 *.camslutchat.web-cam-girls.info
@@ -44784,6 +44787,7 @@
 *.ee.pornchat18.online
 *.ee2694.com
 *.eebcamsex.com
+*.eebcamsex.nl
 *.eedosenganless.cf
 *.eeeeknailpolish.com
 *.eeewz.xyz
@@ -45422,8 +45426,11 @@
 *.en-xnxx.com
 *.en.141porn.com
 *.en.a123tv.com
+*.en.besplatnipornofilmovi.net
 *.en.bysex.mobi
 *.en.bysex.pro
+*.en.danskepornofilm.net
+*.en.dansksexfilm.com
 *.en.dxlive.com
 *.en.escortpornstar.com
 *.en.euphoriesexshop.com
@@ -45450,6 +45457,7 @@
 *.en.pornmobilesites.com
 *.en.pornoaut.com
 *.en.pornodrel.com
+*.en.pornofilm7.com
 *.en.pornomulher.cyou
 *.en.pornshop.ru
 *.en.porntube.red
@@ -45458,6 +45466,7 @@
 *.en.salonxxx.ru
 *.en.sexenigma.com
 *.en.sexklip.cyou
+*.en.sexvideodansk.com
 *.en.sexyplastenky.cz
 *.en.shiroino.com
 *.en.siskiblog.in
@@ -45476,6 +45485,7 @@
 *.en.xhdporno.vip
 *.en.xhdpornokz.com
 *.en.xxx18xxx.life
+*.en.xxxfilmovi.net
 *.en.xxxs.vip
 *.en.yasex.info
 *.en.yasex1.link
@@ -47359,6 +47369,10 @@
 *.es-xvideos.net
 *.es-xvideos.org
 *.es-youporn.com
+*.es.analsex7.com
+*.es.besplatnipornofilm.com
+*.es.besplatnipornofilmovi.net
+*.es.danskepornofilm.net
 *.es.frenchpornxxx.com
 *.es.gratislivesex.de
 *.es.greekpornvideos.com
@@ -47380,6 +47394,7 @@
 *.es.videoporntv.com
 *.es.xhamster.vg
 *.es.xxxcosplaypornvideos.com
+*.es.xxxfilmovi.net
 *.es.xxxfrancaisgratuit.top
 *.es.xxxgermanporn.com
 *.es.xxxhinditube.com
@@ -50496,8 +50511,14 @@
 *.f8sex.com
 *.f95zone.to
 *.f95zoneandroidgame.com
+*.fa.analsex7.com
 *.fa.azeriporno.top
+*.fa.azeripornovideo.com
+*.fa.besplatnipornofilmovi.net
+*.fa.danskepornofilm.net
+*.fa.dansksexfilm.com
 *.fa.filmeporno.cyou
+*.fa.gratispornofilm.info
 *.fa.hrvatskiporno.cyou
 *.fa.indianallsexvideos.com
 *.fa.mamiporno.com
@@ -50509,17 +50530,24 @@
 *.fa.phimxet.top
 *.fa.pornicivideo.cyou
 *.fa.pornmovievideo.com
+*.fa.pornoazeri.com
 *.fa.pornofilmer.cyou
+*.fa.pornofilmovi.biz
 *.fa.pornohrvatske.cyou
 *.fa.pornomame.cyou
 *.fa.pornosrbija.cyou
+*.fa.pulsuzporno.com
 *.fa.sexfilms.monster
 *.fa.sexhindisex.com
 *.fa.sexklip.cyou
 *.fa.sexpornici.cyou
+*.fa.sexvideodansk.com
+*.fa.svenskaporn.net
 *.fa.xxxdeutsch.top
+*.fa.xxxfilmovi.net
 *.fa.xxxfrancaisgratuit.top
 *.fa.xxxkostenlos.top
+*.fa.yetkinporno.com
 *.faapy.com
 *.faapyhd.com
 *.fab95.over-blog.com
@@ -77720,7 +77748,9 @@
 *.hi.phimsexthu.top
 *.hi.pornoduro.top
 *.hi.pornofilmer.cyou
+*.hi.pulsuzporno.com
 *.hi.xxxfrancaisgratuit.top
+*.hi.yetkinporno.com
 *.hi3x.net
 *.hi5chandigarhescorts.com
 *.hiazusa.e-city.tv
@@ -82613,20 +82643,27 @@
 *.htube.com
 *.htube.net
 *.htvncdn.net
+*.hu.analsex7.com
+*.hu.besplatnipornofilmovi.net
+*.hu.dansksexfilm.com
 *.hu.frenchpornxxx.com
 *.hu.greekpornvideos.com
 *.hu.hrvatskiporno.cyou
 *.hu.indianpornvideosxxx.com
 *.hu.livecam4sex.com
 *.hu.pornicivideo.cyou
+*.hu.pornofilm7.com
+*.hu.pornofilmovi.biz
 *.hu.pornohrvatske.cyou
 *.hu.pornomame.cyou
 *.hu.retropornxxxvideos.com
 *.hu.sexklip.cyou
 *.hu.sexpornici.cyou
+*.hu.sexvideodansk.com
 *.hu.sexysoftporn.com
 *.hu.videoporntv.com
 *.hu.xxxcosplaypornvideos.com
+*.hu.xxxfilmovi.net
 *.hu.xxxgermanporn.com
 *.hu.xxxpornmaturevideos.com
 *.hu.xxxrussianporn.com
@@ -86729,6 +86766,9 @@
 *.it-grands.ru
 *.it-sex.cfd
 *.it-xnxx.com
+*.it.analsex7.com
+*.it.besplatnipornofilmovi.net
+*.it.dansksexfilm.com
 *.it.frenchpornxxx.com
 *.it.gratislivesex.de
 *.it.greekpornvideos.com
@@ -86738,13 +86778,16 @@
 *.it.porna.cyou
 *.it.pornindiaxxx.com
 *.it.pornmobilesites.com
+*.it.pornofilm7.com
 *.it.retropornxxxvideos.com
 *.it.sexeshop.info
 *.it.sexlistclub.com
+*.it.sexvideodansk.com
 *.it.sexysoftporn.com
 *.it.videopornofrancais.info
 *.it.videoporntv.com
 *.it.xxxcosplaypornvideos.com
+*.it.xxxfilmovi.net
 *.it.xxxfrancaisgratuit.top
 *.it.xxxgermanporn.com
 *.it.xxxhinditube.com
@@ -87195,11 +87238,15 @@
 *.j-suntech.cc
 *.j-suntech.com
 *.j96974bi.beget.tech
+*.ja.besplatnipornofilmovi.net
+*.ja.danskepornofilm.net
+*.ja.dansksexfilm.com
 *.ja.gratislivesex.de
 *.ja.livecam4sex.com
 *.ja.norskporno.cyou
 *.ja.phimsexthu.top
 *.ja.pornofilmer.cyou
+*.ja.pornofilmovi.biz
 *.ja.pornosrbija.cyou
 *.ja.queenfetishlv.com
 *.ja.sexfilms.monster
@@ -106886,6 +106933,7 @@
 *.mein-sexdate.com
 *.mein-sextagebuch.de
 *.mein-telefonsex.com
+*.mein.sex
 *.meine-cams.com
 *.meine-fickseite.com
 *.meine-freundin.com
@@ -133673,6 +133721,7 @@
 *.porno-free-movies.com
 *.porno-free-video.net
 *.porno-free-videos.com
+*.porno-free.ru
 *.porno-free.tv
 *.porno-freevideos.com
 *.porno-friends.com
@@ -137721,6 +137770,7 @@
 *.pornotaran.com
 *.pornotaria.com
 *.pornotaris.nl
+*.pornotash.com
 *.pornoteatr.com
 *.pornotecahd.com
 *.pornoted.com
@@ -138295,6 +138345,7 @@
 *.pornoxo.work
 *.pornoxo.xyz
 *.pornoxota.com
+*.pornoxotros.com
 *.pornoxoxota.com
 *.pornoxporno.com
 *.pornoxprn.xyz
@@ -170687,6 +170738,7 @@
 *.smokinggirls.com
 *.smokinggirlsfetish.com
 *.smokingheaven.com
+*.smokinghomemovies.com
 *.smokinghomemoviesxxx.com
 *.smokinghotcocks.com
 *.smokinglust.com
@@ -170747,7 +170799,9 @@
 *.smotri.tutsex.online
 *.smotribab.com
 *.smotricams.com
+*.smotrim.cam
 *.smotriporno24.mobi
+*.smotrja.net
 *.smotry.ru
 *.smpalace.com
 *.smpixie.com
@@ -171824,6 +171878,7 @@
 *.spankbang98.com
 *.spankbangcom.click
 *.spankbanghub.com
+*.spankbanglive.cam
 *.spankbanglive.com
 *.spankbb.org
 *.spankbbs.com
@@ -178299,6 +178354,7 @@
 *.teentubeinhd.com
 *.teentubeme.com
 *.teentubemovs.com
+*.teentubeonline.com
 *.teentubeporn.org
 *.teentubeporn.pro
 *.teentubeporno.com
@@ -184776,6 +184832,7 @@
 *.tr.cicisex.live
 *.tr.gayatak.top
 *.tr.hamsterix.online
+*.tr.hardesex.net
 *.tr.norskporno.cyou
 *.tr.phimsexthu.top
 *.tr.porn-hd.it
@@ -190083,6 +190140,7 @@
 *.vanessayourtoy.over-blog.com
 *.vanessinha.net
 *.vangar.com
+*.vangeliestoria.eu
 *.vangoren.com
 *.vanillababes.com
 *.vanillacelebrity.com
@@ -190572,6 +190630,9 @@
 *.vhentai.net
 *.vhentai.org
 *.vhporn.com
+*.vi.analsex7.com
+*.vi.danskepornofilm.net
+*.vi.dansksexfilm.com
 *.vi.filmeporno.cyou
 *.vi.frenchpornxxx.com
 *.vi.greekpornvideos.com
@@ -190581,17 +190642,23 @@
 *.vi.porna.cyou
 *.vi.pornindiaxxx.com
 *.vi.pornoass.org
+*.vi.pornofilm7.com
 *.vi.pornofilmer.cyou
+*.vi.pornofilmovi.biz
 *.vi.pornomulher.cyou
+*.vi.pulsuzporno.com
 *.vi.retropornxxxvideos.com
+*.vi.sexvideodansk.com
 *.vi.sexvidiohindi.com
 *.vi.sexysoftporn.com
 *.vi.videoporntv.com
 *.vi.xxxcosplaypornvideos.com
+*.vi.xxxfilmovi.net
 *.vi.xxxgermanporn.com
 *.vi.xxxhinditube.com
 *.vi.xxxpornmaturevideos.com
 *.vi.xxxrussianporn.com
+*.vi.yetkinporno.com
 *.vi2sexe.com
 *.via-sexe.com
 *.viadinhos.net
@@ -196152,8 +196219,10 @@
 *.webcomicporn.com
 *.webcontactosbdsm.com
 *.webcqmsex.com
+*.webcqmsex.nl
 *.webcumvideo.com
 *.webczmsex.com
+*.webczmsex.nl
 *.webdamsex.com
 *.webdanong.com
 *.webdating.nl
@@ -196379,6 +196448,7 @@
 *.wegayboys.com
 *.wegayboys.ga
 *.wegcamsex.com
+*.wegcamsex.nl
 *.wegetlaidgaycams.com
 *.wegfuck.xyz
 *.weggefaehrte-hund.info
