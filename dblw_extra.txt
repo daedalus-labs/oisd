@@ -1,6 +1,6 @@
-# Version: 202302010009
+# Version: 202302020056
 # Title: oisd extra
-# Last modified: 2023-02-01T00:09:50+0000
+# Last modified: 2023-02-02T00:56:03+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -448,6 +448,7 @@
 *.chushoushijian.cn
 *.chuzushijian.cn
 *.cision.com
+*.cisnc.it
 *.cj.mplxtms.com
 *.cja-1223.cc
 *.cjde.xyz
@@ -545,6 +546,7 @@
 *.d2ship.com
 *.d2wy8f7a9ursnm.cloudfront.net
 *.da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
+*.dacui.online
 *.dacyptepa.pro
 *.dadawm.cc
 *.dadparty.com
@@ -910,6 +912,7 @@
 *.inside-graph.com
 *.insightexpress.com
 *.insightexpressai.com
+*.insights.dice.com
 *.insights.samsung.com
 *.instant.page
 *.intelliad.de
@@ -1009,6 +1012,7 @@
 *.kqirf.xyz
 *.kqzyfj.com
 *.krysogsid.uno
+*.kscly.com
 *.ksdayhtl.xyz
 *.ksnoownmd.fun
 *.kuamei.cloud
@@ -1618,6 +1622,7 @@
 *.skimresources.com
 *.skoovyads.com
 *.skycdnhost.com
+*.skyscan.com
 *.slackb.com
 *.sleeknote.com
 *.slibindy.top
@@ -2063,6 +2068,7 @@
 *.zahrvfbd.xyz
 *.zasjfget.xyz
 *.zawqwpajq.club
+*.zax01.com
 *.zdwsh.tech
 *.zengbalg.fun
 *.zgbtw.mobi

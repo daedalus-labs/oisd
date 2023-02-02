@@ -1,6 +1,6 @@
-# Version: 202302010009
+# Version: 202302020056
 # Title: oisd extra
-# Last modified: 2023-02-01T00:09:50+0000
+# Last modified: 2023-02-02T00:56:03+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                          
@@ -445,6 +445,7 @@ local=/chudongcaiwu.xyz/
 local=/chushoushijian.cn/
 local=/chuzushijian.cn/
 local=/cision.com/
+local=/cisnc.it/
 local=/cj.mplxtms.com/
 local=/cja-1223.cc/
 local=/cjde.xyz/
@@ -542,6 +543,7 @@ local=/d2r1yp2w7bby2u.cloudfront.net/
 local=/d2ship.com/
 local=/d2wy8f7a9ursnm.cloudfront.net/
 local=/da29e6b8-f018-490f-b25f-39a887fc95e7.xyz/
+local=/dacui.online/
 local=/dacyptepa.pro/
 local=/dadawm.cc/
 local=/dadparty.com/
@@ -907,6 +909,7 @@ local=/inquisition.goguardian.com/
 local=/inside-graph.com/
 local=/insightexpress.com/
 local=/insightexpressai.com/
+local=/insights.dice.com/
 local=/insights.samsung.com/
 local=/instant.page/
 local=/intelliad.de/
@@ -1006,6 +1009,7 @@ local=/koushen.xyz/
 local=/kqirf.xyz/
 local=/kqzyfj.com/
 local=/krysogsid.uno/
+local=/kscly.com/
 local=/ksdayhtl.xyz/
 local=/ksnoownmd.fun/
 local=/kuamei.cloud/
@@ -1615,6 +1619,7 @@ local=/skfjd1.xyz/
 local=/skimresources.com/
 local=/skoovyads.com/
 local=/skycdnhost.com/
+local=/skyscan.com/
 local=/slackb.com/
 local=/sleeknote.com/
 local=/slibindy.top/
@@ -2060,6 +2065,7 @@ local=/zahl4tf5zs.xyz/
 local=/zahrvfbd.xyz/
 local=/zasjfget.xyz/
 local=/zawqwpajq.club/
+local=/zax01.com/
 local=/zdwsh.tech/
 local=/zengbalg.fun/
 local=/zgbtw.mobi/

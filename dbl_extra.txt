@@ -1,6 +1,6 @@
-# Version: 202302010009
+# Version: 202302020055
 # Title: oisd extra
-# Last modified: 2023-02-01T00:09:46+0000
+# Last modified: 2023-02-02T00:55:59+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -554,6 +554,7 @@ inquisition.goguardian.com
 inside-graph.com
 insightexpress.com
 insightexpressai.com
+insights.dice.com
 insights.samsung.com
 instant.page
 intelliad.de
@@ -1435,6 +1436,7 @@ www.chudongcaiwu.xyz
 www.chushoushijian.cn
 www.chuzushijian.cn
 www.cision.com
+www.cisnc.it
 www.cja-1223.cc
 www.cjde.xyz
 www.claiks.com
@@ -1498,6 +1500,7 @@ www.d2-apps.net
 www.d2cmedia.ca
 www.d2ship.com
 www.da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
+www.dacui.online
 www.dacyptepa.pro
 www.dadawm.cc
 www.dadparty.com
@@ -1865,6 +1868,7 @@ www.koushen.xyz
 www.kqirf.xyz
 www.kqzyfj.com
 www.krysogsid.uno
+www.kscly.com
 www.ksdayhtl.xyz
 www.ksnoownmd.fun
 www.kuamei.cloud
@@ -2337,6 +2341,7 @@ www.skfjd1.xyz
 www.skimresources.com
 www.skoovyads.com
 www.skycdnhost.com
+www.skyscan.com
 www.sleeknote.com
 www.slibindy.top
 www.slieindy.top
@@ -2689,6 +2694,7 @@ www.zahl4tf5zs.xyz
 www.zahrvfbd.xyz
 www.zasjfget.xyz
 www.zawqwpajq.club
+www.zax01.com
 www.zdwsh.tech
 www.zengbalg.fun
 www.zgbtw.mobi

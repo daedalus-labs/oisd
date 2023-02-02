@@ -1,6 +1,6 @@
-# Version: 202302010009
+# Version: 202302020055
 # Title: oisd extra
-# Last modified: 2023-02-01T00:09:46+0000
+# Last modified: 2023-02-02T00:55:59+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -554,6 +554,7 @@
 0.0.0.0 inside-graph.com
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
+0.0.0.0 insights.dice.com
 0.0.0.0 insights.samsung.com
 0.0.0.0 instant.page
 0.0.0.0 intelliad.de
@@ -1435,6 +1436,7 @@
 0.0.0.0 www.chushoushijian.cn
 0.0.0.0 www.chuzushijian.cn
 0.0.0.0 www.cision.com
+0.0.0.0 www.cisnc.it
 0.0.0.0 www.cja-1223.cc
 0.0.0.0 www.cjde.xyz
 0.0.0.0 www.claiks.com
@@ -1498,6 +1500,7 @@
 0.0.0.0 www.d2cmedia.ca
 0.0.0.0 www.d2ship.com
 0.0.0.0 www.da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
+0.0.0.0 www.dacui.online
 0.0.0.0 www.dacyptepa.pro
 0.0.0.0 www.dadawm.cc
 0.0.0.0 www.dadparty.com
@@ -1865,6 +1868,7 @@
 0.0.0.0 www.kqirf.xyz
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.krysogsid.uno
+0.0.0.0 www.kscly.com
 0.0.0.0 www.ksdayhtl.xyz
 0.0.0.0 www.ksnoownmd.fun
 0.0.0.0 www.kuamei.cloud
@@ -2337,6 +2341,7 @@
 0.0.0.0 www.skimresources.com
 0.0.0.0 www.skoovyads.com
 0.0.0.0 www.skycdnhost.com
+0.0.0.0 www.skyscan.com
 0.0.0.0 www.sleeknote.com
 0.0.0.0 www.slibindy.top
 0.0.0.0 www.slieindy.top
@@ -2689,6 +2694,7 @@
 0.0.0.0 www.zahrvfbd.xyz
 0.0.0.0 www.zasjfget.xyz
 0.0.0.0 www.zawqwpajq.club
+0.0.0.0 www.zax01.com
 0.0.0.0 www.zdwsh.tech
 0.0.0.0 www.zengbalg.fun
 0.0.0.0 www.zgbtw.mobi

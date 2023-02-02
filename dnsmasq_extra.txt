@@ -1,6 +1,6 @@
-# Version: 202302010009
+# Version: 202302020056
 # Title: oisd extra
-# Last modified: 2023-02-01T00:09:50+0000
+# Last modified: 2023-02-02T00:56:03+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -445,6 +445,7 @@ server=/chudongcaiwu.xyz/
 server=/chushoushijian.cn/
 server=/chuzushijian.cn/
 server=/cision.com/
+server=/cisnc.it/
 server=/cj.mplxtms.com/
 server=/cja-1223.cc/
 server=/cjde.xyz/
@@ -542,6 +543,7 @@ server=/d2r1yp2w7bby2u.cloudfront.net/
 server=/d2ship.com/
 server=/d2wy8f7a9ursnm.cloudfront.net/
 server=/da29e6b8-f018-490f-b25f-39a887fc95e7.xyz/
+server=/dacui.online/
 server=/dacyptepa.pro/
 server=/dadawm.cc/
 server=/dadparty.com/
@@ -907,6 +909,7 @@ server=/inquisition.goguardian.com/
 server=/inside-graph.com/
 server=/insightexpress.com/
 server=/insightexpressai.com/
+server=/insights.dice.com/
 server=/insights.samsung.com/
 server=/instant.page/
 server=/intelliad.de/
@@ -1006,6 +1009,7 @@ server=/koushen.xyz/
 server=/kqirf.xyz/
 server=/kqzyfj.com/
 server=/krysogsid.uno/
+server=/kscly.com/
 server=/ksdayhtl.xyz/
 server=/ksnoownmd.fun/
 server=/kuamei.cloud/
@@ -1615,6 +1619,7 @@ server=/skfjd1.xyz/
 server=/skimresources.com/
 server=/skoovyads.com/
 server=/skycdnhost.com/
+server=/skyscan.com/
 server=/slackb.com/
 server=/sleeknote.com/
 server=/slibindy.top/
@@ -2060,6 +2065,7 @@ server=/zahl4tf5zs.xyz/
 server=/zahrvfbd.xyz/
 server=/zasjfget.xyz/
 server=/zawqwpajq.club/
+server=/zax01.com/
 server=/zdwsh.tech/
 server=/zengbalg.fun/
 server=/zgbtw.mobi/

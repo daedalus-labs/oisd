@@ -1,12 +1,12 @@
-; Version: 202302010009
+; Version: 202302020056
 ; Title: oisd extra
-; Last modified: 2023-02-01T00:09:50+0000
+; Last modified: 2023-02-02T00:56:03+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675209603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675296003 86400 3600 604800 30
  NS localhost.
 
 0371app.wang CNAME .
@@ -889,6 +889,8 @@ chuzushijian.cn CNAME .
 *.chuzushijian.cn CNAME .
 cision.com CNAME .
 *.cision.com CNAME .
+cisnc.it CNAME .
+*.cisnc.it CNAME .
 cj.mplxtms.com CNAME .
 *.cj.mplxtms.com CNAME .
 cja-1223.cc CNAME .
@@ -1083,6 +1085,8 @@ d2wy8f7a9ursnm.cloudfront.net CNAME .
 *.d2wy8f7a9ursnm.cloudfront.net CNAME .
 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz CNAME .
 *.da29e6b8-f018-490f-b25f-39a887fc95e7.xyz CNAME .
+dacui.online CNAME .
+*.dacui.online CNAME .
 dacyptepa.pro CNAME .
 *.dacyptepa.pro CNAME .
 dadawm.cc CNAME .
@@ -1813,6 +1817,8 @@ insightexpress.com CNAME .
 *.insightexpress.com CNAME .
 insightexpressai.com CNAME .
 *.insightexpressai.com CNAME .
+insights.dice.com CNAME .
+*.insights.dice.com CNAME .
 insights.samsung.com CNAME .
 *.insights.samsung.com CNAME .
 instant.page CNAME .
@@ -2011,6 +2017,8 @@ kqzyfj.com CNAME .
 *.kqzyfj.com CNAME .
 krysogsid.uno CNAME .
 *.krysogsid.uno CNAME .
+kscly.com CNAME .
+*.kscly.com CNAME .
 ksdayhtl.xyz CNAME .
 *.ksdayhtl.xyz CNAME .
 ksnoownmd.fun CNAME .
@@ -3229,6 +3237,8 @@ skoovyads.com CNAME .
 *.skoovyads.com CNAME .
 skycdnhost.com CNAME .
 *.skycdnhost.com CNAME .
+skyscan.com CNAME .
+*.skyscan.com CNAME .
 slackb.com CNAME .
 *.slackb.com CNAME .
 sleeknote.com CNAME .
@@ -4119,6 +4129,8 @@ zasjfget.xyz CNAME .
 *.zasjfget.xyz CNAME .
 zawqwpajq.club CNAME .
 *.zawqwpajq.club CNAME .
+zax01.com CNAME .
+*.zax01.com CNAME .
 zdwsh.tech CNAME .
 *.zdwsh.tech CNAME .
 zengbalg.fun CNAME .
