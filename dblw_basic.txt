@@ -1,6 +1,6 @@
-# Version: 202302020054
+# Version: 202302021616
 # Title: oisd basic
-# Last modified: 2023-02-02T00:54:43+0000
+# Last modified: 2023-02-02T16:16:30+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -18163,7 +18163,6 @@
 *.clungwarehouseoral.com
 *.clusava.fra-01.braze.eu
 *.cluster.adultworld.com
-*.clustrmaps.com
 *.clutchlilts.com
 *.cluttercallousstopped.com
 *.clvk.viki.io

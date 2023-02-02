@@ -1,6 +1,6 @@
-# Version: 202302020054
+# Version: 202302021616
 # Title: oisd basic
-# Last modified: 2023-02-02T00:54:38+0000
+# Last modified: 2023-02-02T16:16:33+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Hosts                                               
@@ -21971,7 +21971,6 @@
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 cluster.awmdelivery.com
 0.0.0.0 cluster3.adultadworld.com
-0.0.0.0 clustrmaps.com
 0.0.0.0 clutchlilts.com
 0.0.0.0 cluttercallousstopped.com
 0.0.0.0 clvk.viki.io

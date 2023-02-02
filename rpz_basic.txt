@@ -1,12 +1,12 @@
-; Version: 202302020054
+; Version: 202302021616
 ; Title: oisd basic
-; Last modified: 2023-02-02T00:54:43+0000
+; Last modified: 2023-02-02T16:16:37+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675296003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675354597 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -36319,8 +36319,6 @@ clusava.fra-01.braze.eu CNAME .
 *.clusava.fra-01.braze.eu CNAME .
 cluster.adultworld.com CNAME .
 *.cluster.adultworld.com CNAME .
-clustrmaps.com CNAME .
-*.clustrmaps.com CNAME .
 clutchlilts.com CNAME .
 *.clutchlilts.com CNAME .
 cluttercallousstopped.com CNAME .

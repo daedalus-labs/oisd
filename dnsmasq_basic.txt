@@ -1,6 +1,6 @@
-# Version: 202302020054
+# Version: 202302021616
 # Title: oisd basic
-# Last modified: 2023-02-02T00:54:42+0000
+# Last modified: 2023-02-02T16:16:34+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                              
@@ -18160,7 +18160,6 @@ server=/clumsyrock.com/
 server=/clungwarehouseoral.com/
 server=/clusava.fra-01.braze.eu/
 server=/cluster.adultworld.com/
-server=/clustrmaps.com/
 server=/clutchlilts.com/
 server=/cluttercallousstopped.com/
 server=/clvk.viki.io/
