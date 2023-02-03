@@ -1,12 +1,12 @@
-; Version: 202302021625
+; Version: 202302030010
 ; Title: oisd extra
-; Last modified: 2023-02-02T16:25:06+0000
+; Last modified: 2023-02-03T00:10:12+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675354501 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1675382403 86400 3600 604800 30
  NS localhost.
 
 123greetings.com CNAME .
@@ -29,6 +29,10 @@ $TTL 30
 *.1priest1nun.com CNAME .
 1priest1nun.net CNAME .
 *.1priest1nun.net CNAME .
+259572.com CNAME .
+*.259572.com CNAME .
+2girls1cumshot.com CNAME .
+*.2girls1cumshot.com CNAME .
 2girls1cup.cc CNAME .
 *.2girls1cup.cc CNAME .
 2girls1cup.com CNAME .
@@ -43,6 +47,8 @@ $TTL 30
 *.2o7.net CNAME .
 360in.com CNAME .
 *.360in.com CNAME .
+39dvd-999.com CNAME .
+*.39dvd-999.com CNAME .
 3cinteractive.com CNAME .
 *.3cinteractive.com CNAME .
 3guys1hammer.ws CNAME .
@@ -453,6 +459,8 @@ clickmeter.com CNAME .
 *.clickmeter.com CNAME .
 clickserve.cc-dt.com CNAME .
 *.clickserve.cc-dt.com CNAME .
+clickspring.net CNAME .
+*.clickspring.net CNAME .
 clicktale.net CNAME .
 *.clicktale.net CNAME .
 client-analytics.braintreegateway.com CNAME .
@@ -485,6 +493,8 @@ consent-manager-events.ogury.io CNAME .
 *.consent-manager-events.ogury.io CNAME .
 consumer.krxd.net CNAME .
 *.consumer.krxd.net CNAME .
+contentabc.com CNAME .
+*.contentabc.com CNAME .
 contents.purelovers.com CNAME .
 *.contents.purelovers.com CNAME .
 conversantmedia.com CNAME .
@@ -495,6 +505,8 @@ coremetrics.com CNAME .
 *.coremetrics.com CNAME .
 cotc.net CNAME .
 *.cotc.net CNAME .
+coupondio.fr CNAME .
+*.coupondio.fr CNAME .
 crashlytics.com CNAME .
 *.crashlytics.com CNAME .
 crbcdn.jsfiddle.net CNAME .
@@ -535,6 +547,8 @@ data.mistat.xiaomi.com CNAME .
 *.data.mistat.xiaomi.com CNAME .
 datadoghq-browser-agent.com CNAME .
 *.datadoghq-browser-agent.com CNAME .
+decentraiand.org CNAME .
+*.decentraiand.org CNAME .
 demdex.net CNAME .
 *.demdex.net CNAME .
 demopage.me CNAME .
@@ -583,6 +597,8 @@ e.imguol.com CNAME .
 *.e.imguol.com CNAME .
 e7876.dscg.akamaiedge.net CNAME .
 *.e7876.dscg.akamaiedge.net CNAME .
+easyadservice.com CNAME .
+*.easyadservice.com CNAME .
 easycounter.com CNAME .
 *.easycounter.com CNAME .
 ebz.io CNAME .
@@ -707,6 +723,8 @@ guildofangels.net CNAME .
 *.guildofangels.net CNAME .
 h-adashx4ae.ut.taobao.com CNAME .
 *.h-adashx4ae.ut.taobao.com CNAME .
+haedong.es.kr CNAME .
+*.haedong.es.kr CNAME .
 hai2u.com CNAME .
 *.hai2u.com CNAME .
 hit.stat24.com CNAME .
@@ -841,6 +859,10 @@ lemonparty.org CNAME .
 *.lemonparty.org CNAME .
 lgsmartad.com CNAME .
 *.lgsmartad.com CNAME .
+lieberation.fr CNAME .
+*.lieberation.fr CNAME .
+lifeofpie.fr CNAME .
+*.lifeofpie.fr CNAME .
 lightboxcdn.com CNAME .
 *.lightboxcdn.com CNAME .
 livejasmin.com CNAME .
@@ -957,8 +979,14 @@ msdk.qq.com CNAME .
 *.msdk.qq.com CNAME .
 mudmonster.org CNAME .
 *.mudmonster.org CNAME .
+multiplecurrencies.com CNAME .
+*.multiplecurrencies.com CNAME .
 mybbc-analytics.files.bbci.co.uk CNAME .
 *.mybbc-analytics.files.bbci.co.uk CNAME .
+myeteherwallet.com CNAME .
+*.myeteherwallet.com CNAME .
+mymyetherwallet.com CNAME .
+*.mymyetherwallet.com CNAME .
 mytotalsearch.com CNAME .
 *.mytotalsearch.com CNAME .
 myvisualiq.net CNAME .
@@ -969,6 +997,8 @@ narwhal.mobidia.com CNAME .
 *.narwhal.mobidia.com CNAME .
 ndbsoft.be CNAME .
 *.ndbsoft.be CNAME .
+neaclub.fr CNAME .
+*.neaclub.fr CNAME .
 netmng.com CNAME .
 *.netmng.com CNAME .
 network.bazaarvoice.com CNAME .
@@ -981,6 +1011,8 @@ novastarled.com CNAME .
 *.novastarled.com CNAME .
 npttech.com CNAME .
 *.npttech.com CNAME .
+nuitphilo-ens.fr CNAME .
+*.nuitphilo-ens.fr CNAME .
 nutabuse.com CNAME .
 *.nutabuse.com CNAME .
 nutaku.com CNAME .
@@ -1007,6 +1039,8 @@ painolympics.info CNAME .
 *.painolympics.info CNAME .
 painolympics.org CNAME .
 *.painolympics.org CNAME .
+painting-walls.com CNAME .
+*.painting-walls.com CNAME .
 pangle.io.edgekey.net CNAME .
 *.pangle.io.edgekey.net CNAME .
 papy.co.jp CNAME .
@@ -1117,6 +1151,8 @@ s0-2mdn-net.l.google.com CNAME .
 *.s0-2mdn-net.l.google.com CNAME .
 s0.2mdn.net CNAME .
 *.s0.2mdn.net CNAME .
+sabafon.info CNAME .
+*.sabafon.info CNAME .
 safemobilelink.com CNAME .
 *.safemobilelink.com CNAME .
 sanalytics.disneyplus.com CNAME .
@@ -1141,10 +1177,14 @@ sdkapicdn.applanga.com CNAME .
 *.sdkapicdn.applanga.com CNAME .
 sea.net.edu.cn CNAME .
 *.sea.net.edu.cn CNAME .
+searchnet.com CNAME .
+*.searchnet.com CNAME .
 seccdn-gl.imrworldwide.com CNAME .
 *.seccdn-gl.imrworldwide.com CNAME .
 secondstreetapp.com CNAME .
 *.secondstreetapp.com CNAME .
+secretosdelagua.fr CNAME .
+*.secretosdelagua.fr CNAME .
 secure-us.imrworldwide.com CNAME .
 *.secure-us.imrworldwide.com CNAME .
 secure.gooddata.com CNAME .
@@ -1173,6 +1213,8 @@ shareaholic.com CNAME .
 *.shareaholic.com CNAME .
 shareasale.com CNAME .
 *.shareasale.com CNAME .
+shiiva.fr CNAME .
+*.shiiva.fr CNAME .
 shopping-offer.com CNAME .
 *.shopping-offer.com CNAME .
 shorte.st CNAME .
@@ -1199,6 +1241,10 @@ smetrics.latitudefinancial.com CNAME .
 *.smetrics.latitudefinancial.com CNAME .
 snap.licdn.com CNAME .
 *.snap.licdn.com CNAME .
+sneakersjapanu.com CNAME .
+*.sneakersjapanu.com CNAME .
+snicases.com CNAME .
+*.snicases.com CNAME .
 solitairetime.com CNAME .
 *.solitairetime.com CNAME .
 sourmath.com CNAME .
@@ -1217,6 +1263,8 @@ srmdata-us.com CNAME .
 *.srmdata-us.com CNAME .
 srmdata.com CNAME .
 *.srmdata.com CNAME .
+startmarket.su CNAME .
+*.startmarket.su CNAME .
 startup.mobile.yandex.net CNAME .
 *.startup.mobile.yandex.net CNAME .
 statcounter.com CNAME .
@@ -1289,8 +1337,8 @@ tcs-asp.net CNAME .
 *.tcs-asp.net CNAME .
 teltech.hu CNAME .
 *.teltech.hu CNAME .
-thatsphucked.com CNAME .
-*.thatsphucked.com CNAME .
+terricole.fr CNAME .
+*.terricole.fr CNAME .
 thebigoutdoors.co.uk CNAME .
 *.thebigoutdoors.co.uk CNAME .
 thebrighttag.com CNAME .
@@ -1361,6 +1409,8 @@ umengcloud.com CNAME .
 *.umengcloud.com CNAME .
 umtrack.com CNAME .
 *.umtrack.com CNAME .
+univ6lehavre.fr CNAME .
+*.univ6lehavre.fr CNAME .
 urlcut.net CNAME .
 *.urlcut.net CNAME .
 us-1.gladly.com CNAME .
@@ -1423,8 +1473,6 @@ wwt-ag.ch CNAME .
 *.wwt-ag.ch CNAME .
 www3.webhostingtalk.com CNAME .
 *.www3.webhostingtalk.com CNAME .
-wwwmyetherwallet.com CNAME .
-*.wwwmyetherwallet.com CNAME .
 xn--myetherwallt-cfb.com CNAME .
 *.xn--myetherwallt-cfb.com CNAME .
 yceml.net CNAME .

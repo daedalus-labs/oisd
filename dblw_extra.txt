@@ -1,6 +1,6 @@
-# Version: 202302021625
+# Version: 202302030010
 # Title: oisd extra
-# Last modified: 2023-02-02T16:25:06+0000
+# Last modified: 2023-02-03T00:10:12+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                 
@@ -18,6 +18,8 @@
 *.1man2needles.com
 *.1priest1nun.com
 *.1priest1nun.net
+*.259572.com
+*.2girls1cumshot.com
 *.2girls1cup.cc
 *.2girls1cup.com
 *.2girls1cup.ws
@@ -25,6 +27,7 @@
 *.2guys1stump.org
 *.2o7.net
 *.360in.com
+*.39dvd-999.com
 *.3cinteractive.com
 *.3guys1hammer.ws
 *.4girlsfingerpaint.com
@@ -230,6 +233,7 @@
 *.clickbank.com
 *.clickmeter.com
 *.clickserve.cc-dt.com
+*.clickspring.net
 *.clicktale.net
 *.client-analytics.braintreegateway.com
 *.client-uc.heytapmobi.com
@@ -246,11 +250,13 @@
 *.connect.scroll.com
 *.consent-manager-events.ogury.io
 *.consumer.krxd.net
+*.contentabc.com
 *.contents.purelovers.com
 *.conversantmedia.com
 *.conviva.com
 *.coremetrics.com
 *.cotc.net
+*.coupondio.fr
 *.crashlytics.com
 *.crbcdn.jsfiddle.net
 *.crittercism.com
@@ -271,6 +277,7 @@
 *.data.mistat.rus.xiaomi.com
 *.data.mistat.xiaomi.com
 *.datadoghq-browser-agent.com
+*.decentraiand.org
 *.demdex.net
 *.demopage.me
 *.deqwas-dsp.net
@@ -295,6 +302,7 @@
 *.dzc-metrics.mzstatic.com
 *.e.imguol.com
 *.e7876.dscg.akamaiedge.net
+*.easyadservice.com
 *.easycounter.com
 *.ebz.io
 *.eco-tag.jp
@@ -357,6 +365,7 @@
 *.gscounters.us1.gigya.com
 *.guildofangels.net
 *.h-adashx4ae.ut.taobao.com
+*.haedong.es.kr
 *.hai2u.com
 *.hit.stat24.com
 *.hitgraph.jp
@@ -424,6 +433,8 @@
 *.lemonparty.biz
 *.lemonparty.org
 *.lgsmartad.com
+*.lieberation.fr
+*.lifeofpie.fr
 *.lightboxcdn.com
 *.livejasmin.com
 *.logging.api.intuit.com
@@ -482,18 +493,23 @@
 *.mr-mondial.com
 *.msdk.qq.com
 *.mudmonster.org
+*.multiplecurrencies.com
 *.mybbc-analytics.files.bbci.co.uk
+*.myeteherwallet.com
+*.mymyetherwallet.com
 *.mytotalsearch.com
 *.myvisualiq.net
 *.naiadsystems.com
 *.narwhal.mobidia.com
 *.ndbsoft.be
+*.neaclub.fr
 *.netmng.com
 *.network.bazaarvoice.com
 *.newsbreak.com
 *.nova-collector-1192479543.us-east-1.elb.amazonaws.com
 *.novastarled.com
 *.npttech.com
+*.nuitphilo-ens.fr
 *.nutabuse.com
 *.nutaku.com
 *.nv-sdk.jumio.com
@@ -507,6 +523,7 @@
 *.p.brid.tv
 *.painolympics.info
 *.painolympics.org
+*.painting-walls.com
 *.pangle.io.edgekey.net
 *.papy.co.jp
 *.partnerprogramma.bol.com
@@ -562,6 +579,7 @@
 *.s.zkcdn.net
 *.s0-2mdn-net.l.google.com
 *.s0.2mdn.net
+*.sabafon.info
 *.safemobilelink.com
 *.sanalytics.disneyplus.com
 *.sc-static.net
@@ -574,8 +592,10 @@
 *.sdk.split.io
 *.sdkapicdn.applanga.com
 *.sea.net.edu.cn
+*.searchnet.com
 *.seccdn-gl.imrworldwide.com
 *.secondstreetapp.com
+*.secretosdelagua.fr
 *.secure-us.imrworldwide.com
 *.secure.gooddata.com
 *.securemetrics.apple.com
@@ -590,6 +610,7 @@
 *.share.yandex.ru
 *.shareaholic.com
 *.shareasale.com
+*.shiiva.fr
 *.shopping-offer.com
 *.shorte.st
 *.singular.net
@@ -603,6 +624,8 @@
 *.smetrics.frontier.com
 *.smetrics.latitudefinancial.com
 *.snap.licdn.com
+*.sneakersjapanu.com
+*.snicases.com
 *.solitairetime.com
 *.sourmath.com
 *.spinbox.com
@@ -612,6 +635,7 @@
 *.springserve.com
 *.srmdata-us.com
 *.srmdata.com
+*.startmarket.su
 *.startup.mobile.yandex.net
 *.statcounter.com
 *.static.cdn.responsys.net
@@ -648,7 +672,7 @@
 *.tapresearch.com
 *.tcs-asp.net
 *.teltech.hu
-*.thatsphucked.com
+*.terricole.fr
 *.thebigoutdoors.co.uk
 *.thebrighttag.com
 *.thehomo.org
@@ -684,6 +708,7 @@
 *.ue.flipboard.com
 *.umengcloud.com
 *.umtrack.com
+*.univ6lehavre.fr
 *.urlcut.net
 *.us-1.gladly.com
 *.userreport.com
@@ -715,7 +740,6 @@
 *.ws.sharethis.com
 *.wwt-ag.ch
 *.www3.webhostingtalk.com
-*.wwwmyetherwallet.com
 *.xn--myetherwallt-cfb.com
 *.yceml.net
 *.yemonisoni.com

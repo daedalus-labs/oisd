@@ -1,6 +1,6 @@
-# Version: 202302021625
+# Version: 202302030010
 # Title: oisd extra
-# Last modified: 2023-02-02T16:25:01+0000
+# Last modified: 2023-02-03T00:10:05+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
@@ -762,6 +762,8 @@ www.1man1jar.org
 www.1man2needles.com
 www.1priest1nun.com
 www.1priest1nun.net
+www.259572.com
+www.2girls1cumshot.com
 www.2girls1cup.cc
 www.2girls1cup.com
 www.2girls1cup.ws
@@ -769,6 +771,7 @@ www.2girls1finger.org
 www.2guys1stump.org
 www.2o7.net
 www.360in.com
+www.39dvd-999.com
 www.3cinteractive.com
 www.3guys1hammer.ws
 www.4girlsfingerpaint.com
@@ -855,6 +858,7 @@ www.chartboosts.com
 www.click-plus.net
 www.clickbank.com
 www.clickmeter.com
+www.clickspring.net
 www.clicktale.net
 www.clownsong.com
 www.cocoad.jp
@@ -862,10 +866,12 @@ www.comic-promotion.com
 www.comprafacil.com.br
 www.comscoreresearch.com
 www.conduit.com
+www.contentabc.com
 www.conversantmedia.com
 www.conviva.com
 www.coremetrics.com
 www.cotc.net
+www.coupondio.fr
 www.crashlytics.com
 www.crittercism.com
 www.csalikft.hu
@@ -875,6 +881,7 @@ www.d2cmedia.ca
 www.dadparty.com
 www.dartry.fr
 www.datadoghq-browser-agent.com
+www.decentraiand.org
 www.demdex.net
 www.demopage.me
 www.deqwas-dsp.net
@@ -890,6 +897,7 @@ www.dpbolvw.net
 www.drunkenstepfather.com
 www.duapps.com
 www.dynalyst.jp
+www.easyadservice.com
 www.easycounter.com
 www.ebz.io
 www.eco-tag.jp
@@ -927,6 +935,7 @@ www.gotoip55.com
 www.grabify.link
 www.gremimedia.pl
 www.guildofangels.net
+www.haedong.es.kr
 www.hai2u.com
 www.hitgraph.jp
 www.homewares.org
@@ -959,6 +968,8 @@ www.leanplum.com
 www.lemonparty.biz
 www.lemonparty.org
 www.lgsmartad.com
+www.lieberation.fr
+www.lifeofpie.fr
 www.lightboxcdn.com
 www.livejasmin.com
 www.logly.co.jp
@@ -990,14 +1001,19 @@ www.monetate.net
 www.morgdm.ru
 www.mr-mondial.com
 www.mudmonster.org
+www.multiplecurrencies.com
+www.myeteherwallet.com
+www.mymyetherwallet.com
 www.mytotalsearch.com
 www.myvisualiq.net
 www.naiadsystems.com
 www.ndbsoft.be
+www.neaclub.fr
 www.netmng.com
 www.newsbreak.com
 www.novastarled.com
 www.npttech.com
+www.nuitphilo-ens.fr
 www.nutabuse.com
 www.nutaku.com
 www.octopusgirl.com
@@ -1008,6 +1024,7 @@ www.optaim.com
 www.outbrain.com
 www.painolympics.info
 www.painolympics.org
+www.painting-walls.com
 www.papy.co.jp
 www.partycasino.com
 www.pcmatic.com
@@ -1029,10 +1046,13 @@ www.researchnow.com
 www.rfihub.com
 www.rlcdn.com
 www.rubiconproject.com
+www.sabafon.info
 www.safemobilelink.com
 www.scorecardresearch.com
 www.scrollbelow.com
+www.searchnet.com
 www.secondstreetapp.com
+www.secretosdelagua.fr
 www.selfpwn.org
 www.sellmeyourtraffic.com
 www.serving-sys.com
@@ -1040,6 +1060,7 @@ www.sevenstars7.com
 www.shalltry.com
 www.shareaholic.com
 www.shareasale.com
+www.shiiva.fr
 www.shopping-offer.com
 www.shorte.st
 www.singular.net
@@ -1047,6 +1068,8 @@ www.skimresources.com
 www.smac-ssp.com
 www.smart.link
 www.smartclip.net
+www.sneakersjapanu.com
+www.snicases.com
 www.solitairetime.com
 www.sourmath.com
 www.spinbox.com
@@ -1055,6 +1078,7 @@ www.spotxchange.com
 www.springserve.com
 www.srmdata-us.com
 www.srmdata.com
+www.startmarket.su
 www.statcounter.com
 www.streamate.com
 www.subiz-cdn.com
@@ -1066,7 +1090,7 @@ www.taboola.com
 www.tapresearch.com
 www.tcs-asp.net
 www.teltech.hu
-www.thatsphucked.com
+www.terricole.fr
 www.thebigoutdoors.co.uk
 www.thebrighttag.com
 www.thehomo.org
@@ -1085,6 +1109,7 @@ www.tudasfaja.com
 www.turdgasm.com
 www.umengcloud.com
 www.umtrack.com
+www.univ6lehavre.fr
 www.urlcut.net
 www.userreport.com
 www.valueclick.net
@@ -1101,7 +1126,6 @@ www.wantsfly.com
 www.whipcrack.org
 www.wormgush.com
 www.wwt-ag.ch
-www.wwwmyetherwallet.com
 www.xn--myetherwallt-cfb.com
 www.yceml.net
 www.yemonisoni.com
